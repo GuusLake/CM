@@ -1,0 +1,520 @@
+EngWord,NldWord,Freq,FreqScore
+blockade-runner,blokkade-runner,0,1
+double-prop,dubbele prop,0,1
+barouche,barouche,0,1
+Sno-cat,Sno-kat,0,1
+PT boat,boot,0,1
+Pullman,Pullman,0,1
+hot-air balloon,ballon,0,1
+dumpcart,dumpcar,0,1
+oxcart,ossekar,0,1
+ski-plane,ski-vliegtuig,0,1
+car-ferry,auto veerboot,0,1
+fore-and-after,voor en na,0,1
+multiengine airplane,vliegtuig,0,1
+Model T,t,0,1
+angledozer,hoekdozer,0,1
+mailboat,mailboot,0,1
+minelayer,mijnenlegger,0,1
+bicycle-built-for-two,fiets-gebouwd-voor-twee,0,1
+applecart,appelkar,0,1
+single-rotor helicopter,helikopter,0,1
+torpedo-boat destroyer,torpedojager,0,1
+three-decker,driedekker,0,1
+narrowbody aircraft,vliegtuigen,0,1
+droshky,droshky,0,1
+air-to-ground missile,raket,0,1
+self-propelled vehicle,voertuig,0,1
+heavier-than-air craft,Ambacht,0,1
+MANPAD,MANPAD,0,1
+Caterpillar,rups,0,1
+lighter-than-air craft,Ambacht,0,1
+heat-seeking missile,raket,0,1
+push-bike,duw fiets,0,1
+air-to-air missile,raket,0,1
+horse-drawn vehicle,voertuig,0,1
+iceboat,ijsschuitje,0,1
+propjet,propjet,0,1
+surface-to-air missile,raket,0,1
+catboat,catboat,0,1
+caroche,caroche,0,1
+side-wheeler,zijwieler,0,1
+handcar,handwagen,0,1
+Stanley Steamer,Stoomboot,0,1
+jumbojet,jumbojet,0,1
+gharry,gharry,0,1
+pantechnicon,pantechnicon,0,1
+horsecar,paardenwagen,0,1
+orthopter,orthopter,0,1
+skibob,skibob,0,1
+fanjet,fanjet,0,1
+bogy,boeman,0,1
+shrimper,garnalenvisser,0,1
+tumbrel,vuilniswagen,0,1
+gas-turbine ship,schip,0,1
+bumboat,bumboat,0,1
+man-of-war,oorlogsschip,0,1
+three-decker,driedekker,0,1
+boneshaker,bottenschudder,0,1
+Exocet,Exocet,0,1
+go-kart,skelter,0,1
+choo-choo,choo-choo,0,1
+Minuteman,Minuteman,0,1
+twinjet,twinjet,0,1
+Stinger,Stinger,0,1
+surfboat,surfboot,0,1
+diesel-hydraulic locomotive,locomotief,0,1
+raceabout,race over,0,1
+four-wheel drive,rit,0,1
+golfcart,golfwagentje,0,1
+tramcar,tram,0,1
+nuclear-powered ship,schip,0,1
+square-rigger,vierkante rigger,0,1
+four-wheeler,vierwieler,0,1
+antiballistic missile,raket,0,1
+troopship,troepenschip,0,1
+jinrikisha,jinriksha,0,1
+jaunting car,auto,0,1
+cockleshell,kokkels,0,1
+diesel-electric locomotive,locomotief,0,1
+cattleship,veeschip,0,1
+Humvee,Humvee,0,1
+guard's van,van,0,1
+used-car,gebruikte auto,0,1
+Indiaman,Indiër,0,1
+autogiro,autogiro,0,1
+Liberty ship,schip,0,1
+supertanker,supertanker,13415,1
+dogcart,hondenkar,14677,1
+bloodmobile,bloedmobiel,16481,1
+sternwheeler,sternwheeler,16938,1
+whaleboat,walvisboot,18311,1
+minicar,kleine auto,19195,1
+fireboat,blusboot,20949,1
+velocipede,snelheidsduivel,21647,1
+trireme,trireem,21776,1
+coracle,coracle,23659,1
+minicab,minicab,24054,1
+shunter,rangeerder,24447,1
+buckboard,buckboard,25063,1
+flatcar,platte wagen,25668,1
+birchbark canoe,kano,27093,1
+handcart,handkar,27208,1
+pedicab,fietstaxi,29112,1
+carrack,kraak,30181,1
+knockabout,klopjacht,32622,2
+sampan,sampan,33545,2
+skyhook,lucht haak,33887,2
+stockcar,stockcar,34332,2
+pung,Pung,36695,2
+dredger,baggerschip,37579,2
+dogsled,hondenslee,38557,2
+horseless carriage,koets,38648,2
+minibike,minibike,40527,2
+skidder,slipper,40584,2
+lugger,logger,41160,2
+felucca,felucca,42203,2
+warplane,gevechtsvliegtuig,43421,2
+hansom,hansom,45070,2
+monoplane,eendekker,45241,2
+nonsmoker,niet-roker,48279,2
+widebody aircraft,vliegtuigen,49746,2
+trimaran,trimaran,52592,2
+floatplane,drijf vliegtuig,55812,2
+subcompact,subcompact,59644,2
+yawl,geeuwen,59825,2
+yawl,geeuwen,59825,2
+wherry,wherry,64801,2
+wherry,wherry,64801,2
+scow,schouwen,66315,2
+scow,schouwen,66315,2
+caisson,caisson,70178,2
+remise,remise,75621,2
+hydrofoil,draagvleugelboot,86088,2
+jetliner,straalvliegtuig,88278,2
+dhow,dhow,88871,2
+keelboat,kielboot,93446,2
+snowplow,sneeuwploeg,96186,2
+gunboat,kanonneerboot,103764,2
+dray,droevig,116570,2
+doodlebug,doodlebug,121940,2
+loaner,leenman,124111,2
+toboggan,rodelbaan,124358,2
+limber,lenig,127125,2
+wain,wain,129640,2
+gas guzzler,vreetzak,134866,2
+bookmobile,boekenmobiel,141975,2
+speedboat,speedboot,141990,2
+sulky,sulky,156355,2
+showboat,showboot,156738,2
+multistage rocket,raket,160387,2
+ketch,kitsch,163062,2
+lightship,lichtschip,165086,2
+motorboat,motorboot,167980,2
+outboard motorboat,motorboot,167980,2
+brigantine,brigantijn,168210,2
+unicycle,eenwieler,169446,2
+sharpshooter,scherpschutter,171036,2
+scull,wrikken,174118,2
+biplane,tweedekker,180085,2
+rigger,tuiger,187373,2
+minesweeper,mijnenveger,197626,2
+ironclad,ijzersterk,203983,2
+windjammer,windjammer,212417,2
+tugboat,sleepboot,216091,2
+brougham,brougham,226155,2
+brougham,brougham,226155,2
+steamroller,stoomwals,230844,2
+galleon,galjoen,232762,2
+longboat,sloep,240815,2
+hearse,lijkwagen,246067,2
+troika,trojka,248534,2
+mackinaw,mackinaw,255258,2
+blimp,slap luchtschip,263458,2
+bareboat,bareboat,264403,2
+trawler,trawler,270147,2
+dreadnought,angstaanjagend,275182,2
+skiff,skiff,281833,2
+racing skiff,skiff,281833,2
+privateer,kaper,285131,2
+bobsled,bobslee,291423,2
+bobsled,bobslee,291423,2
+icebreaker,ijsbreker,295149,2
+sloop,sloep,295505,2
+sloop of war,oorlog,295505,2
+airship,luchtschip,296641,2
+whaler,walvisvaarder,305342,2
+seaplane,watervliegtuig,309463,2
+hovercraft,hovercraft,321362,2
+sharpie,scherpte,323182,2
+bulldozer,bulldozer,323263,2
+bassinet,wieg,346064,2
+boxcar,gesloten goederenwagen,354186,2
+sailing warship,oorlogsschip,379728,2
+warship,oorlogsschip,379728,2
+stanhope,stanhope,379970,2
+houseboat,woonboot,380109,2
+stagecoach,postkoets,387675,2
+hardtop,hardtop,397862,2
+airliner,vliegtuig,398739,2
+tricycle,driewieler,400029,2
+kamikaze,kamikaze,406456,2
+dinky,dinky,426751,2
+luge,rodelen,443334,2
+lifeboat,reddingsboot,445941,2
+shipwreck,schipbreuk,461108,2
+streetcar,tram,471936,2
+sidewinder,zijwind,472328,2
+moped,bromfiets,501534,3
+frigate,fregat,503810,3
+frigate,fregat,503810,3
+guided missile frigate,fregat,503810,3
+pontoon,ponton,504691,3
+finisher,afmaker,505570,3
+catamaran,catamaran,521463,3
+gondola,gondel,538006,3
+gondola car,auto,538006,3
+lorry,vrachtwagen,549887,3
+lorry,vrachtwagen,549887,3
+schooner,schoener,559495,3
+amphibian,amfibie,569502,3
+amphibian,amfibie,569502,3
+chaise,chaise longue,599684,3
+post chaise,chaise longue,599684,3
+outrigger canoe,kano,603622,3
+submersible,onderdompelbaar,631600,3
+barrage balloon,ballon,635351,3
+panzer,panzer,680717,3
+drone,drone,725818,3
+battleship,slagschip,733158,3
+pocket battleship,slagschip,733158,3
+dugout canoe,kano,733159,3
+bandwagon,bandwagon,771081,3
+sailboat,zeilboot,772469,3
+interceptor,onderschepper,787823,3
+hangar queen,koningin,795985,3
+brig,brik,805525,3
+picket ship,schip,816389,3
+picket,piket,816389,3
+picket boat,boot,816389,3
+dinghy,bijboot,858539,3
+landau,landauer,919639,3
+torpedo boat,boot,965365,3
+chariot,wagen,977505,3
+chariot,wagen,977505,3
+minivan,busje,979152,3
+forklift,heftruck,1006085,3
+galley,kombuis,1031511,3
+galley,kombuis,1031511,3
+hackney,hackney,1054260,3
+propeller plane,vlak,1075824,3
+tramp steamer,stoomboot,1087707,3
+lander,lander,1096557,3
+sled,slee,1134521,3
+parlor car,auto,1180891,3
+starship,ruimteschip,1229480,3
+roadster,roadster,1249088,3
+oil tanker,tanker,1278916,3
+tanker plane,vlak,1278916,3
+reconnaissance vehicle,voertuig,1304699,3
+reconnaissance plane,vlak,1304699,3
+glider,zweefvliegtuig,1311196,3
+hang glider,zweefvliegtuig,1311196,3
+barge,binnenschip,1319916,3
+paddle steamer,stoomboot,1320395,3
+steamer,stoomboot,1320395,3
+brilliant pebble,kiezelsteen,1341583,3
+destroyer escort,escorte,1378814,3
+tank destroyer,torpedojager,1378814,3
+destroyer,torpedojager,1378814,3
+electric locomotive,locomotief,1409043,3
+locomotive,locomotief,1409043,3
+diesel locomotive,locomotief,1409043,3
+steam locomotive,locomotief,1409043,3
+airbus,luchtbus,1427894,3
+clipper,klipper,1449564,3
+smack,slaan,1451860,3
+steamboat,stoomboot,1468483,3
+nautilus,nautilus,1470549,3
+armored car,auto,1633124,3
+armored car,auto,1633124,3
+armored vehicle,voertuig,1633124,3
+armored personnel carrier,vervoerder,1633124,3
+wheeled vehicle,voertuig,1635339,3
+snowmobile,sneeuwscooter,1678313,3
+corsair,zeerover,1759975,3
+intercontinental ballistic missile,raket,1792214,3
+ballistic missile,raket,1792214,3
+fleet ballistic missile submarine,onderzeeër,1792214,3
+flagship,vlaggenschip,1888773,3
+punt,punt,1916106,3
+smoker,roker,1918369,3
+dune buggy,buggy,1927085,3
+buggy,buggy,1955438,3
+swamp buggy,buggy,1955438,3
+baby buggy,buggy,1955438,3
+barrow,kruiwagen,2049454,3
+watering cart,winkelwagentje,2050112,3
+meteorological balloon,ballon,2070017,3
+hulk,hulk,2112390,3
+gypsy cab,taxi,2201227,3
+pastry cart,winkelwagentje,2202621,3
+camper trailer,aanhangwagen,2208353,3
+camper,kampeerder,2208353,3
+lunar excursion module,module,2247674,3
+skateboard,skateboard,2296744,3
+baggage car,auto,2340989,3
+tandem trailer,aanhangwagen,2422935,3
+wreck,wrak,2447935,3
+hatchback,hatchback,2483111,3
+rowing boat,boot,2490271,3
+stealth bomber,bommenwerper,2505585,4
+bomber,bommenwerper,2505585,4
+dive bomber,bommenwerper,2505585,4
+jolly boat,boot,2522092,4
+troop carrier,vervoerder,2609404,4
+kayak,kajakken,2628993,4
+traction engine,motor,2679735,4
+clarence,clarence,2726479,4
+attack submarine,onderzeeër,2766790,4
+submarine,onderzeeër,2766790,4
+auxiliary research submarine,onderzeeër,2766790,4
+kite balloon,ballon,2808067,4
+tow truck,vrachtauto,2869301,4
+corvette,korvet,2925839,4
+transporter,vervoerder,2941706,4
+sounding rocket,raket,3264254,4
+space capsule,capsule,3315216,4
+panda car,auto,3424825,4
+stealth fighter,vechter,3431519,4
+stealth aircraft,vliegtuigen,3431519,4
+spacecraft,ruimtevaartuig,3448191,4
+bark,blaffen,3559940,4
+racer,racer,3625077,4
+cruiser,kruiser,3735652,4
+battle cruiser,kruiser,3735652,4
+cruiser,kruiser,3735652,4
+guided missile cruiser,kruiser,3735652,4
+cabin cruiser,kruiser,3735652,4
+canoe,kano,3790795,4
+ark,ark,3908616,4
+limousine,limousine,4007578,4
+single prop,prop,4254743,4
+cutter,snijder,4273307,4
+pirate,piraat,4308440,4
+scooter,scooter,4359214,4
+water scooter,scooter,4359214,4
+motor scooter,scooter,4359214,4
+ambulance,ambulance,4363682,4
+luxury liner,voering,4486145,4
+liner,voering,4486145,4
+cargo liner,voering,4486145,4
+cabin liner,voering,4486145,4
+carriage,koets,4664470,4
+pony cart,winkelwagentje,4769062,4
+sedan,sedan,4769270,4
+coupe,coupe,4874541,4
+tractor,tractor,5098075,4
+tractor,tractor,5098075,4
+milk wagon,wagen,5198530,4
+chuck wagon,wagen,5198530,4
+welcome wagon,wagen,5198530,4
+beach wagon,wagen,5198530,4
+wagon,wagen,5198530,4
+covered wagon,wagen,5198530,4
+ice wagon,wagen,5198530,4
+wagon,wagen,5198530,4
+water wagon,wagen,5198530,4
+funny wagon,wagen,5198530,4
+airplane,vliegtuig,5216750,4
+guided missile,raket,5339587,4
+missile,raket,5339587,4
+cruise missile,raket,5339587,4
+ladder truck,vrachtauto,5508719,4
+helicopter,helikopter,5528827,4
+cargo helicopter,helikopter,5528827,4
+shuttle helicopter,helikopter,5528827,4
+banana boat,boot,5567941,4
+convertible,cabriolet,5600483,4
+touring car,auto,5635653,4
+refrigerator car,auto,5726901,4
+bumper car,auto,5888291,4
+yacht,jacht,5932756,4
+racing gig,optreden,6049004,4
+gig,optreden,6049004,4
+gig,optreden,6049004,4
+gig,optreden,6049004,4
+abandoned ship,schip,6371760,4
+junk,rommel,6474279,4
+garbage truck,vrachtauto,6609450,4
+patrol boat,boot,6645446,4
+balloon,ballon,6719614,4
+trial balloon,ballon,6719614,4
+pilot balloon,ballon,6719614,4
+surrey,Surrey,6743263,4
+fighter,vechter,6769666,4
+dump truck,vrachtauto,6942258,4
+rocket,raket,7447070,4
+test rocket,raket,7447070,4
+trap,val,7568482,4
+buzz bomb,bom,7885592,4
+cabin car,auto,8052267,4
+canal boat,boot,8278196,4
+bicycle,fiets,8344882,4
+safety bicycle,fiets,8344882,4
+space shuttle,shuttle,8440760,4
+freight car,auto,8453128,4
+treasure ship,schip,8534047,4
+cattle car,auto,8542988,4
+jeep,jeep,8547455,4
+vessel,schip,8794883,4
+sailing vessel,schip,8794883,4
+milk float,vlot,8808655,4
+landing craft,Ambacht,8882585,4
+tender,teder,8921535,5
+tender,teder,8921535,5
+tender,teder,8921535,5
+laundry truck,vrachtauto,9123546,5
+laundry cart,winkelwagentje,9123546,5
+recreational vehicle,voertuig,9183129,5
+ferry,veerboot,9208954,5
+cab,taxi,9268943,5
+cab,taxi,9268943,5
+shooting brake,rem,9321885,5
+pickup,Raap op,9354139,5
+space probe,sonde,9643801,5
+cargo ship,schip,9748668,5
+assault gun,pistool,10011305,5
+slave ship,schip,10692715,5
+tin can,kan,10695557,5
+coal car,auto,11625191,5
+tracked vehicle,voertuig,11801246,5
+sleeping car,auto,11840656,5
+container ship,schip,12181942,5
+pace car,auto,12247704,5
+passenger van,van,12804602,5
+passenger ship,schip,12804602,5
+passenger car,auto,12804602,5
+slip coach,coach,12886015,5
+hot rod,hengel,13124744,5
+ordinary,normaal,14494084,5
+motorcycle,motorfiets,15081508,5
+rolling stock,voorraad,15086116,5
+craft,Ambacht,16528294,5
+jet,Jet,16673750,5
+delta wing,vleugel,17347644,5
+berlin,berlijn,17932276,5
+flying boat,boot,17948471,5
+trailer,aanhangwagen,18462738,5
+trailer truck,vrachtauto,18462738,5
+shell,schelp,20599318,5
+guard ship,schip,21137924,5
+guard boat,boot,21137924,5
+pilot engine,motor,21909830,5
+pilot boat,boot,21909830,5
+weapons carrier,vervoerder,21937267,5
+tank,tank,22070512,5
+tank engine,motor,22070512,5
+tank car,auto,22070512,5
+personnel carrier,vervoerder,22919197,5
+carrier,vervoerder,22919197,5
+aircraft carrier,vervoerder,22919197,5
+trail bike,fiets,23648838,5
+launch,launch,23714910,5
+mountain bike,fiets,24286396,5
+coach,coach,24514961,5
+aircraft,vliegtuigen,24745739,5
+sister ship,schip,25039506,5
+compact,compact,25317344,5
+factory ship,schip,26708317,5
+tea cart,winkelwagentje,27406794,5
+cruise ship,schip,27827938,5
+sport utility,nutsvoorziening,28301196,5
+serving cart,winkelwagentje,29916558,5
+truck,vrachtauto,32136249,5
+delivery truck,vrachtauto,32136249,5
+hand truck,vrachtauto,32136249,5
+sound truck,vrachtauto,32136249,5
+dining car,auto,32489479,5
+iron horse,paard,32552371,5
+racing boat,boot,34104031,5
+police boat,boot,34104031,5
+sea boat,boot,34104031,5
+river boat,boot,34104031,5
+boat,boot,34104031,5
+fishing boat,boot,34104031,5
+small boat,boot,34104031,5
+motor vehicle,voertuig,40615655,5
+bus,bus,41043865,5
+switch engine,motor,45332755,5
+bottom,onderkant,45598411,5
+transport ship,schip,47041301,5
+electric,elektrisch,48562078,5
+surface ship,schip,50022259,5
+moving van,van,51765877,5
+military vehicle,voertuig,54079229,5
+police van,van,55147325,5
+van,van,55147325,5
+van,van,55147325,5
+van,van,55147325,5
+horse cart,winkelwagentje,58453720,5
+school ship,schip,60649546,5
+small ship,schip,60649546,5
+capital ship,schip,60649546,5
+hospital ship,schip,60649546,5
+ship,schip,60649546,5
+weather ship,schip,60649546,5
+fire engine,motor,78078059,5
+half track,spoor,86290420,5
+technical,technisch,102792861,5
+club car,auto,132428495,5
+mobile home,thuis,145490029,5
+water cart,winkelwagentje,152155277,5
+cart,winkelwagentje,152155277,5
+shopping cart,winkelwagentje,152155277,5
+stock car,auto,176295589,5
+stock car,auto,176295589,5
+sports car,auto,231864260,5
+mail car,auto,264720374,5
+car,auto,264720374,5
+car,auto,264720374,5
