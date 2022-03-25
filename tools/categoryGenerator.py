@@ -55,15 +55,19 @@ def lookupCategory(cat, freqDict):
         freqDict (dict): A dictionary with word frequencies
     """    
     translator = Translator()
-    df = pd.DataFrame(columns=["EngWord", "NldWord", "Freq", "FreqScore"])
+    df = pd.DataFrame(columns=["EngWord", "NldWord", "Freq", "NldWordLength", "FreqScore"])
 
     # Get synsets that match word and let user select synset
     synsets = wn.synsets(cat)
-    print("Select synset by typing one of the following numbers:")
-    for i in range(len(synsets)):
-        print("{}: {}".format(i, synsets[i]))
-    n = int(input("Chosen: "))
-    syn = synsets[n]
+    if len(synsets) > 0:
+        print("Select synset by typing one of the following numbers:")
+        for i in range(len(synsets)):
+            print("{}: {}".format(i, synsets[i]))
+        n = int(input("Chosen: "))
+        syn = synsets[n]
+    else:
+        print("No synsets found! :(")
+        exit()
 
     # Get hyponyms
     hyponyms = get_hyponyms(syn)
@@ -81,19 +85,31 @@ def lookupCategory(cat, freqDict):
                     freq = 0
             
             engWord = ' '.join(words)
-            nldWord = translator.translate(word, src='en', dest='nl').text
-            df = df.append({"EngWord": engWord, "NldWord": nldWord, "Freq": freq, "FreqScore": None}, ignore_index=True)
+            nldWord = translator.translate(engWord, src='en', dest='nl').text
+            df = df.append({"EngWord": engWord, "NldWord": nldWord, "Freq": freq, "NldWordLength": len(nldWord), "FreqScore": None, "LenScore": None}, ignore_index=True)
 
-
-        # Sort and assign score
-        df = df.sort_values(by=["Freq"], ignore_index=True, ascending=False)
         split = int(len(df.index)/5)
+
+        # Sort and assign score based on frequency
+        df = df.sort_values(by=["Freq"], ignore_index=True, ascending=False) 
         for start in range(0, len(df.index), split):
             if int((start + split)/split) < 5:
-                df.loc[start:start + split, 'FreqScore'] = int((start + split)/split)
+                df.loc[start:start + split, "FreqScore"] = int((start + split)/split)
             else:
-                df.loc[start:start + split, 'FreqScore'] = 5
-        
+                df.loc[start:start + split, "FreqScore"] = 5
+
+        # Sort and assign score based on word length
+        df = df.sort_values(by=["NldWordLength"], ignore_index=True) 
+        for start in range(0, len(df.index), split):
+            if int((start + split)/split) < 5:
+                df.loc[start:start + split, "LenScore"] = int((start + split)/split)
+            else:
+                df.loc[start:start + split, "LenScore"] = 5
+
+        # Calculate total score and sort
+        df["TotalScore"] = df["FreqScore"] + df["LenScore"]
+        df = df.sort_values(by=["TotalScore"], ignore_index=True, ascending=False) 
+
         # Write to csv file
         print("\nWriting to " + cat + ".csv in the categories folder.")
         df.to_csv("../categories/" + cat + ".csv", index=False)
@@ -102,12 +118,6 @@ def lookupCategory(cat, freqDict):
     else:
         print("No hyponyms found! :(")
         exit()
-
-
-        
-
-
-
 
 def main():
     print("### Loading data base ###\n")
@@ -121,7 +131,6 @@ def main():
     print("### Getting category ###\n")
     cat = input('Type a category: ')
     lookupCategory(cat, freqDict)
-    
-        
+     
 if __name__ == "__main__":
     main()

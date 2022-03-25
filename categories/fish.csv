@@ -1,0 +1,618 @@
+EngWord,NldWord,Freq,NldWordLength,FreqScore,LenScore,TotalScore
+Chinese paddlefish,Chinese peddelvissen,0,20,5,5,10
+Atlantic cod,Atlantische kabeljauw,0,21,5,5,10
+smalleye hammerhead,kleinoog hamerhaai,0,18,5,5,10
+Pacific sturgeon,Pacifische steur,0,16,5,5,10
+Atlantic sea bream,Atlantische zeebrasem,0,21,5,5,10
+cypriniform fish,cypriniforme vis,0,16,5,5,10
+deepwater squirrelfish,diepwater eekhoornvis,0,21,5,5,10
+crossopterygian,crossopterygisch,0,16,5,5,10
+tripletail,drievoudige staart,0,18,5,5,10
+Pacific halibut,Pacifische heilbot,0,18,5,5,10
+spiny-finned fish,vis met stekelvin,0,17,5,5,10
+Pacific spiny dogfish,Pacifische doornhaai,0,20,5,5,10
+Coryphaena equisetis,Coryphaena equisetis,0,20,5,5,10
+Coryphaena hippurus,Coryphaena hippurus,0,19,5,5,10
+smalltooth sawfish,kleintand zaagvis,0,17,5,5,10
+Pacific herring,Pacifische haring,0,17,5,5,10
+Florida smoothhound,Florida gladde hond,0,19,5,5,10
+European sea bream,Europese zeebrasem,0,18,5,5,10
+bluethroat pikeblenny,blauwborst pikeblenny,0,21,5,5,10
+Bermuda chub,Bermuda kopvoorn,0,16,5,5,10
+soft-finned fish,vis met zachte vinnen,0,21,5,5,10
+rainbow seaperch,regenboog zeebaars,0,18,5,5,10
+sharptail mola,scherpe staart mola,0,19,5,5,10
+Atlantic croaker,Atlantische croaker,0,19,5,5,10
+Pacific tripletail,Pacific tripletail,0,18,5,5,10
+alligatorfish,alligatorvissen,0,15,5,5,10
+reef squirrelfish,rif eekhoornvis,0,15,5,5,10
+shortfin mako,kortvin makreel,0,15,5,5,10
+Florida pompano,Florida pompano,0,15,5,5,10
+Arctic char,Arctische char,0,14,5,5,10
+Atlantic herring,Atlantische haring,0,18,5,5,10
+Pacific sardine,Pacifische sardine,0,18,5,5,10
+Atlantic tripletail,Atlantische tripletail,0,22,5,5,10
+belted sandfish,zandvis met riem,0,16,5,5,10
+American plaice,Amerikaanse schol,0,17,5,5,10
+clupeid fish,clupeïde vis,0,12,5,4,9
+swordtail,zwaardstaart,0,12,5,4,9
+lefteye flounder,linkeroog bot,0,13,5,4,9
+rabbitfish,konijnenvis,0,11,5,4,9
+New World opah,Nieuwe Wereld opah,0,18,4,5,9
+European bream,Europese brasem,0,15,4,5,9
+American smooth dogfish,Amerikaanse gladde hondshaai,0,28,4,5,9
+blennioid fish,blennioïde vis,0,14,5,4,9
+ladyfish,lieveheersbeestje,0,17,4,5,9
+Atlantic manta,Atlantische manta,0,17,4,5,9
+lookdown,kijk naar beneden,0,17,4,5,9
+European flatfish,Europese platvis,0,16,4,5,9
+European catfish,Europese meerval,0,16,4,5,9
+jackknife-fish,jackknife-fish,0,14,5,4,9
+mudskipper,modderschipper,0,14,5,4,9
+squaretail,vierkantstaart,0,14,5,4,9
+Atlantic salmon,Atlantische zalm,0,16,4,5,9
+longfin mako,langvin makreel,19801,15,4,5,9
+redfin pickerel,redfin pickerel,19113,15,4,5,9
+silversides,zilveren kanten,27555,15,4,5,9
+Spanish mackerel,Spaanse makreel,0,15,4,5,9
+Spanish mackerel,Spaanse makreel,0,15,4,5,9
+Chile bonito,Chili bonito,0,12,5,4,9
+archerfish,boogschuttervis,0,15,4,5,9
+serranid fish,serranid vis,0,12,5,4,9
+porkfish,varkensvlees,0,12,5,4,9
+painted greenling,geschilderd groenling,0,21,4,5,9
+Atlantic spiny dogfish,Atlantische doornhaai,0,21,4,5,9
+Rocky Mountain whitefish,Rocky Mountain witvis,0,21,4,5,9
+yellowfin mojarra,geelvintonijn mojarra,0,21,4,5,9
+armored searobin,gepantserde zeerobin,0,20,4,5,9
+Pacific cod,Pacifische kabeljauw,0,20,4,5,9
+snipefish,watersnipvis,0,12,5,4,9
+cottonwick,katoenen lont,0,13,5,4,9
+holocephalan,holocephalan,0,12,5,4,9
+Scomberomorus maculatus,Scomberomorus maculatus,0,23,4,5,9
+viviparous eelpout,levendbarende steenbolk,0,23,4,5,9
+Spanish grunt,Spaanse grunt,0,13,5,4,9
+roughtail stingray,pijlstaartrog,0,13,5,4,9
+common American shad,gewone Amerikaanse shad,0,23,4,5,9
+Atlantic sailfish,Atlantische zeilvis,0,19,4,5,9
+halfbeak,halve snavel,0,12,5,4,9
+ten-spined stickleback,tiendoornige stekelbaars,0,24,4,5,9
+cownose ray,koeneusstraal,0,13,5,4,9
+Kentucky black bass,Kentucky zwarte bas,0,19,4,5,9
+Holocentrus ascensionis,Holocentrische ascensionis,0,26,4,5,9
+three-spined stickleback,driedoornige stekelbaars,0,24,4,5,9
+English sole,Engelse tong,0,12,5,4,9
+carangid fish,carangid vis,0,12,5,4,9
+Atlantic halibut,Atlantische heilbot,0,19,4,5,9
+miller's-thumb,molenaarsduim,0,13,4,4,8
+European sole,Europese tong,0,13,4,4,8
+soldierfish,soldaatvis,0,10,5,3,8
+flying gurnard,vliegende poon,30182,14,4,4,8
+pikeblenny,pikeblenny,0,10,5,3,8
+blackmouth bass,blackmouth bas,0,14,4,4,8
+ceratodus,ceratodus,0,9,5,3,8
+topminnow,topminnow,0,9,5,3,8
+guitarfish,gitaarvis,0,9,5,3,8
+boarfish,everzwijn,0,9,5,3,8
+sargassum fish,sargassum vis,28616,13,4,4,8
+mummichog,mummichog,0,9,5,3,8
+hogchoker,hogchoker,0,9,5,3,8
+clingfish,clingfish,0,9,5,3,8
+righteye flounder,rechteroog bot,0,14,4,4,8
+dollarfish,dollarvis,0,9,5,3,8
+goosefish,ganzenvis,0,9,5,3,8
+red goatfish,rode geitenvis,19984,14,4,4,8
+crevalle jack,crevalle jack,0,13,4,4,8
+blacktip shark,zwartpunthaai,20860,13,4,4,8
+boxfish,koffervis,0,9,5,3,8
+puddingwife,puddingvrouw,0,12,4,4,8
+yellow goatfish,gele geitenvis,19984,14,4,4,8
+wrymouth,wrange mond,0,11,5,3,8
+whitetip shark,witpunthaai,0,11,5,3,8
+squirrelfish,eekhoornvis,0,11,5,3,8
+catostomid,catostomide,0,11,5,3,8
+soupfin shark,soupfin haai,0,12,4,4,8
+kelp greenling,kelp groenling,0,14,4,4,8
+bottom-feeder,bodem-feeder,0,12,4,4,8
+anomalops,afwijkingen,0,11,4,4,8
+Molly Miller,Molly Miller,0,12,4,4,8
+scorpaenoid,scorpaenoïde,0,12,4,4,8
+lanternfish,lantaarn vis,0,12,4,4,8
+percoid fish,percoïde vis,0,12,4,4,8
+sciaenid fish,sciaenid vis,0,12,4,4,8
+sharksucker,haaienzuiger,0,12,4,4,8
+Ostariophysi,Ostariofysio,0,12,4,4,8
+sailor's-choice,zeemanskeuze,0,12,4,4,8
+creole-fish,creoolse vis,0,12,4,4,8
+mouthbreeder,mondkweker,0,10,5,3,8
+porcupinefish,stekelvarken,0,12,4,4,8
+batfish,vleermuisvis,24560,12,4,4,8
+cyprinid,karperachtigen,14942,14,4,4,8
+elasmobranch,elasmobranch,26672,12,4,4,8
+cardinalfish,kardinaalvis,0,12,4,4,8
+European perch,Europese baars,0,14,4,4,8
+doctorfish,doktersvis,0,10,5,3,8
+lizardfish,hagedisvis,0,10,5,3,8
+dolphinfish,goudmakreel,0,11,5,3,8
+barrelfish,barrelfish,0,10,5,3,8
+lumpfish,snoekbaars,0,10,5,3,8
+trumpetfish,trompetvis,0,10,5,3,8
+barracouta,barracouta,0,10,5,3,8
+beaugregory,schoonheid,0,10,5,3,8
+pike-perch,snoekbaars,0,10,5,3,8
+smoothhound,gladde hond,0,11,4,4,8
+lumpsucker,klompenzuiger,0,13,4,4,8
+pearly razorfish,parelachtige scheermessen,46994,25,3,5,8
+mackerel scad,makreel makreel,143627,15,3,5,8
+plumed scorpionfish,gepluimde schorpioenvis,34761,23,3,5,8
+monoplane flying fish,eendekker vliegende vis,45241,23,3,5,8
+deepwater pipefish,diepwater zeenaald,41888,18,3,5,8
+beaked salmon,snavelvormige zalm,131696,18,3,5,8
+bottom lurkers,onderste lurkers,192843,16,3,5,8
+biplane flying fish,tweedekker vliegende vis,180085,24,3,5,8
+spiny puffer,stekelige kogelvis,223429,18,3,5,8
+yellowfin croaker,geelvintonijn croaker,93910,21,3,5,8
+cartilaginous fish,kraakbeenachtige vissen,58608,23,3,5,8
+smooth dogfish,gladde hondshaai,171593,16,3,5,8
+chain pickerel,ketting pickerel,102019,16,3,5,8
+spiny dogfish,doornige hondshaai,171593,18,3,5,8
+striped killifish,gestreepte killifish,57325,20,3,5,8
+mediterranean anchovy,mediterrane ansjovis,197241,20,3,5,8
+spotted weakfish,gespot zwakke vis,33042,17,3,5,8
+northern snakehead,noordelijke slangenkop,47134,22,3,5,8
+queen triggerfish,koningin trekkervis,45948,19,3,5,8
+oarfish,oarfish,0,7,5,2,7
+toadfish,paddenvis,0,9,5,2,7
+leatherjacket,leren jas,25234,9,4,3,7
+leatherjacket,leren jas,25234,9,4,3,7
+frogfish,zeeduivel,26114,9,4,3,7
+snakeblenny,snakeblenny,0,11,4,3,7
+moonfish,maanvis,0,7,5,2,7
+rainbow smelt,regenboog smelt,301053,15,2,5,7
+sparid,spaarzaam,0,9,5,2,7
+plectognath,plectognath,0,11,4,3,7
+stickleback,stekelbaars,52283,11,3,4,7
+barndoor skate,barndoor skate,46419,14,3,4,7
+John Dory,John Dory,0,9,5,2,7
+parrotfish,papegaaivis,50003,11,3,4,7
+pigfish,varkentje,0,9,5,2,7
+sand stargazer,zand sterrenkijker,282087,18,2,5,7
+surgeonfish,doktersvis,18868,10,4,3,7
+electric eel,elektrische paling,956144,18,2,5,7
+pigfish,varkentje,0,9,5,2,7
+surfperch,surfperch,0,9,5,2,7
+cusk-eel,cusk-paling,0,11,4,3,7
+chaetodon,chaetodon,28334,9,4,3,7
+goatfish,geitenvis,19984,9,4,3,7
+mosquitofish,muggenvis,16365,9,4,3,7
+porbeagle,haringhaai,0,10,4,3,7
+scorpaenid,scorpaenid,0,10,4,3,7
+blanquillo,blanquillo,0,10,4,3,7
+clown anemone fish,clown anemoon vis,404268,17,2,5,7
+tomtate,tomtate,0,7,5,2,7
+thorny skate,doornige schaats,345963,16,2,5,7
+redhorse,rood paard,24625,10,4,3,7
+shrimpfish,garnaalvis,0,10,4,3,7
+conchfish,schelpdier,0,10,4,3,7
+common shiner,gewone uitblinker,345282,17,2,5,7
+crucian carp,kroeskarper,19028,11,4,3,7
+brown bullhead,bruine donderpad,373327,16,2,5,7
+cyprinodont,cyprinodont,0,11,4,3,7
+ocean pout,oceaan steenbolk,295935,16,2,5,7
+allice shad,allice shad,20646,11,4,3,7
+pumpkinseed,pompoenzaad,27887,11,4,3,7
+chub mackerel,kopvoorn makreel,271882,16,2,5,7
+bluefin,blauwvintonijn,195505,14,3,4,7
+whitetip shark,witpunthaai,0,11,4,3,7
+jacksmelt,jacksmelt,0,9,4,3,7
+eelblenny,eelblenny,0,9,4,3,7
+pilotfish,pilootvis,0,9,4,3,7
+spotted sunfish,gevlekte maanvis,259275,16,2,5,7
+greenling,groenling,0,9,4,3,7
+northern whiting,noordelijke wijting,1044301,19,2,5,7
+dwarf pipefish,dwerg zeenaald,41888,14,3,4,7
+silver whiting,zilveren wijting,1044301,16,2,5,7
+boarfish,everzwijn,0,9,5,2,7
+cunner,bedrieger,0,9,5,2,7
+horned pout,gehoornde steenbolk,295935,19,2,5,7
+dragonet,draakje,0,7,5,2,7
+sandbar shark,zandbankhaai,136849,12,3,4,7
+pearlfish,parelvis,0,8,5,2,7
+loach,modderkruiper,166557,13,3,4,7
+schoolmaster,schoolmeester,165634,13,3,4,7
+characin,characin,0,8,5,2,7
+yellowtail flounder,geelstaartbot,151050,13,3,4,7
+white croaker,witte croaker,93910,13,3,4,7
+dealfish,dealfish,0,8,5,2,7
+yellowfin,geelvintonijn,184367,13,3,4,7
+threadfish,draadvis,0,8,5,2,7
+gempylid,geppylid,0,8,5,2,7
+filefish,filefish,0,8,5,2,7
+spadefish,schopvis,0,8,5,2,7
+bigeye scad,grootoog scad,77759,13,3,4,7
+bluehead,blauwkop,0,8,5,2,7
+scorpionfish,schorpioenvis,34761,13,3,4,7
+driftfish,drijfvis,0,8,5,2,7
+cardinal tetra,kardinaal tetra,863969,15,2,5,7
+flagfish,vlagvis,0,7,5,2,7
+landlocked salmon,niet aan zee grenzende zalm,296878,27,2,5,7
+smooth hammerhead,gladde hamerkop,351886,15,2,5,7
+sandfish,zandvis,0,7,5,2,7
+soapfish,zeepvis,0,7,5,2,7
+gadoid,gadoïde,0,7,5,2,7
+freshwater bream,zoetwaterbrasem,307756,15,2,5,7
+eelpout,puitaal,0,7,5,2,7
+rudderfish,roervis,0,7,5,2,7
+brotula,brotula,0,7,5,2,7
+pinfish,pinfish,0,7,5,2,7
+dusky shark,schemerige haai,390563,15,2,5,7
+white croaker,witte croaker,93910,13,3,4,7
+albacore,witte tonijn,166430,12,3,4,7
+vermillion rockfish,vermiljoen roodbaars,343094,20,2,5,7
+needlefish,naaldvis,0,8,5,2,7
+emerald shiner,smaragdgroene glans,345282,19,2,5,7
+mutton snapper,schapenvlees snapper,389582,20,2,5,7
+mulloway,mulloway,0,8,5,2,7
+lionfish,koraalduivel,61295,12,3,4,7
+handsaw fish,handzaag vis,38482,12,3,4,7
+flathead catfish,platkop meerval,527541,15,2,5,7
+driftfish,drijfvis,0,8,5,2,7
+copper rockfish,koperen roodbaars,343094,17,2,5,7
+great barracuda,grote barracuda,1045994,15,2,5,7
+muskellunge,muskellunge,37222,11,3,3,6
+round whitefish,ronde witvis,571826,12,2,4,6
+striped marlin,gestreepte marlijn,1762749,18,1,5,6
+walleye,snoekbaarzen,792756,12,2,4,6
+louvar,louvar,0,6,5,1,6
+yellowtail,geelstaart,151050,10,3,3,6
+yellowtail,geelstaart,151050,10,3,3,6
+spotted eagle ray,gevlekte adelaarsrog,3982290,20,1,5,6
+black bream,zwarte brasem,307756,13,2,4,6
+kingfish,koningsvis,165366,10,3,3,6
+grey snapper,grijze snapper,905301,14,2,4,6
+striped drum,gestreepte trommel,2560923,18,1,5,6
+red porgy,rode porgy,145097,10,3,3,6
+round scad,ronde scad,143627,10,3,3,6
+ocean sunfish,oceaan maanvis,259275,14,2,4,6
+salmonid,zalmachtige,191450,11,3,3,6
+silver hake,zilveren heek,235760,13,2,4,6
+bolti,bolti,0,5,5,1,6
+saury,makkie,0,6,5,1,6
+angelfish,maanvissen,128701,10,3,3,6
+kingfish,koningsvis,165366,10,3,3,6
+nurse shark,verpleegster haai,5904454,17,1,5,6
+armored catfish,gepantserde meerval,1485016,19,1,5,6
+domestic carp,binnenlandse karper,1903390,19,1,5,6
+horned whiff,gehoornde geur,246582,14,2,4,6
+red snapper,rode snapper,905301,12,2,4,6
+anemone fish,anemonen vis,404268,12,2,4,6
+silverfish,zilvervisje,134923,11,3,3,6
+cowfish,koevis,0,6,5,1,6
+northern sea robin,noordelijke zee-robin,11423944,21,1,5,6
+white crappie,witte crappie,318824,13,2,4,6
+southern flounder,zuidelijke bot,588770,14,2,4,6
+rivulus,beekje,0,6,5,1,6
+electric catfish,elektrische meerval,1485016,19,1,5,6
+king whiting,koning wijting,1044301,14,2,4,6
+robalo,Robalo,0,6,5,1,6
+striped mullet,gestreepte mul,583341,14,2,4,6
+thresher,dorsmachine,129422,11,3,3,6
+golden shiner,gouden glans,345282,12,2,4,6
+cutlassfish,zeekat,0,6,5,1,6
+electric ray,elektrische straal,32113994,18,1,5,6
+sild,sild,0,4,5,1,6
+snail darter,slak darter,126518,11,3,3,6
+timucu,timucu,0,6,5,1,6
+bonito shark,bonito haai,289876,11,2,4,6
+smallmouth,kleine mond,229178,11,3,3,6
+rock gunnel,rock gunnel,32493,11,3,3,6
+snake mackerel,slang makreel,578375,13,2,4,6
+ganoid,ganoid,0,6,5,1,6
+river shad,rivierschaduw,632614,13,2,4,6
+common mackerel,gewone makreel,578375,14,2,4,6
+stingray,pijlstaartrog,552405,13,2,4,6
+stargazer,sterrenkijker,282087,13,2,4,6
+king mackerel,Koningsmakreel,578375,14,2,4,6
+triggerfish,trekkervis,45948,10,3,3,6
+lancetfish,lancetvis,0,9,4,2,6
+silurid,siluride,0,8,4,2,6
+cornetfish,cornetvis,0,9,4,2,6
+tub gurnard,kuip poon,30182,9,3,3,6
+amberjack,amberjack,47630,9,3,3,6
+sergeant major,Sergeant majoor,3154308,15,1,5,6
+common eel,gewone paling,956144,13,2,4,6
+corbina,corbina,0,7,4,2,6
+stonefish,steenvis,0,8,4,2,6
+brisling,bruisend,0,8,4,2,6
+oilfish,olievis,0,7,5,1,6
+rosefish,rozevis,0,7,4,2,6
+rainbow trout,Regenboog forel,5369048,15,1,5,6
+paddlefish,peddelvis,43251,9,3,3,6
+great white shark,grote witte haai,5904454,16,1,5,6
+crucifix fish,kruisbeeld vis,446602,14,2,4,6
+snailfish,slakvis,0,7,4,2,6
+red rockfish,rode roodbaars,343094,14,2,4,6
+wolffish,zeewolf,0,7,4,2,6
+balloonfish,ballonvis,0,9,4,2,6
+cusk,slagtand,24095,8,4,2,6
+scombroid,scombroid,0,9,4,2,6
+harvestfish,oogstvis,0,8,4,2,6
+teleost fish,teleos vis,46425,10,3,3,6
+prickleback,stekelig,0,8,4,2,6
+coelacanth,coelacanth,49158,10,3,3,6
+rock beauty,rots schoonheid,87572240,15,1,5,6
+opah,opa,0,3,5,1,6
+black sea bass,zwarte zeebaars,26249677,15,1,5,6
+palometa,palometa,0,8,4,2,6
+sea robin,zee roodborstje,11423944,15,1,5,6
+sheepshead porgy,schaapskop,87823,10,3,3,6
+jewfish,jodenvis,26580,8,4,2,6
+greeneye,groen oog,0,9,4,2,6
+catalufa,catalufa,0,8,4,2,6
+silver jenny,zilveren jenny,6118544,14,1,5,6
+pickerel,pikhouweel,102019,10,3,3,6
+butterfish,botervis,27748,8,4,2,6
+threadfin,draadvin,29898,8,4,2,6
+weakfish,zwakke vis,33042,10,3,3,6
+black crappie,zwarte crappie,318824,14,2,4,6
+tilefish,tegelvis,25163,8,4,2,6
+rainbow runner,regenboog loper,7381022,15,1,5,6
+sheepshead,schapenkop,87823,10,3,3,6
+blackfish,zwarte vis,86623,10,3,3,6
+burrfish,burrfish,0,8,4,2,6
+blue pike,blauwe snoek,5085622,12,1,4,5
+bonefish,bonefish,143663,8,3,2,5
+croaker,croaker,93910,7,3,2,5
+whale sucker,walviszuiger,1501371,12,1,4,5
+red drum,rode trommel,14015510,12,1,4,5
+brown trout,bruine forel,5369048,12,1,4,5
+billfish,billfish,120708,8,3,2,5
+requiem shark,requiem haai,1164661,12,1,4,5
+menhaden,menhaden,70604,8,3,2,5
+oyster fish,oestervissen,2621847,12,1,4,5
+bluefish,blauwe vis,299868,10,2,3,5
+fingerling,vingeren,65862,8,3,2,5
+skipjack,skipjack,132623,8,3,2,5
+hog sucker,varkenszuiger,1501371,13,1,4,5
+rock sea bass,rock zeebaars,26249677,13,1,4,5
+flatfish,platvis,91928,7,3,2,5
+butterfly ray,vlinderstraal,8141617,13,1,4,5
+flying fish,vliegende vis,17948471,13,1,4,5
+devil ray,duivel straal,12869511,13,1,4,5
+lingcod,lingcod,67704,7,3,2,5
+black buffalo,zwarte buffel,17808542,13,1,4,5
+sculpin,sculpin,74015,7,3,2,5
+butterfly fish,Koraalvlinder,8141617,13,1,4,5
+anchovy,ansjovis,197241,8,3,2,5
+escolar,escolar,84617,7,3,2,5
+pipefish,zeenaald,41888,8,3,2,5
+white marlin,witte marlijn,1762749,13,1,4,5
+skillet fish,koekenpan vis,1212990,13,1,4,5
+spearfish,speervis,225511,8,3,2,5
+chimaera,chimaera,107477,8,3,2,5
+razor fish,scheermes vis,3451657,13,1,4,5
+redfish,rode vis,226069,8,3,2,5
+shovelhead,schopkop,48763,8,3,2,5
+skipjack,skipjack,132623,8,3,2,5
+mirror carp,spiegel karper,1903390,14,1,4,5
+bigeye,groot oog,77759,9,3,2,5
+leather carp,lederen karper,1903390,14,1,4,5
+snook,snookeren,295873,9,2,3,5
+mackerel shark,makreelhaai,578375,11,2,3,5
+channel catfish,kanaal meerval,1485016,14,1,4,5
+clinid,clinid,0,6,4,1,5
+blue catfish,blauwe meerval,1485016,14,1,4,5
+horse mackerel,horsmakreel,578375,11,2,3,5
+bullhead,donderpad,373327,9,2,3,5
+lake whitefish,meer witvis,571826,11,2,3,5
+chum salmon,vriend zalm,578060,11,2,3,5
+horse mackerel,horsmakreel,578375,11,2,3,5
+mojarra,mojarra,0,7,4,1,5
+tonguefish,tongvis,0,7,4,1,5
+bowfin,boogvin,26990,7,4,1,5
+grey flounder,grijze bot,588770,10,2,3,5
+seahorse,zeepaardje,371067,10,2,3,5
+hogfish,hogfish,19566,7,4,1,5
+jawfish,kaakvis,16784,7,4,1,5
+flathead,platte kop,527541,10,2,3,5
+flathead,platte kop,527541,10,2,3,5
+largemouth,grote mond,263833,10,2,3,5
+shiner,uitblinker,345282,10,2,3,5
+basking shark,reuzenhaai,435166,10,2,3,5
+pompon,pompon,26412,6,4,1,5
+shanny,shanny,22868,6,4,1,5
+crappie,waardeloos,318824,10,2,3,5
+black marlin,zwarte marlijn,1762749,14,1,4,5
+bullhead,donderpad,373327,9,2,3,5
+rockfish,roodbaars,343094,9,2,3,5
+elver,elver,0,5,4,1,5
+swordfish,zwaardvis,486206,9,2,3,5
+scrod,scrod,21554,5,4,1,5
+alewife,alevrouw,76567,8,3,2,5
+barbu,barbu,26558,5,4,1,5
+bluegill,bluegill,161074,8,3,2,5
+sparling,sparling,77422,8,3,2,5
+killifish,killifish,57325,9,3,2,5
+cichlid,cichliden,193324,9,3,2,5
+dace,serpeling,143563,9,3,2,5
+maigre,magere,0,6,4,1,5
+striped bass,gestreepte bas,2560923,14,1,4,5
+tautog,tautog,17509,6,4,1,5
+dogfish,doornhaai,171593,9,3,2,5
+freshwater bass,zoetwaterbaars,4338978,14,1,4,5
+sand tiger,zand tijger,13763074,11,1,4,5
+flashlight fish,zaklamp vis,2386453,11,1,4,5
+grey skate,grijze schaats,4932092,14,1,4,5
+grenadier,grenadier,195998,9,3,2,5
+eagle ray,adelaarsrog,16785232,11,1,4,5
+grubby,groezelig,207166,9,3,2,5
+little skate,kleine schaats,4932092,14,1,4,5
+poacher,stroper,135733,7,3,2,5
+blue marlin,blauwe marlijn,1762749,14,1,4,5
+sawfish,zaagvis,165811,7,3,2,5
+white mullet,witte mul,583341,9,2,3,5
+winter flounder,winterbot,588770,9,2,3,5
+ribbonfish,lintvis,0,7,4,1,5
+argentine,Argentijns,1628903,10,1,3,4
+bull shark,stierenhaai,5904454,11,1,3,4
+pomfret,pomfret,220472,7,3,1,4
+damselfish,juffer,31972,6,3,1,4
+puffer,puffer,223429,6,3,1,4
+blue shark,blauwe haai,5904454,11,1,3,4
+lungfish,longvis,45644,7,3,1,4
+pilchard,sardine,43306,7,3,1,4
+burbot,kwabaal,32493,7,3,1,4
+spawner,spawner,61879,7,3,1,4
+codling,codling,71190,7,3,1,4
+sailfish,zeilvis,202870,7,3,1,4
+gunnel,gunnel,32493,6,3,1,4
+sardine,sardine,192796,7,3,1,4
+bony fish,beenvis,487592,7,2,2,4
+snapper,snapper,905301,7,2,2,4
+snapper,snapper,905301,7,2,2,4
+whiting,wijting,1044301,7,2,2,4
+whiting,wijting,1044301,7,2,2,4
+goldfish,goudvis,944054,7,2,2,4
+whiting,wijting,1044301,7,2,2,4
+whitebait,witvis,32264,6,3,1,4
+wrasse,lipvis,117497,6,3,1,4
+hammerhead,hamerkop,351886,8,2,2,4
+tench,zeelt,96238,5,3,1,4
+scup,scup,83259,4,3,1,4
+cero,cero,75538,4,3,1,4
+scup,scup,83259,4,3,1,4
+windowpane,ruit,94097,4,3,1,4
+scad,scad,143627,4,3,1,4
+gurnard,poon,30182,4,3,1,4
+goby,goby,130788,4,3,1,4
+plaice,schol,94232,5,3,1,4
+porgy,porgy,145097,5,3,1,4
+blenny,blenny,50559,6,3,1,4
+cobia,cobia,73031,5,3,1,4
+platy,platy,44469,5,3,1,4
+guppy,guppy,233792,5,3,1,4
+pogge,pogge,58442,5,3,1,4
+capelin,lodde,45047,5,3,1,4
+conger,conger,218768,6,3,1,4
+turbot,tarbot,79722,6,3,1,4
+remora,remora,54737,6,3,1,4
+haddock,Schelvis,438655,8,2,2,4
+gudgeon,grondel,54935,7,3,1,4
+sea catfish,zee meerval,1485016,11,1,3,4
+sea bream,zeebrasem,307756,9,2,2,4
+tiger shark,tijgerhaai,5904454,10,1,3,4
+rock hind,rock hinde,1070013,10,1,3,4
+sand dab,zand schar,1978263,10,1,3,4
+slippery dick,gladde lul,1775430,10,1,3,4
+yellow perch,gele baars,1235177,10,1,3,4
+fish doctor,vis dokter,39845710,10,1,3,4
+lake trout,meer forel,5369048,10,1,3,4
+food fish,voedsel vis,52756224,11,1,3,4
+climbing perch,klimbaars,1235177,9,1,3,4
+yellow jack,gele jack,46728329,9,1,3,4
+smelt,spiering,301053,8,2,2,4
+sea chub,zeevoorn,271882,8,2,2,4
+silver perch,zilverbaars,1235177,11,1,3,4
+barracuda,barracuda,1045994,9,1,3,4
+grouper,tandbaars,501815,9,2,2,4
+young fish,jonge vis,52756224,9,1,3,4
+summer flounder,zomerbot,588770,8,2,2,4
+black bass,zwarte bas,26249677,10,1,3,4
+stone bass,stenen bas,26249677,10,1,3,4
+permit,vergunning,26339544,10,1,3,4
+groundfish,bodemvis,265992,8,2,2,4
+angel shark,engel haai,5904454,10,1,3,4
+buffalo fish,buffel vis,17808542,10,1,3,4
+whale shark,walvis haai,5904454,11,1,3,4
+carpet shark,tapijt haai,5904454,11,1,3,4
+lemon shark,citroenhaai,5904454,11,1,3,4
+chub,kopvoorn,271882,8,2,2,4
+white perch,witte baars,1235177,11,1,3,4
+mullet,matje,583341,5,2,1,3
+bonito,bonito,289876,6,2,1,3
+brill,griet,800254,5,2,1,3
+sea raven,zee raaf,4630541,8,1,2,3
+game fish,wild vis,52756224,8,1,2,3
+wahoo,wahoo,366081,5,2,1,3
+tetra,tetra,863969,5,2,1,3
+liza,liza,1039449,4,2,1,3
+eel,aal,956144,3,2,1,3
+flounder,bot,588770,3,2,1,3
+shad,elft,632614,4,2,1,3
+coho,coho,521165,4,2,1,3
+grunt,grom,616546,4,2,1,3
+dory,dory,334147,4,2,1,3
+parr,parr,697446,4,2,1,3
+mako,mako,397061,4,2,1,3
+mullet,matje,583341,5,2,1,3
+parr,parr,697446,4,2,1,3
+rudd,Rudd,737675,4,2,1,3
+hake,heek,235760,4,2,1,3
+whitefish,witvis,571826,6,2,1,3
+minnow,voorn,467515,5,2,1,3
+manta,manta,550732,5,2,1,3
+coney,coney,568494,5,2,1,3
+tarpon,tarpon,520099,6,2,1,3
+mollie,mollie,443043,6,2,1,3
+bonito,bonito,289876,6,2,1,3
+lemon sole,tongschar,9066930,9,1,2,3
+lemon sole,tongschar,9066930,9,1,2,3
+sunfish,maanvis,259275,7,2,1,3
+moray,murene,775524,6,2,1,3
+whiff,vleugje,246582,7,2,1,3
+runner,hardloper,7381022,9,1,2,3
+piranha,piranha,889332,7,2,1,3
+sockeye,sok oog,319470,7,2,1,3
+flame fish,vlam vis,8527495,8,1,2,3
+sea trout,zeeforel,5369048,8,1,2,3
+drum,trommel,14015510,7,1,2,3
+marlin,marlijn,1762749,7,1,2,3
+catfish,meerval,1485016,7,1,2,3
+chinook,chinook,1390622,7,1,2,3
+sea trout,zeeforel,5369048,8,1,2,3
+cat shark,kat haai,5904454,8,1,2,3
+cow shark,koe haai,5904454,8,1,2,3
+worm fish,worm vis,5782079,8,1,2,3
+sand sole,zandzool,13401764,8,1,2,3
+rock bass,rock bas,26249677,8,1,2,3
+sea bass,zeebaars,26249677,8,1,2,3
+rough fish,ruwe vis,11557184,8,1,2,3
+sand lance,zandlans,5509634,8,1,2,3
+yellow bass,gele bas,26249677,8,1,2,3
+mackerel,makreel,578375,7,2,1,3
+beluga,beloega,291630,7,2,1,3
+gar,gar,1008289,3,2,1,3
+pollack,koolvis,736042,7,2,1,3
+halibut,heilbot,733860,7,2,1,3
+brook trout,beekforel,5369048,9,1,2,3
+roach,kakkerlak,3017586,9,1,2,3
+margate,margate,590644,7,2,1,3
+cod,kabeljauw,10426143,9,1,2,3
+pompano,pompano,754755,7,2,1,3
+sole,zool,13401764,4,1,1,2
+tuna,tonijn,2842548,6,1,1,2
+perch,baars,1235177,5,1,1,2
+brit,britse,2293348,6,1,1,2
+tuna,tonijn,2842548,6,1,1,2
+ling,leng,2089684,4,1,1,2
+carp,karper,1903390,6,1,1,2
+sierra,sierra,15742544,6,1,1,2
+sleeper,slaper,1804207,6,1,1,2
+bass,bas,26249677,3,1,1,2
+herring,haring,1862420,6,1,1,2
+sucker,sukkel,1501371,6,1,1,2
+salmon,Zalm,9757346,4,1,1,2
+northern pike,Snoek,5085622,5,1,1,2
+perch,baars,1235177,5,1,1,2
+char,char,19673918,4,1,1,2
+jack,jack,46728329,4,1,1,2
+ray,straal,32113994,6,1,1,2
+sweeper,veger,1198591,5,1,1,2
+shark,haai,5904454,4,1,1,2
+hind,hindi,1070013,5,1,1,2
+ling,leng,2089684,4,1,1,2
+skate,vleet,4932092,5,1,1,2
+sturgeon,steur,1061291,5,1,1,2
+pike,snoek,5085622,5,1,1,2
+cisco,cisco,27894293,5,1,1,2
+trout,forel,5369048,5,1,1,2
