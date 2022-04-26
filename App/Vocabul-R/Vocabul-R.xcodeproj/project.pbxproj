@@ -1,0 +1,630 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0008BA98280777E600DA3253 /* TopicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0008BA97280777E600DA3253 /* TopicView.swift */; };
+		0008BA9A280798B300DA3253 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0008BA99280798B300DA3253 /* InfoView.swift */; };
+		0008BA9C2818236900DA3253 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0008BA9B2818236900DA3253 /* ViewModel.swift */; };
+		00520AEB27F7406B0037A970 /* Vocabul_RApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00520AEA27F7406B0037A970 /* Vocabul_RApp.swift */; };
+		00520AED27F7406B0037A970 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00520AEC27F7406B0037A970 /* HomeView.swift */; };
+		00520AEF27F740700037A970 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00520AEE27F740700037A970 /* Assets.xcassets */; };
+		00520AF227F740700037A970 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00520AF127F740700037A970 /* Preview Assets.xcassets */; };
+		00520AFC27F740700037A970 /* Vocabul_RTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00520AFB27F740700037A970 /* Vocabul_RTests.swift */; };
+		00520B0627F740700037A970 /* Vocabul_RUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00520B0527F740700037A970 /* Vocabul_RUITests.swift */; };
+		00520B0827F740700037A970 /* Vocabul_RUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00520B0727F740700037A970 /* Vocabul_RUITestsLaunchTests.swift */; };
+		00520B1A27FA00100037A970 /* CustomNavBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00520B1927FA00100037A970 /* CustomNavBar.swift */; };
+		00520B1C27FA09240037A970 /* CustomNavBarContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00520B1B27FA09240037A970 /* CustomNavBarContainer.swift */; };
+		00520B1E2805CC2A0037A970 /* CustomNavView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00520B1D2805CC2A0037A970 /* CustomNavView.swift */; };
+		00520B202805CF7F0037A970 /* CustomNavLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00520B1F2805CF7F0037A970 /* CustomNavLink.swift */; };
+		00520B222805FCD40037A970 /* CustomNavBarPreferenceKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00520B212805FCD40037A970 /* CustomNavBarPreferenceKeys.swift */; };
+		0068B2A92806F5FA000A6A7C /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0068B2A82806F5FA000A6A7C /* CardView.swift */; };
+		0068B2AB28070F58000A6A7C /* CardFlip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0068B2AA28070F58000A6A7C /* CardFlip.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		00520AF827F740700037A970 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 00520ADF27F7406B0037A970 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 00520AE627F7406B0037A970;
+			remoteInfo = "Vocabul-R";
+		};
+		00520B0227F740700037A970 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 00520ADF27F7406B0037A970 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 00520AE627F7406B0037A970;
+			remoteInfo = "Vocabul-R";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0008BA97280777E600DA3253 /* TopicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicView.swift; sourceTree = "<group>"; };
+		0008BA99280798B300DA3253 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		0008BA9B2818236900DA3253 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ViewModel.swift; path = "Vocabul-R/ViewModel/ViewModel.swift"; sourceTree = SOURCE_ROOT; };
+		00520AE727F7406B0037A970 /* Vocabul-R.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Vocabul-R.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		00520AEA27F7406B0037A970 /* Vocabul_RApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vocabul_RApp.swift; sourceTree = "<group>"; };
+		00520AEC27F7406B0037A970 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		00520AEE27F740700037A970 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		00520AF127F740700037A970 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		00520AF727F740700037A970 /* Vocabul-RTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Vocabul-RTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		00520AFB27F740700037A970 /* Vocabul_RTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vocabul_RTests.swift; sourceTree = "<group>"; };
+		00520B0127F740700037A970 /* Vocabul-RUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Vocabul-RUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		00520B0527F740700037A970 /* Vocabul_RUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vocabul_RUITests.swift; sourceTree = "<group>"; };
+		00520B0727F740700037A970 /* Vocabul_RUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vocabul_RUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		00520B1927FA00100037A970 /* CustomNavBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomNavBar.swift; path = "Vocabul-R/Navigation/CustomNavBar.swift"; sourceTree = SOURCE_ROOT; };
+		00520B1B27FA09240037A970 /* CustomNavBarContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomNavBarContainer.swift; path = "Vocabul-R/Navigation/CustomNavBarContainer.swift"; sourceTree = SOURCE_ROOT; };
+		00520B1D2805CC2A0037A970 /* CustomNavView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomNavView.swift; path = ../Navigation/CustomNavView.swift; sourceTree = "<group>"; };
+		00520B1F2805CF7F0037A970 /* CustomNavLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomNavLink.swift; path = ../Navigation/CustomNavLink.swift; sourceTree = "<group>"; };
+		00520B212805FCD40037A970 /* CustomNavBarPreferenceKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomNavBarPreferenceKeys.swift; path = ../Navigation/CustomNavBarPreferenceKeys.swift; sourceTree = "<group>"; };
+		0068B2A82806F5FA000A6A7C /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		0068B2AA28070F58000A6A7C /* CardFlip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardFlip.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		00520AE427F7406B0037A970 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		00520AF427F740700037A970 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		00520AFE27F740700037A970 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		00520ADE27F7406B0037A970 = {
+			isa = PBXGroup;
+			children = (
+				00520AE927F7406B0037A970 /* Vocabul-R */,
+				00520AFA27F740700037A970 /* Vocabul-RTests */,
+				00520B0427F740700037A970 /* Vocabul-RUITests */,
+				00520AE827F7406B0037A970 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		00520AE827F7406B0037A970 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				00520AE727F7406B0037A970 /* Vocabul-R.app */,
+				00520AF727F740700037A970 /* Vocabul-RTests.xctest */,
+				00520B0127F740700037A970 /* Vocabul-RUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		00520AE927F7406B0037A970 /* Vocabul-R */ = {
+			isa = PBXGroup;
+			children = (
+				00520AEA27F7406B0037A970 /* Vocabul_RApp.swift */,
+				00520AEE27F740700037A970 /* Assets.xcassets */,
+				00520AF027F740700037A970 /* Preview Content */,
+				00520B1627F9FF5D0037A970 /* View */,
+			);
+			path = "Vocabul-R";
+			sourceTree = "<group>";
+		};
+		00520AF027F740700037A970 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				00520AF127F740700037A970 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		00520AFA27F740700037A970 /* Vocabul-RTests */ = {
+			isa = PBXGroup;
+			children = (
+				00520AFB27F740700037A970 /* Vocabul_RTests.swift */,
+			);
+			path = "Vocabul-RTests";
+			sourceTree = "<group>";
+		};
+		00520B0427F740700037A970 /* Vocabul-RUITests */ = {
+			isa = PBXGroup;
+			children = (
+				00520B0527F740700037A970 /* Vocabul_RUITests.swift */,
+				00520B0727F740700037A970 /* Vocabul_RUITestsLaunchTests.swift */,
+			);
+			path = "Vocabul-RUITests";
+			sourceTree = "<group>";
+		};
+		00520B1627F9FF5D0037A970 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				00520AEC27F7406B0037A970 /* HomeView.swift */,
+				0068B2A82806F5FA000A6A7C /* CardView.swift */,
+				0008BA97280777E600DA3253 /* TopicView.swift */,
+				0008BA99280798B300DA3253 /* InfoView.swift */,
+				0068B2AA28070F58000A6A7C /* CardFlip.swift */,
+				00520B1D2805CC2A0037A970 /* CustomNavView.swift */,
+				00520B1F2805CF7F0037A970 /* CustomNavLink.swift */,
+				00520B1927FA00100037A970 /* CustomNavBar.swift */,
+				00520B1B27FA09240037A970 /* CustomNavBarContainer.swift */,
+				00520B212805FCD40037A970 /* CustomNavBarPreferenceKeys.swift */,
+				0008BA9B2818236900DA3253 /* ViewModel.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		00520AE627F7406B0037A970 /* Vocabul-R */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 00520B0B27F740700037A970 /* Build configuration list for PBXNativeTarget "Vocabul-R" */;
+			buildPhases = (
+				00520AE327F7406B0037A970 /* Sources */,
+				00520AE427F7406B0037A970 /* Frameworks */,
+				00520AE527F7406B0037A970 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Vocabul-R";
+			productName = "Vocabul-R";
+			productReference = 00520AE727F7406B0037A970 /* Vocabul-R.app */;
+			productType = "com.apple.product-type.application";
+		};
+		00520AF627F740700037A970 /* Vocabul-RTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 00520B0E27F740700037A970 /* Build configuration list for PBXNativeTarget "Vocabul-RTests" */;
+			buildPhases = (
+				00520AF327F740700037A970 /* Sources */,
+				00520AF427F740700037A970 /* Frameworks */,
+				00520AF527F740700037A970 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				00520AF927F740700037A970 /* PBXTargetDependency */,
+			);
+			name = "Vocabul-RTests";
+			productName = "Vocabul-RTests";
+			productReference = 00520AF727F740700037A970 /* Vocabul-RTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		00520B0027F740700037A970 /* Vocabul-RUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 00520B1127F740700037A970 /* Build configuration list for PBXNativeTarget "Vocabul-RUITests" */;
+			buildPhases = (
+				00520AFD27F740700037A970 /* Sources */,
+				00520AFE27F740700037A970 /* Frameworks */,
+				00520AFF27F740700037A970 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				00520B0327F740700037A970 /* PBXTargetDependency */,
+			);
+			name = "Vocabul-RUITests";
+			productName = "Vocabul-RUITests";
+			productReference = 00520B0127F740700037A970 /* Vocabul-RUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		00520ADF27F7406B0037A970 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1330;
+				LastUpgradeCheck = 1330;
+				TargetAttributes = {
+					00520AE627F7406B0037A970 = {
+						CreatedOnToolsVersion = 13.3;
+					};
+					00520AF627F740700037A970 = {
+						CreatedOnToolsVersion = 13.3;
+						TestTargetID = 00520AE627F7406B0037A970;
+					};
+					00520B0027F740700037A970 = {
+						CreatedOnToolsVersion = 13.3;
+						TestTargetID = 00520AE627F7406B0037A970;
+					};
+				};
+			};
+			buildConfigurationList = 00520AE227F7406B0037A970 /* Build configuration list for PBXProject "Vocabul-R" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 00520ADE27F7406B0037A970;
+			productRefGroup = 00520AE827F7406B0037A970 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				00520AE627F7406B0037A970 /* Vocabul-R */,
+				00520AF627F740700037A970 /* Vocabul-RTests */,
+				00520B0027F740700037A970 /* Vocabul-RUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		00520AE527F7406B0037A970 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				00520AF227F740700037A970 /* Preview Assets.xcassets in Resources */,
+				00520AEF27F740700037A970 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		00520AF527F740700037A970 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		00520AFF27F740700037A970 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		00520AE327F7406B0037A970 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				00520B1A27FA00100037A970 /* CustomNavBar.swift in Sources */,
+				0008BA9A280798B300DA3253 /* InfoView.swift in Sources */,
+				00520AED27F7406B0037A970 /* HomeView.swift in Sources */,
+				0068B2AB28070F58000A6A7C /* CardFlip.swift in Sources */,
+				00520B1C27FA09240037A970 /* CustomNavBarContainer.swift in Sources */,
+				0008BA98280777E600DA3253 /* TopicView.swift in Sources */,
+				0008BA9C2818236900DA3253 /* ViewModel.swift in Sources */,
+				00520AEB27F7406B0037A970 /* Vocabul_RApp.swift in Sources */,
+				00520B202805CF7F0037A970 /* CustomNavLink.swift in Sources */,
+				00520B222805FCD40037A970 /* CustomNavBarPreferenceKeys.swift in Sources */,
+				0068B2A92806F5FA000A6A7C /* CardView.swift in Sources */,
+				00520B1E2805CC2A0037A970 /* CustomNavView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		00520AF327F740700037A970 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				00520AFC27F740700037A970 /* Vocabul_RTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		00520AFD27F740700037A970 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				00520B0827F740700037A970 /* Vocabul_RUITestsLaunchTests.swift in Sources */,
+				00520B0627F740700037A970 /* Vocabul_RUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		00520AF927F740700037A970 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 00520AE627F7406B0037A970 /* Vocabul-R */;
+			targetProxy = 00520AF827F740700037A970 /* PBXContainerItemProxy */;
+		};
+		00520B0327F740700037A970 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 00520AE627F7406B0037A970 /* Vocabul-R */;
+			targetProxy = 00520B0227F740700037A970 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		00520B0927F740700037A970 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		00520B0A27F740700037A970 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		00520B0C27F740700037A970 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Vocabul-R/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CM.Vocabul-R";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		00520B0D27F740700037A970 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Vocabul-R/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CM.Vocabul-R";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		00520B0F27F740700037A970 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CM.Vocabul-RTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Vocabul-R.app/Vocabul-R";
+			};
+			name = Debug;
+		};
+		00520B1027F740700037A970 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CM.Vocabul-RTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Vocabul-R.app/Vocabul-R";
+			};
+			name = Release;
+		};
+		00520B1227F740700037A970 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CM.Vocabul-RUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Vocabul-R";
+			};
+			name = Debug;
+		};
+		00520B1327F740700037A970 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CM.Vocabul-RUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Vocabul-R";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		00520AE227F7406B0037A970 /* Build configuration list for PBXProject "Vocabul-R" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00520B0927F740700037A970 /* Debug */,
+				00520B0A27F740700037A970 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		00520B0B27F740700037A970 /* Build configuration list for PBXNativeTarget "Vocabul-R" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00520B0C27F740700037A970 /* Debug */,
+				00520B0D27F740700037A970 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		00520B0E27F740700037A970 /* Build configuration list for PBXNativeTarget "Vocabul-RTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00520B0F27F740700037A970 /* Debug */,
+				00520B1027F740700037A970 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		00520B1127F740700037A970 /* Build configuration list for PBXNativeTarget "Vocabul-RUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00520B1227F740700037A970 /* Debug */,
+				00520B1327F740700037A970 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 00520ADF27F7406B0037A970 /* Project object */;
+}
