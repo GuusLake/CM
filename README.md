@@ -8,3 +8,5 @@ python categoryGenerator.py
 ```
 
 This will create a new file with the generated scores in the categories folder with the name _category_.csv
+
+## The app can be found in the ```App``` folder
