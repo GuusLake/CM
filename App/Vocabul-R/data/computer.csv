@@ -1,0 +1,33 @@
+EngWord,NldWord,Group
+web site,website,0
+server,server,0
+laptop,laptop,0
+chat room,chat room,0
+home computer,thuis computer,0
+planner,planner,0
+node,knooppunt,0
+portal site,portaalsite,0
+mainframe,mainframe,0
+slide rule,rekenliniaal,0
+digital computer,digitale computer,1
+file server,bestanden server,1
+workstation,werkstation,1
+notebook,notitieboekje,1
+desktop computer,desktop computer,1
+personal computer,persoonlijke computer,1
+predictor,voorspeller,1
+portable computer,draagbare computer,1
+analog computer,analoge computer,1
+supercomputer,supercomputer,1
+minicomputer,minicomputer,2
+dedicated file server,speciale bestandsserver,2
+multiprocessor,multiprocessor,2
+number cruncher,getallenkraker,2
+briefcase computer,aktetas computer,2
+bulletin board system,bulletin board systeem,2
+Turing machine,Turingmachine,2
+differential analyzer,differentiële analysator,2
+hand-held computer,draagbare computer,2
+pari-mutuel machine,pari-mutuel machine,2
+von Neumann machine,von Neumann-machine,3
+non-dedicated file server,niet-specifieke bestandsserver,3

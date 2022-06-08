@@ -1,0 +1,116 @@
+EngWord,NldWord,Group
+cell,cel,0
+sheet,vel,0
+pocket,zak-,0
+lead,lood,0
+hole,gat,0
+hole,gat,0
+window,raam,0
+pocket,zak-,0
+mouth,mond,0
+angle,hoek,0
+hip,heup,1
+side pocket,zijvak,1
+gulf,golf,1
+hollow,hol,1
+void,leegte,1
+matrix,Matrix,1
+leak,lek,1
+corner pocket,hoekzak,1
+dip,duik,1
+opening,opening,1
+crack,scheur,2
+fault,schuld,2
+split,splitsen,2
+hour angle,uur hoek,2
+slack,slap,2
+view angle,kijkhoek,2
+pouch,zakje,2
+cavern,grot,2
+cavity,holte,2
+cutting angle,snijhoek:,2
+chap,kerel,3
+wave angle,golfhoek:,3
+ozone hole,ozongat,3
+breach,inbreuk,3
+swath,zwad,3
+aperture,opening,3
+right angle,juiste hoek,3
+rift,breuk,3
+bullet hole,kogelgat,3
+solid angle,vaste hoek,3
+plane angle,vlakke hoek,4
+rift,breuk,4
+crotch,Kruis,4
+face angle,gezichtshoek,4
+stretch,uitrekken,4
+slit,spleet,4
+pore,porie,4
+interior angle,binnenhoek:,4
+chasm,kloof,4
+compartment,gedeelte,4
+chink,kier,5
+enclosure,behuizing,5
+exterior angle,buitenhoek:,5
+pupil,leerling,5
+angle of incidence,invalshoek,5
+critical angle,kritieke hoek,5
+inclination,neiging,5
+inclination,neiging,5
+azimuth,azimut,5
+axil,oksel,5
+stoma,stoma,6
+abyss,afgrond,6
+normal fault,normale fout,6
+acute angle,Scherpe hoek,6
+vertical angle,verticale hoek,6
+vent,ventileren,6
+longitude,Lengtegraad,6
+latitude,breedtegraad,6
+rip,Rust in vrede,6
+angle of attack,hoek van aanvallen,6
+cubbyhole,hokje,7
+helix angle,helix hoek,7
+germ pore,kiemporie,7
+cranny,gaatje,7
+reflex angle,reflexhoek,7
+dogleg,dogleg,7
+foramen,foramen,7
+tilt angle,hellingsgraad,7
+oblique angle,schuine hoek,7
+crenel,crenel,7
+angular distance,hoekafstand,8
+angle of reflection,hoek van reflectie,8
+inclined fault,geneigd fout,8
+Post-Office box,Postbus,8
+fatigue crack,vermoeidheid barst,8
+thrust fault,stuwkracht fout,8
+knothole,knoopgat,8
+perforation,perforatie,8
+perigon,perigon,8
+declination,declinatie,8
+complementary angles,Complementaire hoeken,9
+true anomaly,echte anomalie,9
+bolt-hole,boutgat,9
+diastema,diasteem,9
+angle of refraction,brekingshoek,9
+right ascension,rechte klimming,9
+spherical angle,sferische hoek:,9
+lenticel,lenticel,9
+hydathode,hydathode,9
+obtuse angle,stompe hoek,9
+rathole,rattenhol,10
+angle of extinction,hoek van uitsterven,10
+micropyle,micropyle,10
+pleural space,pleurale ruimte,10
+salient angle,opvallende hoek:,10
+expanse,uitgestrektheid,10
+foramen magnum,foramen magnum,10
+crevasse,gletsjerspleet,10
+magnetic declination,magnetische declinatie,10
+polyhedral angle,veelvlakkige hoek,10
+reentrant angle,inspringende hoek,11
+subarachnoid space,subarachnoïdale ruimte,11
+strike-slip fault,strike-slip fout,11
+interventricular foramen,interventriculaire foramen,11
+Ranvier's nodes,knooppunten van Ranvier,11

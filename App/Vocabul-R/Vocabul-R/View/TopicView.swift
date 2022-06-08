@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+import CoreData
 
 
 struct TopicView: View {
@@ -35,7 +35,7 @@ struct TopicButton: View{
     var progressValue: Int
     
     var body: some View{
-        CustomNavLink(destination: CardView(difficulty: progressValue,topic: buttonText.firstCapitalized, cards: GetCards(difficulty: progressValue, topic: buttonText.firstCapitalized))
+        CustomNavLink(destination: CardView(topic: buttonText)
             .customNAvigationTitle(buttonText.firstCapitalized), label: {
             VStack{
                 HStack(){
@@ -59,8 +59,7 @@ struct TopicButton: View{
             .cornerRadius(10)
             .shadow(radius: 5, x:10, y:10)
             .padding()
-        }).customNAvigationTitle(buttonText.firstCapitalized)
-        
+        }).customNAvigationTitle(buttonText)
     }
 }
 

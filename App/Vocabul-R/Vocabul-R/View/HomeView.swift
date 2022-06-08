@@ -6,9 +6,11 @@
 //
 
 import SwiftUI
+import CoreData
 
 struct HomeView: View {
     @State var initState: Bool = GetInitState()
+    @Environment(\.managedObjectContext) public var viewContext
     
     var body: some View {
         CustomNavView{
@@ -19,7 +21,9 @@ struct HomeView: View {
                         .edgesIgnoringSafeArea(.all)
                     
                     // Change view if init view is needed
+                    
                     if initState{
+                        
                         InitViewContent(initState: $initState)
                             .zIndex(1)
                     }else{
@@ -44,7 +48,7 @@ struct HomeViewContent: View{
         VStack{
             // Navigate to general learning
             CustomNavLink(destination:
-                            CardView(difficulty: GetGeneralDifficulty(),topic: "general", cards: GetCards(difficulty: GetGeneralDifficulty(), topic: "general"))
+                            CardView(topic: "general")
                 .customNAvigationTitle("Cards")
             ) {
                 NavigationButton(buttonText: "General Learning")
@@ -159,10 +163,21 @@ struct SubmitInitButton: View{
         Button {
             withAnimation{
                 // Increase difficulty if correct and fetch new cards
-                if (checkCards(cards: cards) && difficulty < 10){
-                    difficulty += 1
+                let dataController = DataController()
+                let context = dataController.container.viewContext
+                let model = Model()
+                let max_difficulty = model.getMaxDifficulty(context: context)
+                let maxDifficulty = Int(max_difficulty)
+                
+                let difficulty_increase = (maxDifficulty)/50
+                
+
+                if (checkCards(cards: cards) && difficulty <= maxDifficulty){
+                    difficulty += difficulty_increase
                     cards = GetInitCards(difficulty: difficulty)
+                    
                 }
+                
                 // Update the difficulty if a mistake was made or we reached a difficulty of 10
                 else{
                     InitUpdateModel(difficulty: difficulty)
@@ -183,11 +198,15 @@ struct SubmitInitButton: View{
     // Check if all cards are correctly filled
     func checkCards(cards: [Card])-> Bool{
         var allCorrect = true
+        var incorrect_counter = 0
         for card in cards {
             if !card.correct{
-                allCorrect = card.correct
-                break
+                incorrect_counter += 1
+                
             }
+        }
+        if incorrect_counter > 1 {
+            allCorrect = false
         }
         return allCorrect
     }

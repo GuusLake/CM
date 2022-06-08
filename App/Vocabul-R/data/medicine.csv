@@ -1,0 +1,71 @@
+EngWord,NldWord,Group
+pharmacy,apotheek,0
+hygiene,hygiëne,0
+oncology,oncologie,0
+urology,urologie,0
+psychiatry,psychiatrie,0
+neurology,neurologie,0
+immunology,immunologie,0
+virology,virologie,0
+therapeutics,therapieën,0
+cardiology,cardiologie,0
+pharmacology,farmacologie,1
+geriatrics,geriatrie,1
+podiatry,podologie,1
+obstetrics,verloskunde,1
+biomedicine,biologie,1
+toxicology,toxicologie,1
+biomedicine,biologie,1
+sports medicine,sportgeneeskunde,1
+prosthetics,protheses,1
+epidemiology,epidemiologie,1
+dentistry,tandheelkunde,2
+otology,otologie,2
+internal medicine,inwendig medicijn,2
+ophthalmology,oogheelkunde,2
+veterinary medicine,Diergeneeskunde,2
+dermatology,dermatologie,2
+audiology,audiologie,2
+hematology,hematologie,2
+nephrology,nefrologie,2
+space medicine,ruimte geneeskunde,2
+nuclear medicine,nucleair medicijn,3
+emergency medicine,noodgeval medicijn,3
+gynecology,gynaecologie,3
+rheumatology,reumatologie,3
+clinical psychology,klinische psychologie,3
+endodontics,endodontie,3
+psychotherapy,psychotherapie,3
+orthodontics,orthodontie,3
+tropical medicine,tropische geneeskunde,3
+pediatrics,kindergeneeskunde,3
+endocrinology,endocrinologie,4
+nosology,nosologie,4
+alienism,alienisme,4
+angiology,angiologie,4
+dental surgery,tandheelkundige chirurgie,4
+fetology,fetologie,4
+exodontics,exodontie,4
+neonatology,neonatologie,4
+posology,posologie,4
+cosmetic dentistry,cosmetische tandheelkunde,4
+forensic medicine,forensische geneeskunde,5
+pharmacokinetics,farmacokinetiek,5
+anesthesiology,anesthesiologie,5
+bacteriology,bacteriologie,5
+proctology,proctologie,5
+gastroenterology,gastro-enterologie,5
+immunochemistry,immunochemie,5
+traumatology,traumatologie,5
+thoracic medicine,thoracale geneeskunde,5
+periodontics,parodontologie,5
+prosthodontics,prosthodontie,6
+allergology,allergologie,6
+perinatology,perinatologie,6
+neuropsychiatry,neuropsychiatrie,6
+psychopharmacology,psychofarmacologie,6
+immunopathology,immunopathologie,6
+rhinolaryngology,rhinolaryngologie,6
+aeromedicine,luchtvaartgeneeskunde,6
+Jungian psychology,Jungiaanse psychologie,6
+Freudian psychology,Freudiaanse psychologie,6

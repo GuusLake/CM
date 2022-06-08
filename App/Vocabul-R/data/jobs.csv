@@ -1,0 +1,284 @@
+EngWord,NldWord,Group
+law,wet,0
+game,spel,0
+service,dienst,0
+sport,sport,0
+trade,handel,0
+talk,praten,0
+position,positie,0
+lesson,les,0
+services,Diensten,0
+career,carrière,0
+lecture,lezing,1
+language lesson,taalles,1
+golf lesson,golfles,1
+dance lesson,dansles,1
+education,opleiding,1
+profession,beroep,1
+internship,stage,1
+sewing,naaien,1
+politics,politiek,1
+knitting,breien,1
+minister,minister,2
+throne,troon,2
+catering,catering,2
+case load,caseload,2
+plum,Pruim,2
+coaching,coaching,2
+teaching,onderwijs,2
+spinning,draaien,2
+weaving,weven,2
+sumo,sumo,2
+appointment,afspraak,3
+business life,zakenleven,3
+farming,landbouw,3
+apprenticeship,stage,3
+cabinet minister,minister,3
+gig,optreden,3
+violin lesson,vioolles,3
+piano lesson,piano les,3
+netting,netten,3
+couture,couture,3
+phonics,klanken,4
+technology,technologie,4
+schooling,scholing,4
+language teaching,taal leren,4
+clerkship,stage,4
+crocheting,haken,4
+engagement,verloving,4
+workload,werkdruk,4
+photography,fotografie,4
+literature,literatuur,4
+teaching reading,leren lezen,5
+painting,schilderen,5
+ministry,ministerie,5
+hot seat,hete stoel,5
+theology,theologie,5
+treadmill,loopband,5
+music lesson,muziek les,5
+tanning,zonnebank,5
+piloting,loodsen,5
+tennis lesson,tennis les,5
+tailoring,maatwerk,6
+handicraft,handwerk,6
+lighting,verlichting,6
+upholstery,bekleding,6
+needlework,handwerk,6
+lace making,Kant maken,6
+tutelage,voogdij,6
+lumbering,sjouwen,6
+mintage,oplage,6
+plumbing,loodgieter,6
+medicine,geneesmiddel,7
+emirate,emiraat,7
+architecture,architectuur,7
+furnishing,inrichting,7
+metier,metier,7
+slating,leien,7
+suturing,hechten,7
+walk of life,levenswandel,7
+caliphate,kalifaat,7
+residency,residentie,7
+public service,publieke dienst,8
+carpentry,timmerwerk,8
+khanate,khanate,8
+prefecture,prefectuur,8
+paper route,papier route,8
+chaplaincy,pastoraat,8
+telecommuting,telewerken,8
+custodianship,voogdij,8
+editorship,redactie,8
+fatherhood,vaderschap,8
+typography,typografie,9
+double entry,dubbele ingang,9
+undertaking,onderneming,9
+catechesis,catechese,9
+masonry,metselwerk,9
+employment,werkgelegenheid,9
+public office,openbaar kantoor,9
+bricklaying,metselen,9
+seafaring,zeevarend,9
+lectureship,lectoraat,9
+regency,regentschap,10
+fatherhood,vaderschap,10
+cabotage,cabotage,10
+professional football,betaald voetbal,10
+winemaking,wijn maken,10
+accountancy,boekhouding,10
+piecework,stukwerk,10
+automotive technology,autotechnologie,10
+bookbinding,boekbinden,10
+deanship,decanaat,10
+single entry,eenmalige toegang,11
+trusteeship,trustschap,11
+electrical work,elektrisch werk,11
+professional golf,professionele golf,11
+pottery,pottenbakkerij,11
+sainthood,heiligheid,11
+attorneyship,advocaat,11
+bookkeeping,boekhouding,11
+roofing,dakbedekking,11
+sinecure,sinecure,11
+journalism,journalistiek,12
+headship,hoofdschap,12
+computer technology,computer technologie,12
+learned profession,geleerd beroep,12
+auto mechanics,auto mechanica,12
+cost accounting,kostenberekening,12
+curacy,juistheid,12
+automation,automatisering,12
+headship,hoofdschap,12
+baronetage,baronetage,12
+premiership,premierschap,13
+bishopry,bisdom,13
+consulship,consulaat,13
+chalk talk,krijt praten,13
+rabbinate,rabbinaat,13
+associateship,associatie,13
+last in first out,"Laatste erin, eerste eruit",13
+high technology,geavanceerde technologie,13
+incumbency,incumbency,13
+alternative medicine,alternatief medicijn,13
+first in first out,"als eerste erin, als eerste eruit",14
+admiralty,admiraliteit,14
+herbal medicine,kruidenmedicijn,14
+rail technology,spoortechnologie,14
+presidency,presidentschap,14
+specialization,specialisatie,14
+legislatorship,wetgever,14
+priorship,voorrang,14
+communications technology,communicatie Technologie,14
+oculism,oculisme,14
+inventory accounting,voorraadboekhouding,15
+chemical engineering,chemische technologie,15
+wardership,voogdij,15
+blind stitching,blind stiksel,15
+aeronautical engineering,vliegtuigbouw,15
+professional baseball,professioneel honkbal,15
+solicitorship,advocaat,15
+wardenship,voogdij,15
+digital communications technology,digitale communicatietechnologie,15
+professional tennis,professioneel tennis,15
+tribuneship,tribunaal,16
+manhood,mannelijkheid,16
+pyrotechnics,pyrotechniek,16
+legation,gezantschap,16
+discipleship,discipelschap,16
+sheet-metal work,plaatwerk,16
+prelacy,prelaat,16
+professional basketball,professioneel basketbal,16
+eldership,ouderschap,16
+confectionery,banketbakkerij,16
+thaneship,danschap,17
+costing,kostenberekening,17
+cadetship,cadetschap,17
+lifework,levenswerk,17
+stewardship,rentmeesterschap,17
+professional boxing,professioneel boksen,17
+airplane mechanics,vliegtuig mechanica,17
+pastorship,pastoraat,17
+magistracy,magistratuur,17
+academicianship,academisch,17
+drafting,het opstellen van,18
+rectorship,rectoraat,18
+rulership,heerschappij,18
+indoctrination,indoctrinatie,18
+inculcation,infiltreren,18
+lieutenancy,luitenant,18
+papermaking,papier maken,18
+shingling,gordelroos,18
+judgeship,rechterschap,18
+studentship,studententijd,18
+interior decoration,interieur decoratie,19
+professional wrestling,professioneel worstelen,19
+basketry,mandenmakerij,19
+dressmaking,kleermakerij,19
+mastership,meesterschap,19
+brainwashing,hersenspoeling,19
+librarianship,bibliothecaris,19
+womanhood,vrouwelijkheid,19
+apostleship,apostelschap,19
+computerization,automatisering,19
+chairmanship,voorzitterschap,20
+professorship,hoogleraarschap,20
+cabinetwork,schrijnwerk,20
+viziership,vizierschap,20
+directorship,directeurschap,20
+curatorship,curatorschap,20
+bully pulpit,preekstoel pesten,20
+complementary medicine,complementaire geneeskunde,20
+preventive medicine,preventieve geneeskunde,20
+cabinetmaking,meubelmakerij,20
+generalship,generaalschap,21
+messiahship,messiasschap,21
+seigniory,heerlijkheid,21
+managership,leidinggeven,21
+proconsulship,proconsulaat,21
+praetorship,praetorschap,21
+French lesson,Franse les,21
+controllership,controle over,21
+governorship,gouverneurschap,21
+peasanthood,boerenleven,21
+shoemaking,schoenmakerij,22
+protectorship,bescherming,22
+German lesson,Duitse les,22
+marshalship,marshalship,22
+chieftaincy,opperhoofd,22
+teachership,leraarschap,22
+sleep-learning,slaap-leren,22
+comptrollership,toezichthoudend,22
+headmastership,schoolhoofd,22
+accountantship,boekhouding,22
+preceptorship,leermeesterschap,23
+foremanship,voormanschap,23
+counselorship,adviseurschap,23
+magnetic levitation,magnetische levitatie,23
+proctorship,proctorschap,23
+receivership,surseance van betaling,23
+primateship,primatenschap,23
+captainship,kapiteinschap,23
+mayoralty,burgemeesterschap,23
+Hebrew lesson,Hebreeuwse les,23
+headmistressship,schoolhoofd,24
+principalship,opdrachtgeverschap,24
+cardinalship,kardinaalschap,24
+newspapering,krantenkrant,24
+senatorship,senatorschap,24
+instructorship,instructeurschap,24
+catechetical instruction,catechetische instructie,24
+speakership,sprekerschap,24
+secretaryship,secretarisschap,24
+whole-word method,hele woord methode,24
+treasurership,penningmeesterschap,25
+Attorney General,Procureur-generaal,25
+ambassadorship,ambassadeurschap,25
+moderatorship,moderatorschap,25
+overlordship,opperheerschappij,25
+commandership,bevelhebberschap,25
+Secretary of Agriculture,minister van landbouw,25
+inspectorship,inspecteurschap,25
+Secretary of Commerce,Minister van Handel,25
+Secretary of the Treasury,minister van Financiën,25
+spoonfeeding,met de lepel voeden,26
+Secretary of War,minister van oorlog,26
+chancellorship,kanselierschap,26
+precentorship,precentorschap,26
+tool-and-die work,gereedschap-en-die-werk,26
+viceroyship,onderkoningschap,26
+Secretary of State,staatssecretaris,26
+Secretary of Labor,minister van arbeid,26
+councillorship,raadslidmaatschap,26
+Secretary of Health and Human Services,Minister van Volksgezondheid en Human Services,26
+bailiffship,gerechtsdeurwaarder,27
+vice-presidency,vice-voorzitterschap,27
+Secretary of Veterans Affairs,Secretaris van Veteranenzaken,27
+President of the United States,president van de Verenigde Staten,27
+Secretary of Housing and Urban Development,Minister van Volkshuisvesting en Stedelijke Ontwikkeling,27
+Secretary of Energy,Minister van Energie,27
+Secretary of Transportation,Minister van Transport,27
+Secretary of the Navy,Secretaris van de Marine,27
+Secretary of Commerce and Labor,Minister van Handel en Arbeid,27
+Secretary of the Interior,Minister van Binnenlandse Zaken,27
+Secretary of Defense,minister van Defensie,28
+Secretary of Education,minister van Onderwijs,28
+Secretary of Health Education and Welfare,Minister van Gezondheidseducatie en Welzijn,28

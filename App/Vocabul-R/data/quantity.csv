@@ -1,0 +1,45 @@
+EngWord,NldWord,Group
+value,waarde,0
+product,Product,0
+term,termijn,0
+double,dubbele,0
+vote,stemmen,0
+zero,nul,0
+factor,factor,0
+multiple,meerdere,0
+sum,som,0
+argument,argument,0
+average,gemiddeld,1
+argument,argument,1
+vector,vector,1
+grand total,eindtotaal,1
+quantum,quantum,1
+scale value,schaalwaarde,1
+variable,variabele,1
+tensor,tensor,1
+constant,constante,1
+parameter,parameter,1
+scalar,scalair,2
+vector sum,vectorsom,2
+parameter,parameter,2
+degree of freedom,graad van vrijheid,2
+degree of freedom,graad van vrijheid,2
+operand,operand,2
+subtotal,subtotaal,2
+lowest common multiple,kleinste gemene veelvoud,2
+vector product,vectorproduct,2
+correlate,correlaat,2
+binomial,binomiaal,3
+independent variable,onafhankelijke variabele,3
+random variable,willekeurige variabele,3
+radius vector,straal vector,3
+radius vector,straal vector,3
+triple,verdrievoudigen,3
+proportional,proportioneel,3
+factorial,faculteit,3
+dependent variable,afhankelijke variabele,3
+eigenvalue,eigenwaarde,3
+numerical quantity,numerieke hoeveelheid,4
+predictor variable,voorspellervariabele,4
+infinitesimal,oneindig klein,4
+quadruple,verviervoudigen,4

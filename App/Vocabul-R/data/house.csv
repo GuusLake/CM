@@ -1,0 +1,60 @@
+EngWord,NldWord,Group
+villa,villa,0
+villa,villa,0
+villa,villa,0
+lodge,logeren,0
+lodge,logeren,0
+abbey,abdij,0
+palace,paleis,0
+palace,paleis,0
+country house,landhuis,0
+cabin,cabine,0
+abbey,abdij,1
+log cabin,blokhut,1
+boarding house,pension,1
+court,rechtbank,1
+chalet,chalet,1
+summer house,zomerhuis,1
+chateau,kasteel,1
+beach house,strandhuis,1
+solar house,zonne huis,1
+shooting lodge,schiethut,1
+residence,residentie,2
+manor,landhuis,2
+safe house,veilig huis,2
+row house,rijtjeshuis,2
+bungalow,bungalow,2
+priory,priorij,2
+monastery,klooster,2
+guesthouse,Gasthuis,2
+lodging house,logeerhuis,2
+mansion,herenhuis,2
+hacienda,hacienda,3
+dacha,datsja,3
+bed and breakfast,bed and breakfast,3
+ranch house,ranch huis,3
+parsonage,pastorie,3
+convent,klooster,3
+alcazar,alcázar,3
+farmhouse,boerderij,3
+deanery,decanaat,3
+religious residence,religieuze woonplaats,3
+saltbox,zoutbak,4
+manse,pastorie,4
+tract house,traktaat huis,4
+friary,klooster,4
+glebe house,glebe huis,4
+brownstone,bruinsteen,4
+stately home,statig huis,4
+dollhouse,poppenhuis,4
+detached house,Vrijstaand huis,4
+duplex house,twee onder een kap,4
+lamasery,lamasery,5
+terraced house,rijtjeshuis,5
+flophouse,flophouse,5
+sod house,graszoden huis,5
+gatehouse,poortgebouw,5
+charterhouse,charterhuis,5
+maisonette,maisonnette,5
+nunnery,nonnenklooster,5
+chapterhouse,kapittelzaal,5

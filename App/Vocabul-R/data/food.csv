@@ -1,0 +1,1527 @@
+EngWord,NldWord,Group
+ice,ijs,0
+feed,voer,0
+menu,menu,0
+board,bord,0
+wine,wijn,0
+salt,zout,0
+pop,knal,0
+sweet,zoet,0
+stick,stok,0
+milk,melk,0
+cream,Room,1
+milk,melk,1
+plate,bord,1
+tea,thee,1
+tea,thee,1
+kiss,kus,1
+tea,thee,1
+milk,melk,1
+beer,bier,1
+chip,chip,1
+cheese,kaas,2
+egg,ei,2
+marc,marc,2
+jam,jam,2
+water,water,2
+juice,SAP,2
+port,haven,2
+sauce,saus,2
+mint,munt,2
+mint,munt,2
+cup,beker,3
+wrap,wrap,3
+corn,maïs,3
+dinner,diner,3
+soup,soep,3
+rice,rijst,3
+lunch,lunch,3
+egg white,eiwit,3
+pizza,pizza,3
+mate,maat,3
+mix,mengen,4
+perry,perry,4
+must,moeten,4
+course,Cursus,4
+bread,brood,4
+cottage cheese,kwark,4
+coffee,koffie,4
+candy,snoep,4
+butter,boter,4
+dip,duik,4
+danish,Deens,5
+pepper,peper,5
+beverage,drank,5
+wheat,tarwe,5
+bite,beet,5
+sugar,suiker,5
+hash,hasj,5
+dietary,dieet,5
+flour,meel,5
+mess,troep,5
+mess,troep,6
+plain flour,meel,6
+rue,rue,6
+duff,stom,6
+spice,kruid,6
+cola,cola,6
+herb,kruid,6
+mixer,mixer,6
+hay,hooi-,6
+pasta,pasta,6
+ale,ale,7
+center,centrum,7
+nan,nan,7
+grain,korrel,7
+sour,zuur,7
+punch,ponsen,7
+cooler,koeler,7
+western,westers,7
+breakfast,ontbijt,7
+sack,zak,7
+vintage,vintage,8
+fare,tarief,8
+honey,honing,8
+rum,rum,8
+alcohol,alcohol,8
+ice cream,Softijs,8
+ice tea,ijsthee,8
+mast,mast,8
+turnover,afzet,8
+mole,wrat,8
+salsa,salsa,9
+olive,olijf-,9
+formula,formule,9
+dough,deeg,9
+dish,gerecht,9
+chili,Chili,9
+marrow,merg,9
+geneva,Genève,9
+bitter,bitter,9
+salad,salade,9
+draft beer,tapbier,10
+gin,gin,10
+jelly,gelei,10
+cocoa,cacao,10
+cocoa,cacao,10
+ginger,gember,10
+buffet,buffet,10
+mead,mede,10
+ginger,gember,10
+liquor,likeur,10
+liquor,likeur,11
+chow,chow,11
+banquet,banket,11
+taco,taco,11
+split,splitsen,11
+zombie,zombie,11
+whip,zweep,11
+collins,collins,11
+sushi,sushi,11
+dessert,toetje,11
+cake mix,cake mix,12
+ice water,ijswater,12
+white bread,witbrood,12
+curry,kerrie,12
+egg roll,loempia,12
+cream cheese,roomkaas,12
+whey,wei,12
+snack food,snacks,12
+high tea,high tea,12
+special,speciaal,12
+fast food,Fast food,13
+vinegar,azijn,13
+cinnamon,kaneel,13
+syrup,siroop,13
+stout,stout,13
+macon,macon,13
+barley,gerst,13
+quark cheese,kwark,13
+spring water,bronwater,13
+vodka,wodka,13
+generic,algemeen,14
+blanc,blanco,14
+water ice,water ijs,14
+red wine,rode wijn,14
+table wine,tafelwijn,14
+malt,mout,14
+vitamin,vitamine,14
+cream sauce,roomsaus,14
+malt,mout,14
+ice milk,ijs melk,14
+oil meal,oliemeel,15
+porter,portier,15
+filling,vulling,15
+meal,maaltijd,15
+meal,maaltijd,15
+hot pot,hete pot,15
+bishop,bisschop,15
+poi,poi,15
+fish stick,visstick,15
+apple juice,appelsap,15
+egg cream,eierroom,16
+gravy,saus,16
+candy egg,snoep ei,16
+cider,cider,16
+gravy,saus,16
+rye,Rogge,16
+corn cake,maïscake,16
+paddy,padie,16
+sherry,sherry,16
+loaf of bread,brood,16
+fruit juice,fruitsap,17
+hard roll,harde rol,17
+onion salt,ui zout,17
+brunch,brunch,17
+onion roll,uienrol,17
+sweet roll,zoete rol,17
+sandwich,broodje,17
+bird feed,vogelvoer,17
+pink lady,roze dame,17
+branch water,tak water,17
+soft drink,frisdrank,18
+mash,puree,18
+broad bean,tuinboon,18
+sun tea,zonnethee,18
+whiskey,whisky,18
+tea bag,theezakje,18
+pate,paté,18
+custard,vla,18
+brittle,bros,18
+dressing,dressing,18
+lager,pils,19
+mold,gietvorm,19
+wort,wort,19
+bleu,blauw,19
+fodder,voer,19
+tonic,tonic,19
+thyme,tijm,19
+agar,agar,19
+vanilla,vanille,19
+charlotte,Charlotte,19
+fish cake,vis taart,20
+oil cake,olie cake,20
+hand cheese,hand kaas,20
+process cheese,smeltkaas,20
+cheese spread,smeerkaas,20
+cheese dip,kaas dip,20
+picnic,picknick,20
+garlic,knoflook,20
+bap,bap,20
+popcorn,popcorn,20
+manhattan,Manhattan,21
+bock,bock,21
+bubble gum,kauwgom,21
+hot sauce,hete saus,21
+cheese sauce,kaas saus,21
+kosher,koosjer,21
+licorice,drop,21
+martini,martini,21
+kava,kava,21
+pastry,gebakje,21
+wine sauce,wijn saus,22
+mint sauce,munt saus,22
+corn chip,maïs chip,22
+pickle,augurk,22
+dog food,hondenvoer,22
+cat food,kattenvoer,22
+candy bar,snoepreep,22
+white wine,witte wijn,22
+mocha,mokka,22
+tea bread,theebrood,22
+phosphate,fosfaat,23
+double cream,dubbelroom,23
+mocha,mokka,23
+diet,eetpatroon,23
+batter,beslag,23
+dill,dille,23
+brew,brouwen,23
+pepper sauce,pepersaus,23
+diet,eetpatroon,23
+mace,foelie,23
+roux,roux,24
+mixed drink,mixdrankje,24
+side dish,bijgerecht,24
+porridge,pap,24
+whole milk,volle melk,24
+business lunch,zakenlunch,24
+bagel,bagel,24
+coloring,kleuren,24
+raw milk,rauwe melk,24
+chicken feed,kippenvoer,24
+oat,haver,25
+jello,jello,25
+soft roll,zachte rol,25
+comfort food,troosteten,25
+miso,miso,25
+pepper pot,peper pot,25
+cracker,cracker,25
+pudding,pudding,25
+cocktail,cocktail,25
+root beer,wortelbier,25
+cocktail,cocktail,26
+biscuit,biscuit,26
+pudding,pudding,26
+fudge,toffees,26
+pudding,pudding,26
+sling,slinger,26
+stuffing,vulling,26
+nectar,nectar,26
+muffin,muffin,26
+flip,omdraaien,26
+soy sauce,sojasaus,27
+espresso,espresso,27
+cream soda,roomsoda,27
+sake,rijstwijn,27
+nut bar,notenreep,27
+old fashioned,oubollig,27
+yogurt,yoghurt,27
+elixir,elixer,27
+cud,kudt,27
+timothy,timotheüs,27
+duck sauce,eend saus,28
+potato,aardappel,28
+scrambled eggs,roerei,28
+gyro,gyros,28
+chewing gum,kauwgom,28
+mousse,mousse,28
+mousse,mousse,28
+bourbon,bourbon,28
+relish,Relish,28
+savory,hartig,28
+onion bread,uienbrood,29
+bun,broodje,29
+savory,hartig,29
+cattle cake,vee taart,29
+champagne,Champagne,29
+bean dip,bonen dip,29
+pesto,pesto,29
+quick bread,snel brood,29
+lollipop,lolly,29
+nacho,nacho,29
+barbecue,barbecue,30
+barbecue,barbecue,30
+lime juice,limoensap,30
+light beer,licht bier,30
+caramel,karamel,30
+puree,puree,30
+candy cane,zuurstok,30
+caramel,karamel,30
+fondue,fondue,30
+drinking water,drinkwater,30
+colostrum,biest,31
+gumbo,gumbo,31
+poppy seed,maanzaad,31
+grog,grog,31
+date bread,dadelbrood,31
+fondue,fondue,31
+casserole,braadpan,31
+cheddar,Cheddar,31
+mustard,mosterd-,31
+fruit drink,fruit drank,31
+hard candy,hard snoep,32
+clary sage,salie,32
+coffee break,koffiepauze,32
+tequila,tequila,32
+cheese pizza,kaas pizza,32
+chili sauce,chilisaus,32
+alfalfa,luzerne,32
+ghee,ghee,32
+anise,anijs,32
+finger food,fingerfood,32
+cotton candy,suikerspin,33
+soft diet,zacht dieet,33
+liqueur,likeur,33
+light diet,licht dieet,33
+rock candy,Rock snoep,33
+rock candy,Rock snoep,33
+lozenge,ruit,33
+stew,stoofpot,33
+culture medium,kweekmedium,33
+fish loaf,visbrood,33
+fennel,venkel,34
+cayenne,cayenne,34
+bean curd,tahoe,34
+candy corn,Snoep mais,34
+chicken soup,kippensoep,34
+hard sauce,harde saus,34
+white sauce,witte saus,34
+molasses,stroop,34
+bread sauce,brood saus,34
+rat cheese,rattenkaas,34
+sweet corn,Zoete maïs,35
+instant coffee,oploskoffie,35
+fennel,venkel,35
+curacao,Curacao,35
+bran,zemelen,35
+straw wine,stro wijn,35
+wafer,wafeltje,35
+heavy cream,Heavy Cream,35
+black tea,zwarte thee,35
+white rice,witte rijst,35
+haggis,haggis,36
+nosh,nosh,36
+whipping cream,slagroom,36
+sage,verstandig,36
+wild rice,wilde rijst,36
+apple turnover,appelflap,36
+gruel,pap,36
+coconut milk,kokosmelk,36
+sorghum,sorghum,36
+green tea,groene thee,36
+ginger beer,gemberbier,37
+lemon juice,citroensap,37
+sour milk,zure melk,37
+lamb curry,lamscurry,37
+wheat flour,tarwebloem,37
+bisque,biscuit,37
+biotin,biotine,37
+cold duck,koude eend,37
+ingredient,ingrediënt,37
+fruit punch,fruitpunch,37
+coconut milk,kokosmelk,38
+milk punch,melk punch,38
+chicken salad,kip salade,38
+chili dog,chili hond,38
+nut bread,notenbrood,38
+flan,vlaai,38
+fish meal,vismaaltijd,38
+soybean meal,sojameel,38
+alphabet soup,lettersoep,38
+gum ball,kauwgombal,38
+egg yolk,eigeel,39
+yolk,dooier,39
+scone,scone,39
+hooch,hoera,39
+potluck,potluck,39
+sour cream,zure room,39
+rickey,rickey,39
+marshmallow,heemst,39
+nougat,noga,39
+brown bread,bruin brood,39
+farina,farina,40
+black bread,zwart brood,40
+chicken taco,kip taco,40
+peanut butter,pindakaas,40
+bay leaf,laurierblad,40
+sour salt,zuur zout,40
+ouzo,ouzo,40
+hyssop,hysop,40
+plonk,plonk,40
+tarragon,Dragon,40
+angelica,Angelica,41
+julep,julep,41
+nipa,nipa,41
+onion butter,uien boter,41
+millet,gierst-,41
+wasabi,wasabi,41
+chutney,chutney,41
+broth,bouillon,41
+mimosa,mimosa,41
+food cache,voedselcache,41
+lemonade,limonade,42
+proof spirit,bewijs geest,42
+broth,bouillon,42
+pepper steak,pepersteak,42
+goat cheese,geitenkaas,42
+omelet,omelet,42
+cafe noir,café noir,42
+string cheese,touwtje kaas,42
+spread,verspreiding,42
+kirsch,kirsch,42
+angelica,Angelica,43
+yak butter,jakboter,43
+stinger,stinger,43
+wine vinegar,wijnazijn,43
+pearl barley,parelgort,43
+patty,pasteitje,43
+patty,pasteitje,43
+niacin,niacine,43
+light cream,lichte crème,43
+ration,rantsoen,43
+sugar candy,kandijsuiker,44
+tapioca,tapioca,44
+sesame seed,sesamzaad,44
+aioli,aioli,44
+gelatin,gelatine,44
+dark bread,donker brood,44
+risotto,risotto,44
+negus,negus,44
+apple butter,appel boter,44
+lasagna,lasagne,44
+burrito,burrito,45
+appetizer,voorafje,45
+pilaf,pilaf,45
+curry sauce,Curry saus,45
+sugar water,suiker water,45
+grape juice,druivensap,45
+ricotta,ricotta,45
+graham bread,graham brood,45
+tomato juice,tomatensap,45
+seltzer,seltzer,45
+fizz,bruisen,46
+peanut bar,pinda reep,46
+saute,fruiten,46
+power breakfast,power ontbijt,46
+truffle,truffel,46
+choline,choline,46
+pale ale,bleek bier,46
+adobo,adobo,46
+soul food,zielenvoedsel,46
+ginger ale,Gemberbier,46
+brown sauce,bruine saus,47
+tahini,tahin,47
+jelly bean,jelly bean,47
+turmeric,kurkuma,47
+kabob,kabob,47
+basil,basilicum,47
+supper,avondeten,47
+spaghetti,spaghetti,47
+paprika,paprika,47
+saffron,saffraan,47
+peach ice cream,perzik ijs,48
+fish chowder,vissoep,48
+chowder,chowder,48
+cane sugar,rietsuiker,48
+aspic,aspic,48
+chocolate egg,chocolade ei,48
+kaiser roll,keizersrol,48
+apple jelly,appelgelei,48
+matzo,matze,48
+sour bread,zuur brood,48
+corn sugar,maïs suiker,49
+caraway,karwij,49
+chicken and rice,kip en rijst,49
+brown rice,bruine rijst,49
+borage,borage,49
+vitamin pill,vitamine pil,49
+saltine,zout,49
+tuck,instoppen,49
+birch beer,berkenbier,49
+rosemary,rozemarijn,49
+bread dough,brood deeg,50
+white pepper,witte peper,50
+paella,paella,50
+curd,wrongel,50
+curd,wrongel,50
+hotdog,hotdog,50
+hummus,hummus,50
+eatage,eten,50
+cottage pie,cottage pie,50
+goulash,goulash,50
+onion bagel,ui bagel,51
+pinole,pinole,51
+training table,trainingstafel,51
+suds,zeepsop,51
+slop,slordig,51
+oolong,oolong,51
+black olive,zwarte olijf,51
+green olive,groene olijf,51
+brown butter,bruine boter,51
+black pepper,zwarte peper,51
+lemon oil,citroen olie,52
+Brie,Brie,52
+sidecar,zijspan,52
+fruit salad,fruit salade,52
+souffle,soufflé,52
+carrot juice,wortelsap,52
+lovage,lavas,52
+frog legs,kikkerpoten,52
+nut butter,noten boter,52
+salmi,salmi,52
+won ton,gewonnen ton,53
+inositol,inositol,53
+smoothie,smoothie,53
+grappa,grappa,53
+ham sandwich,broodje ham,53
+taco sauce,taco saus,53
+pea soup,erwtensoep,53
+creep feed,kruipvoer,53
+junket,junket,53
+brown sugar,bruine suiker,53
+soya milk,sojamelk,54
+chocolate milk,chocolademelk,54
+chicken sandwich,broodje kip,54
+rye bread,roggebrood,54
+pea flour,erwtenmeel,54
+herb tea,kruidenthee,54
+starches,zetmeel,54
+bannock,bannock,54
+marinade,marinade,54
+treacle,stroop,54
+feed grain,graan voeren,55
+pineapple juice,ananas SAP,55
+corn dab,maïs schar,55
+allspice,piment,55
+tamale,tamale,55
+chocolate ice cream,chocolade-ijs,55
+Medoc,Medoc,55
+eau de vie,eau de vie,55
+raita,raita,55
+marmite,marmite,55
+schnapps,schnaps,56
+brandy,brandewijn,56
+slug,naaktslak,56
+falafel,falafel,56
+corn chowder,maïssoep,56
+tempura,tempura,56
+carrot stick,wortelstok,56
+bear claw,berenklauw,56
+glogg,ggggg,56
+vanilla bean,vanilleboon,56
+puff paste,bladerdeeg,57
+kvass,kwas,57
+margarita,margarita,57
+parfait,parfait,57
+iced coffee,ijskoffie,57
+chocolate kiss,chocolade kus,57
+butty,butty,57
+foodstuff,voedsel,57
+gimlet,gimlet,57
+hamburger,Hamburger,57
+bitters,bitters,58
+gin and tonic,gin-tonic,58
+compote,compote,58
+bonbon,bonbon,58
+vanilla ice cream,vanille-ijs,58
+dumpling,knoedel,58
+ragout,ragoût,58
+bialy,bialy,58
+spoon bread,lepel brood,58
+sashimi,sashimi,58
+knish,knish,59
+absinth,absint,59
+bulgur,bulgur,59
+tomato sauce,tomatensaus,59
+Soave,Soave,59
+mescal,mescal,59
+viand,spijs,59
+pastis,pastis,59
+fish mousse,vismousse,59
+sherbert,sorbet,59
+buffalo wing,buffel vleugel,60
+sandwich plate,sandwichbord,60
+margarine,margarine,60
+canape,canapé,60
+pasta salad,pasta salade,60
+peach sauce,perzik saus,60
+oatmeal,havermout,60
+hominy,hominy,60
+fruit custard,fruit vla,60
+hyson,hyson,60
+mineral water,mineraalwater,61
+dessert wine,dessertwijn,61
+oatmeal,havermout,61
+chervil,kervel,61
+bigos,bigos,61
+club sandwich,clubsandwich,61
+sweetening,zoeten,61
+gherkin,augurk,61
+jujube,jujube,61
+fish and chips,Fish and chips,61
+tomato paste,tomatenpuree,62
+concentrate,concentreren,62
+anisette,anijs,62
+banana split,bananensplit,62
+chow mein,chow mein,62
+boiled egg,gekookt ei,62
+samosa,samosa,62
+blood meal,bloedmaaltijd,62
+cinnamon bread,kaneelbrood,62
+maple syrup,ahornsiroop,62
+pavlova,pavlova,63
+swizzle,swizzle,63
+aqua vitae,aqua vitae,63
+green salad,groene salade,63
+plum sauce,pruimensaus,63
+praline,praline,63
+sausage pizza,worst pizza,63
+popcorn ball,popcorn bal,63
+bitter lemon,bitter lemon,63
+mustard seed,mosterdzaad,63
+potage,potage,64
+kummel,kummel,64
+canary seed,kanariezaad,64
+brick cheese,baksteen kaas,64
+stover,stoofpot,64
+peppermint,pepermunt,64
+congee,congee,64
+chili powder,Chili poeder,64
+challah,challah,64
+cola extract,cola-extract,64
+croquette,kroket,65
+steak sauce,biefstuksaus,65
+fish fry,gebakken vis,65
+poteen,poteen,65
+borsch,borsch,65
+orange juice,sinaasappelsap,65
+kishke,kishke,65
+snowball,sneeuwbal,65
+vermouth,vermout,65
+altar wine,altaar wijn,65
+snowball,sneeuwbal,66
+skilly,handig,66
+catsup,ketchup,66
+Edam,Edam,66
+kibble,brokken,66
+mayonnaise,mayonaise,66
+chocolate sauce,chocolade saus,66
+liquid diet,vloeibaar dieet,66
+strawberry jam,aardbeienjam,66
+ham and eggs,Ham en eieren,66
+teriyaki,teriyaki,67
+cardamom,kardemom,67
+fondant,fondant,67
+dainty,sierlijk,67
+chives,bieslook,67
+silage,kuilvoer,67
+ambrosia,ambrozijn,67
+ambrosia,ambrozijn,67
+buckwheat,boekweit,67
+strawberry ice cream,aardbeienijs,67
+dill seed,dillezaad,68
+mulled cider,Glühwein,68
+garlic butter,knoflookboter,68
+marmalade,marmelade,68
+terrine,terrine,68
+brioche,brioche,68
+buttermilk,karnemelk,68
+criollo,criollo,68
+coriander,koriander,68
+coriander,koriander,68
+spotted dick,gevlekte lul,69
+Moselle,Moezel,69
+shortcake,shortcake,69
+Yquem,Yquem,69
+barley water,gerstewater,69
+arrack,arak,69
+Irish,Iers,69
+banana bread,bananen brood,69
+Tokay,Tokio,69
+chili vinegar,chili azijn,69
+Reuben,Ruben,70
+hush puppy,Hush puppy,70
+turtle soup,schildpadsoep,70
+varietal,variëteit,70
+zinfandel,zinfandel,70
+garlic salt,knoflook zout,70
+aspartame,aspartaam,70
+garlic bread,knoflookbrood,70
+grist,maalkoren,70
+parsley,peterselie,70
+caper,kappertje,71
+whole wheat flour,volkoren meel,71
+bouillon,bouillon,71
+ice lolly,ijslolly,71
+cocktail sauce,Cocktail saus,71
+couscous,couscous,71
+julienne,julienne,71
+ramekin,ramekin,71
+timbale,timbaal,71
+crouton,crouton,71
+roulade,roulade,72
+nutriment,voeding,72
+scampi,scampi's,72
+grape jelly,druivengelei,72
+whiskey sour,whisky zuur,72
+corn whiskey,maïs whisky,72
+amaretto,amaretto,72
+stock cube,bouillonblokje,72
+gumdrop,kauwgom,72
+applesauce,appelmoes,72
+pruno,pruno,73
+coquille,coquille,73
+clam dip,mossel dip,73
+salmon loaf,zalm brood,73
+sour mash,zure puree,73
+jug wine,kruik wijn,73
+cough drop,hoestdruppel,73
+barbecue sauce,barbecuesaus,73
+corn pudding,maïspudding,73
+sweet cider,zoete cider,73
+Cognac,Cognac,74
+cafe royale,café royale,74
+stick cinnamon,kaneelstokje,74
+dairy product,zuivel product,74
+cinnamon toast,kaneel toast,74
+pretzel,krakeling,74
+Rioja,Rioja,74
+Pepsi,Pepsi,74
+sugar syrup,suikersiroop,74
+mulled wine,glühwein,74
+lobster butter,kreeft boter,75
+lump sugar,Klont suiker,75
+groats,grutten,75
+tiramisu,tiramisu,75
+bomber,bommenwerper,75
+sambuca,sambuca,75
+roughage,ruwvoer,75
+drop biscuit,drop koekje,75
+tuna fish salad,tonijnsalade,75
+mustard sauce,mosterd saus,75
+chicory,cichorei,76
+dragee,dragee,76
+fad diet,rage dieet,76
+powdered milk,melkpoeder,76
+concoction,brouwsel,76
+hard cider,harde cider,76
+cider vinegar,cider azijn,76
+fish house punch,vis huis punch,76
+spruce beer,sparren bier,76
+limpa,limpa,76
+lemon drop,citroen druppel,77
+marinara,Marinara,77
+piece de resistance,stuk de weerstand,77
+seasoned salt,gekruid zout,77
+biryani,biryani,77
+cornmeal,maïsmeel,77
+blush wine,blozen wijn,77
+lemon extract,citroen extract,77
+allergy diet,allergie dieet,77
+stodge,stodge,77
+sauerkraut,zuurkool,78
+burgoo,burgoo,78
+meatball,gehaktbal,78
+cappuccino,cappuccino,78
+gazpacho,gazpacho,78
+salad cream,salade dressing,78
+daiquiri,daiquiri,78
+blood agar,bloed agar,78
+Burton,Burton,78
+potato skin,aardappelschil,78
+Spam,Spam,79
+coffee substitute,koffiesurrogaat,79
+moussaka,moussaka,79
+reducing diet,dieet verminderen,79
+cornbread,maïsbrood,79
+loblolly,loblolly,79
+cachou,cachou,79
+rum sling,rum slinger,79
+horehound,malafide,79
+bottled water,flessenwater,79
+condiment,kruiderij,80
+tapenade,tapenade,80
+guacamole,guacamole,80
+conserve,conserveren,80
+chop suey,chop suey,80
+dragee,dragee,80
+bitok,bitok,80
+bland diet,flauw dieet,80
+fried egg,gefrituurd ei,80
+sassafras,sassafras,80
+spritzer,spritzer,81
+stuffed cabbage,gevulde kool,81
+cheese fondue,kaasfondue,81
+meat loaf,gehaktbrood,81
+eggnog,eierpunch,81
+peanut brittle,pinda Bros,81
+highball,highball,81
+curry powder,kerrie poeder,81
+potion,toverdrank,81
+wheat germ,tarwekiemen,81
+cookout,uitkoken,82
+clove,kruidnagel,82
+fenugreek,fenegriek,82
+congou,Congo,82
+duck pate,eendenpaté,82
+frittata,frittata,82
+clove,kruidnagel,82
+phyllo,filodeeg,82
+lekvar,lekvar,82
+clambake,clambake,82
+clotted cream,slagroom,83
+near beer,in de buurt van bier,83
+bacon and eggs,spek en eieren,83
+clear liquid diet,helder vloeibaar dieet,83
+certified milk,gecertificeerde melk,83
+triple cream,drievoudige crème,83
+potato salad,aardappelsalade,83
+crab cocktail,krab cocktail,83
+corn muffin,maïs muffin,83
+square meal,vierkante maaltijd,83
+stuffed tomato,gevulde tomaat,84
+soda water,mineraalwater,84
+lemon peel,Citroen schil,84
+stuffed tomato,gevulde tomaat,84
+fruit cocktail,fruit cocktail,84
+papaya juice,papaya sap,84
+pork and beans,varken en bonen,84
+tostada,tostada,84
+bathtub gin,badkuip gin,84
+crescent roll,halve maan rol,84
+Scotch,Scotch,85
+gin rickey,gin rickey,85
+egg foo yong,ei foo yong,85
+popover,popover,85
+Postum,postum,85
+aquavit,aquavit,85
+champagne cup,champagne beker,85
+Nantua,Nantua,85
+skim milk,magere melk,85
+neutral spirits,neutrale geesten,85
+moonshine,maneschijn,86
+Seder,Seder,86
+grenadine,grenadine,86
+choice morsel,keuze hap,86
+lentil soup,linzensoep,86
+Kahlua,Kahlua,86
+Bercy,Bercy,86
+mozzarella,Mozzarella,86
+nosh-up,nosh-up,86
+fried rice,gebakken rijst,86
+frozen food,diepvries voedsel,87
+marjoram,marjolein,87
+brownie mix,brownie mix,87
+comestible,eetbaar,87
+triple sec,driedubbele seconde,87
+purloo,purloo,87
+shrimp butter,garnalen boter,87
+combination salad,combinatie salade,87
+continental breakfast,continentaal ontbijt,87
+water biscuit,water koekje,87
+wish-wash,wenswas,88
+jambalaya,jambalaya,88
+cinnamon roll,kaneelbroodje,88
+ingesta,innemen,88
+saccharin,sacharine,88
+sapsago,sapsago,88
+Madeira,Madeira,88
+enchilada,enchilada,88
+Gouda,Gouda,88
+home brew,thuis brouwen,88
+rotgut,rotgut,89
+potpie,hutspot,89
+corn syrup,glucosestroop,89
+aperitif,aperitief,89
+balanced diet,gebalanceerd dieet,89
+demerara,demerara,89
+demerara,demerara,89
+five spice powder,vijfkruidenpoeder,89
+sloe gin,sloe gin,89
+cranberry juice,cranberry sap,89
+grasshopper,sprinkhaan,90
+mince,fijnhakken,90
+hot toddy,hete grog,90
+vodka martini,wodka martini,90
+kedgeree,kedgeree,90
+ice-cream cake,ijstaart,90
+ice-cream cone,ijshoorn,90
+canned meat,vlees in blik,90
+nutmeg,nootmuskaat,90
+marzipan,marsepein,90
+dolmas,dolmas,91
+sukiyaki,sukiyaki,91
+poulette,poulet,91
+sweetmeat,snoepje,91
+souvlaki,souvlaki,91
+Colbert,Colbert,91
+forcemeat,gehakt,91
+Smitane,Smitane,91
+burgoo,burgoo,91
+fennel seed,venkelzaad,91
+Soubise,Soubise,92
+lutefisk,lutefisk,92
+Pernod,Pernod,92
+coq au vin,coq au vin,92
+Pilsner,Pilsener,92
+mushroom sauce,champignonsaus,92
+dietary supplement,voedingssupplement,92
+pulque,pulque,92
+ashcake,astaart,92
+clam chowder,mosselsoep,92
+scrumpy,heerlijk,93
+pottage,stoofpot,93
+tisane,tisane,93
+sweet pickle,zoete augurk,93
+Rob Roy,Rob Roy,93
+tabbouleh,tabouleh,93
+penuche,penuche,93
+costmary,costmary,93
+snail butter,slakkenboter,93
+oenomel,oenomel,93
+carrot pudding,wortelpudding,94
+pita,pitabroodje,94
+Muenster,Münster,94
+koumiss,koumiss,94
+muscat,muskaatnoot,94
+icing sugar,poedersuiker,94
+ratafia,ratafia,94
+retsina,retsina,94
+frozen orange juice,bevroren sinaasappelsap,94
+juniper berries,jeneverbessen,94
+gluten bread,gluten brood,95
+celery seed,selderijzaad,95
+entree,voorgerecht,95
+caraway seed,Karwijzaad,95
+cracked wheat,gebroken tarwe,95
+boiled dinner,gekookt diner,95
+souchong,souchong,95
+Galliano,Galliano,95
+herring salad,haring salade,95
+drop scone,drop scone,95
+lemon balm,citroenbalsem,96
+refreshment,verfrissing,96
+orange peel,sinaasappelschil,96
+bullshot,bullshot,96
+hardtack,hardtack,96
+tomato concentrate,tomatenconcentraat,96
+Calvados,Calvados,96
+diabetic diet,diabetisch dieet,96
+limeade,limonade,96
+molded salad,gevormde salade,96
+molasses kiss,melasse kus,97
+shrimp cocktail,garnalencocktail,97
+frozen dessert,bevroren dessert,97
+honey crisp,honing knapperig,97
+almond extract,amandelextract,97
+powdered sugar,poedersuiker,97
+rolled biscuit,gerold koekje,97
+jacket potato,aardappel in de schil,97
+orange soda,Oranje frisdrank,97
+chicken stew,kippenhutspot,97
+lemonade mix,limonade mix,98
+blue cheese dressing,blauwe kaas dressing,98
+double creme,dubbele crème,98
+antipasto,antipasto,98
+field ration,veldrantsoen,98
+schnitzel,schnitzel,98
+toast,geroosterd brood,98
+allemande,allemande,98
+Easter egg,paasei,98
+cranberry sauce,cranberry saus,98
+Merlot,Merlot,99
+baked potato,gebakken aardappel,99
+semolina,griesmeel,99
+creme anglais,crème engels,99
+barmbrack,barmbark,99
+clabber,verzuren,99
+V-8 juice,V-8 sap,99
+spaghetti sauce,spaghetti saus,99
+blended whiskey,blended whisky,99
+Tabasco,tabasco,99
+soup du jour,soep van de dag,100
+chapatti,chapati,100
+divinity,goddelijkheid,100
+summer savory,zomer hartig,100
+cross bun,kruis broodje,100
+pigs in blankets,varkens in dekens,100
+oyster cracker,oester cracker,100
+graham cracker,Graham cracker,100
+Easter egg,paasei,100
+carbonara,carbonara,100
+dill pickle,dille augurk,101
+flummery,geleuter,101
+elixir of life,Levenselixir,101
+refresher,opfriscursus,101
+apricot sauce,abrikozensaus,101
+Gruyere,Gruyère,101
+creme caramel,crème caramel,101
+Dubonnet,Dubonnet,101
+Chablis,Chablis,101
+plum pudding,pruimenpudding,101
+Vouvray,Vouvray,102
+rissole,rissole,102
+sparkling wine,mousserende wijn,102
+cassiri,cassiri,102
+veloute,velouté,102
+pirogi,pirogi,102
+brandy sling,cognac slinger,102
+Chianti,Chianti,102
+french fries,Franse frietjes,102
+turkey stuffing,kalkoenvulling,102
+chicken paprika,kip paprika,103
+beet sugar,bietensuiker,103
+nonpareil,nonpareil,103
+stuffed peppers,gevulde paprika's,103
+oyster stuffing,oester vulling,103
+fricassee,fricassee,103
+scrapple,schrappen,103
+oyster stew,oesterstoofpot,103
+syllabub,syllabus,103
+celery salt,selderij zout,103
+osso buco,osso buco,104
+zwieback,zwieback,104
+chocolate fudge,chocolade Fudge,104
+vanilla pudding,vanille pudding,104
+cobbler,schoenmaker,104
+corn gluten feed,maïsglutenvoer,104
+Armagnac,Armagnac,104
+benedictine,benedictijn,104
+chicken mousse,kippenmousse,104
+frozen custard,bevroren vla,104
+condensed milk,gecondenseerde melk,105
+beef fondue,runderfondue,105
+honey bun,honing broodje,105
+galantine,galantine,105
+Marsala,Marsala,105
+orange toast,sinaasappel toast,105
+flatbread,plat brood,105
+trifle,kleinigheid,105
+Stilton,stilton,105
+Rhine wine,Rijnwijn,105
+mock turtle soup,nep schildpad soep,106
+gin and it,jenever en het?,106
+grapefruit juice,grapefruit SAP,106
+sugarloaf,suikerbrood,106
+grissino,grissino,106
+beef broth,runderbouillon,106
+caffe latte,koffie latte,106
+ravigote,ravigote,106
+tossed salad,gemengde salade,106
+comfit,troosten,106
+coleslaw,koolsalade,107
+confiture,confituur,107
+succotash,succotash,107
+sweet cicely,lieve cely,107
+gorgonzola,gorgonzola,107
+powdered mustard,mosterdpoeder,107
+bearnaise,bearnaise,107
+stuffed mushroom,gevulde champignons,107
+quesadilla,Quesadilla,107
+vegetarianism,vegetarisme,107
+refection,reflectie,108
+lobscouse,lobscouse,108
+Host,Gastheer,108
+prune whip,snoeien zweep,108
+chicken casserole,kip ovenschotel,108
+foie gras,Ganzenlever,108
+canned food,ingeblikt voedsel,108
+nougat bar,nougatreep,108
+hydromel,hydromel,108
+choc-ice,choc-ijs,108
+confectionery,banketbakkerij,109
+peppermint oil,pepermunt olie,109
+drip coffee,koffie druppelen,109
+frozen yogurt,bevroren yoghurt,109
+jawbreaker,kaakbreker,109
+smorgasbord,smorgasbord,109
+Sauterne,Sauterne,109
+winter savory,winter hartig,109
+grated cheese,geraspte kaas,109
+Scotch egg,Schots ei,109
+chocolate pudding,chocoladepudding,110
+comfrey,smeerwortel,110
+rollmops,rolmops,110
+chyme,maagbrij,110
+frozen pudding,bevroren pudding,110
+soda cracker,frisdrank cracker,110
+carbohydrate loading,koolhydraten laden,110
+coffee liqueur,koffie likeur,110
+lobster stew,kreeft stoofpot,110
+Camembert,Camembert,110
+castor sugar,basterdsuiker,111
+Velveeta,Velveeta,111
+mashed potato,aardappelpuree,111
+Sazerac,Sazerac,111
+fish stew,vissen stoofpot,111
+cannelloni,cannelloni,111
+Riesling,riesling,111
+chowchow,chowchow,111
+green pea soup,groene erwtensoep,111
+sourball,zuurbol,111
+oatcake,havercake,112
+metheglin,metheglin,112
+chicken Kiev,kip Kiev,112
+gin sling,jenever slinger,112
+clarified butter,geklaarde boter,112
+baguet,stokbrood,112
+matelote,matelote,112
+tortilla chip,tortillachips,112
+mascarpone,mascarpone,112
+pina colada,pina colada,112
+roly-poly,roly-poly,113
+raisin bread,rozijnenbrood,113
+cheese souffle,kaassoufflé,113
+cornpone,cornpone,113
+bran muffin,zemelen muffin,113
+crudites,rauwkost,113
+deviled egg,deviled egg,113
+cassareep,cassareep,113
+turkey stew,kalkoen stoofpot,113
+Weissbier,Weissbier,113
+home fries,huisgemaakte friet,114
+philter,filteren,114
+wiener roast,worst gebraden,114
+chicken broth,kippen bouillon,114
+larder,voorraadkast,114
+hoecake,hoecake,114
+salmagundi,salmagundi,114
+hollandaise,hollandaise,114
+celery stick,selderijstengel,114
+skillet bread,koekenpan brood,114
+goats' milk,geitenmelk,115
+maraschino,maraschino,115
+Coca Cola,Coca Cola,115
+maraschino,maraschino,115
+fishpaste,vispasta,115
+bubble and squeak,bubbel en piep,115
+Muscadet,Muscadet,115
+horseradish,mierikswortel,115
+Limburger,Limburger,115
+beef stew,rundvleesstoofpot,115
+firewater,vuur water,116
+malmsey,malvezij,116
+lye hominy,loog hominy,116
+bordelaise,bordelaise,116
+consomme,consumeren,116
+claret,bordeauxrood,116
+puff batter,bladerdeeg beslag,116
+blancmange,blancmange,116
+wassail,drinkgelag,116
+fortified wine,versterkte wijn,116
+screwdriver,schroevendraaier,117
+chowchow,chowchow,117
+hamburger bun,hamburgerbroodje,117
+peach melba,perzik melba,117
+bourguignon,bourguignon,117
+Drambuie,Drambuie,117
+shirred egg,geplooid ei,117
+cheeseburger,cheeseburger,117
+lacing,vetersluiting,117
+molasses taffy,melasse taffy,117
+taffy,soort snoepje,118
+butterscotch,butterscotch,118
+blueberry yogurt,bosbessen yoghurt,118
+vitamin E,vitamine E,118
+multivitamin,multivitamine,118
+ratatouille,ratatouille,118
+orangeade,orangeade,118
+Dom Pedro,Dom Pedro,118
+gelatin dessert,gelatine dessert,118
+tartare sauce,tartaarsaus,118
+grapefruit peel,grapefruit schil,119
+granulated sugar,kristalsuiker,119
+May wine,mei wijn,119
+flatbrod,flatbrod,119
+poached egg,gepocheerd ei,119
+Bordeaux,Bordeaux,119
+White Russian,witte Rus,119
+meringue kiss,meringue kus,119
+sugarplum,suikerpruim,119
+pease pudding,erwtenstamppot,119
+veal parmesan,kalfs parmezaan,120
+pickle relish,augurk genieten,120
+evaporated milk,verdampte melk,120
+breadstuff,broodbeleg,120
+Guinness,Guinness,120
+gefilte fish,gefilte vis,120
+buttermilk biscuit,karnemelkkoekje,120
+lithia water,lithia water,120
+creme brulee,creme brulee,120
+Espagnole,Espagnole,120
+anchovy sauce,ansjovissaus,121
+pinwheel roll,pinwheel roll,121
+C-ration,C-rantsoen,121
+macaroni salad,macaroni salade,121
+K ration,K-rantsoen,121
+Weizenbier,Weizenbier,121
+Chartreuse,Chartreuse,121
+cows' milk,koeienmelk,121
+Weizenbock,Weizenbock,121
+sweet woodruff,lievevrouwebedstro,121
+cuppa,kopje koffie,122
+pot-au-feu,pot-au-feu,122
+Melba toast,Melba Toast,122
+demiglace,demigreren,122
+bread and butter pickle,brood en boter augurk,122
+tapioca pudding,tapiocapudding,122
+chicken cordon bleu,kip Cordon Bleu,122
+moo goo gai pan,moo goo gai pan,122
+chocolate mousse,chocolade mousse,122
+anchovy paste,ansjovispasta,122
+skillet corn bread,koekenpan maïsbrood,123
+hasty pudding,haastige pudding,123
+sauce Louis,saus Louis,123
+Cabernet,Cabernet,123
+Beaujolais,Beaujolais,123
+pheasant under glass,fazant onder glas,123
+macaroni and cheese,macaroni en kaas,123
+green mayonnaise,groene mayonaise,123
+Pinot noir,Pinot noir,123
+malted milk,gemoute melk,123
+Nesselrode,Nesselrode,124
+porcupine ball,stekelvarken bal,124
+creme de cacao,crème de cacao,124
+tamale pie,tamale taart,124
+bleu cheese dressing,blauwe kaas dressing,124
+carob,johannesbrood,124
+steamed pudding,gestoomde pudding,124
+peppermint patty,pepermunt pasteitje,124
+slivovitz,slivovitz,124
+apple dumpling,appel knoedel,124
+caper sauce,kappertjes saus,125
+Liederkranz,Liederkranz,125
+chocolate fondue,chocolade fondue,125
+johnnycake,johnnycake,125
+dry vermouth,droge vermout,125
+Danish blue,Deens blauw,125
+Turkish Delight,Turks Fruit,125
+bulgur pilaf,bulgur pilaf,125
+camomile tea,kamille thee,125
+sarsaparilla,sarsaparilla,125
+pearl hominy,parel hominy,126
+sweet vermouth,zoete vermout,126
+vitamin A,vitamine A,126
+Scotch kiss,Schotse kus,126
+brandyball,brandewijn,126
+lemon curd,citroenpudding,126
+refried beans,minder bonen,126
+miraculous food,wonderbaarlijk eten,126
+pancake batter,pannenkoekenbeslag,126
+madrilene,madrileense,126
+micronutrient,micronutriënt,127
+mulligan stew,Mulligan Stoofpot,127
+bouillon cube,bouillonblokje,127
+perishable,beperkt houdbaar,127
+firm omelet,stevige omelet,127
+Chardonnay,Chardonnay,127
+Virgin Mary,maagd Maria,127
+Mornay sauce,Mornaysaus,127
+marchand de vin,marchand de vin,127
+Emmenthal,Emmenthal,127
+vitamin B1,vitamine B1,128
+orange liqueur,sinaasappellikeur,128
+cafe au lait,koffie verkeerd,128
+vitamin A2,vitamine A2,128
+applejack,appelboompje,128
+beef burrito,rundvlees burrito,128
+Roquefort,Roquefort,128
+vitamin K3,vitamine K3,128
+acidophilus milk,acidophilus melk,128
+petite marmite,petite marmite,128
+anchovy butter,ansjovis boter,129
+anchovy pizza,ansjovis pizza,129
+vitamin D,vitamine D,129
+pantothenic acid,pantotheenzuur,129
+Verdicchio,Verdicchio,129
+Oktoberfest,Oktoberfest,129
+cambric tea,cambric thee,129
+breadstick,broodstengel,129
+soft pretzel,zachte krakeling,129
+vitamin C,vitamine C,129
+French bread,stokbrood,130
+hotchpotch,mengelmoes,130
+fluffy omelet,luchtige omelet,130
+macedoine,macedonië,130
+zabaglione,Zabaglione,130
+western omelet,westerse omelet,130
+veal cordon bleu,kalfs cordon bleu,130
+candied fruit,gekonfijt fruit,130
+horseradish sauce,mierikswortelsaus,130
+split-pea soup,erwtensoep,130
+rijsttaffel,rijsttaffel,131
+commissariat,commissariaat,131
+Irish coffee,Ierse koffie,131
+Burgundy,Bourgondië,131
+mushy peas,papperige erwten,131
+codfish ball,kabeljauw bal,131
+Tetrazzini,Tetrazzini,131
+low-fat milk,magere melk,131
+flavorer,smaakmaker,131
+slumgullion,slumgullion,131
+Manzanilla,Manzanilla,132
+French loaf,Frans brood,132
+pousse-cafe,pousse-café,132
+low-fat diet,vetarm dieet,132
+Montrachet,Montrachet,132
+simnel,gelijk aan,132
+orange marmalade,sinaasappelmarmelade,132
+crab Louis,krab Louis,132
+fines herbes,fijne kruiden,132
+mincemeat,pasteivulling,132
+ice-cream sundae,Sundae ijsje,133
+Darjeeling,Darjeeling,133
+dehydrated food,gedehydrateerd voedsel,133
+wintergreen oil,wintergroen olie,133
+steak tartare,steak tartaar,133
+charlotte russe,charlotte russe,133
+piccalilli,piccalilly,133
+suet pudding,niervet pudding,133
+Rhone wine,Rhône-wijn,133
+bouillabaisse,bouillabaisse,133
+vitamin P,vitamine P,134
+candied apple,gekonfijte appel,134
+tutti-frutti,tutti-frutti,134
+scalded milk,gebroeide melk,134
+claret cup,bordeauxrode beker,134
+matzo meal,matze maaltijd,134
+marshmallow fluff,marshmallow pluisjes,134
+vitamin K,vitamine K,134
+mother's milk,moedermelk,134
+beef goulash,rundvlees goulash,134
+anchovy dressing,ansjovisdressing,135
+caraway seed bread,karwijzaad brood,135
+spearmint oil,groene munt olie,135
+spaghetti and meatballs,spaghetti en gehaktballen,135
+pepperoni pizza,pizza met peperoni,135
+hunter's sauce,jagerssaus,135
+tipsy cake,aangeschoten taart,135
+arroz con pollo,arroz con pollo,135
+corned beef hash,corned beef hasj,135
+eggdrop soup,eierdruppelsoep,135
+vin ordinaire,vin ordinaire,136
+remoulade sauce,remouladesaus,136
+French toast,Wentelteefje,136
+yak's milk,yak's melk,136
+frankfurter bun,Frankfurter broodje,136
+porkholt,varkensholt,136
+crabapple jelly,crabapple gelei,136
+vitamin K1,vitamine K1,136
+petfood,dierenvoeding,136
+Newburg sauce,Newburgsaus,136
+Caesar salad,Caesar salade,137
+bean tostada,bonen tostada,137
+Turkish coffee,Turkse koffie,137
+vitamin B2,vitamine B2,137
+Maryland chicken,Maryland kip,137
+Amontillado,Amontillado,137
+chicken cacciatore,kip cacciatore,137
+decaffeinated coffee,cafeïnevrije koffie,137
+vitamin B6,vitamine B6,137
+vichyssoise,vichyssoise,137
+tunaburger,tonijnburger,138
+creme de menthe,crème de menthe,138
+hardbake,hard gebakken,138
+vitamin B12,vitamine b12,138
+fritter batter,beignets beslag,138
+barbecued wing,gebarbecuede vleugel,138
+crystallized ginger,gekristalliseerde gember,138
+creme de fraise,crème de fraise,138
+carob bar,johannesbroodreep,138
+candied citrus peel,gekonfijte schillen van citrusvruchten,138
+steak au poivre,steak au poivre,139
+Bavarian blue,Beiers blauw,139
+garlic chive,knoflook bieslook,139
+nonfat dry milk,droge melk zonder vet,139
+Fanny Adams,Fanny Adams,139
+Pinot blanc,Pinot blanc,139
+Vichy water,Vichy-water,139
+salad nicoise,salade nicoise,139
+vitamin A1,vitamine A1,139
+orange pekoe,sinaasappel pekoe,139
+Saint Emilion,Saint Emilion,140
+hot-fudge sauce,hot-fudge saus,140
+Spanish rice,Spaanse rijst,140
+mulligatawny,mulligatawny,140
+Life Saver,Levensredder,140
+pasteurized milk,Gepasteuriseerde melk,140
+macrobiotic diet,macrobiotisch dieet,140
+Worcester sauce,Worcester saus,140
+chicken Tetrazzini,kip Tetrazzini,140
+olla podrida,olla podrida,140
+chicken Marengo,kip Marengo,141
+Bloody Mary,Bloody Mary,141
+Waldorf salad,Waldorf Salade,141
+homogenized milk,gehomogeniseerde melk,141
+French omelet,Franse omelet,141
+Grand Marnier,Grand Marnier,141
+bolognese pasta sauce,bolognese pastasaus,141
+strawberry daiquiri,Aardbeien Daiquiri,141
+eggs Benedict,Eggs Benedict,141
+nasturtium,Oostindische kers,141
+sauerbraten,sauerbraten,142
+Tom and Jerry,Tom en Jerry,142
+vitamin Bc,vitamine Bc,142
+English muffin,Engelse muffin,142
+half-and-half,half om half,142
+pimento butter,Spaanse peperboter,142
+lobster Newburg,kreeft Newburg,142
+Sloppy Joe,Slordige Joe,142
+Irish soda bread,Iers sodabrood,142
+liebfraumilch,liebfraumilch,142
+oxtail soup,ossenstaart soep,143
+hard-boiled egg,hard gekookt ei,143
+Sauvignon blanc,Sauvignon blanc,143
+chicken provencale,Provençaalse kip,143
+Cheshire cheese,Cheshire kaas,143
+Meuniere butter,Meuniere boter,143
+hors d'oeuvre,voorgerechten,143
+monosodium glutamate,mononatriumglutamaat,143
+Bavarian cream,Beierse room,143
+Chenin blanc,Chenin blanc,143
+NADA daiquiri,NADA daiquiri,144
+lobster thermidor,kreeft thermidor,144
+anadama bread,anadama brood,144
+brown Betty,bruine Betty,144
+barbecued spareribs,gegrilde spareribs,144
+Salisbury steak,Salisbury steak,144
+Neapolitan ice cream,Napolitaans ijs,144
+shrimp Newburg,garnaal Newburg,144
+Lorenzo dressing,Lorenzo dressing,144
+calf's-foot jelly,kuitvoetgelei,144
+Jamaica rum,Jamaicaanse rum,145
+Chinese anise,Chinese anijs,145
+Sicilian pizza,Siciliaanse pizza,145
+Irish stew,Ierse stoofpot,145
+Shawnee cake,Shawnee taart,145
+ready-mix,kant-en-klaar-mix,145
+Scotch woodcock,Schotse houtsnip,145
+Swedish rye bread,Zweeds roggebrood,145
+alpha-tocopheral,alfa-tocoferol,145
+veal scallopini,kalfs scallopini,145
+Munich beer,bier uit München,146
+barley-sugar,gerste-suiker,146
+Welsh rarebit,Welsh rarebit,146
+cock-a-leekie,cock-a-leekie,146
+Chinese mustard,Chinese mosterd,146
+Hungarian sauce,Hongaarse saus,146
+Swiss cheese,Zwitserse kaas,146
+Scotch and soda,Scotch en frisdrank,146
+Lyonnaise sauce,Lyonnaisesaus,146
+Canary wine,Canarische wijn,146
+Parker House roll,Parker House rol,147
+Chinese brown sauce,Chinese bruine saus,147
+B-complex vitamin,B-complex vitamine,147
+French dressing,Franse dressing,147
+semi-skimmed milk,halfvolle melk,147
+Cotes de Provence,Côtes de Provence,147
+escalope de veau Orloff,escalope de veau Orloff,147
+pork-and-veal goulash,Varkens-en-kalfsgoulash,147
+Uruguay potato,Uruguayaanse aardappel,147
+baking-powder biscuit,bakpoeder koekje,147
+low-calorie diet,caloriearm dieet,148
+baked Alaska,gebakken Alaska,148
+Jewish rye bread,Joods roggebrood,148
+Italian bread,Italiaans brood,148
+tea-like drink,thee-achtige drank,148
+Spanish paprika,Spaanse paprika,148
+open-face sandwich,sandwich met open gezicht,148
+self-rising flour,zelfrijzend bakmeel,148
+clover-leaf roll,klaverblad roll,148
+cracked-wheat bread,gekraakt tarwebrood,148
+Manhattan clam chowder,Manhattan mossel chowder,149
+water-soluble vitamin,in water oplosbare vitamine,149
+Scotch broth,Schotse bouillon,149
+date-nut bread,dadel-notenbrood,149
+high-protein diet,eiwitrijk dieet,149
+Harvey Wallbanger,Harvey Wallbanger,149
+scallopine,sint-jakobsschelp,149
+Parmesan,Parmezaanse kaas,149
+beef Wellington,rundvlees Wellington,149
+Last Supper,Laatste Avondmaal,149
+low-sodium diet,natriumarm dieet,150
+Russian dressing,Russische dressing,150
+beef Stroganoff,rundvlees Stroganoff,150
+Yorkshire pudding,Yorkshire pudding,150
+Brunswick stew,Brunswick stoofpot,150
+double Gloucester,dubbele Gloucester,150
+New England clam chowder,New England mossel chowder,150
+planter's punch,punch van de planter,150
+Thousand Island dressing,Thousand Island dressing,150
+Swiss steak,Zwitserse biefstuk,150
+carbonnade flamande,carbonnade flamandé,151
+California wine,Californische wijn,151
+chef's salad,salade van de chef,151
+Swedish meatball,Zweedse gehaktbal,151
+beef Bourguignonne,rundvlees Bourguignonne,151
+coquilles Saint-Jacques,coquilles Saint-Jacques,151
+gluten-free diet,gluten vrij dieet,151
+ploughman's lunch,lunch van de ploegman,151
+salt-rising bread,zout rijzend brood,151
+high-vitamin diet,vitaminerijk dieet,151
+half-and-half dressing,half en half dressing,152
+Boston baked beans,Boston gebakken bonen,152
+seafood Newburg,zeevruchten Newburg,152
+fat-soluble vitamin,vetoplosbare vitamine,152
+bacon-lettuce-tomato sandwich,Broodje spek-sla-tomaat,152
+Italian dressing,Italiaanse dressing,152

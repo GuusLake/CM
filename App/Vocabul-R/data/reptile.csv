@@ -1,0 +1,297 @@
+EngWord,NldWord,Group
+dragon,draak,0
+asp,adder,0
+asp,adder,0
+snake,slang,0
+python,Python,0
+cobra,cobra,0
+racer,racer,0
+sea snake,zeeslang,0
+milk snake,melkslang,0
+sand snake,zandslang,0
+boa,boa,1
+viper,adder,1
+rock python,rotspython,1
+gecko,gekko,1
+grass snake,ringslang,1
+lizard,hagedis,1
+ground snake,grondslang,1
+mountain devil,bergduivel,1
+water snake,Waterslang,1
+ribbon snake,lint slang,1
+turtle,schildpad,2
+corn snake,graanslang,2
+adder,adder,2
+ridley,ridley,2
+pit viper,pitadder,2
+crocodile,krokodil,2
+chameleon,kameleon,2
+night snake,nachtslang,2
+alligator,alligator,2
+mamba,mamba,2
+rat snake,rattenslang,3
+pine snake,dennenslang,3
+dinosaur,dinosaurus,3
+sidewinder,zijwind,3
+tiger snake,tijgerslang,3
+bull snake,stier slang,3
+tortoise,schildpad,3
+chicken snake,kippenslang,3
+anaconda,anaconda,3
+rosy boa,roze boa,3
+skink,skink,4
+cooter,cooter,4
+loggerhead,onechte,4
+blind snake,blinde slang,4
+caiman,kaaiman,4
+carpet snake,tapijt slang,4
+coral snake,koraal slang,4
+coral snake,koraal slang,4
+agama,agama,4
+green snake,groene slang,4
+puff adder,bladerdeeg,5
+death adder,doodsadder,5
+green snake,groene slang,5
+king snake,koningsslang,5
+moloch,Moloch,5
+thunder snake,donder slang,5
+sea turtle,zeeschildpad,5
+copperhead,koperkop,5
+teju,teju,5
+basilisk,basilisk,5
+copperhead,koperkop,6
+tree lizard,boomhagedis,6
+sand lizard,zandhagedis,6
+taipan,taipan,6
+blue racer,blauwe racer,6
+fence lizard,hek hagedis,6
+indigo snake,indigo slang,6
+hoop snake,hoepel slang,6
+rattlesnake,ratelslang,6
+krait,krait,6
+diamondback,diamantrug,7
+tuatara,tuatara,7
+marine iguana,zeeleguanen,7
+saurian,sauriër,7
+gopher snake,gopherslang,7
+lyre snake,lier slang,7
+worm lizard,worm hagedis,7
+theropod,theropode,7
+mountain skink,berg skink,7
+ground rattler,grondratel,7
+glass lizard,glas hagedis,8
+box turtle,doosschildpad,8
+rubber boa,rubberen boa,8
+ringneck snake,halsslang,8
+iguanodon,iguanodon,8
+lined snake,gevoerde slang,8
+vine snake,wijnstok slang,8
+night lizard,nacht hagedis,8
+racerunner,renner,8
+constrictor,constrictor,8
+chelonian,chelonisch,9
+cynodont,cynodont,9
+blindworm,hazelworm,9
+green lizard,groene hagedis,9
+diplodocus,diplodocus,9
+beaded lizard,kralen hagedis,9
+synapsid,synapsid,9
+sauropod,sauropoden,9
+rough green snake,ruwe groene slang,9
+black mamba,zwarte mamba,9
+mud turtle,modderschildpad,10
+monitor,toezicht houden op,10
+slider,schuifregelaar,10
+Diapsida,Diapsida,10
+whiptail,zweepstaart,10
+triceratops,triceratops,10
+deinonychus,deinonychus,10
+thecodont,thecodont,10
+spectacled caiman,brilkaaiman,10
+dimetrodon,dimetrodon,10
+pterodactyl,pterodactyl,11
+pterosaur,pterosaurus,11
+glossy snake,glanzende slang,11
+green turtle,groene schildpad,11
+common water snake,gewone waterslang,11
+green mamba,groene mamba,11
+dicynodont,dicynodont,11
+common snapping turtle,Bijtschildpad,11
+velociraptor,velociraptor,11
+edaphosaurus,edafosaurus,11
+massasauga,massasauga,12
+black rat snake,zwarte rattenslang,12
+sagebrush lizard,alsem hagedis,12
+agamid,agamid,12
+anapsid,anapsid,12
+gopher tortoise,gopherschildpad,12
+barosaur,barosaurus,12
+leopard lizard,luipaard hagedis,12
+smooth green snake,gladde groene slang,12
+eastern ground snake,oostelijke grondslang,12
+musk turtle,muskusschildpad,13
+flying gecko,vliegende gekko,13
+common iguana,gewone leguaan,13
+hadrosaur,hadrosauriër,13
+giant tortoise,reuzenschildpad,13
+western coral snake,westelijke koraalslang,13
+trachodon,trachodon,13
+saurischian,saurischian,13
+nothosaur,nothosaurus,13
+garter snake,kousenbandslang,13
+apatosaur,apatosaurus,14
+eastern coral snake,oostelijke koraalslang,14
+coachwhip,coachwhip,14
+Edmontonia,Edmontonia,14
+horned viper,gehoornde adder,14
+western blind snake,westerse blinde slang,14
+banded gecko,gestreepte gekko,14
+water moccasin,water mocassin,14
+alligator lizard,alligator hagedis,14
+collared lizard,halsbandhagedis,14
+water moccasin,water mocassin,15
+utahraptor,utahraptor,15
+desert tortoise,woestijnschildpad,15
+eoraptor,eoraptor,15
+elapid,verstrijken,15
+gavial,gaviaal,15
+rock rattlesnake,rots ratelslang,15
+ornithopod,ornithopoden,15
+desert iguana,woestijn leguaan,15
+ringhals,ringhals,15
+diapsid,diapsid,16
+eastern indigo snake,oosterse indigo slang,16
+iguanid,leguaan,16
+venomous lizard,giftige hagedis,16
+anatotitan,anatotaan,16
+painted turtle,geschilderde schildpad,16
+archosaur,archosaurus,16
+hawksbill turtle,karetschildpad,16
+horned lizard,gehoornde hagedis,16
+tyrannosaur,tyrannosaurus,16
+terrapin,moerasschildpad,17
+ceratopsian,ceratopsian,17
+hognose snake,hognose slang,17
+stegosaur,stegosauriër,17
+blacksnake,zwarte slang,17
+ornithomimid,ornithomimid,17
+caiman lizard,kaaiman hagedis,17
+western skink,westerse skink,17
+eastern fence lizard,oostelijke hek hagedis,17
+leatherback turtle,lederschildpad,17
+hamadryad,hamadryad,18
+boa constrictor,boa constrictor,18
+horned chameleon,gehoornde kameleon,18
+teiid lizard,teiid hagedis,18
+snapping turtle,bijtende schildpad,18
+whip-snake,zweepslang,18
+carnosaur,carnosaurus,18
+tiger rattlesnake,tijger ratelslang,18
+timber rattlesnake,houten ratelslang,18
+frilled lizard,franje hagedis,18
+spiny lizard,stekelige hagedis,19
+protoceratops,protoceratops,19
+prairie rattlesnake,prairie ratelslang,19
+western fence lizard,westelijke hek hagedis,19
+smooth softshell,gladde softshell,19
+false gavial,valse gaviaal,19
+banded sand snake,gestreepte zandslang,19
+black-headed snake,zwartkopslang,19
+Gila monster,Gila monster,19
+common garter snake,gewone kousebandslang,19
+dromaeosaur,dromaeosaurus,20
+armored dinosaur,gepantserde dinosaurus,20
+allosaur,allosaurus,20
+pelycosaur,pelycosaurus,20
+ceratosaur,ceratosaurus,20
+deinocheirus,deinocheirus,20
+reticulated python,netvormige python,20
+maniraptor,maniraptor,20
+compsognathus,compognathus,20
+legless lizard,pootloze hagedis,20
+chuckwalla,Chuckwalla,21
+fer-de-lance,fer-de-lance,21
+herrerasaur,herrerasaur,21
+megalosaur,megalosaurus,21
+ichthyosaur,ichthyosaurus,21
+speckled rattlesnake,gespikkelde ratelslang,21
+coelophysis,coelophysis,21
+spiny softshell,stekelige softshell,21
+banded krait,gestreepte krait,21
+ichthyosaurus,ichthyosaurus,21
+alligator snapping turtle,alligator brekende schildpad,22
+pisanosaur,pisanosaurus,22
+leaf-nosed snake,bladneusslang,22
+Indian cobra,Indiase cobra,22
+psittacosaur,psittacosauriër,22
+corythosaur,corythosaurus,22
+western whiptail,westerse zweepstaart,22
+checkered whiptail,geruite zweepstaart,22
+styracosaur,styracosaurus,22
+ornithischian,ornithischian,22
+canebrake rattlesnake,rietrem ratelslang,23
+ground-shaker,grondschudder,23
+red-bellied snake,roodbuikslang,23
+Sonoran lyre snake,Sonora lier slang,23
+gaboon viper,schanskorf adder,23
+Pacific ridley,Pacific Ridley,23
+diamondback terrapin,diamantrug moerasschildpad,23
+titanosaur,titanosaurus,23
+common kingsnake,gewone koningsslang,23
+Komodo dragon,Komodovaraan,23
+ictodosaur,ictodosaurus,24
+viperine grass snake,adderringslang,24
+black-necked cobra,zwarthalscobra,24
+amethystine python,amethist python,24
+oviraptorid,oviraptoride,24
+plesiosaur,plesiosaurus,24
+anguid lizard,anguid hagedis,24
+stenopterygius,stenopterygius,24
+ankylosaur,ankylosauriër,24
+earless lizard,hagedis zonder oren,24
+fringe-toed lizard,franjetoed hagedis,25
+plateau striped whiptail,plateau gestreepte zweepstaart,25
+Mononychus olecranus,Mononychus olecranus,25
+crocodilian reptile,krokodilachtig reptiel,25
+edmontosaurus,edmontosaurus,25
+red-bellied terrapin,roodbuikschildpad,25
+European tortoise,Europese schildpad,25
+argentinosaur,argentinosaurus,25
+struthiomimus,struthiomimus,25
+Atlantic ridley,Atlantische Ridley,25
+Indian python,Indiase python,26
+staurikosaur,staurikosaurus,26
+therapsid,therapeutisch,26
+Western ribbon snake,Westerse lintslang,26
+pachycephalosaur,pachycephalosaurus,26
+Australian coral snake,Australische koraalslang,26
+colubrid snake,colubrid-slang,26
+African chameleon,Afrikaanse kameleon,26
+American chameleon,Amerikaanse kameleon,26
+Mojave rattlesnake,Mojave ratelslang,26
+African coral snake,Afrikaanse koraalslang,27
+Texas tortoise,Texaanse schildpad,27
+Western diamondback,Westerse diamantrug,27
+Indian rat snake,Indiase rattenslang,27
+zebra-tailed lizard,hagedis met zebrastaart,27
+Chinese alligator,Chinese alligator,27
+California whipsnake,Californische zweepslang,27
+Western box turtle,Westerse doosschildpad,27
+African monitor,Afrikaanse monitor,27
+American alligator,Amerikaanse alligator,27
+Lanthanotus borneensis,Lanthanotus borneensis,28
+lacertid lizard,lacertide hagedis,28
+Morlett's crocodile,Morlett's krokodil,28
+genus Argentinosaurus,geslacht Argentinosaurus,28
+Sonoran whipsnake,Sonora zweepslang,28
+Chihuahuan spotted whiptail,Chihuahuan gevlekte zweepstaart,28
+bone-headed dinosaur,dinosaurus met botten,28
+horseshoe whipsnake,hoefijzer zweepslang,28
+African crocodile,Afrikaanse krokodil,28
+side-blotched lizard,side-blotched hagedis,28
+Australian blacksnake,Australische zwartslang,29
+Chronoperates paradoxus,Chronopereert paradoxus,29
+Asian crocodile,Aziatische krokodil,29
+soft-shelled turtle,schildpad met zachte schil,29
+Texas horned lizard,Texas gehoornde hagedis,29
+Asian coral snake,Aziatische koraalslang,29

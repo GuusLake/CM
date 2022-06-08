@@ -1,0 +1,110 @@
+EngWord,NldWord,Group
+high,hoog,0
+low,laag,0
+wind,wind,0
+wave,Golf,0
+snow,sneeuw,0
+fog,mist,0
+breath,adem,0
+shower,douche,0
+gale,storm,0
+draft,droogte,0
+rain,regenen,1
+raw weather,ruw weer,1
+hot weather,warm weer,1
+good weather,goed weer,1
+cold weather,koud weer,1
+elements,elementen,1
+thaw,dooi,1
+sea breeze,zeewind,1
+high wind,hoge wind,1
+squall,bui,1
+precipitation,neerslag,2
+breeze,briesje,2
+fug,fug,2
+puff,puffen,2
+thermal,thermisch,2
+east wind,oostenwind,2
+atmosphere,atmosfeer,2
+flurry,vlaag,2
+calmness,rust,2
+lull,wiegen,2
+west wind,westenwind,3
+monsoon,moesson,3
+stillness,stilte,3
+cyclone,cycloon,3
+heat wave,hittegolf,3
+south wind,Zuiderwind,3
+bad weather,slecht weer,3
+line storm,lijnstorm,3
+jet stream,jetstream,3
+chinook,chinook,3
+monsoon,moesson,4
+light air,lichte lucht,4
+trade wind,passaatwind,4
+mistral,mistral,4
+cold wave,koude golf,4
+north wind,noordenwind,4
+drizzle,motregen,4
+bise,bise,4
+air mass,lucht massa,4
+virga,maagd,4
+whole gale,hele storm,5
+freeze,bevriezen,5
+fine spray,fijne spray,5
+gust,windvlaag,5
+crosswind,zijwind,5
+bluster,brullen,5
+fair weather,redelijk weer,5
+calm air,kalme lucht,5
+line squall,lijn bui,5
+simoom,simoom,5
+fohn,fohn,6
+rainstorm,regenbui,6
+downpour,stortbui,6
+doldrums,doldrums,6
+cloudiness,bewolking,6
+fresh gale,frisse wind,6
+moderate breeze,matige wind,6
+mildness,mildheid,6
+moderate gale,matige storm,6
+scorcher,verzenger,6
+northwest wind,noordwesten wind,7
+strong gale,sterke storm,7
+khamsin,khamsin,7
+headwind,tegenwind,7
+levanter,levanter,7
+turbulence,turbulentie,7
+whiteout,white-out,7
+harmattan,harmattan,7
+light breeze,lichte bries,7
+fresh breeze,fris briesje,7
+scattering,verstrooiing,8
+hail,wees gegroet,8
+strong breeze,sterke bries,8
+gentle breeze,zacht briesje,8
+sultriness,zwoelheid,8
+sandblast,zandstraal,8
+prevailing wind,heersende wind,8
+southeaster,zuidooster,8
+balminess,balsemheid,8
+airstream,luchtstroom,8
+antitrades,antitrades,9
+sleet,natte sneeuw,9
+anticyclone,anticycloon,9
+prevailing westerly,overheersend westelijk,9
+Santa Ana,Sinterklaas,9
+southwester,zuidwester,9
+tramontane,tramontane,9
+choppiness,hakerigheid,9
+tailwind,wind in de rug,9
+breeziness,luchtigheid,9
+downdraft,neerwaartse luchtstroom,10
+updraft,opwaartse luchtstroom,10
+boisterousness,onstuimigheid,10
+thundershower,donder douche,10
+antitrade wind,antihandelswind,10
+tempestuousness,onstuimigheid,10
+clear-air turbulence,turbulentie in de heldere lucht,10
+katabatic wind,katabatische wind,10
+storminess,stormachtigheid,10

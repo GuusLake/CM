@@ -1,0 +1,330 @@
+EngWord,NldWord,Group
+book,boek,0
+cut,snee,0
+cut,snee,0
+lead,lood,0
+bass,bas,0
+text,tekst,0
+soul,ziel,0
+spot,plek,0
+spot,plek,0
+round,ronde,0
+phrase,zin,1
+blues,blues,1
+section,sectie,1
+suite,suite,1
+canon,canon,1
+solo,solo,1
+theme,thema,1
+place,plaats,1
+study,studie,1
+jazz,jazz-,1
+score,scoren,2
+song,liedje,2
+opera,opera,2
+rap,tik,2
+jazz,jazz-,2
+trio,trio,2
+intro,intro,2
+carol,Carol,2
+funk,funk,2
+scat,scat,2
+disco,disco,3
+part,een deel,3
+opening,opening,3
+article,artikel,3
+bop,bop,3
+aria,aria,3
+waltz,wals,3
+rider,rijder,3
+techno,techno,3
+jig,jig,3
+samba,samba,4
+tango,tango,4
+anthem,hymne,4
+reel,haspel,4
+duet,duet,4
+reggae,reggae,4
+quotation,citaat,4
+ballet,ballet,4
+octet,octet,4
+riff,riff,4
+largo,largo,5
+movement,beweging,5
+motif,motief,5
+chapter,hoofdstuk,5
+statement,uitspraak,5
+lead sheet,bladlood,5
+sonata,sonate,5
+hymn,hymne,5
+primo,primo,5
+finale,finale,5
+jump,springen,6
+boogie,boogie,6
+passage,passage,6
+polka,polka,6
+fugue,fuga,6
+medley,medley,6
+work song,werk lied,6
+theme song,themalied,6
+transition,overgang,6
+canto,canto,6
+transition,overgang,7
+passage,passage,7
+canto,canto,7
+insert,invoegen,7
+quartet,kwartet,7
+chant,zingen,7
+resolution,oplossing,7
+pop music,popmuziek,7
+introduction,invoering,7
+rumba,rumba,7
+swing,schommel,8
+teaser,teaser,8
+keen,vaardig,8
+conga,conga,8
+hot jazz,hete jazz,8
+rondo,rondo,8
+etude,etude,8
+sura,soera,8
+cadence,cadans,8
+lied,gelogen,8
+fado,fado,9
+ground bass,grond bas,9
+punk rock,punkrock,9
+part music,deel muziek,9
+voice part,stempartij,9
+oldie,oudje,9
+allegro,allegro,9
+refrain,nalaten,9
+symphony,symfonie,9
+harmony,harmonie,9
+variation,variatie,10
+bolero,bolero,10
+drinking song,drinklied,10
+ballad,ballade,10
+zydeco,zydeco,10
+chorale,koraal,10
+adagio,adagio,10
+sheet music,bladmuziek,10
+folk song,volkslied,10
+above,bovenstaand,10
+gospel,Evangelie,11
+conclusion,conclusie,11
+development,ontwikkeling,11
+cool jazz,coole jazz,11
+dance music,dans muziek,11
+motet,motet,11
+prelude,voorspel,11
+epilogue,nawoord,11
+dance music,dans muziek,11
+sports section,sport sectie,11
+vamp,vampier,12
+black music,zwarte muziek,12
+clipping,knippen,12
+epilogue,nawoord,12
+concerto,concerto,12
+ragtime,ragtime,12
+andante,andante,12
+tune,afstemmen,12
+inversion,inversie,12
+quintet,kwintet,12
+episode,aflevering,13
+ditty,liedje,13
+flamenco,flamenco,13
+country music,Country muziek,13
+prologue,proloog,13
+sextet,sextet,13
+spiritual,spiritueel,13
+dissolve,oplossen,13
+love song,liefdesliedje,13
+flourish,floreren,13
+chamber music,kamermuziek,14
+heavy metal,zwaar metaal,14
+military march,militaire mars,14
+minuet,menuet,14
+signature,handtekening,14
+wedding march,huwelijksmars,14
+program music,programma muziek,14
+secondo,tweede,14
+musical drama,muziekdrama,14
+voluntary,vrijwillig,14
+fantasia,fantasie,15
+excerpt,uittreksel,15
+bluegrass,blauwgras,15
+modern jazz,moderne jazz,15
+music genre,muziek genre,15
+grand opera,grote opera,15
+piano music,pianomuziek,15
+popular music,populaire muziek,15
+pavane,pavane,15
+septet,septet,15
+folk music,volksmuziek,16
+serenade,serenade,16
+Bach,Bach,16
+beguine,begijn,16
+postlude,naspel,16
+cantata,cantate,16
+canticle,lofzang,16
+exordium,aanhef,16
+jump cut,sprong knippen,16
+Epistle,Brief,16
+scherzo,scherzo,17
+arioso,arioso,17
+preparation,voorbereiding,17
+carioca,carioca,17
+partita,partita,17
+exposition,expositie,17
+deductible,aftrekbaar,17
+Haydn,Haydn,17
+religious song,religieus lied,17
+Mass,Massa,17
+kwela,kwela,18
+partita,partita,18
+flashback,flashback,18
+augmentation,vergroting,18
+overture,ouverture,18
+foreword,voorwoord,18
+nocturne,nocturne,18
+toccata,toccata,18
+realization,realisatie,18
+torch song,fakkellied,18
+ligature,ligatuur,19
+syncopation,syncope,19
+preamble,preambule,19
+marching music,marsmuziek,19
+classical music,klassieke muziek,19
+religious music,religieuze muziek,19
+mezuzah,mezoeza,19
+gavotte,gavotte,19
+operetta,operette,19
+comic opera,komische opera,19
+cadenza,cadenza,20
+paean,lofzang,20
+mazurka,mazurka,20
+dirge,klaagzang,20
+skiffle,skiffle,20
+piano sonata,pianosonate,20
+morceau,morceau,20
+Brahms,Brahms,20
+funeral march,begrafenismars,20
+roulade,roulade,20
+mimesis,mimesis,21
+bagatelle,bagatel,21
+madrigal,madrigaal,21
+vocal music,vocale muziek,21
+saraband,sarabande,21
+polyphony,polyfonie,21
+antiphon,antifoon,21
+Mozart,Mozart,21
+reserve clause,reserve clausule,21
+Wagner,Wagner,21
+progressive rock,progressieve rock,22
+tra-la,tra-la,22
+incidental music,toneelmuziek,22
+accompaniment,begeleiding,22
+musical composition,muzikale compositie,22
+purple passage,paarse passage,22
+rhythm and blues,ritme en blues,22
+gradual,geleidelijk,22
+quickstep,quickstep,22
+capriccio,capriccio,22
+hornpipe,hoornpijp,23
+sonatina,sonatina,23
+macumba,macumba,23
+instrumentation,instrumentatie,23
+figured bass,becijferde bas,23
+scolion,scolion,23
+arietta,arietta,23
+pizzicato,pizzicato,23
+Chopin,Chopin,23
+rockabilly,rockabilly,23
+swoop,duikvlucht,24
+musical arrangement,muzikaal arrangement,24
+counterpoint,contrapunt,24
+arbitration clause,arbitragebeding,24
+Handel,Händel,24
+quadrille,quadrille,24
+lullaby,slaapliedje,24
+Requiem,Requiem,24
+habanera,habanera,24
+shivaree,shivaree,24
+enigma canon,enigma canon,25
+ostinato,ostinato,25
+obbligato,obligaat,25
+hymeneal,hymenea,25
+instrumental music,instrumentale muziek,25
+obbligato,obligaat,25
+joker,grappenmaker,25
+allegretto,allegretto,25
+pastorale,pastorale,25
+doo-wop,doo-wop,25
+recessional,recessief,26
+intermezzo,intermezzo,26
+narration,overlevering,26
+salutation,begroeting,26
+tarantella,tarantella,26
+trad,traditioneel,26
+intermezzo,intermezzo,26
+paso doble,paso doble,26
+orchestration,orkestratie,26
+national anthem,Nationaal volkslied,26
+processional,processie-,27
+doxology,doxologie,27
+Ta'ziyeh,Ta'ziyeh,27
+harmonization,harmonisatie,27
+recitative,recitatief,27
+peroration,peroratie,27
+glissando,glissando,27
+epigraph,opschrift,27
+Beethoven,Beethoven,27
+monophony,monofonie,27
+introit,introïtus,28
+psychedelic rock,Psychedelische rock,28
+double indemnity,dubbele schadevergoeding,28
+minstrelsy,minstrelsy,28
+diminution,vermindering,28
+roundelay,roundelay,28
+anticlimax,anticlimax,28
+chorale prelude,koraal prelude,28
+symphonic poem,symfonisch gedicht,28
+impromptu,geïmproviseerde,28
+serialism,serialisme,29
+descant,afschrijven,29
+homophony,homofonie,29
+analects,bloemlezing,29
+Stravinsky,Stravinsky,29
+hillbilly music,hillbilly muziek,29
+barcarole,barcarole,29
+plainsong,gewoon lied,29
+concerto grosso,concerto grosso,29
+dithyramb,dithyrambe,29
+escalator clause,roltrap clausule,30
+partsong,partijlied,30
+larghetto,grote getto,30
+antiphony,antifonie,30
+leitmotiv,rode draad,30
+recapitulation,recapitulatie,30
+processional march,processie mars,30
+schottische,schottische,30
+divertimento,afleiding naar,30
+rock 'n' roll,rock-'n-roll,30
+popularism,popularisme,31
+landler,landverrader,31
+chantey,matrozenlied,31
+prolegomenon,prolegomenon,31
+cantus firmus,cantus firmus,31
+prothalamion,prothalamion,31
+polytonality,polytonaliteit,31
+reharmonization,reharmonisatie,31
+chrestomathy,cherstomatie,31
+antiphonary,antifonarium,31
+square-dance music,squaredansmuziek,32
+flash-forward,flash-forward,32
+Gilbert and Sullivan,Gilbert en Sullivan,32
+plagal cadence,plagale cadans,32
+four-part harmony,vierstemmige harmonie,32
+locus classicus,locus classicus,32
+misquotation,onjuist citaat,32
+pibroch,muziek op doedelzak,32
+twelve-tone music,twaalftoonsmuziek,32

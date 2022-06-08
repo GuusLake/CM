@@ -6,14 +6,13 @@
 //
 
 import SwiftUI
-
+import CoreData
 
 
 struct CardView: View{
     
-    var difficulty: Int
     var topic: String
-    @State var cards: [Card]
+    @State var cards: [Card] = []
     
     var body: some View{
         ZStack {
@@ -100,9 +99,15 @@ struct CardView: View{
                 SubmitButton(buttonText: "Submit", cards: $cards)
                 Spacer()
             }
-        }
+        }.onAppear(perform: {updateCards()})
+    }
+    
+    func updateCards(){
+        self.cards = GetCards(topic: self.topic)
     }
 }
+
+
 
 struct Shake: GeometryEffect{
     // Shakes the view 3 times along the x axis
@@ -141,7 +146,7 @@ struct SubmitButton: View{
 struct CardView_Previews: PreviewProvider {
     static var previews: some View {
         Group {
-            CardView(difficulty: 2, topic: "test", cards: GetCards(difficulty: 2, topic: "test"))
+            CardView(topic: "test", cards: GetCards(topic: "test"))
                 .previewInterfaceOrientation(.portrait)
             
         }

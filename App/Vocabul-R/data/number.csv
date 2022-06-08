@@ -1,0 +1,258 @@
+EngWord,NldWord,Group
+e,e,0
+one,een,0
+two,twee,0
+six,zes,0
+game,spel,0
+first,eerst,0
+three,drie,0
+four,vier,0
+five,vijf,0
+lead,lood,0
+ten,tien,1
+couple,stel,1
+love,Liefde,1
+zero,nul,1
+square,plein,1
+seven,zeven,1
+count,Graaf,1
+eight,acht,1
+million,miljoen,1
+score,scoren,1
+par,par,2
+pi,pi,2
+weight,gewicht,2
+teens,tieners,2
+gross,Goor,2
+nine,negen,2
+base,baseren,2
+balance,balans,2
+root,wortel,2
+mate,maat,2
+factor,factor,3
+duck,eend,3
+thirty,dertig,3
+twelve,twaalf,3
+eleven,elf,3
+population,bevolking,3
+billion,miljard,3
+body count,dodental,3
+billion,miljard,3
+remainder,rest,3
+record,Vermelding,4
+cube,kubus,4
+remainder,rest,4
+real number,echt nummer,4
+thousand,duizend,4
+twenty,twintig,4
+eagle,Adelaar,4
+hundred,honderd,4
+deficit,tekort,4
+digit,cijfer,4
+forty,veertig,5
+fifty,vijftig,5
+fraction,fractie,5
+dimension,dimensie,5
+prime,priemgetal,5
+prime number,priemgetal,5
+sixty,zestig,5
+blood count,bloedbeeld,5
+constant,constante,5
+prime factor,priemfactor,5
+football score,voetbalscore,6
+craps,rotzooi,6
+frequency,frequentie,6
+quota,quotum,6
+speed of light,lichtsnelheid,6
+match,overeenkomst,6
+sixteen,zestien,6
+thirteen,dertien,6
+crore,crore,6
+fifteen,vijftien,6
+five hundred,vijfhonderd,7
+decimal,decimale,7
+circulation,circulatie,7
+complex number,complex getal,7
+circulation,circulatie,7
+gas constant,gasconstante,7
+denominator,noemer,7
+dividend,dividend,7
+balance of trade,handelsbalans,7
+eighty,tachtig,7
+moiety,deel,8
+stroke,hartinfarct,8
+scale factor,schaal factor,8
+baseball score,honkbal score,8
+divisor,deler,8
+divisor,deler,8
+ten thousand,tien duizend,8
+atomic number,atoomnummer,8
+bogey,bogey,8
+trillion,biljoen,8
+numerator,teller,9
+trillion,biljoen,9
+modulus,modulus,9
+coordinate,coördineren,9
+head count,aantal hoofden,9
+long hundred,lange honderd,9
+ninety,negentig,9
+magic number,magisch nummer,9
+integer,geheel getal,9
+fourteen,veertien,9
+eighteen,achttien,10
+aliquot,portie,10
+monad,monade,10
+singleton,eenling,10
+seventy,zeventig,10
+modulus,modulus,10
+googol,googol,10
+natural number,natuurlijk nummer,10
+complement,aanvulling,10
+bowling score,bowlingscore,10
+addend,addend,11
+great gross,geweldig vies,11
+square root,vierkantswortel,11
+cube root,kubuswortel,11
+proper fraction,juiste breuk,11
+continued fraction,kettingbreuk,11
+abscissa,abscis,11
+arity,ariteit,11
+ordinate,ordinaat,11
+binary digit,Binair getal,11
+hundred thousand,Honderdduizend,12
+quotient,quotiënt,12
+seventeen,zeventien,12
+basketball score,basketbal score,12
+nineteen,negentien,12
+conversion factor,conversiefactor,12
+birdie,vogeltje,12
+coefficient,coëfficiënt,12
+milliard,miljard,12
+double eagle,dubbele adelaar,12
+mantissa,mantisse,13
+polar coordinate,poolcoördinaat,13
+complex fraction,complexe breuk,13
+pollen count,pollengetal,13
+deflator,deflator,13
+common multiple,gemeenschappelijk veelvoud,13
+quintillion,triljoen,13
+cardinal number,hoofdtelwoord,13
+fifty percent,vijftig procent,13
+characteristic,karakteristiek,13
+pagination,paginering,14
+double digit,dubbele cijfers,14
+large integer,groot geheel getal,14
+rational number,rationaal getal,14
+improper fraction,onechte breuk,14
+bulk modulus,bulk modulus,14
+composite number,samengesteld nummer,14
+minuend,aftrektal,14
+googolplex,googolplex,14
+compound number,samengesteld nummer,14
+decimal digit,decimaal cijfer,15
+linage,afstamming,15
+two-thirds,tweederde,15
+one-tenth,een tiende,15
+quadrillion,quadriljoen,15
+significant digit,significant cijfer,15
+one-half,een helft,15
+sperm count,aantal zaadcellen,15
+aliquant,aliquant,15
+decimal fraction,decimale fractie,15
+invisible balance,onzichtbare balans,16
+ordinal number,rangtelwoord,16
+quadrillion,quadriljoen,16
+octal digit,octaal cijfer,16
+cardinality,kardinaliteit,16
+carry-over,overdragen,16
+one-fifth,een vijfde,16
+doubleton,dubbeltje,16
+augend,vergroten,16
+one-fourth,een vierde,16
+one-sixth,een zesde,17
+equilibrium constant,evenwichtsconstante,17
+scalar product,scalair product,17
+one-seventh,een zevende,17
+oxidation number,oxidatie nummer,17
+baryon number,baryon nummer,17
+ionic charge,ionische lading,17
+imaginary part,denkbeeldig deel,17
+common fraction,gemeenschappelijke breuk,17
+octillion,octiljoen,17
+one-third,een derde,18
+one-twelfth,een twaalfde,18
+absorption coefficient,absorptiecoëfficiënt,18
+algebraic number,algebraïsch getal,18
+aleph-null,alef-null,18
+coefficient of reflection,reflectiecoëfficiënt,18
+subtrahend,aftrekker,18
+septillion,septiljoen,18
+multiplier,vermenigvuldiger,18
+twenty-six,zesentwintig,18
+coefficient of friction,wrijvingscoëfficiënt,19
+coefficient of expansion,uitzettingscoëfficiënt,19
+one-eighth,een achtste,19
+sextillion,zestiljoen,19
+irrational number,irrationeel nummer,19
+drag coefficient,luchtweerstandscoëfficiënt,19
+coefficient of self induction,coëfficiënt van zelfinductie,19
+pure imaginary number,puur denkbeeldig getal,19
+modulus of rigidity,stijfheidsmodulus,19
+one-ninth,een-negende,19
+one-sixtieth,een-zestigste,20
+circulating decimal,circulerend decimaal,20
+coefficient of mutual induction,coëfficiënt van wederzijdse inductie,20
+hexadecimal digit,hexadecimaal cijfer,20
+three-fourths,drie vierde,20
+transmittance,doorlaatbaarheid,20
+gravitational constant,zwaartekrachtconstante,20
+twenty-nine,negenentwintig,20
+one-thousandth,een duizendste,20
+one-quintillionth,een triljoenste,20
+complex conjugate,complex geconjugeerd,21
+one-sixteenth,een zestiende,21
+millenary,duizendjarige,21
+Fibonacci number,Fibonacci-getal,21
+twenty-seven,zevenentwintig,21
+dissociation constant,dissociatieconstante,21
+compensating balance,compenserende balans,21
+twenty-eight,achtentwintig,21
+twenty-one,eenentwintig,21
+biquadrate,tweekwadraat,21
+coefficient of elasticity,elasticiteitscoëfficiënt,22
+coefficient of viscosity,coëfficiënt van viscositeit:,22
+transcendental number,transcendentaal getal,22
+twenty-two,tweeëntwintig,22
+one-hundredth,een honderdste,22
+common denominator,gemeenschappelijke noemer,22
+time-scale factor,tijdschaalfactor,22
+twenty-three,drieëntwintig,22
+twenty-four,vierentwintig,22
+multiplicand,vermenigvuldigtal,22
+twenty-five,vijfentwintig,23
+cosmological constant,kosmologische constante,23
+one-trillionth,een biljoenste,23
+double-bogey,dubbele bogey,23
+greatest common divisor,grootste gemene deler,23
+one-thirty-second,een-dertig seconden,23
+common divisor,gemeenschappelijke deler,23
+one-billionth,een miljardste,23
+one-hundred-millionth,honderd miljoenste,23
+factor of proportionality,factor van evenredigheid,23
+seventy-eight,achtenzeventig,24
+boxcars,gesloten goederenwagens,24
+one-hundred-thousandth,honderdduizendste,24
+one-quadrillionth,een kwart biljoenste,24
+one-millionth,een miljoenste,24
+fixed-point number,vast punt nummer,24
+Young's modulus,Young's modulus,24
+duodecimal digit,duodecimaal cijfer,24
+Hubble's constant,Constante van Hubble,24
+Planck's constant,constante van Planck,24
+one-sixty-fourth,een-vierenzestigste,25
+Avogadro's number,Het nummer van Avogadro,25
+Boltzmann's constant,constante van Boltzmann,25
+one-ten-thousandth,een tienduizendste,25
+floating-point number,getal met drijvende komma,25
+equivalent-binary-digit factor,equivalent-binaire-cijferige factor,25
+Cartesian coordinate,cartesiaanse coördinaat,25

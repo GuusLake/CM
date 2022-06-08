@@ -1,0 +1,1642 @@
+EngWord,NldWord,Group
+post,na,0
+travel,reis,0
+drive,rit,0
+drive,rit,0
+drive,rit,0
+drive,rit,0
+box,doos,0
+care,zorg,0
+going,gaan,0
+step,stap,0
+death,dood,1
+thing,ding,1
+cut,snee,1
+cut,snee,1
+cut,snee,1
+tour,tour,1
+hit,hit,1
+union,unie,1
+cut,snee,1
+hit,hit,1
+hit,hit,2
+cut,snee,2
+hit,hit,2
+cut,snee,2
+left,links,2
+let,laten,2
+play,Speel,2
+single,enkel,2
+march,maart,2
+trip,reis,2
+march,maart,3
+bob,bob,3
+version,versie,3
+service,dienst,3
+way,manier,3
+way,manier,3
+basket,mand,3
+trip,reis,3
+stage,fase,3
+turn,draai,3
+run,rennen,4
+goal,doel,4
+run,rennen,4
+rock,steen,4
+wind,wind,4
+turn,draai,4
+rent,huur,4
+run,rennen,4
+turn,draai,4
+run,rennen,4
+break,pauze,5
+turn,draai,5
+move,Actie,5
+move,Actie,5
+break,pauze,5
+foot,voet,5
+break,pauze,5
+credit,credit,5
+choice,keuze,5
+credit,credit,5
+course,Cursus,6
+beginning,begin,6
+slide,dia,6
+clip,klem,6
+clip,klem,6
+push,duw,6
+contact,contact,6
+shot,schot,6
+wave,Golf,6
+score,scoren,6
+measure,meten,7
+rack,rek,7
+figure,figuur,7
+standing,staan,7
+chip,chip,7
+deposit,borg,7
+chip,chip,7
+kill,doden,7
+cooking,Koken,7
+journey,reis,7
+success,succes,8
+disaster,ramp,8
+solo,solo,8
+playing,spelen,8
+violence,geweld,8
+reduction,afname,8
+ace,Ace,8
+fell,viel,8
+smooth,zacht,8
+cruise,cruise,8
+get,krijgen,9
+kick,trap,9
+finish,finish,9
+access,toegang,9
+kick,trap,9
+murder,moord,9
+point after,punt na,9
+assist,helpen,9
+bank run,bankrun,9
+damage,schade,9
+hook,haak,10
+flight,vlucht,10
+orgy,orgie,10
+hook,haak,10
+flight,vlucht,10
+booking,boeken,10
+reach,bereik,10
+carry,dragen,10
+attack,aanval,10
+serve,dienen,10
+winning,winnen,11
+shower,douche,11
+mix,mengen,11
+sitting,zitten,11
+blow,blazen,11
+double,dubbele,11
+sitting,zitten,11
+discount,korting,11
+roll,rollen,11
+riding,rijden,11
+division,divisie,12
+division,divisie,12
+trick,truc,12
+bow,boog,12
+pace,tempo,12
+bow,boog,12
+right,Rechtsaf,12
+check,rekening,12
+transportation,vervoer,12
+vote,stemmen,12
+pas,pas,13
+favor,gunst,13
+snap,snap,13
+trek,tocht,13
+delivery,levering,13
+fusion,fusie,13
+trek,tocht,13
+flux,flux,13
+flow,stromen,13
+bite,beet,13
+wound,wond,14
+brush,kwast,14
+increase,toenemen,14
+speed,snelheid,14
+twist,twist,14
+fault,schuld,14
+entrance,Ingang,14
+career,carrière,14
+blend,mengen,14
+upgrade,upgrade,14
+rally,rally,15
+opening,opening,15
+opening,opening,15
+lap,ronde,15
+hammer,hamer,15
+campaign,campagne,15
+decrease,afname,15
+rise,opstaan,15
+bath,badkuip,15
+voyage,reis,15
+parking,parkeren,16
+slice,plak,16
+movement,beweging,16
+knock,klop,16
+surge,Golf,16
+boating,varen,16
+motion,beweging,16
+approach,nadering,16
+relation,relatie,16
+approach,nadering,16
+dry cleaning,stomerij,17
+promotion,Promotie,17
+beat,verslaan,17
+tear,traan,17
+sacrifice,offer,17
+beat,verslaan,17
+device,apparaat,17
+vacation,vakantie,17
+base hit,honkslag,17
+band aid,pleister,17
+dance step,dansstap,18
+field trip,excursie,18
+cutting,snijden,18
+landing,landen,18
+strike,staking,18
+dive,duiken,18
+economy,economie,18
+cuisine,keuken,18
+passage,passage,18
+reaction,reactie,18
+passage,passage,19
+recruitment,werving,19
+attention,aandacht,19
+landing,landen,19
+fold,vouwen,19
+jump,springen,19
+attachment,bijlage,19
+motion,beweging,19
+bowling,bowling,19
+relay,relais,19
+joining,meedoen,20
+withdrawal,opname,20
+trim,trimmen,20
+withdrawal,opname,20
+casting,gieten,20
+withdrawal,opname,20
+withdrawal,opname,20
+splash,plons,20
+turning,draaien,20
+spare,Reserve,20
+advent,komst,21
+retirement,pensioen,21
+welding,lassen,21
+sweep,vegen,21
+population,bevolking,21
+sack,zak,21
+abortion,abortus,21
+filling,vulling,21
+constitution,Grondwet,21
+whip,zweep,21
+circus,circus,22
+return,opbrengst,22
+punch,ponsen,22
+split,splitsen,22
+split,splitsen,22
+lob,lob,22
+updating,updaten,22
+drawing,tekening,22
+appointment,afspraak,22
+spin,draaien,22
+spin,draaien,23
+introduction,invoering,23
+on the road,op de weg,23
+butterfly,vlinder,23
+car care,auto zorg,23
+closing,sluitend,23
+killing,moorden,23
+burning,brandend,23
+arrival,aankomst,23
+arrival,aankomst,23
+court,rechtbank,24
+flop,flop,24
+rotation,rotatie,24
+passage,passage,24
+toss,toss,24
+return,opbrengst,24
+nip,kneep,24
+solution,oplossing,24
+return,opbrengst,24
+resolution,oplossing,24
+spill,morsen,25
+baking,bakken,25
+catching,vangen,25
+demolition,sloop,25
+fracture,breuk,25
+jerk,eikel,25
+flex,buigen,25
+variation,variatie,25
+field goal,veld doel,25
+stride,pas,25
+dim sum,dim sum,26
+repair,reparatie,26
+advance,voorschot,26
+walk,wandeling,26
+walk,wandeling,26
+sweeping,vegen,26
+swat,mep,26
+round trip,rondvaart,26
+progress,voortgang,26
+punt,punt,26
+drop shot,drop Shot,27
+orgasm,orgasme,27
+skip,overslaan,27
+lift,optillen,27
+assassination,moord,27
+walk,wandeling,27
+recognition,erkenning,27
+amendment,wijziging,27
+odyssey,odyssee,27
+spiral,spiraal,27
+veto,veto,28
+face lift,facelift,28
+jag,jag,28
+boiling,kokend,28
+translation,vertaling,28
+double play,dubbelspel,28
+bending,buigen,28
+umbrella,paraplu,28
+homer,Homerus,28
+shooting,schieten,28
+resistance,weerstand,29
+prohibition,verbod,29
+stunt,stunt,29
+homicide,moord,29
+record,Vermelding,29
+scaling,schalen,29
+swimming kick,zwemtrap,29
+record,Vermelding,29
+fix,repareren,29
+coloring,kleuren,29
+graft,enten,30
+swing,schommel,30
+annotation,annotatie,30
+performance,uitvoering,30
+performance,uitvoering,30
+wandering,dwalen,30
+conversion,conversie,30
+finale,finale,30
+swing,schommel,30
+gesture,gebaar,30
+conversion,conversie,31
+burn,brandwond,31
+work flow,werkstroom,31
+migration,migratie,31
+tour de force,krachttoer,31
+smack,slaan,31
+swimming stroke,zwemslag,31
+strut,stut,31
+package tour,pakketreis,31
+addition,toevoeging,31
+golf stroke,golfslag,32
+transfer,overdracht,32
+safety,veiligheid,32
+open frame,open frame,32
+switch,schakelaar,32
+reference,verwijzing,32
+decision,beslissing,32
+honor killing,eerwraak,32
+release,vrijlating,32
+cleavage,inkijk,32
+release,vrijlating,33
+stirring,roeren,33
+putt,putt,33
+connection,verbinding,33
+eye contact,oogcontact,33
+sleeper,slaper,33
+injection,injectie,33
+dismissal,ontslag,33
+stem turn,stuurpen,33
+rollover,rol om,33
+inclusion,inclusie,34
+chew,kauwen,34
+tying,binden,34
+golfing,golfen,34
+spree,Spree,34
+jump ball,spring bal,34
+gait,gang,34
+stab,steken,34
+gait,gang,34
+soar,zweven,34
+havoc,ravage,35
+extension,verlenging,35
+kickoff,aftrap,35
+election,verkiezing,35
+jab,jaba,35
+extension,verlenging,35
+kick turn,kick-turn,35
+haste,haast,35
+correction,correctie,35
+driving,het rijden,35
+jab,jaba,36
+babel,Babel,36
+whitening,bleken,36
+packing,inpakken,36
+melee,melee,36
+back door,achterdeur,36
+packing,inpakken,36
+trot,draf,36
+grand tour,grote tour,36
+fetch,ophalen,36
+inflation,inflatie,37
+crawl,kruipen,37
+crawl,kruipen,37
+crawl,kruipen,37
+grand tour,grote tour,37
+closure,sluiting,37
+placement,plaatsing,37
+bonding,binding,37
+trap block,val blok,37
+corruption,corruptie,37
+collision course,ramkoers,38
+hat trick,hattrick,38
+hitch,haperen,38
+change,verandering,38
+corner kick,hoekschop,38
+riot,opstand,38
+shave,scheren,38
+bubble bath,bubbelbad,38
+pitching,pitchen,38
+zoning,zonering,38
+dash,streepje,39
+hajj,hadj,39
+tension,spanning,39
+ordination,wijding,39
+overhead,overhead,39
+dash,streepje,39
+breakage,breuk,39
+air travel,vliegreizen,39
+ground stroke,grondslag,39
+induction,inductie,39
+first step,eerste stap,40
+fade,vervagen,40
+admission,toelating,40
+hair coloring,haarverf,40
+lowering,verlagen,40
+lowering,verlagen,40
+fencing,schermen,40
+mush,brij,40
+explosion,explosie,40
+dressing,dressing,40
+infusion,infusie,41
+nod,knikken,41
+notch,inkeping,41
+descent,herkomst,41
+infusion,infusie,41
+clearing,opruimen,41
+attainment,bereiken,41
+attainment,bereiken,41
+ploy,truc,41
+investment,investering,41
+swipe,veeg,42
+federation,federatie,42
+registration,registratie,42
+clearing,opruimen,42
+shaking,schudden,42
+explosion,explosie,42
+startup,opstarten,42
+dispatch,verzenden,42
+crossing,kruispunt,42
+marking,markeren,42
+wading,waden,43
+blocking,blokkeren,43
+backlash,verzet,43
+slaughter,slachten,43
+intention,voornemen,43
+salve,zalf,43
+tune,afstemmen,43
+slaughter,slachten,43
+power dive,powerduik,43
+crossing,kruispunt,43
+crash dive,crashduik,44
+turnout,blijken,44
+security,beveiliging,44
+juke,juke,44
+free kick,vrije trap,44
+volition,wil,44
+glide,glijden,44
+stretch,uitrekken,44
+camera care,camera zorg,44
+thrill,sensatie,44
+ruse,list,45
+budget cut,bezuiniging,45
+suicide,zelfmoord,45
+revision,herziening,45
+cleaning,schoonmaak,45
+tattoo,tatoeëren,45
+gallop,galop,45
+combination,combinatie,45
+fixation,fixatie,45
+thump,dreun,45
+sucker punch,zuignap,46
+grounding,aarding,46
+jog,joggen,46
+crouch,hurken,46
+aggression,agressie,46
+scud,sud,46
+separation,scheiding,46
+squat,hurken,46
+masse,massa,46
+reversal,omkering,46
+docking,aanmeren,47
+track record,trackrecord,47
+thrash,thrash,47
+junction,knooppunt,47
+shrinking,krimpen,47
+replacement,vervanging,47
+extraction,extractie,47
+skid,slippen,47
+intersection,kruispunt,47
+regression,regressie,47
+interaction,interactie,48
+haircut,kapsel,48
+parry,pareren,48
+excursion,excursie,48
+sponge bath,sponsbad,48
+canter,galop,48
+shank,schacht,48
+scrum,scrum,48
+exploration,exploratie,48
+reform,hervorming,48
+completion,voltooiing,49
+consideration,overweging,49
+completion,voltooiing,49
+reform,hervorming,49
+moderation,met mate,49
+icing,glazuur,49
+staining,kleuring,49
+coloration,kleur,49
+recall,herinneren,49
+figure eight,figuur acht,49
+awakening,ontwaken,50
+abort,afbreken,50
+tumble,tuimelen,50
+quick march,snelle mars,50
+inversion,inversie,50
+indulgence,mildheid,50
+immigration,immigratie,50
+inversion,inversie,50
+pruning,snoeien,50
+staining,kleuring,50
+pocket veto,zak veto,51
+recession,recessie,51
+salaam,salaam,51
+commute,pendelen,51
+superannuation,pensioen,51
+consignment,zending,51
+cancellation,annulering,51
+inclination,neiging,51
+dyeing,verven,51
+purge,zuiveren,51
+spoil,Bederven,52
+pursuit,nastreven,52
+purge,zuiveren,52
+rampage,razernij,52
+purge,zuiveren,52
+world record,wereldrecord,52
+tremor,tremor,52
+water travel,water reizen,52
+volley,volley,52
+consumption,consumptie,52
+tinting,verven,53
+mechanism,mechanisme,53
+bustle,drukte,53
+development,ontwikkeling,53
+feat,prestatie,53
+weaning,spenen,53
+spending cut,bezuiniging,53
+application,sollicitatie,53
+improvement,verbetering,53
+first base,eerste basis,53
+holocaust,holocaust,54
+sailing,het zeilen,54
+broil,braden,54
+ocean trip,oceaan reis,54
+pitch,toonhoogte,54
+takeaway,afhaal,54
+impairment,beperking,54
+activation,activering,54
+seasoning,kruiden,54
+patching,patchen,54
+appreciation,waardering,55
+percussion,percussie,55
+spank,pak slaag,55
+expansion,uitbreiding,55
+stalk,stengel,55
+stalk,stengel,55
+pack riding,pak rijden,55
+airing,luchten,55
+relief,Verlichting,55
+encounter,ontmoeting,55
+surprise,verrassing,56
+expansion,uitbreiding,56
+climb,beklimmen,56
+insertion,invoeging,56
+poison pill,vergifpil,56
+installation,installatie,56
+gold rush,goudkoorts,56
+reverence,eerbied,56
+rupture,scheuren,56
+diversion,afleiding,56
+enclosure,behuizing,57
+expedition,expeditie,57
+perfection,perfectie,57
+probation,proeftijd,57
+segue,segue,57
+chasse,jagen,57
+incursion,inval,57
+withholding,inhouding,57
+circulation,circulatie,57
+frying,frituren,57
+bank withdrawal,bankopname,58
+scrub,schrobben,58
+pacing,ijsberen,58
+sabotage,sabotage,58
+rehabilitation,revalidatie,58
+chop,karbonade,58
+flexion,flexie,58
+decoration,decoratie,58
+inspiration,inspiratie,58
+layoff,ontslag,58
+stoop,bukken,59
+annealing,gloeien,59
+manicure,manicure,59
+touchdown,touchdown,59
+fast break,Snelle pauze,59
+rape,verkrachting,59
+slicing,snijden,59
+makeover,make-over,59
+cattle drive,vee rijden,59
+restoration,restauratie,59
+agitation,agitatie,60
+agitation,agitatie,60
+downturn,neergang,60
+destruction,verwoesting,60
+rinse,afspoelen,60
+touchdown,touchdown,60
+pleasing,aangenaam,60
+rinse,afspoelen,60
+darning,stop,60
+blockbuster,kassucces,60
+stinger,stinger,61
+tetanus,tetanus,61
+stretching,uitrekken,61
+roughness,ruwheid,61
+goose step,gans stap,61
+escalade,escalade,61
+purification,zuivering,61
+purification,zuivering,61
+accommodation,accommodatie,61
+linkage,koppeling,61
+cremation,crematie,62
+makeover,make-over,62
+initiation,initiatie,62
+filtration,filtratie,62
+buildup,opbouwen,62
+sortie,sortie,62
+pivot,scharnier,62
+service call,service oproep,62
+deference,eerbied,62
+somersault,salto,62
+drop,laten vallen,63
+shearing,scheren,63
+tennis stroke,tennis slag,63
+modulation,modulatie,63
+alteration,wijziging,63
+passing,voorbijgaan,63
+kneel,knielen,63
+stroke,hartinfarct,63
+abbreviation,afkorting,63
+rock climbing,rotsklimmen,63
+effusion,effusie,64
+shift,verschuiving,64
+backstroke,rugslag,64
+schism,schisma,64
+derivation,afleiding,64
+skimming,skimmen,64
+aliyah,alijah,64
+spread,verspreiding,64
+eye movement,oog beweging,64
+call,telefoongesprek,64
+nomination,voordracht,65
+consolidation,consolidatie,65
+jog trot,jog draf,65
+dispersion,spreiding,65
+prowl,sluipen,65
+back circle,terug cirkel,65
+luff,luffie,65
+furor,furore,65
+satisfaction,tevredenheid,65
+slippage,slippen,65
+heave,deining,66
+elimination,eliminatie,66
+semester hour,semester uur,66
+tip-off,tip,66
+mud bath,modder bad,66
+adaptation,aanpassing,66
+mudra,mudra,66
+removal,verwijdering,66
+word division,woordverdeling,66
+rehabilitation,revalidatie,66
+concentration,concentratie,67
+basting,rijgen,67
+crash landing,noodlanding,67
+upset,van streek,67
+removal,verwijdering,67
+striping,striping,67
+elimination,eliminatie,67
+elimination,eliminatie,67
+penetration,penetratie,67
+derivation,afleiding,67
+pay cut,loonsverlaging,68
+stroke,hartinfarct,68
+contamination,besmetting,68
+cession,cessie,68
+lynching,lynchen,68
+reunion,bijeenkomst,68
+junket,junket,68
+mikvah,mikwe,68
+novation,novatie,68
+excitation,opwinding,68
+drifting,afdrijven,69
+pilgrimage,bedevaart,69
+salting,zouten,69
+appearance,verschijning,69
+spot welding,puntlassen,69
+stroke,hartinfarct,69
+distraction,afleiding,69
+vibration,trillingen,69
+flood,overstroming,69
+close call,scheelde weinig,69
+forced landing,noodlanding,70
+flood,overstroming,70
+lunge,uithaal,70
+shutting,afsluiten,70
+ventilation,ventilatie,70
+upset,van streek,70
+chomping,kauwen,70
+substitution,vervanging,70
+degradation,degradatie,70
+stimulation,stimulatie,70
+sweetening,zoeten,71
+last mile,laatste mijl,71
+solo homer,solo homer,71
+termination,beëindiging,71
+wilt,verwelken,71
+flyover,viaduct,71
+knockout,knock out,71
+trail riding,trail rijden,71
+joyride,joyride,71
+tax credit,belastingkrediet,71
+oil change,olie vervanging,72
+adjournment,verdaging,72
+courtesy,beleefdheid,72
+thwack,dreun,72
+escalation,escalatie,72
+promenade,promenade,72
+outreach,overtreffen,72
+employment,werkgelegenheid,72
+wiggle,wiebelen,72
+block vote,stem blokkeren,72
+wilding,wilding,73
+subtraction,aftrekken,73
+forwarding,doorsturen,73
+scrape,schrapen,73
+restitution,teruggave,73
+manslaughter,doodslag,73
+amble,kuieren,73
+commotion,commotie,73
+economy of scale,schaalvoordeel,73
+accession,toetreding,73
+top dressing,topdressing,74
+pedicure,pedicure,74
+sampling,bemonstering,74
+approximation,benadering,74
+ignition,ontsteking,74
+enhancement,verbetering,74
+schlep,schlep,74
+motoring,autorijden,74
+irruption,inval,74
+liberation,bevrijding,74
+realization,realisatie,75
+confusion,verwardheid,75
+product development,product ontwikkeling,75
+remise,remise,75
+bundling,bundelen,75
+place kick,plaats schop,75
+cakewalk,cakewalk,75
+drain,droogleggen,75
+pickings,plukjes,75
+roasting,roosteren,75
+dissection,dissectie,76
+joggle,joggen,76
+reversion,omkering,76
+direct flight,directe vlucht,76
+straight and narrow,recht en smal,76
+annexation,annexatie,76
+cold turkey,koude kalkoen,76
+cheap shot,goedkoop schot,76
+dogtrot,lynx,76
+change of course,van koers veranderen,76
+double fault,dubbele fout,77
+deflation,deflatie,77
+own goal,eigen doelpunt,77
+bank closing,bank sluiting,77
+change of state,verandering van staat,77
+devoir,devoir,77
+pass,voorbij gaan aan,77
+cartwheel,radslag,77
+haymaker,hooier,77
+breakaway,losbreken,77
+feather,veerkracht,78
+butt welding,stomplassen,78
+brain drain,brain drain,78
+intrusion,indringing,78
+saccade,saccade,78
+scamper,zwerver,78
+trudge,sjokken,78
+emigration,emigratie,78
+flash welding,flitslassen,78
+drenching,drenken,78
+smacker,smaker,79
+blind flying,blind vliegen,79
+baseball play,honkbal spelen,79
+frog kick,kikker trap,79
+braising,smoren,79
+advancement,vooruitgang,79
+shtik,shtik,79
+suttee,suttee,79
+drain,droogleggen,79
+arousal,opwinding,79
+twiddle,twiddle,80
+kowtow,kowtow,80
+change of color,verandering van kleur,80
+reconstruction,wederopbouw,80
+specific performance,specifieke prestatie,80
+housing start,huisvesting start,80
+fusion cooking,fusion koken,80
+fulfillment,vervulling,80
+pace lap,tempo ronde,80
+optimization,optimalisatie,80
+looting,plunderen,81
+loosening,losmaken,81
+inflammation,ontsteking,81
+flounce,volant,81
+circumnavigation,omvaart,81
+safe harbor,veilige haven,81
+tax cut,belastingverlaging,81
+augmentation,vergroting,81
+enrichment,verrijking,81
+beauty treatment,schoonheidsbehandeling,81
+wag,kwispelen,82
+price cutting,prijsverlaging,82
+disturbance,verstoring,82
+transformation,transformatie,82
+humiliation,vernedering,82
+conquest,verovering,82
+renovation,vernieuwing,82
+concourse,samenloop,82
+product introduction,product Introductie,82
+land reform,landhervorming,82
+emptying,leegmaken,83
+transformation,transformatie,83
+anchorage,ankerplaats,83
+suicide pill,zelfmoord pil,83
+hunch,ingeving,83
+earned run,verdiende run,83
+hike,wandeltocht,83
+mountain climbing,bergbeklimmen,83
+extinction,uitsterven,83
+avulsion,avulsie,83
+abstraction,abstractie,84
+masterpiece,meesterwerk,84
+circumvolution,bocht,84
+last respects,laatste eer,84
+meat grinder,vleesmolen,84
+revocation,herroeping,84
+domestic violence,huiselijk geweld,84
+roundhouse,rondhuis,84
+bowdlerization,bowlen,84
+casting lots,loten werpen,84
+widening,verbreding,85
+straddle,straddle,85
+dissolution,ontbinding,85
+lockage,sluis,85
+junketing,junken,85
+liquidation,liquidatie,85
+forehand,voorhand,85
+corrugation,gegolfd,85
+cost cutting,kostenbesparing,85
+coup,staatsgreep,85
+strengthening,versterking,86
+backhand,backhand,86
+angulation,hoeking,86
+portage,overdragen,86
+accomplishment,voltooiing,86
+maiden voyage,eerste reis,86
+acceleration,versnelling,86
+plosion,plosie,86
+shortening,verkorting,86
+staging,enscenering,86
+broadening,verbreding,87
+comeback,terugkomen,87
+nutation,nutatie,87
+accumulation,accumulatie,87
+remand,voorarrest,87
+upturn,opleving,87
+peace initiative,vredesinitiatief,87
+waver,wankelen,87
+expunction,uitleg,87
+obstruction,obstructie,87
+ford,doorwaadbare plaats,88
+temperance,matigheid,88
+rabbit punch,konijn punch,88
+homecoming,thuiskomst,88
+convergence,convergentie,88
+snowboarding,snowboarden,88
+elongation,verlenging,88
+poke check,poke check,88
+mousetrap,muizeval,88
+truncation,inkorting,88
+domestic flight,Binnenlandse vlucht,89
+euthanasia,euthanasie,89
+rebuilding,wederopbouw,89
+bloodbath,bloedbad,89
+elaboration,uitwerking,89
+sprinkle,sprenkelen,89
+curtsy,buiging,89
+branching,vertakking,89
+props,rekwisieten,89
+exemption,vrijstelling,89
+magnification,vergroting,90
+derogation,afwijking,90
+qualification,kwalificatie,90
+shadowing,schaduwen,90
+airlift,luchtbrug,90
+overhaul,herziening,90
+redeye,rood oog,90
+waddle,waggelen,90
+recompense,vergelden,90
+hardening,verharding,90
+steam fitting,stoom fitting,91
+depletion,uitputting,91
+international flight,internationale vlucht,91
+ligation,afbinding,91
+finalization,afronding,91
+piggyback,meeliften,91
+birling,birling,91
+base on balls,basis op ballen,91
+reentry,terugkeer,91
+supplementation,aanvulling,91
+tonsure,tonsuur,92
+whitewash,witwassen,92
+indemnification,vrijwaring,92
+mumbling,mompelend,92
+ushering in,inluiden,92
+merging,samenvoegen,92
+passing shot,passerend schot,92
+seduction,verleiding,92
+swerve,uitwijken,92
+contract killing,contract moord,92
+shirring,plooien,93
+handspring,handvering,93
+dropkick,drop-kick,93
+readmission,heropname,93
+sclaff,sclaff,93
+dolphin kick,dolfijn kick,93
+icebreaker,ijsbreker,93
+deforestation,ontbossing,93
+scheduled maintenance,gepland onderhoud,93
+dilution,verdunning,93
+errand,boodschap,94
+vandalism,vandalisme,94
+haymaking,hooien,94
+plant closing,fabriekssluiting,94
+poaching,stroperij,94
+transshipment,overslag,94
+plain sailing,gewoon zeilen,94
+incorporation,incorporatie,94
+saturation,verzadiging,94
+incorporation,incorporatie,94
+flip-flop,slipper,95
+toasting,roosteren,95
+split ticket,gesplitst kaartje,95
+pronation,pronatie,95
+disruption,ontregeling,95
+straight ticket,rechtstreeks kaartje,95
+laceration,snijwond,95
+wing shooting,vleugel schieten,95
+watering,water geven,95
+brouhaha,broehaha,95
+lockstep,lockstep,96
+change of direction,verandering van richting,96
+triple,verdrievoudigen,96
+emergence,verschijning,96
+follow-through,vervolg,96
+dealings,transacties,96
+genuflection,knieval,96
+doweling,deuvel,96
+rappel,abseilen,96
+reveille,reveille,96
+transfusion,transfusie,97
+uppercut,uppercut,97
+transfusion,transfusie,97
+footstep,voetstap,97
+abduction,ontvoering,97
+incision,insnijding,97
+change of shape,verandering van vorm,97
+rejuvenation,verjonging,97
+permutation,permutatie,97
+trimming,bijsnijden,97
+resumption,hervatting,98
+ambulation,ambulant,98
+deletion,verwijdering,98
+multiple voting,meervoudig stemmen,98
+flying colors,vliegende kleuren,98
+interference,interferentie,98
+lurch,slingeren,98
+lurch,slingeren,98
+lurch,slingeren,98
+interchange,uitwisseling,98
+u-turn,u-bocht,99
+laying waste,afval leggen,99
+spread eagle,verspreid adelaar,99
+levitation,levitatie,99
+poisoning,vergiftiging,99
+afforestation,bebossing,99
+catharsis,catharsis,99
+catharsis,catharsis,99
+flit,fladderen,99
+flit,fladderen,99
+red herring,rode Haring,100
+wayfaring,zwervend,100
+retribution,vergelding,100
+bleach,bleekmiddel,100
+Sunnah,Soennah,100
+pub crawl,kroegentocht,100
+teeoff,afslaan,100
+encasement,omhulsel,100
+displacement,verplaatsing,100
+walkover,walkover,100
+telemark,telemarken,101
+baseball swing,honkbal schommel,101
+untying,losmaken,101
+run-up,aanloop,101
+rustication,rustiek,101
+constitutional,constitutioneel,101
+plundering,plunderen,101
+dismount,afstappen,101
+involution,involutie,101
+squeeze play,knijp spelen,101
+demarche,demarche,102
+ramble,zwerftocht,102
+aeration,beluchting,102
+adduction,adductie,102
+scissors kick,schaar kick,102
+bruxism,bruxisme,102
+window dressing,raambekleding,102
+swoop,duikvlucht,102
+gassing,vergassen,102
+plodding,ploeteren,102
+bifurcation,bifurcatie,103
+hecatomb,hecatombe,103
+attainder,bereiker,103
+extermination,uitroeiing,103
+reverse split,omgekeerde splitsing,103
+ambages,ambages,103
+exhaustion,uitputting,103
+amplification,versterking,103
+amplification,versterking,103
+lucky dip,Gelukkige dip,103
+maiden flight,eerste vlucht,104
+nystagmus,nystagmus,104
+backstop,terugslag,104
+convolution,convolutie,104
+forgiveness,vergiffenis,104
+terrain flight,terreinvlucht,104
+depreciation,afschrijving,104
+overspill,overloop,104
+laying on of hands,handoplegging,104
+preferment,voorkeur,104
+vertical integration,verticale integratie,105
+triple play,driedubbel spelen,105
+race riot,rassenrellen,105
+physical rehabilitation,fysieke revalidatie,105
+figuration,figuratie,105
+aborticide,abortus,105
+subversion,ondermijning,105
+sidestroke,zijslag,105
+narrowing,vernauwing,105
+facial,gezichtsbehandeling,105
+harakiri,harakiri,106
+urban renewal,stadsvernieuwing,106
+stabilization,stabilisatie,106
+dog paddle,hondenpeddel,106
+subdivision,onderverdeling,106
+fertilization,bevruchting,106
+lockout,uitsluiting,106
+induced abortion,opgewekte abortus,106
+landing approach,landing nadering,106
+septation,septatie,106
+weakening,verzwakking,107
+follow-through,vervolg,107
+face saver,gezichtsbespaarder,107
+downspin,downspin,107
+change of integrity,verandering van integriteit,107
+authorship,auteurschap,107
+casting vote,beslissende stem,107
+worrying,zorgen maken,107
+leapfrog,haasje-over,107
+choking,verstikking,107
+divergence,divergentie,108
+graduation,diploma uitreiking,108
+tax shelter,belastingparadijs,108
+inauguration,inhuldiging,108
+mottling,vlekkerig,108
+market penetration,marktpenetratie,108
+walk-through,doorloop,108
+random sampling,willekeurige steekproeven,108
+scatter,verstrooien,108
+long haul,lange afstand,108
+road rage,verkeersagressie,109
+abolition,afschaffing,109
+connecting flight,aansluitende vlucht,109
+secret ballot,geheime stemming,109
+ball hawking,bal hawking,109
+bombing,bombardementen,109
+transplant,transplantatie,109
+assisted suicide,hulp bij zelfdoding,109
+dust contamination,stof vervuiling,109
+genocide,volkerenmoord,109
+breaststroke,schoolslag,110
+instrument landing,instrument landing,110
+devaluation,devaluatie,110
+dilation,verwijding,110
+aircraft landing,vliegtuigen landen,110
+dislodgment,losraken,110
+check-in,Check in,110
+cupboard love,kast liefde,110
+horizontal integration,horizontale integratie,110
+censoring,censureren,110
+emancipation,emancipatie,111
+circumcision,besnijdenis,111
+deceleration,vertraging,111
+articulation,articulatie,111
+cumulative vote,cumulatieve stem,111
+decimation,decimering,111
+itineration,rondreis,111
+colonization,kolonisatie,111
+detachment,onthechting,111
+groundbreaking,baanbrekend,111
+vocational rehabilitation,beroepsrevalidatie,112
+consummation,voleinding,112
+consummation,voleinding,112
+tack,overstag gaan,112
+washup,afwassen,112
+percolation,percolatie,112
+tack,overstag gaan,112
+honorable discharge,eervol ontslag,112
+equalizer,gelijkmaker,112
+victory lap,overwinningsronde,112
+reclamation,terugwinning,113
+goal-kick,doeltrap,113
+therapeutic abortion,therapeutische abortus,113
+justification,rechtvaardiging,113
+jail delivery,gevangenis levering,113
+percolation,percolatie,113
+meddling,bemoeienis,113
+specialization,specialisatie,113
+subrogation,subrogatie,113
+demotion,degradatie,113
+slash,schuine streep,114
+acrobatics,acrobatiek,114
+wallop,opscheppen,114
+incomplete abortion,onvolledige abortus,114
+gallantry,dapperheid,114
+adornment,versiering,114
+parasailing,parasailen,114
+ornamentation,versiering,114
+glissade,glissade,114
+abatement,vermindering,114
+bell ringer,klokkenluider,115
+counterpunch,tegenstoot,115
+footwork,voetenwerk,115
+footwork,voetenwerk,115
+commutation,commutatie,115
+male orgasm,mannelijk orgasme,115
+reorganization,reorganisatie,115
+light adaptation,licht aanpassing,115
+face-off,face-off,115
+wetting,bevochtigen,115
+emphasizing,benadrukkend,116
+induction of labor,inductie van arbeid,116
+depilation,ontharing,116
+dissociation,dissociatie,116
+take-up,oppakken,116
+discoloration,verkleuring,116
+digression,uitweiding,116
+soiling,vervuiling,116
+rumination,herkauwen,116
+amortization,afschrijvingen,116
+palliation,palliatie,117
+change of magnitude,verandering van grootte,117
+pirouette,pirouette,117
+suicide bombing,zelfmoordaanslag,117
+fastening,bevestiging,117
+rollback,terugrollen,117
+saunter,slenteren,117
+eurythmy,euritmie,117
+carom,carambole,117
+maneuver,manoeuvreren,117
+airdrop,luchtdrop,118
+deregulation,deregulering,118
+dark adaptation,donkere aanpassing,118
+downswing,downswing,118
+haute cuisine,haute cuisine,118
+pick-off,afhaling,118
+goal-kick,doeltrap,118
+incurvation,kromming,118
+hibernation,winterslaap,118
+metamorphosis,metamorfose,118
+fibrillation,fibrillatie,119
+vaginismus,vaginisme,119
+modernization,modernisering,119
+gratification,bevrediging,119
+tenderization,malsheid,119
+miscue,mislukken,119
+scission,splitsing,119
+swabbing,zwabberen,119
+abscission,abscissie,119
+entree,voorgerecht,119
+maneuver,manoeuvreren,120
+vaporization,verdamping,120
+decontamination,ontsmetting,120
+immolation,opoffering,120
+contraction,samentrekking,120
+contraction,samentrekking,120
+detonation,ontploffing,120
+blind alley,doodlopende straat,120
+refreshment,verfrissing,120
+plication,toepassing,120
+abrogation,intrekking,121
+incineration,verbranding,121
+electrolysis,elektrolyse,121
+aggravation,verergering,121
+ballooning,ballonvaren,121
+indentation,inspringing,121
+discontinuance,stopzetting,121
+smashing,verpletterend,121
+quantization,kwantisatie,121
+supination,supinatie,121
+traversal,doorkruisen,122
+burnup,opbranden,122
+traversal,doorkruisen,122
+cannulation,canulatie,122
+clamber,klauteren,122
+transgression,overtreding,122
+adulteration,vervalsing,122
+overturn,omverwerpen,122
+deathblow,doodsteek,122
+spontaneous abortion,spontane abortie,122
+troop movement,troepenbeweging,123
+fetal movement,foetale beweging,123
+confluence,samenvloeiing,123
+scald,verbranden,123
+defacement,defacement,123
+warpath,oorlogspad,123
+divarication,aftakking,123
+mydriasis,mydriasis,123
+lineation,belijning,123
+springboard,springplank,123
+co-option,coöptatie,124
+tightening,aanscherping,124
+use immunity,gebruik immuniteit,124
+trailing,achterblijvend,124
+kindness,vriendelijkheid,124
+footfault,voetfout,124
+reinstatement,herplaatsing,124
+hang gliding,Delta vliegen,124
+annihilation,vernietiging,124
+repatriation,repatriëring,124
+resettlement,hervestiging,125
+interplay,wisselwerking,125
+overthrow,omverwerping,125
+delegacy,delegatie,125
+perfusion,doorbloeding,125
+prostration,uitputting,125
+redress,genoegdoening,125
+depredation,plundering,125
+easing,versoepeling,125
+official immunity,officiële immuniteit,125
+switcheroo,switcheroo,126
+supplanting,verdringen,126
+decompression,decompressie,126
+outburst,uitbarsting,126
+barbecuing,barbecueën,126
+naturalization,naturalisatie,126
+secession,afscheiding,126
+distention,uitzetting,126
+safety blitz,veiligheidsblitz,126
+sovereign immunity,soevereine immuniteit,126
+uxoricide,uxoricide,127
+spoliation,plundering,127
+beautification,verfraaiing,127
+vampirism,vampirisme,127
+sterilization,sterilisatie,127
+politeness,beleefdheid,127
+linguistic performance,taalkundige prestaties,127
+prorogation,prorogatie,127
+gastronomy,gastronomie,127
+banditry,banditisme,127
+alienation,vervreemding,128
+curtain raiser,gordijnkoord,128
+diversification,diversificatie,128
+countermarch,tegenmars,128
+titillation,prikkeling,128
+manumission,vrijlating,128
+scouting trip,verkenningstocht,128
+gyration,ronddraaien,128
+liberalization,liberalisering,128
+suffocation,verstikking,128
+going ashore,aan land gaan,129
+sanitation,sanitaire voorzieningen,129
+denudation,onthulling,129
+laparotomy,laparotomie,129
+amelioration,verbetering,129
+refocusing,herfocussen,129
+sexual conquest,seksuele verovering,129
+suicide squeeze play,zelfmoord knijpen spelen,129
+dislocation,ontwrichting,129
+safety squeeze play,veiligheid knijpen spelen,129
+jugglery,jongleren,130
+half volley,halve volley,130
+handover,overhandigen,130
+circumduction,omleiding,130
+flutter kick,slechte trap,130
+sitting trot,zittende draf,130
+spending spree,uitgaven spree,130
+protrusion,uitsteeksel,130
+cutback,Verminderen,130
+keystroke,toetsaanslag,130
+imminent abortion,dreigende abortus,131
+disinheritance,onterving,131
+pitching change,pitching verandering,131
+autotomy,autotomie,131
+masterstroke,meesterzet,131
+exaggeration,overdrijving,131
+supersedure,vervangen,131
+dermabrasion,dermabrasie,131
+Alpinism,alpinisme,131
+tax avoidance,belastingontduiking,131
+endurance riding,uithoudingsvermogen rijden,132
+etiolation,etiolation,132
+stultification,afstomping,132
+decapitation,onthoofding,132
+simplification,vereenvoudiging,132
+infanticide,kindermoord,132
+routemarch,routemars,132
+parole,voorwaardelijke vrijlating,132
+counterblow,tegenslag,132
+contracture,contractuur,132
+derring-do,dering-do,133
+endearment,genegenheid,133
+defloration,ontmaagding,133
+vasotomy,vasotomie,133
+orchotomy,orchotomie,133
+asbestos abatement,asbestbestrijding,133
+disembowelment,openbreken,133
+reforestation,herbebossing,133
+incitation,aansporing,133
+shamble,schuifelen,133
+correctional rehabilitation,correctionele revalidatie,134
+mariticide,mariticide,134
+res gestae,res gestae,134
+recission,ontbinding,134
+golden parachute,gouden parachute,134
+arson,brandstichting,134
+co-option,coöptatie,134
+reciprocity,wederkerigheid,134
+venesection,venesectie,134
+interconnection,onderlinge verbinding,134
+felo-de-se,felo-de-se,135
+parricide,vadermoord,135
+backhander,backhander,135
+nonstop flight,non-stop vlucht,135
+etiolation,etiolation,135
+greenmail,greenmail,135
+fare-stage,fare-stage,135
+porterage,dragerschap,135
+Turkish bath,Turks bad,135
+shape-up,vormgeven,135
+expurgation,zuivering,136
+minimization,minimalisering,136
+contortion,verdraaiing,136
+rising trot,stijgende draf,136
+headstand,hoofdstand,136
+ennoblement,veredeling,136
+dissolution of marriage,ontbinding van het huwelijk,136
+severance,ontslagvergoeding,136
+bronco busting,bronco busting,136
+habitual abortion,gewone abortus,136
+apparition,verschijning,137
+interim overhaul,tussentijdse revisie,137
+nephrotomy,nefrotomie,137
+fortification,fortificatie,137
+valvotomy,valvotomie,137
+pump priming,pomp aanzuigen,137
+transmutation,transmutatie,137
+overflight,overvliegen,137
+teleportation,teleportatie,137
+overshoot,doorschieten,137
+brachiation,brachiatie,138
+decantation,decanteren,138
+primrose path,sleutelbloem pad,138
+walkabout,rondwandelen,138
+splashdown,neerstorten,138
+intemperance,onmatigheid,138
+decentralization,decentralisatie,138
+exchange transfusion,wissel transfusie,138
+re-formation,hervorming,138
+walkabout,rondwandelen,138
+patricide,vadermoord,139
+atomization,verneveling,139
+deactivation,deactivering,139
+walkabout,rondwandelen,139
+abatement of a nuisance,vermindering van overlast,139
+bull's eye,in de roos,139
+locomotion,voortbeweging,139
+titivation,het tooien,139
+spasmolysis,spasmolyse,139
+shark repellent,haaienafstotend,139
+amalgamation,samensmelting,140
+conge,samenkomen,140
+recirculation,recirculatie,140
+technical knockout,technisch probleem,140
+deactivation,deactivering,140
+worsening,verslechtering,140
+fulmination,fulminatie,140
+detente,ontspanning,140
+knockdown,omver gooien,140
+laparoscopy,laparoscopie,140
+electrocution,elektrocutie,141
+episiotomy,episiotomie,141
+beachhead,bruggehoofd,141
+ravaging,verwoestend,141
+instillation,instillatie,141
+undercut,ondersnijding,141
+fluoridation,fluoridering,141
+atomization,verneveling,141
+neutralization,neutralisatie,141
+relinquishment,afstand doen,141
+spaceflight,ruimte vlucht,142
+neutralization,neutralisatie,142
+maximization,maximalisatie,142
+trifurcation,trifurcatie,142
+retraction,terugtrekking,142
+intensification,intensivering,142
+defoliation,ontbladering,142
+intensification,intensivering,142
+nouvelle cuisine,nouvelle cuisine,142
+jumpstart,vliegende start,142
+neutralization,neutralisatie,143
+moistening,bevochtigen,143
+bloodshed,bloedvergieten,143
+fractionation,fractionering,143
+entail,met zich meebrengen,143
+retrofit,achteraf inbouwen,143
+centralization,centralisatie,143
+uterine contraction,samentrekking van de baarmoeder,143
+bisection,doorsnijding,143
+disinfestation,desinfectie,143
+sclerotomy,sclerotomie,144
+transactional immunity,transactie immuniteit,144
+sidestep,uit de weg gaan,144
+write-in,inschrijven,144
+unearned run,onverdiende run,144
+reclining,achterover leunen,144
+benevolence,welwillendheid,144
+satiation,verzadiging,144
+write-off,afschrijven,144
+cuckoldry,hoorndrager,144
+undoing,ongedaan maken,145
+rationalization,rationalisatie,145
+skydiving,Parachutespringen,145
+thoracotomy,thoracotomie,145
+syllabication,lettergrepen,145
+obfuscation,verduistering,145
+chance-medley,kans-medley,145
+phase-out,uitfasering,145
+cornhusking,cornhusking,145
+precaution,voorzorgsmaatregel,145
+splitsville,splitsville,146
+tyrannicide,tirannicide,146
+matricide,moedermoord,146
+mnemonic,geheugensteuntje,146
+concatenation,aaneenschakeling,146
+run batted in,binnengeslagen,146
+debarkation,ontscheping,146
+tapering,taps toelopend,146
+hypnogenesis,hypnogenese,146
+blackening,zwart worden,146
+retrenchment,bezuinigingen,147
+gentrification,gentrificatie,147
+fratricide,broedermoord,147
+homogenization,homogenisatie,147
+emendation,verbetering,147
+filicide,kindermoord,147
+coalescence,samensmelting,147
+countermine,tegenmijnen,147
+disunion,verdeeldheid,147
+regicide,koningsmoord,147
+extenuation,verzwakking,148
+amphibious landing,amfibische landing,148
+treading water,watertrappelen,148
+Comstockery,Comstockery,148
+annulment,nietigverklaring,148
+forehand drive,forehand drive,148
+bareboating,bareboating,148
+backhand drive,backhand drive,148
+transfiguration,transfiguratie,148
+epidural injection,epidurale injectie,148
+profanation,ontheiliging,149
+stratified sampling,gestratificeerde steekproef,149
+vindication,rechtvaardiging,149
+transfiguration,transfiguratie,149
+fait accompli,voldongen feit,149
+fossilization,fossilisatie,149
+vasodilation,vasodilatatie,149
+humanization,humanisering,149
+bastardization,verbastering,149
+countermeasure,tegenmaatregel,149
+pulverization,verpulvering,150
+suction curettage,zuigcurettage,150
+focalization,focalisatie,150
+matriculation,toelatingsexamen,150
+moonwalk,maanwandeling,150
+moonwalk,maanwandeling,150
+pasteurization,pasteurisatie,150
+miniaturization,miniaturisatie,150
+sleepwalking,slaapwandelen,150
+secularization,secularisatie,150
+destabilization,destabilisatie,151
+disconnection,verbroken verbinding,151
+retroflection,retroflectie,151
+popularization,popularisatie,151
+demoralization,demoralisatie,151
+nationalization,nationalisatie,151
+Bowdlerism,Bowdlerisme,151
+disorganization,desorganisatie,151
+disinvestment,desinvestering,151
+profligacy,losbandigheid,151
+unionization,vakbondsvorming,152
+hyperextension,hyperextensie,152
+Section Eight,Sectie Acht,152
+tubal ligation,afbinden van de eileiders,152
+declassification,declassificatie,152
+parcellation,verkaveling,152
+feint,schijnbeweging,152
+stupefaction,verbijstering,152
+gastromy,gastronomie,152
+underachievement,onderpresteren,152
+submersion,onderdompeling,153
+tessellation,mozaïekpatroon,153
+dorsiflexion,dorsaalflexie,153
+crosscheck,kruiscontrole,153
+unsnarling,onopvallend,153
+acrobatic stunt,acrobatische stunt,153
+call-back,terugbellen,153
+anastylosis,anastylosis,153
+pervaporation,pervaporatie,153
+shoot-down,neerschieten,153
+stockpiling,voorraden aanleggen,154
+dishonorable discharge,oneervol ontslag,154
+deep fording,diep doorwaden,154
+exculpation,vrijstelling,154
+hair-raiser,haarverhoger,154
+perambulation,rondwandelen,154
+nullification,nietigverklaring,154
+moralization,moralisering,154
+dry-gulching,droog slikken,154
+aggrandizement,verheerlijking,154
+housecleaning,huis schoonmaken,155
+vulgarization,vulgarisatie,155
+housecleaning,huis schoonmaken,155
+downshift,terugschakelen,155
+viatical settlement,viatische nederzetting,155
+downshift,terugschakelen,155
+brutalization,brutalisering,155
+reassembly,weer in elkaar zetten,155
+reciprocation,wederkerigheid,155
+de-escalation,de-escalatie,155
+rechauffe,rechaufferen,156
+quartering,in vieren delen,156
+beatification,zaligverklaring,156
+reappearance,wederverschijning,156
+barbarization,barbaarsheid,156
+perineotomy,perineotomie,156
+communization,communicatie,156
+dehumanization,ontmenselijking,156
+disfranchisement,disfranchising,156
+galvanization,galvanisatie,156
+rotational nystagmus,roterende nystagmus,157
+shallow fording,ondiep doorwaden,157
+collectivization,collectivisatie,157
+overachievement,overprestatie,157
+schematization,schematisering,157
+oversimplification,oversimplificatie,157
+autosuggestion,autosuggestie,157
+Gram's method,Gram's methode,157
+fireman's carry,brandweerwagen,157
+service cutback,service bezuiniging,157
+decimalization,decimalisatie,158
+glamorization,verheerlijking,158
+re-establishment,heroprichting,158
+physiological nystagmus,fysiologische nystagmus,158
+condonation,vergoelijking,158
+interpenetration,interpenetratie,158
+whitelash,witte wimpers,158
+comedown,kom naar beneden,158
+metrification,metrificatie,158
+communization,communicatie,158
+self-fulfillment,zelfontplooiing,159
+tailspin,neerwaartse spiraal,159
+demonetization,demonetisering,159
+tribalization,tribalisering,159
+peregrination,omzwervingen,159
+self-gratification,zelfbevrediging,159
+headshake,Hoofd schudden,159
+lighterage,lichter maken,159
+drive-by killing,drive-by-moord,159
+interspersion,tussendoortje,159
+devitalization,devitalisatie,160
+body English,lichaam Engels,160
+cross-fertilization,kruisbestuiving,160
+three-point turn,driepuntsbocht,160
+razing,met de grond gelijk maken,160
+vitiation,ongerechtigheid,160
+repositing,opnieuw plaatsen,160
+detribalization,detribalisatie,160
+about-face,over het gezicht,160
+three-point landing,driepuntslanding,160
+evisceration,verwijdering van de ingewanden,161
+sheepshearing,schapen scheren,161
+Russian roulette,Russische roulette,161
+thuggee,moord met beroving,161
+line-drive triple,line-drive triple,161
+overindulgence,overmatige toegeeflijkheid,161
+transmogrification,transmogrificatie,161
+self-improvement,zelfverbetering,161
+dichotomization,dichotomisering,161
+line-drive single,line-drive single,161
+officiation,officiële dienst,162
+backbend,achteroverbuigen,162
+self-aggrandizement,zelfverheerlijking,162
+up-bow,opwaartse buiging,162
+spring-cleaning,Voorjaars-schoonmaak,162
+crop-dusting,gewasbestrooiing,162
+drive-by shooting,drive-by shooting,162
+about-face,over het gezicht,162
+self-destruction,zelfvernietiging,162
+post-rotational nystagmus,post-rotatie nystagmus,162
+whistle-stop tour,fluitje-stop-tour,163
+line-drive double,dubbele lijnaandrijving,163
+down-bow,neerwaartse buiging,163
+Braxton-Hicks contraction,Braxton-Hicks samentrekking,163
+ground-controlled approach,grondgestuurde nadering,163
+spiritualization,vergeestelijking,163
+pac-man strategy,pac-man strategie,163
+two-handed backhand,tweehandige backhand,163
+physician-assisted suicide,hulp bij zelfdoding door een arts,163
+anti-takeover defense,anti-overname verdediging,163
+scorched-earth policy,beleid van de verschroeide aarde,164

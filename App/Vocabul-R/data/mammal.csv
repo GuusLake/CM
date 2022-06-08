@@ -1,0 +1,1170 @@
+EngWord,NldWord,Group
+tom,Tom,0
+cat,kat,0
+gnu,gnu,0
+ram,RAM,0
+fox,Vos,0
+bay,baai,0
+jack,jack,0
+dog,hond,0
+ass,kont,0
+kid,kind,0
+rat,Rat,1
+mouse,muis,1
+wolf,wolf,1
+bear,beer,1
+monkey,aap,1
+cow,koe,1
+cow,koe,1
+deer,hert,1
+cattle,vee,1
+doe,doe,1
+bitch,teef,2
+horse,paard,2
+livestock,vee,2
+buck,bok,2
+hart,hart,2
+kitty,pot,2
+grade,cijfer,2
+grey,grijs,2
+killer whale,orka,2
+cur,cur,2
+lion,Leeuw,3
+seal,zegel,3
+billy,Billy,3
+drill,boren,3
+bull,stier,3
+goat,geit,3
+pony,pony,3
+puppy,puppy,3
+pony,pony,3
+bull,stier,3
+ox,OS,4
+pony,pony,4
+guinea pig,cavia,4
+ox,OS,4
+homo,homo,4
+ape,aap,4
+lynx,lynx,4
+badger,das,4
+beaver,bever,4
+stag,hert,4
+elk,eland,5
+bullock,os,5
+bullock,os,5
+world,wereld-,5
+nanny,oppas,5
+mole,wrat,5
+dun,dun,5
+zebra,zebra,5
+tiger,tijger,5
+roe deer,reeën,5
+hound,hond,6
+hare,haas,6
+rabbit,konijn,6
+chow,chow,6
+pocket rat,zakrat,6
+fisher,visser,6
+camel,kameel,6
+pointer,wijzer,6
+kit fox,kit vos,6
+hack,hacken,6
+mara,mara,7
+pocket mouse,zakmuis,7
+ice bear,ijsbeer,7
+ferret,fret,7
+palm cat,palmkat,7
+kit fox,kit vos,7
+jaguar,jaguar,7
+sperm whale,potvis,7
+sheep,schaap,7
+yak,jak,7
+working dog,werkhond,8
+hack,hacken,8
+hedgehog,egel,8
+domestic cat,huiskat,8
+hack,hacken,8
+charger,oplader,8
+mare,merrie,8
+otter,Otter,8
+whale,walvis,8
+bunny,konijn,8
+beagle,brak,9
+bison,bizon,9
+wood mouse,bosmuis,9
+sow,zeug,9
+llama,lama,9
+hog,varken,9
+sand rat,zandrat,9
+steed,ros,9
+sand rat,zandrat,9
+cougar,poema,9
+wood rat,houtrat,10
+house mouse,huismuis,10
+field mouse,veldmuis,10
+queen,koningin,10
+pollard,knots,10
+genet,genet,10
+boxer,bokser,10
+panther,panter,10
+ewe,ooi,10
+red fox,rode vos,10
+dairy cattle,melkvee,11
+corgi,corgi,11
+pinto,pinto,11
+sea cow,zee koe,11
+hind,hindi,11
+bulldog,buldog,11
+bat,knuppel,11
+coyote,coyote,11
+sea lion,zeeleeuw,11
+water rat,waterrat,11
+red fox,rode vos,12
+fur seal,pelsrob,12
+fur seal,pelsrob,12
+sand cat,zand kat,12
+wether,of,12
+spider monkey,spin aap,12
+mink,nerts,12
+stallion,hengst,12
+koala,koala,12
+gelding,ruin,12
+elephant,olifant,13
+boar,zwijn,13
+vixen,vixen,13
+terrier,terriër,13
+dolphin,dolfijn,13
+weasel,wezel,13
+mustang,mustang,13
+timber wolf,houtwolf,13
+poodle,poedel,13
+apar,apart,13
+forest goat,bosgeit,14
+bongo,bongo,14
+gib,gib,14
+collie,collie,14
+setter,setter,14
+gopher,gopher,14
+impala,Impala,14
+bronco,bronco,14
+murine,murine,14
+big cat,grote kat,14
+mole rat,Mol Rat,15
+mole rat,Mol Rat,15
+water dog,waterhond,15
+roan,roan,15
+bruin,bruin,15
+spaniel,spaniël,15
+draft horse,trekpaard,15
+hamster,hamster,15
+equine,paarden,15
+dingo,dingo,15
+oryx,oryx,16
+buckskin,daim,16
+manatee,zeekoe,16
+royal,Koninklijk,16
+bird dog,jachthond,16
+bobcat,bobcat,16
+dachshund,teckel,16
+wild dog,wilde hond,16
+pilot whale,grienden,16
+wild horse,wild paard,16
+feist,feist,17
+red wolf,rode wolf,17
+groundhog,marmot,17
+heifer,vaars,17
+wild ass,wilde kont,17
+springer,springer,17
+chestnut,kastanje,17
+spitz,spits,17
+marten,marter,17
+saki,saki,17
+alpaca,alpaca,18
+tiger cat,tijgerkat,18
+mountain goat,berggeit,18
+gorilla,gorilla,18
+takin,takin,18
+hunting dog,jachthond,18
+merino,merino,18
+sewer rat,rioolrat,18
+marmot,marmot,18
+hooded seal,klapmuts,18
+stud,dekhengst,19
+tiger cat,tijgerkat,19
+black fox,zwarte Vos,19
+cow pony,koe pony,19
+primate,primaat,19
+hackney,hackney,19
+mountain beaver,bergbever,19
+walrus,walrus,19
+roebuck,reebok,19
+giraffe,giraffe,19
+gibbon,gibbon,20
+simian,simian,20
+kob,kobo,20
+red deer,rood Hert,20
+harp seal,zadelrob,20
+grizzly,grizzly,20
+beef,rundvlees,20
+eared seal,oorrob,20
+pika,pika,20
+swine,zwijnen,20
+hyena,hyena,21
+alley cat,Zwerfkat,21
+mouser,mouser,21
+paca,paca,21
+rice rat,rijst rat,21
+lemur,lemur,21
+basset,basset,21
+canine,hoektand,21
+titi,titi,21
+watchdog,waakhond,21
+kudu,kudu,22
+beaver rat,bever rat,22
+post horse,post paard,22
+brown rat,bruine rat,22
+raccoon,wasbeer,22
+wheel horse,wiel paard,22
+wombat,wombat,22
+fossa,fossa,22
+chamois,gemzen,22
+white wolf,witte wolf,22
+stepper,stepper,23
+gaur,gaur,23
+mammoth,mammoet-,23
+leopard,luipaard,23
+blue fox,blauwe vos,23
+fawn,reekalf,23
+pooch,hondje,23
+mastiff,mastiff,23
+rhesus,rhesus,23
+moke,mok,23
+squirrel,eekhoorn,24
+sorrel,zuring,24
+wharf rat,kade rat,24
+black rat,zwarte rat,24
+ferret badger,fret das,24
+grey fox,grijze vos,24
+attack dog,aanval hond,24
+brown bear,bruine beer,24
+quarter horse,kwart paard,24
+loir,loir,24
+mule,muilezel,25
+police dog,politiehond,25
+nude mouse,naakte muis,25
+guide dog,geleidehond,25
+jungle cat,jungle kat,25
+eland,eland,25
+green monkey,groene aap,25
+gazelle,gazelle,25
+sloth,luiaard,25
+coach horse,coach paard,25
+ant bear,mierenbeer,26
+lapin,lapin,26
+quagga,quagga,26
+nyala,nyala,26
+pole horse,paal paard,26
+borzoi,borzoi,26
+kiang,kiang,26
+polo pony,polo pony,26
+bovine,runderen,26
+pole horse,paal paard,26
+vizsla,vizsla,27
+polar hare,poolhaas,27
+harness horse,tuigpaard,27
+civet,civet,27
+jackal,jakhals,27
+greyhound,windhond,27
+harvest mouse,oogst muis,27
+cotton rat,katoen rat,27
+sea otter,zeeotter,27
+howler monkey,brulaap,27
+mountain zebra,bergzebra,28
+ocelot,ocelot,28
+hazel mouse,hazelmuis,28
+great ape,grote aap,28
+native cat,inheemse kat,28
+tapir,tapir,28
+antelope,antilope,28
+macaque,makaak,28
+pug,mopshond,28
+elephant seal,zeeolifant,28
+liger,lijger,29
+wild goat,wilde geit,29
+narwhal,narwal,29
+hearing dog,horende hond,29
+saddle horse,zadelpaard,29
+indri,indri,29
+okapi,okapi,29
+cavy,cavia,29
+sled dog,sleehond,29
+cob,maïskolf,29
+musk ox,muskusos,30
+caribou,kariboes,30
+baboon,baviaan,30
+lioness,leeuwin,30
+water buffalo,water Buffel,30
+bloodhound,bloedhond,30
+dark horse,donker paard,30
+silver fox,zilveren vos,30
+retriever,retriever,30
+zebu,zeboe,30
+whippet,whippet,31
+wisent,wijs,31
+deer mouse,herten muis,31
+wallaby,wallaby,31
+bear cub,berenjong,31
+saiga,saiga,31
+harpy,harpij,31
+puku,puku,31
+lemming,lemming,31
+goral,goral,31
+cayuse,cayuse,32
+ratel,ratel,32
+addax,addax,32
+prairie dog,prairiehond,32
+cinnamon bear,kaneelbeer,32
+coati,coati,32
+sausage dog,worst hond,32
+stirk,roer,32
+papillon,papillon,32
+longhorn,langhoorn,32
+shire,graafschap,33
+hyrax,hyrax,33
+opossum,opossum,33
+serval,serval,33
+red poll,rode peiling,33
+cactus mouse,cactusmuis,33
+vervet,vervet,33
+black sheep,zwart schaap,33
+briard,briard,33
+courser,cursus,33
+cotton mouse,katoenen muis,34
+margay,margay,34
+thoroughbred,volbloed,34
+lesser ape,kleine aap,34
+bearded seal,baardrob,34
+mountain sheep,berg schapen,34
+kangaroo,kangoeroe,34
+wolverine,veelvraat,34
+feline,katachtig,34
+yearling,eenjarig,34
+yearling,eenjarig,35
+wapiti,wapiti,35
+mongoose,mangoest,35
+burro,ezeltje,35
+tusker,tusker,35
+placental,placenta,35
+pinscher,pinscher,35
+flying fox,vliegende vos,35
+palomino,palomino,35
+agouti,agouti,35
+hog badger,varkensdas,36
+peccary,pekari,36
+Devon,Devon,36
+giant panda,grote panda,36
+golden mole,gouden mol,36
+galago,galago,36
+common lynx,gewone lynx,36
+fox terrier,Fox Terrier,36
+kelpie,kelpie,36
+basenji,basenji,36
+tiger cub,tijgerwelp,37
+pricket,pik,37
+sambar,sambar,37
+hominid,hominide,37
+shepherd dog,herdershond,37
+sporting dog,sportieve hond,37
+Manx,Manx,37
+dugong,doejong,37
+langur,langur,37
+jennet,jennet,37
+peludo,peludo,38
+vicuna,vicuna,38
+lechwe,lechwe,38
+wild sheep,wilde schapen,38
+bushbuck,bosbok,38
+proboscis monkey,neusaap,38
+redbone,redbone,38
+lerot,lero,38
+male horse,mannelijk paard,38
+patas,pata's,38
+malamute,malamute,39
+wolf pup,wolvenjong,39
+numbat,numbat,39
+ibex,steenbok,39
+kuvasz,kuvaszo,39
+rabbit ears,konijnenoren,39
+toy dog,speelgoed hond,39
+farm horse,boerderij paard,39
+echidna,echidna,39
+wood rabbit,houten konijn,39
+echidna,echidna,40
+white whale,witte walvis,40
+musk deer,musk hert,40
+marsh hare,moerashaas,40
+vole,woelmuis,40
+guenon,guenon,40
+rodent,knaagdier,40
+cairn,steenhoop,40
+wildcat,wilde kat,40
+plains pocket mouse,effen zakmuis,40
+flying mouse,vliegende muis,41
+common zebra,gewone zebra,41
+skunk,stinkdier,41
+pachyderm,dikhuid,41
+colobus,colobus,41
+white elephant,witte Olifant,41
+leopard cat,luipaardkat,41
+packrat,packrat,41
+brood bitch,broed teef,41
+harbor seal,gewone zeehond,41
+mountain gorilla,berggorilla,42
+mandrill,mandril,42
+polecat,bunzing,42
+blue whale,blauwe vinvis,42
+racehorse,renpaard,42
+peba,peba,42
+grey whale,grijze walvis,42
+false vampire,valse vampier,42
+tabby,gestreept,42
+tabby,gestreept,42
+harbor porpoise,bruinvis,43
+schnauzer,schnauzer,43
+porpoise,bruinvis,43
+brocket,brocket,43
+lesser panda,kleine panda,43
+fox squirrel,vos eekhoorn,43
+brocket,brocket,43
+mudder,modder,43
+sable,sabelmarter,43
+field spaniel,veldspaniël,43
+Durham,Durham,44
+wild boar,wild zwijn,44
+grampus,grampus,44
+rat terrier,rattenterriër,44
+dwarf sperm whale,dwerg potvis,44
+gemsbok,gemsbok,44
+pacer,gangmaker,44
+carabao,karabao,44
+woodland caribou,boskariboe,44
+caracal,caracal,44
+palfrey,rijpaard,45
+lion cub,Leeuwen welp,45
+squirrel monkey,eekhoorn aap,45
+spotted lynx,gevlekte lynx,45
+dalmatian,dalmatiër,45
+grison,grison,45
+anthropoid ape,mensaap,45
+hippopotamus,nijlpaard,45
+packhorse,pakpaard,45
+tenrec,tenrec,45
+prancer,prancer,46
+chinchilla,chinchilla,46
+tayra,tayra,46
+coydog,coydog,46
+pinche,knijpen,46
+pacer,gangmaker,46
+harrier,kiekendief,46
+fallow deer,damherten,46
+ruminant,herkauwer,46
+tigress,tijgerin,46
+guanaco,guanaco,47
+mastodon,mastodont,47
+fruit bat,fruitvleermuis,47
+keeshond,keeshond,47
+aardvark,aardvarken,47
+right whale,rechter walvis,47
+jird,jird,47
+griffon,griffioen,47
+red bat,rode vleermuis,47
+shrew,spitsmuis,47
+common shrew,spitsmuis,48
+springbok,springbok,48
+swamp rabbit,moeras konijn,48
+workhorse,werkpaard,48
+carnivore,carnivoor,48
+napu,napu,48
+domestic ass,binnenlandse kont,48
+rhinoceros,neushoorn,48
+meadow vole,weidemuis,48
+griffon,griffioen,48
+guano bat,guano bat,49
+zoril,zoril,49
+mule deer,muildierhert,49
+razorback,scheermes,49
+coonhound,coonhound,49
+Saluki,Saluki,49
+plow horse,ploeg paard,49
+naked mole rat,naakte molrat,49
+chimpanzee,chimpansee,49
+common dolphin,gewone dolfijn,49
+aurochs,oeros,50
+river otter,rivier Otter,50
+liver chestnut,lever kastanje,50
+humpback,gebochelde,50
+jumping mouse,springende muis,50
+tree squirrel,boom eekhoorn,50
+river dolphin,rivier dolfijn,50
+water spaniel,waterspaniël,50
+bandicoot,bandicoot,50
+silverback,zilverrug,50
+rock squirrel,rots eekhoorn,51
+muntjac,muntjak,51
+mouflon,moeflon,51
+potoroo,potoo,51
+orange bat,oranje vleermuis,51
+brown bat,bruine vleermuis,51
+red squirrel,rode eekhoorn,51
+bottlenose dolphin,tuimelaar,51
+dhole,dhole,51
+muskrat,muskusrat,51
+wolfhound,wolfshond,52
+cattalo,cattalo,52
+onager,onager,52
+raccoon dog,wasbeerhond,52
+ermine,hermelijn,52
+guereza,guereza,52
+kangaroo rat,kangoeroe rat,52
+clumber,onhandige,52
+pronghorn,pronghorn,52
+foxhound,jachthond,52
+mountain paca,berg paca,53
+Cardigan,Vest,53
+pine marten,boommarter,53
+komondor,komondor,53
+kanchil,kanchil,53
+uakari,uakari,53
+malinois,Mechelaar,53
+pariah dog,paria hond,53
+armadillo,gordeldier,53
+waterbuck,waterbok,53
+toothed whale,tandwalvis,54
+tortoiseshell,schildpad,54
+large poodle,grote poedel,54
+kangaroo mouse,kangoeroe muis,54
+kangaroo mouse,kangoeroe muis,54
+dormouse,slaapmuis,54
+broodmare,fokmerrie,54
+tamarin,tamarijn,54
+tatouay,tatouay,54
+glutton,veelvraat,54
+capybara,capibara,55
+bighorn,grote hoorn,55
+steenbok,steenbok,55
+ground squirrel,grond eekhoorn,55
+lionet,lionet,55
+woolly monkey,wollige aap,55
+pygmy mouse,pygmee muis,55
+Jersey,Jersey,55
+Lhasa,Lhasa,55
+tamarau,tamarau,55
+Morgan,Morgan,56
+snow leopard,sneeuwluipaard,56
+sable antelope,sabelantilope,56
+toy terrier,speelgoedterriër,56
+goat antelope,geit antilope,56
+Friesian,Fries,56
+rogue elephant,schurken olifant,56
+stone marten,Steenmarter,56
+Welsh,Welsh,56
+Angora,Angora,56
+bovid,bovid,57
+vampire bat,vampier vleermuis,57
+aardwolf,aardwolf,57
+porcupine,stekelvarken,57
+platypus,vogelbekdier,57
+housedog,huishond,57
+ground sloth,grondluiaard,57
+suslik,suslik,57
+orangutan,orangoetan,57
+sloth bear,luiaard beer,57
+sei whale,noordse vinvis,58
+jackrabbit,jackrabbit,58
+golden retriever,Golden retriever,58
+otterhound,otterhond,58
+golden hamster,gouden hamster,58
+black squirrel,zwarte eekhoorn,58
+thylacine,thylacine,58
+cheetah,Jachtluipaard,58
+Angora,Angora,58
+stoat,hermelijn,58
+anoa,anoa,59
+schipperke,schipperke,59
+domestic goat,binnenlandse geit,59
+cavalry horse,cavalerie paard,59
+fanaloka,fanaloka,59
+proconsul,proconsul,59
+anteater,miereneter,59
+ichneumon,sluipwesp,59
+pangolin,schubdier,59
+gerbil,woestijnrat,59
+gerenuk,gerenuk,60
+slender loris,slanke lori,60
+little chief hare,kleine opperhaas,60
+least shrew,minste spits,60
+rat kangaroo,rattenkangoeroe,60
+rorqual,rorqual,60
+mountain nyala,berg nyala,60
+hinny,muilezel,60
+hominoid,hominoïde,60
+pygmy sperm whale,dwerg potvis,60
+bassarisk,bassarisk,61
+musk kangaroo,musk kangoeroe,61
+Reynard,Reynaert,61
+chipmunk,aardeekhoorn,61
+chigetai,chigetai,61
+cocker spaniel,Cocker spaniel,61
+bull mastiff,stier mastiff,61
+tree wallaby,boomwallaby,61
+common raccoon,gewone wasbeer,61
+rock wallaby,rotswallaby,61
+marsupial,buideldier,62
+cuscus,koeskoes,62
+kaffir cat,kaffir kat,62
+capuchin,kapucijner,62
+marmoset,zijdeaapje,62
+prosimian,halfgoden,62
+wirehair,draadhaar,62
+abrocome,abrocome,62
+toy poodle,speelgoedpoedel,62
+ungulate,hoefdieren,62
+Guernsey,Guernsey,63
+opossum rat,opossum rat,63
+eohippus,eohippus,63
+Brahman,brahmaan,63
+macrotus,macrotus,63
+Ungulata,Ungulata,63
+Cheviot,Cheviot,63
+Shih-Tzu,Shih-Tzu,63
+dik-dik,dik-dik,63
+urial,uriaal,63
+hoary marmot,grijze marmot,64
+chacma,chacma,64
+big brown bat,grote bruine vleermuis,64
+tiglon,tiglon,64
+domestic sheep,gedomesticeerde schapen,64
+warthog,wrattenzwijn,64
+viscacha,viscacha,64
+Exmoor,Exmoor,64
+mangabey,mangabey,64
+brown hyena,bruine hyena,64
+little brown bat,kleine bruine vleermuis,65
+springer spaniel,springer spaniël,65
+aye-aye,aye-aye,65
+dinoceras,dinoceras,65
+lesser kudu,kleine kudu,65
+miniature schnauzer,dwergschnauzer,65
+Angora,Angora,65
+shrew mole,spitsmuis mol,65
+stablemate,stalgenoot,65
+tree shrew,boomspitsmuis,65
+common eland,gewone eland,66
+porker,vleesvarken,66
+anthropoid,antropoïde,66
+longwool,lange wol,66
+sassaby,sassaby,66
+finback,finback,66
+miniature poodle,miniatuur poedel,66
+standard poodle,standaard poedel,66
+hare wallaby,hazenwallaby,66
+Samoyed,Samojeed,66
+plains pocket gopher,effen zak gopher,67
+rock hyrax,rots hyrax,67
+serow,serow,67
+cave myotis,grot myotis,67
+miniature pinscher,dwergpinscher,67
+greater kudu,grotere kudu,67
+hartebeest,hartebeest,67
+giant schnauzer,reuzenschnauzer,67
+grasshopper mouse,sprinkhaan muis,67
+dasyure,dasure,67
+toy spaniel,speelgoed spaniël,68
+markhor,markhor,68
+imperial mammoth,keizerlijke mammoet,68
+Chihuahua,Chihuahua,68
+banteng,banteng,68
+meadow jumping mouse,weide springende muis,68
+slow loris,langzame lori,68
+edentate,edentaat,68
+otter shrew,otterspitsmuis,68
+guadalupe fur seal,guadalupe pelsrob,68
+chickeree,chickeree,69
+aoudad,aoudad,69
+mountain chinchilla,berg chinchilla,69
+grivet,grivet,69
+antelope squirrel,antilope eekhoorn,69
+trotting horse,dravend paard,69
+domestic llama,binnenlandse lama,69
+silky pocket mouse,zijdezachte zakmuis,69
+water shrew,waterspitsmuis,69
+aperea,aperea,69
+bandicoot rat,bandicoot rat,70
+flying lemur,vliegende maki,70
+snowshoe hare,sneeuwschoenhaas,70
+Exmoor,Exmoor,70
+bluetick,blauwe vink,70
+spotted hyena,gevlekte hyena,70
+horseshoe bat,hoefijzer vleermuis,70
+meerkat,stokstaartje,70
+kinkajou,kinkajou,70
+argali,argali,70
+frosted bat,bevroren vleermuis,71
+horseshoe bat,hoefijzer vleermuis,71
+spotted skunk,gevlekt stinkdier,71
+warhorse,oorlogspaard,71
+Java man,Java man,71
+common wallaby,gewone wallaby,71
+female mammal,vrouwelijk zoogdier,71
+Hereford,Hereford,71
+serotine,serotine,71
+white rhinoceros,witte neushoorn,71
+collared pika,halsband pika,72
+silky terrier,zijdeachtige terriër,72
+douroucouli,doroucouli,72
+groenendael,groenendael,72
+Doberman,Dobermann,72
+Galloway,Galloway,72
+baleen whale,baleinwalvis,72
+bellwether,klokkenluider,72
+giant kangaroo,gigantische kangoeroe,72
+muishond,muishond,72
+pademelon,pademeloen,73
+nilgai,nijlgau,73
+Hampshire,Hampshire,73
+jackass bat,jackass vleermuis,73
+Pembroke,Pembroke,73
+coypu,beverrat,73
+manul,manueel,73
+pouched mouse,muis in zak,73
+bezoar goat,bezoar geit,73
+Charolais,Charolais,73
+gee-gee,gee-gee,74
+Rottweiler,Rottweiler,74
+water vole,water woelmuis,74
+lapdog,schoothondje,74
+water vole,water woelmuis,74
+coondog,coondog,74
+warrigal,krijgshaftig,74
+common opossum,gewone opossum,74
+mastiff bat,mastiff vleermuis,74
+potto,aardappel,74
+tamandua,tamandua,75
+siamang,siamang,75
+leopardess,luipaard,75
+Africander,Afrikaan,75
+valley pocket gopher,Valley pocket gopher,75
+eastern grey squirrel,oostelijke grijze eekhoorn,75
+Arctic fox,poolvos,75
+cetacean,walvisachtigen,75
+black rhinoceros,zwarte neushoorn,75
+pied lemming,bonte lemmingen,75
+western grey squirrel,westelijke grijze eekhoorn,76
+northern flying squirrel,noordelijke vliegende eekhoorn,76
+striped hyena,gestreepte hyena,76
+striped skunk,gestreept stinkdier,76
+pygmy chimpanzee,pygmee chimpansee,76
+chevrotain,chevrotain,76
+pine vole,dennen woelmuis,76
+blackbuck,zwarte bok,76
+northern pocket gopher,noordelijke zakgopher,76
+southern flying squirrel,zuidelijke vliegende eekhoorn,76
+Clydesdale,Clydesdale,77
+woolly mammoth,wolharige mammoet,77
+mesohippus,mesohippie,77
+baronduki,baronduki,77
+mylodontid,mylodontid,77
+bullterrier,bullterrier,77
+affenpinscher,affenpinscher,77
+barren ground caribou,onvruchtbare kariboes,77
+tarsier,spookdiertje,77
+bonnet macaque,motorkap makaak,77
+protohippus,protohippus,78
+brown lemming,bruine lemmingen,78
+insectivore,insecteneter,78
+grey lemming,grijze lemmingen,78
+pallid bat,bleke vleermuis,78
+columbian mammoth,Colombiaanse mammoet,78
+Homo sapiens,Homo sapiens,78
+Airedale,Airedale,78
+carthorse,trekpaard,78
+harnessed antelope,getuigde antilope,78
+southeastern pocket gopher,zuidoostelijke zakgopher,79
+prairie vole,prairie woelmuis,79
+large civet,grote civetkat,79
+dinocerate,dinocerate,79
+mylodon,mylodon,79
+leveret,jonge haas,79
+Ayrshire,Ayrshire,79
+standard schnauzer,standaard schnauzer,79
+Cro-magnon,Cro-magnon,79
+pentail,penstaart,79
+Lincoln,Lincoln,80
+hooded skunk,stinkdier met capuchon,80
+Pekinese,Pekinees,80
+central chimpanzee,centrale chimpansee,80
+western chimpanzee,westerse chimpansee,80
+Appaloosa,Appaloosa,80
+suricate,suricate,80
+Boskop man,Boskop man,80
+Leonberg,Leonberg,80
+Homo erectus,homo erectus,80
+Arabian,Arabisch,81
+talapoin,talapoin,81
+babirusa,babirusa,81
+aquatic mammal,in het water levende zoogdieren,81
+broadtail,broadtail,81
+tamarisk gerbil,tamarisk gerbil,81
+Pomeranian,Pommeren,81
+boarhound,zwijnenhond,81
+Saint Bernard,Sint Bernard,81
+tarpan,zeildoek,81
+Solo man,solo man,82
+vaquita,vaquita,82
+staghound,staghound,82
+jerboa rat,jerboa rat,82
+pocketed bat,gepotte vleermuis,82
+whitetail prairie dog,whitetail prairiehond,82
+phalanger,phalanger,82
+leporid,leporide,82
+eastern chimpanzee,oostelijke chimpansee,82
+Irish setter,Ierse setter,82
+small civet,kleine civetkat,83
+pouched mole,mol in de zak,83
+Cotswold,Cotswold,83
+remount,opnieuw monteren,83
+Maltese,Maltees,83
+masked shrew,gemaskerde spitsmuis,83
+Plott hound,Plott hound,83
+Paranthropus,Paratropus,83
+pichiciago,Pichiciago,83
+pipistrelle,dwergvleermuis,83
+bowhead,Groenlandse Zee,84
+taguan,taguaan,84
+binturong,binturong,84
+Abyssinian,Abessijn,84
+bucking bronco,bokkend wild paard,84
+lagomorph,lagomorf,84
+Tarsius glis,Tarsius glis,84
+woolly rhinoceros,wolharige neushoorn,84
+Lippizan,Lippizan,84
+eastern lowland gorilla,oostelijke laaglandgorilla,84
+western lowland gorilla,westelijke laaglandgorilla,85
+Ibizan hound,Ibiza-hond,85
+giant armadillo,gigantisch gordeldier,85
+Gordon setter,Gordon setter,85
+Syrian bear,Syrische beer,85
+rudapithecus,rudapithecus,85
+Percheron,Percheron,85
+giant eland,gigantische eland,85
+beaked whale,spitssnuitdolfijn,85
+Malayan tapir,Maleise tapir,85
+milking shorthorn,korthoorn melken,86
+carnivorous bat,vleesetende vleermuis,86
+eastern chipmunk,oosterse aardeekhoorn,86
+jaguarundi,jaguarundi,86
+true marmoset,echte zijdeaapje,86
+Javanthropus,Javanthropus,86
+Welsh pony,Welsh pony,86
+Welsh terrier,Welsh Terriër,86
+viverrine,viverrine,86
+longtail weasel,langstaart wezel,86
+EntleBucher,EntleBucher,87
+Peking man,Peking man,87
+French bulldog,Franse bulldog,87
+yellowbelly marmot,geelbuikmarmot,87
+Siamese cat,Siamese kat,87
+monotreme,monotreme,87
+earless seal,oorloze zeehond,87
+white-lipped peccary,witlippekari,87
+mapinguari,mapinguari,87
+Boston bull,Boston stier,87
+Border terrier,Border Terriër,88
+Homo habilis,homo habilis,88
+Cashmere goat,Kasjmier geit,88
+Newfoundland,Newfoundland,88
+Maltese dog,Maltese hond,88
+Eskimo dog,Eskimo hond,88
+pygmy marmoset,pygmee zijdeaapje,88
+Walker hound,Walker hond,88
+collared peccary,Gekraagde Pekari,88
+Great Dane,Deense dog,88
+steeplechaser,torenspits,89
+Chiacoan peccary,Chiacoan pekari,89
+Fissipedia,Fissipedia,89
+Madagascar cat,Madagaskar kat,89
+prototherian,prototherisch,89
+white-tailed jackrabbit,witstaarthaas,89
+unguiculate,unguiculaat,89
+spouter,uitsmijter,89
+Appenzeller,Appenzeller,89
+pinniped mammal,pinniped zoogdier,89
+Irish wolfhound,Ierse wolfshond,90
+jerboa kangaroo,jerboa kangoeroe,90
+Burmese cat,Birmese kat,90
+Barbary ape,Barbarijse aap,90
+Steller sea lion,Steller zeeleeuw,90
+Border collie,Bordercollie,90
+English setter,Engelse setter,90
+yellow-throated marten,geelkeelmarter,90
+jerboa,springkussen,90
+Skye terrier,Skye Terriër,90
+Egyptian cat,Egyptische kat,91
+bettong,weddenschap,91
+northern bog lemming,noordelijke moeraslemmingen,91
+silky tamarin,zijdezachte tamarin,91
+Sinanthropus,Sinanthropus,91
+Indian buffalo,Indiase buffel,91
+southern bog lemming,zuidelijke moeras lemmingen,91
+angwantibo,angwantibo,91
+megatherian,megatherisch,91
+hognose bat,hognose vleermuis,91
+spearnose bat,harpoenvleermuis,92
+Lakeland terrier,Lakeland Terriër,92
+greater pichiciego,grotere piciciego,92
+Sivapithecus,Sivapithecus,92
+Dall sheep,Dall schapen,92
+flickertail,flikkeringsstaart,92
+freetail,vrijstaart,92
+Neandertal man,Neanderthaler,92
+brewer's mole,brouwersmol,92
+Rambouillet,Rambouillet,92
+Santa Gertrudis,Santa Gertrudis,93
+Bernese mountain dog,Berner Sennenhond,93
+stalking-horse,stalking-paard,93
+Persian cat,Perzische kat,93
+Scottish deerhound,Schotse deerhound,93
+blacktail jackrabbit,blacktail jackrabbit,93
+Great Pyrenees,Grote Pyreneeën,93
+Cynopterus sphinx,Cynopterus sfinx,93
+mantled ground squirrel,mantel grondeekhoorn,93
+saber-toothed tiger,sabeltandtijger,93
+blacktail prairie dog,Blacktail Prairiehond,94
+silky anteater,zijdeachtige miereneter,94
+crowbait,kraaienbait,94
+Sussex spaniel,Sussex spaniël,94
+eastern cottontail,oostelijke katoenstaartkonijn,94
+white-footed mouse,witvoetmuis,94
+snake muishond,slang muishond,94
+Cryptoprocta,Cryptoprocta,94
+Unguiculata,Unguiculata,94
+Irish terrier,Ierse terriër,94
+Norwegian elkhound,Noorse elandhond,95
+banded palm civet,gestreepte palmcivetkat,95
+English springer,Engelse springer,95
+Japanese spaniel,Japanse spaniël,95
+dusky-footed woodrat,schemerige bosrat,95
+phenacomys,phenacomys,95
+Virginia deer,Virginia herten,95
+Old World buffalo,Oude Wereld buffel,95
+European rabbit,Europees konijn,95
+Belgian hare,Belgische haas,95
+dryopithecine,dryopithecine,96
+round-tailed muskrat,rondstaartmuskusrat,96
+crabeater seal,krabbeneter zeehond,96
+Eurasian otter,Euraziatische otter,96
+flying phalanger,vliegende falanger,96
+Old World monkey,Oude Wereld aap,96
+Canada lynx,Canadese lynx,96
+Marco Polo sheep,Marco Polo schapen,96
+gomphothere,gomphothere,96
+Afghan hound,Afghaanse windhond,96
+fossorial mammal,fossiele zoogdieren,97
+procyonid,procyonide,97
+western pipistrel,westelijke pistrel,97
+Jaculus jaculus,Jaculus jaculus,97
+Old World beaver,Oude Wereld bever,97
+New World beaver,Nieuwe Wereld bever,97
+Cape buffalo,Kaapse buffel,97
+Siberian husky,Siberische husky,97
+Bedlington terrier,Bedlington Terriër,97
+woolly indris,wollige indris,97
+Aberdeen Angus,Aberdeen Angus,98
+American foxhound,Amerikaanse jachthond,98
+Tasmanian devil,Tasmaanse duivel,98
+red-backed mouse,muis met rode rug,98
+two-toed sloth,tweevingerige luiaard,98
+New World mouse,Nieuwe Wereld muis,98
+English foxhound,Engelse jachthond,98
+entellus,verstandelijk,98
+dusky-footed wood rat,schemerige houten rat,98
+Atlantic walrus,Atlantische walrus,98
+Labrador retriever,labrador retriever,99
+Pteropus hypomelanus,Pteropus hypomelanus,99
+Dandie Dinmont,Dandie Dinmont,99
+Pacific bottlenose dolphin,Pacifische tuimelaar,99
+Sennenhunde,Sennenhunde,99
+Eurasian badger,Euraziatische das,99
+crab-eating dog,krab etende hond,99
+nonstarter,niet-starter,99
+metatherian,metatheriaan,99
+grevy's zebra,grevy's zebra,99
+mouse-eared bat,muis-eared vleermuis,100
+Arabian camel,Arabische kameel,100
+Bengal tiger,Bengaalse tijger,100
+proboscidean,proboscidean,100
+eastern woodrat,oostelijke houtrat,100
+Alaskan brown bear,Alaskan bruine beer,100
+African elephant,Afrikaanse olifant,100
+gayal,homoseksueel,100
+Seeing Eye dog,Ooghond zien,100
+Sealyham terrier,Sealyham Terriër,100
+Weimaraner,Weimarse staande hond,101
+Staffordshire bullterrier,Staffordshire bullterrier,101
+Hudson bay collared lemming,Hudsonbaai-kraaglemming,101
+Homo soloensis,Homo soloensis,101
+Bouvier des Flandres,Bouvier des Flandres,101
+starnose mole,sterneus mol,101
+Shetland pony,Shetlandpony,101
+crab-eating macaque,krab-etende makaak,101
+flat-coated retriever,flatcoated retriever,101
+Greater Swiss Mountain dog,Grote Zwitserse Sennenhond,101
+Aegyptopithecus,Aegyptopithecus,102
+Desmodus rotundus,Desmodus rotundus,102
+Tibetan terrier,Tibetaanse terriër,102
+crab-eating raccoon,krab-etende wasbeer,102
+American black bear,Amerikaanse zwarte beer,102
+Rhodesian man,Rhodesische man,102
+Norfolk terrier,Norfolk Terriër,102
+odd-toed ungulate,onevenhoevige hoefdieren,102
+Bactrian camel,Bactrische kameel,102
+long-eared bat,vleermuis met lange oren,102
+Smiledon californicus,Smilodon californicus,103
+smooth-haired fox terrier,kortharige foxterriër,103
+Scotch terrier,Schotse terriër,103
+English toy spaniel,Engelse speelgoedspaniël,103
+Brown Swiss,Bruin Zwitsers,103
+australopithecine,australopithecine,103
+American marten,Amerikaanse marter,103
+American water spaniel,Amerikaanse waterspaniël,103
+Japanese deer,Japanse herten,103
+Welsh springer spaniel,Welsh springer spaniël,103
+Blenheim spaniel,Blenheim-spaniël,104
+vespertilian bat,vespertiliaanse vleermuis,104
+wire-haired fox terrier,ruwharige foxterriër,104
+Australopithecus afarensis,Australopithecus afarensis,104
+Tennessee walker,Tennessee wandelaar,104
+Italian greyhound,Italiaanse windhond,104
+European hare,Europese haas,104
+false saber-toothed tiger,valse sabeltandtijger,104
+German shepherd,Duitse herder,104
+Zinjanthropus,Zinjanthropus,104
+Damaraland mole rat,Damaraland molrat,105
+water chevrotain,water chevrotain,105
+California sea lion,Californische zeeleeuw,105
+Clydesdale terrier,Clydesdale Terriër,105
+Australian terrier,Australische terriër,105
+Steller's sea cow,Stellers zeekoe,105
+Pacific walrus,Pacifische walrus,105
+American bison,Amerikaanse bizon,105
+blue point Siamese,blauwe punt Siamees,105
+toy Manchester,speelgoed Manchester,105
+American badger,Amerikaanse das,106
+bottle-nosed whale,flesneuswalvis,106
+liver-spotted dalmatian,lever-gevlekte dalmatiër,106
+Mexican pocket mouse,Mexicaanse zakmuis,106
+Phyllostomus hastatus,Phyllostomus hastatus,106
+leafnose bat,bladneusvleermuis,106
+nail-tailed wallaby,Nagelstaartwallaby,106
+New World monkey,Nieuwe Wereld aap,106
+Gazella subgutturosa,Gazella subgutturosa,106
+Old World porcupine,Stekelvarken uit de oude wereld,106
+Tarsius syrichta,Tarsius syrichta,107
+American shrew mole,Amerikaanse spitsmuis mol,107
+eastern dasyure,oostelijke dasyure,107
+Mexican hairless,Mexicaans haarloos,107
+lesser rorqual,mindere rorqual,107
+Yorkshire terrier,Yorkshire terriër,107
+black-tailed deer,zwartstaarthert,107
+pere david's deer,pere david's hert,107
+two-year-old horse,tweejarig paard,107
+typical jerboa,typische jerboa,107
+Norwich terrier,Norwich Terriër,108
+American mink,Amerikaanse nerts,108
+Alaska fur seal,Alaska pelsrobben,108
+Pithecanthropus,Pithecanthropus,108
+long-tailed porcupine,stekelvarken met lange staart,108
+European lemming,Europese lemmingen,108
+American harvest mouse,Amerikaanse oogstmuis,108
+three-year-old horse,driejarig paard,108
+New World least weasel,Nieuwe Wereld minste wezel,108
+Manchester terrier,Manchester Terriër,108
+Old World least weasel,Oude Wereld minste wezel,109
+Indian mongoose,Indiase mangoest,109
+Kerry blue terrier,Kerry blauwe terriër,109
+hispid pocket mouse,spitse zakmuis,109
+two-toed sloth,tweevingerige luiaard,109
+European wood mouse,Europese bosmuis,109
+Indian rhinoceros,Indische neushoorn,109
+Rhodesian ridgeback,Rhodesian Ridgeback,109
+soft-coated wheaten terrier,zachtgecoate tarweterriër,109
+Irish water spaniel,Ierse waterspaniël,109
+European water shrew,Europese waterspitsmuis,110
+digitigrade mammal,digitaal zoogdier,110
+dasyurid marsupial,dasyurid buideldier,110
+Thomson's gazelle,Thomson's gazelle,110
+musteline mammal,musteline zoogdier,110
+tailless tenrec,staartloze tenrec,110
+African hunting dog,Afrikaanse jachthond,110
+Australian sea lion,Australische zeeleeuw,110
+three-toed sloth,drievingerige luiaard,110
+western big-eared bat,westerse grootoorvleermuis,110
+American mastodon,Amerikaanse mastodont,111
+European wildcat,Europese wilde kat,111
+rabbit-eared bandicoot,konijnenoorbandicoot,111
+Asiatic shrew mole,Aziatische spitsmuis mol,111
+curly-coated retriever,gekrulde retriever,111
+Asian wild ox,Aziatische wilde os,111
+Atlantic bottlenose dolphin,Atlantische tuimelaar,111
+Indian elephant,Indische olifant,111
+hog-nosed skunk,varkensneus stinkdier,111
+American saddle horse,Amerikaans zadelpaard,111
+short-tailed shrew,kortstaartspitsmuis,112
+Brittany spaniel,Bretagne spaniël,112
+big-eared bat,grote oren vleermuis,112
+Belgian sheepdog,Belgische herdershond,112
+fissiped mammal,gespleten zoogdier,112
+Australopithecus robustus,Australopithecus robustus,112
+King Charles spaniel,King Charles spaniël,112
+black-footed ferret,zwartvoetige fret,112
+Przewalski's horse,Przewalski's paard,112
+Chesapeake Bay retriever,Chesapeake Bay retriever,112
+eastern pipistrel,oostelijke dwergvleermuis,113
+Cynocephalus variegatus,Cynocephalus variegatus,113
+Tibetan mastiff,Tibetaanse mastiff,113
+Old English sheepdog,Oude Engelse herdershond,113
+Duplicidentata,Dubbele identificatiegegevens,113
+Asiatic flying squirrel,Aziatische vliegende eekhoorn,113
+Asiatic black bear,Aziatische zwarte beer,113
+Homo sapiens sapiens,Homo sapiens sapiens,113
+Pteropus capestratus,Pteropus capestratus,113
+African wild ass,Afrikaanse wilde kont,113
+Mediterranean water shrew,Mediterrane waterspitsmuis,114
+brush-tailed phalanger,borstelstaart phalanger,114
+American red squirrel,Amerikaanse rode eekhoorn,114
+crab-eating opossum,krab-etende opossum,114
+Ord kangaroo rat,Orde kangoeroe rat,114
+Shetland sheepdog,Shetland herdershond,114
+Canada porcupine,Canadese stekelvarken,114
+even-toed ungulate,evenhoevige hoefdieren,114
+New World porcupine,Stekelvarken uit de nieuwe wereld,114
+Algeripithecus minutus,Algeripithecus minutus,114
+Brabancon griffon,Brabantse griffioen,115
+American water shrew,Amerikaanse waterspitsmuis,115
+striped muishond,gestreepte muishond,115
+New World tapir,Nieuwe Wereld tapir,115
+Australopithecus boisei,Australopithecus boisei,115
+plantigrade mammal,plantigrade zoogdier,115
+brush-tailed porcupine,borstelstaartstekelvarken,115
+Eurasian hamster,Euraziatische hamster,115
+German short-haired pointer,Duitse kortharige wijzer,115
+slender-tailed meerkat,slanke staart stokstaartje,115
+seizure-alert dog,aanval-waarschuwing hond,116
+black-and-tan coonhound,black-and-tan coonhound,116
+South American sea lion,Zuid-Amerikaanse zeeleeuw,116
+hairy-legged vampire bat,vampiervleermuis met harige poten,116
+Arctic ground squirrel,Arctische grondeekhoorn,116
+American Staffordshire terrier,Amerikaanse Staffordshireterriër,116
+West Highland white terrier,West Highland White Terriër,116
+Australopithecus africanus,Australopithecus africanus,116
+American flying squirrel,Amerikaanse vliegende eekhoorn,116
