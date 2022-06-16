@@ -1,14 +1,13 @@
 //
 //  Declarative.swift
-//  actr
+//  Vocabul-R
 //
-//  Created by Niels Taatgen on 3/1/15.
-//  Copyright (c) 2015 Niels Taatgen. All rights reserved.
+//  Created by Guillermo on 08/06/2022.
 //
 
 import Foundation
 
-class Declarative  {
+class Declarative: Codable  {
     /// Baselevel decay parameter, d in the equations, or bll in ACT-R
     var baseLevelDecay: Double? = 0.5
     /// Is optimized learning on or off (ol in ACT-R)
@@ -32,6 +31,35 @@ class Declarative  {
     var retrieveError = false
     var retrievaltoDM = false
     
+    enum CodingKeys: String, CodingKey {
+        case chunks
+        case baseLevelDecay
+        case optimizedLearning
+        case maximumAssociativeStrength
+        case goalActivation
+        case retrievalThreshold
+        case activationNoise
+        case misMatchPenalty
+        case latencyFactor
+    }
+    
+    required init(from decoder: Decoder) throws {
+         let values = try decoder.container(keyedBy: CodingKeys.self)
+        self.chunks = try values.decode([String:Chunk].self, forKey: .chunks)
+        self.baseLevelDecay = try values.decodeIfPresent(Double.self, forKey: .baseLevelDecay)
+        self.optimizedLearning = try values.decode(Bool.self, forKey: .optimizedLearning)
+        self.maximumAssociativeStrength = try values.decode(Double.self, forKey: .maximumAssociativeStrength)
+        self.goalActivation = try values.decode(Double.self, forKey: .goalActivation)
+        self.retrievalThreshold = try values.decode(Double.self, forKey: .retrievalThreshold)
+        self.activationNoise = try values.decodeIfPresent(Double.self, forKey: .activationNoise)
+        self.misMatchPenalty = try values.decode(Double.self, forKey: .misMatchPenalty)
+        self.latencyFactor = try values.decode(Double.self, forKey: .latencyFactor)
+    }
+    
+    required init() {
+        return
+    }
+    
     /**
         Is er there a duplicate of a chunk in dm?
         - parameter chunk: The chunk to be checked
@@ -40,7 +68,7 @@ class Declarative  {
     func duplicate(chunk: Chunk) -> Chunk? {
         /* Return duplicate chunk if there is one, else nil */
         for (_,c1) in chunks {
-            if c1 == chunk { return c1 }
+            if c1.name == chunk.name { return c1 }
         }
         return nil
     }
@@ -64,12 +92,12 @@ class Declarative  {
         - parameter chunk: The chunk to be added
         - returns: Either the chunk itself, or the duplicate in DM if it exists.
     */
-    func addToDMOrStrengthen(chunk: Chunk) -> Chunk {
+    func addToDMOrStrengthen(chunk: Chunk, seconds: Double) -> Chunk {
         if let dupChunk = duplicate(chunk: chunk) {
-            dupChunk.addReference()
+            dupChunk.addReference(seconds)
                         return dupChunk
         } else {
-            chunk.startTime()
+            chunk.startTime(seconds)
             chunks[chunk.name] = chunk
             for (_,val) in chunk.slotvals {
                 switch val {
@@ -86,12 +114,12 @@ class Declarative  {
      Add a new chunk to DM, or strengthen it if is already there
      - parameter chunk: The chunk to be added
      */
-    func addToDM(_ chunk: Chunk) {
+    func addToDM(_ chunk: Chunk, _ seconds: Double) {
         if let dupChunk = duplicate(chunk: chunk) {
-            dupChunk.addReference()
+            dupChunk.addReference(seconds)
 //            return dupChunk
         } else {
-            chunk.startTime()
+            chunk.startTime(seconds)
             chunks[chunk.name] = chunk
             for (_,val) in chunk.slotvals {
                 switch val {
@@ -102,6 +130,7 @@ class Declarative  {
             }
 //            return chunk
         }
+        
     }
     
     /**
@@ -122,23 +151,20 @@ class Declarative  {
         retrieveError = false
         var bestMatch: Chunk? = nil
         var bestActivation: Double = retrievalThreshold
-        chunkloop: for (_,ch1) in chunks {
-            for (slot,value) in chunk.slotvals {
-                if let val1 = ch1.slotvals[slot] {
-                    if !val1.isEqual(value: value) {
-                        continue chunkloop }
-                } else { continue chunkloop }
-            }
-            if ch1.activation() > bestActivation {
-                bestActivation = ch1.activation()
+        for (list_name,ch1) in chunks {
+            if chunk.name == list_name{
                 bestMatch = ch1
+                bestActivation = ch1.activation()
+                break
             }
+            
         }
+        
         if bestActivation > retrievalThreshold {
             return (latency(activation: bestActivation) , bestMatch)
         } else {
             retrieveError = true
-            return (latency(activation: retrievalThreshold), nil)
+            return (latency(activation: retrievalThreshold), bestMatch)
         }
         
     }

@@ -1,18 +1,12 @@
-//
-//  Chunk.swift
-//  actr
-//
-//  Created by Niels Taatgen on 3/1/15.
-//  Copyright (c) 2015 Niels Taatgen. All rights reserved.
-//
+
 
 import Foundation
 
-class Chunk: CustomStringConvertible {
+class Chunk: CustomStringConvertible, Codable {
     /// Name of the chunk
     let name: String
     /// The model that the chunk is part of
-    let model: Model
+    var model: Model? = nil
     /// When was the chunk added to DM? If nil it means the chunk is not part of DM (yet)
     var creationTime: Double? = nil
     /// Number of references. Assume a single reference on creation
@@ -39,6 +33,32 @@ class Chunk: CustomStringConvertible {
         model = m
     }
     
+    enum CodingKeys: String, CodingKey {
+        case name
+ //       case model
+        case creationTime
+        case references
+        case slotvals
+        case referenceList
+        case fan
+        case fixedActivation
+        case printOrder
+    }
+    
+        
+    required init(from decoder: Decoder) throws {
+        let values = try decoder.container(keyedBy: CodingKeys.self)
+        self.name = try values.decode(String.self, forKey: .name)
+  //      self.model = try values.decode(Model.self, forKey: .model)
+        self.creationTime = try values.decode(Double.self, forKey: .creationTime)
+        self.references = try values.decode(Int.self, forKey: .references)
+        self.referenceList = try values.decode(Array<Double>.self, forKey: .referenceList)
+        self.slotvals = try values.decode([String:Value].self, forKey: .slotvals)
+        self.fan = try values.decode(Int.self, forKey: .fan)
+        self.fixedActivation = try values.decodeIfPresent(Double.self, forKey: .fixedActivation)
+        self.printOrder = try values.decode(Array<String>.self, forKey: .printOrder)
+    }
+     
     /**
       Printable version of the chunk
     */
@@ -60,7 +80,7 @@ class Chunk: CustomStringConvertible {
       - returns: a copy of the chunk
     */
     func copy() -> Chunk {
-        let newChunk = model.generateNewChunk(string: self.name)
+        let newChunk = model!.generateNewChunk(name: self.name)
         newChunk.slotvals = self.slotvals
         newChunk.printOrder = self.printOrder
         return newChunk
@@ -69,10 +89,10 @@ class Chunk: CustomStringConvertible {
     /**
      Set the creation time of the chunk to the current model time. Typically called when the chunk is added to dm.
     */
-    func startTime() {
-        creationTime = model.time
-        if !model.dm.optimizedLearning {
-            referenceList.append(model.time)
+    func startTime(_ seconds: Double) {
+        creationTime = seconds
+        if !model!.dm.optimizedLearning {
+            referenceList.append(seconds)
         }
     }
     
@@ -83,8 +103,8 @@ Set the baselevel of a chunk
  - Parameter references: How many references in the time period
  */
     func setBaseLevel(timeDiff: Double, references: Int) {
-        creationTime = model.time + timeDiff
-        if model.dm.optimizedLearning {
+        creationTime = model?.getCurrentTime() ?? 0 + timeDiff
+        if model!.dm.optimizedLearning {
             self.references = references
         } else {
             let increment = -timeDiff / Double(references)
@@ -97,7 +117,6 @@ Set the baselevel of a chunk
 //
 //    baseLevel = Math.log(useCount/(1-model.declarative.baseLevelDecayRate))
 //    - model.declarative.baseLevelDecayRate*Math.log(time-creationTime);
-
     /**
     Calculate the base level activation of a chunk
     - returns: The activation
@@ -106,28 +125,28 @@ Set the baselevel of a chunk
         if creationTime == nil { return 0 }
         if fixedActivation != nil {
             return fixedActivation!
-        } else if model.dm.baseLevelDecay == nil {
-            return 0.0
-        } else if model.dm.optimizedLearning {
-            let x: Double = log((Double(references)/(1 - model.dm.baseLevelDecay!)))
-            let y = model.dm.baseLevelDecay! + log(model.time - creationTime!)
+        } else if model!.dm.baseLevelDecay == nil {
+            return 0
+        } else if model!.dm.optimizedLearning {
+            let x: Double = log((Double(references)/(1 - model!.dm.baseLevelDecay!)))
+            let y = model!.dm.baseLevelDecay! + log(model!.getCurrentTime() - creationTime!)
             return x - y
         } else {
-            return log(self.referenceList.map{ pow((self.model.time - $0),(-self.model.dm.baseLevelDecay!))}.reduce(0.0, + )) // Wew! almost lisp! This is the standard baselevel equation
+            return log(self.referenceList.map{ pow((self.model!.getCurrentTime() - $0),(-self.model!.dm.baseLevelDecay!))}.reduce(0, + )) // Wew! almost lisp! This is the standard baselevel equation
         }
     }
     
     /**
     Add a reference to the chunk, increasing its activation
     */
-    func addReference() {
+    func addReference(_ seconds: Double) {
         if creationTime == nil { return }
-        if model.dm.optimizedLearning {
+        if model!.dm.optimizedLearning {
             references += 1
             print("Added reference to \(self) references = \(references)")
         }
         else {
-            referenceList.append(model.time)
+            referenceList.append(seconds)
         }
     }
     
@@ -160,7 +179,7 @@ Set the baselevel of a chunk
         let possibleNumVal = Double(value) // NumberFormatter().number(from: value)?.doubleValue
         if possibleNumVal != nil {
             slotvals[slot] = Value.Number(possibleNumVal!)
-        } else if let chunk = model.dm.chunks[value] {
+        } else if let chunk = model!.dm.chunks[value] {
             slotvals[slot] = Value.symbol(chunk)
         } else {
             slotvals[slot] = Value.Text(value)
@@ -210,7 +229,7 @@ Set the baselevel of a chunk
     */
     func sji(chunk: Chunk) -> Double {
         if self.appearsInSlotOf(chunk: chunk) {
-            return model.dm.maximumAssociativeStrength - log(Double(self.fan))
+            return model!.dm.maximumAssociativeStrength - log(Double(self.fan))
         }
         return 0.0
     }
@@ -221,7 +240,7 @@ Set the baselevel of a chunk
     */
     func spreadingActivation() -> Double {
         if creationTime == nil {return 0}
-        if let goal=model.buffers["goal"] {
+        if let goal=model!.buffers["goal"] {
             var totalSlots: Int = 0
             var totalSji: Double = 0
             for (_,value) in goal.slotvals {
@@ -232,7 +251,7 @@ Set the baselevel of a chunk
                 default: break
                 }
             }
-            return (totalSlots==0 ? 0 : totalSji * (model.dm.goalActivation / Double(totalSlots)))
+            return (totalSlots==0 ? 0 : totalSji * (model!.dm.goalActivation / Double(totalSlots)))
         }
         return 0
     }
@@ -242,9 +261,13 @@ Set the baselevel of a chunk
     - returns: the noise value
     */
     func calculateNoise() -> Double {
-        if model.time != noiseTime {
-            noiseValue = (model.dm.activationNoise == nil ? 0.0 : actrNoise(noise: model.dm.activationNoise!))
-            noiseTime = model.time
+        if model?.getCurrentTime() != noiseTime {
+            if model!.dm.activationNoise == nil {
+                noiseValue = 0.0
+            } else {
+                noiseValue = actrNoise(noise: model!.dm.activationNoise!)
+            }
+            noiseTime = model?.getCurrentTime() ?? 0
         }
             return noiseValue
     }

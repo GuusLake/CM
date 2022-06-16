@@ -69,7 +69,7 @@ struct HomeViewContent: View{
 struct InitViewContent: View{
     
     @Binding var initState: Bool
-    @State var difficulty: Int = 1
+    @State var difficulty: Int = 0
     @State var cards: [Card] = GetInitCards()
     
     var body: some View{
@@ -169,11 +169,11 @@ struct SubmitInitButton: View{
                 let max_difficulty = model.getMaxDifficulty(context: context)
                 let maxDifficulty = Int(max_difficulty)
                 
-                let difficulty_increase = (maxDifficulty)/50
+                //let difficulty_increase = (maxDifficulty)/50
                 
 
                 if (checkCards(cards: cards) && difficulty <= maxDifficulty){
-                    difficulty += difficulty_increase
+                    difficulty += 1
                     cards = GetInitCards(difficulty: difficulty)
                     
                 }

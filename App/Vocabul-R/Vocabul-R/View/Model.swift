@@ -2,12 +2,21 @@ import Foundation
 import CoreData
 
 
-class Model {
+class Model: Codable {
 
-    var time: Double = 0
     var dm = Declarative()
     var chunkIdCounter = 0
     var buffers: [String:Chunk] = [:]
+
+    
+    func getCurrentTime() -> Double{
+        let now = Date()
+        let interval = now.timeIntervalSinceReferenceDate
+        let minutes = Double((interval/60).truncatingRemainder(dividingBy: 60))
+
+        let seconds = Double((interval).truncatingRemainder(dividingBy: 60))
+        return minutes
+    }
     
     
 
@@ -27,10 +36,13 @@ class Model {
             topic.last_opened_group = group.index_group
             topic.current_level = group.mean_level
             
-            let words = group.word
+            let words_set = group.word as! Set<Word>
+            let words = Array(words_set)
             
+            for word in words {
+                word.train_list = train_list
+            }
             
-            train_list.addToWord(words!)
             
             
             do {
@@ -115,29 +127,28 @@ class Model {
         var chunkDict: [String: Double] = [:]
         
         for word in words {
-            print(word)
             let chunk = Chunk(s: word.name!, m: self)
             let (new_latency, new_retrieveResult) = dm.retrieve(chunk: chunk)
-            print(new_retrieveResult?.name ?? "")
             chunkDict[new_retrieveResult?.name ?? ""] = new_latency
         }
+        
 
-        print(chunkDict)
+        
         let sortedByValueDictionary = chunkDict.sorted { $0.1 < $1.1 }
         
         
         var testDict: [Word: Bool] = [:]
         
         var index = 0
-        var test_bool = false
+        var test_bool = true
         var new_word: Word
         for (name, latency) in sortedByValueDictionary {
-            test_bool = false
+            test_bool = true
             if index == test_count {
                 break
             }
             if latency == -2 {
-                test_bool = true
+                test_bool = false
             }
             new_word = getWordFromName(name: name, context: context)!
             testDict[new_word] = test_bool
@@ -151,36 +162,49 @@ class Model {
         // Depending on if the word was trained or tested, we do different things
 //        let dataController = DataController()
 //        let context = dataController.container.viewContext
-        
+        let testList = getTestList(context: context)
         for card in cards {
             let word_name = card.engWord
             let word = getWordFromName(name: word_name, context: context)
-            let chunk = Chunk(s: card.engWord, m: self)
+            let chunk = Chunk(s: word_name, m: self)
             
             if card.test == false {
+                
                 // Save chunk
-                dm.addToDM(chunk)
+                dm.addToDM(chunk, getCurrentTime())
+                let now = Date()
+                let time = Time(context: context)
+                time.time = now
+                time.word = word
                 
-                // Update database
-                let trainList = getTrainList(context: context)
-                let testList = getTestList(context: context)
-                
-                trainList.removeFromWord(word!)
-                testList.addToWord(word!)
+                word?.train_list = nil
+                word?.test_list = testList
+
                 
             } else {
                 if card.correct == false {
                     word?.previous_guessed = false
-                    dm.addToDM(chunk)
+                    dm.addToDM(chunk, getCurrentTime())
+                    let now = Date()
+                    let time = Time(context: context)
+                    time.time = now
+                    time.word = word
                 } else {
                     if word?.previous_guessed == false {
                         word?.previous_guessed = true
-                        dm.addToDM(chunk)
-                        dm.addToDM(chunk)
+                        dm.addToDM(chunk, getCurrentTime())
+                        dm.addToDM(chunk, getCurrentTime())
+                        let now = Date()
+                        let time = Time(context: context)
+                        time.time = now
+                        time.word = word
+                        
                     } else {
                         // Remove from test list
-                        let testList = getTestList(context: context)
-                        testList.removeFromWord(word!)
+                        word?.test_list = nil
+                        // And remove time references
+                        word?.time = nil
+                        
                         
                         // Check changes
                         let groups = word!.group as! Set<GroupData>
@@ -195,7 +219,7 @@ class Model {
                                 }
                             }
                             else {
-                                if cleared_words >= 8 {
+                                if cleared_words >= 6 {
                                     // We consider the group cleared and open the next one
                                     openNextTopicGroup(topic: group.topic!, context: context)
                                     openNewTopic(context: context)
@@ -217,6 +241,7 @@ class Model {
                 print("Context not saved")
             }
         }
+
     }
 
     func openNewTopic(context: NSManagedObjectContext) {
@@ -240,7 +265,7 @@ class Model {
                 var increase_already_shown = 0
                 for word in words_list {
                     if word.already_shown == false {
-                        trainList.addToWord(word)
+                        word.train_list = trainList
                     } else {
                         increase_already_shown += 1
                     }
@@ -265,6 +290,7 @@ class Model {
 //        let dataController = DataController()
 //        let context = dataController.container.viewContext
         
+        
         let max_groups = (topic.group?.count)! - 1
         
         let last_group = topic.last_opened_group
@@ -285,7 +311,7 @@ class Model {
             for word in words_list {
                 
                 if word.already_shown == false {
-                    trainList.addToWord(word)
+                    word.train_list = trainList
                 } else {
                     increase_already_shown += 1
                 }
@@ -314,7 +340,6 @@ class Model {
 
 
     func do_topic_practice(topic_name: String, context: NSManagedObjectContext) -> [Card]{
-        
         // Same as general practice but words are just gotten for one topic
         
 //        let dataController = DataController()
@@ -330,9 +355,7 @@ class Model {
         var trainWords = trainList.word as! Set<Word>
         var train_Words = Array(trainWords)
         
-        
         var topicTrainWords = getTrainWordFromTopic(train_words: train_Words, topic: topic, context: context)
-        
         
         
         var testList = getTestList(context: context)
@@ -340,6 +363,7 @@ class Model {
         var test_Words = Array(testWords)
         var topicTestWords = getTestWordFromTopic(test_words: test_Words, topic: topic, context: context)
         
+
         if (topicTrainWords.count + topicTestWords.count < 10) {
             
             openNextTopicGroup(topic: topic, context: context)
@@ -357,26 +381,32 @@ class Model {
             test_Words = Array(testWords)
             topicTestWords = getTestWordFromTopic(test_words: test_Words, topic: topic, context: context)
         }
-        var train_count: Double = Double(topicTrainWords.count / (topicTrainWords.count + topicTestWords.count))
+
+        var train_count: Double = (Double(topicTrainWords.count) / Double(topicTrainWords.count + topicTestWords.count))
+        
         train_count = round(Double(train_count*10))
         let test_count = 10 - train_count
         
         let retrievedWords = retrieve_topic_test_words(words: topicTestWords, test_count: Int16(test_count), context: context)
         
-        var index = 1
+        var index = 0
         
-        for new_word in trainWords {
-            
-            let engWord = new_word.name ?? ""
-            let nlWord = new_word.translation ?? ""
-            let test = false
-            
-            cards.append(Card(engWord: engWord, nlWord: nlWord, test: test))
-            
-            index += 1
-            if index == Int(train_count) {
-                break
+        if train_count != 0 {
+            for new_word in topicTrainWords {
+                
+                
+                let engWord = new_word.name ?? ""
+                let nlWord = new_word.translation ?? ""
+                let test = false
+                
+                cards.append(Card(engWord: engWord, nlWord: nlWord, test: test))
+                
+                index += 1
+                if index == Int(train_count) {
+                    break
+                }
             }
+            
         }
         
         for (current_test_words, test_booleans) in retrievedWords {
@@ -389,14 +419,13 @@ class Model {
             
         }
 
-
+        
         return cards
         
 
     }
 
     func retrieve_topic_test_words(words: [Word], test_count: Int16, context: NSManagedObjectContext) -> ([Word: Bool]) {
-        
 //        let dataController = DataController()
 //        let context = dataController.container.viewContext
         
@@ -404,35 +433,41 @@ class Model {
         // Loop through all test_words in the topic and retrieve chunk from each if exists
         for word in words {
             let chunk = Chunk(s: word.name!, m: self)
+            
+            
             let (new_latency, new_retrieveResult) = dm.retrieve(chunk: chunk)
+            
             chunkDict[new_retrieveResult?.name ?? ""] = new_latency
         }
-
+        
         let sortedByValueDictionary = chunkDict.sorted { $0.1 < $1.1 }
         
         var testDict: [Word: Bool] = [:]
         
         var index = 0
-        var test_bool = false
+        var test_bool = true
         var new_word: Word
-        for (name, latency) in sortedByValueDictionary {
-            test_bool = false
-            if index == test_count {
-                break
-            }
-            if latency == -2 {
+        if test_count != 0 {
+            for (name, latency) in sortedByValueDictionary {
                 test_bool = true
+                if index == test_count {
+                    break
+                }
+                if latency == -2 {
+                    test_bool = false
+                }
+                new_word = getWordFromName(name: name, context: context)!
+                testDict[new_word] = test_bool
+                index = index + 1
             }
-            new_word = getWordFromName(name: name, context: context)!
-            testDict[new_word] = test_bool
-            index = index + 1
         }
+        
         
         return testDict
     }
 
-    func generateNewChunk(string s1: String = "chunk") -> Chunk {
-        let name = generateName(string: s1)
+    func generateNewChunk(string id: String = "chunk", name: String) -> Chunk {
+        let name = generateName(string: id)
         let chunk = Chunk(s: name, m: self)
         return chunk
     }
@@ -451,7 +486,6 @@ class Model {
         deleteGroup(context: context)
         deleteTrainList(context: context)
         deleteTestList(context: context)
-        time = 0
         dm.chunks = [:]
     }
 
@@ -641,11 +675,13 @@ class Model {
         let words = (try? context.fetch(fetchRequest)) ?? []
         return words.first
     }
+    
 
     func getTrainWordFromTopic(train_words: [Word], topic: TopicData, context:NSManagedObjectContext) -> [Word] {
         
         let fetchRequest = NSFetchRequest<Word>(entityName: "Word")
         let topic_words = getWordFromTopic(topic: topic, context: context)
+        
         // Get names so we can compare with topic name
         let topic_word_names = topic_words.map { $0.name! }
         let train_word_names = train_words.map { $0.name! }
@@ -655,6 +691,7 @@ class Model {
     }
 
     func getTestWordFromTopic(test_words: [Word], topic: TopicData, context:NSManagedObjectContext) -> [Word] {
+        
         let fetchRequest = NSFetchRequest<Word>(entityName: "Word")
         let topic_words = getWordFromTopic(topic: topic, context: context)
         // Get names so we can compare with topic name
