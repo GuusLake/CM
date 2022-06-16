@@ -2,7 +2,7 @@
 //  Word+CoreDataProperties.swift
 //  Vocabul-R
 //
-//  Created by Guillermo on 14/05/2022.
+//  Created by Guillermo on 15/06/2022.
 //
 //
 
@@ -22,6 +22,7 @@ extension Word {
     @NSManaged public var translation: String?
     @NSManaged public var group: NSSet?
     @NSManaged public var test_list: Test_list?
+    @NSManaged public var time: NSSet?
     @NSManaged public var train_list: Train_list?
 
 }
@@ -40,6 +41,23 @@ extension Word {
 
     @objc(removeGroup:)
     @NSManaged public func removeFromGroup(_ values: NSSet)
+
+}
+
+// MARK: Generated accessors for time
+extension Word {
+
+    @objc(addTimeObject:)
+    @NSManaged public func addToTime(_ value: Time)
+
+    @objc(removeTimeObject:)
+    @NSManaged public func removeFromTime(_ value: Time)
+
+    @objc(addTime:)
+    @NSManaged public func addToTime(_ values: NSSet)
+
+    @objc(removeTime:)
+    @NSManaged public func removeFromTime(_ values: NSSet)
 
 }
 

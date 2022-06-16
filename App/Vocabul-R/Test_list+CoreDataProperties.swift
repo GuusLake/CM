@@ -2,7 +2,7 @@
 //  Test_list+CoreDataProperties.swift
 //  Vocabul-R
 //
-//  Created by Guillermo on 14/05/2022.
+//  Created by Guillermo on 15/06/2022.
 //
 //
 

@@ -2,7 +2,7 @@
 //  TopicData+CoreDataProperties.swift
 //  Vocabul-R
 //
-//  Created by Guillermo on 14/05/2022.
+//  Created by Guillermo on 15/06/2022.
 //
 //
 
@@ -19,9 +19,9 @@ extension TopicData {
     @NSManaged public var activated: Bool
     @NSManaged public var activationLevel: Int16
     @NSManaged public var current_level: Int16
+    @NSManaged public var finished: Bool
     @NSManaged public var last_opened_group: Int16
     @NSManaged public var name: String?
-    @NSManaged public var finished: Bool
     @NSManaged public var group: NSSet?
 
 }
