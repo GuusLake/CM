@@ -2,7 +2,7 @@
 //  ModelView.swift
 //  Vocabul-R
 //
-//  Created by Gijs Lakeman on 26/04/2022.
+//  Created by Guillermo on 08/06/2022.
 //
 
 import Foundation
@@ -128,7 +128,7 @@ func GetTopics() -> [Topic]{
 
 func GetInitState() -> Bool{
     // The first time the app runs, move csv files to database and return true to do the first test
-    UserDefaults.standard.set(false, forKey: "firstRun")
+    //UserDefaults.standard.set(false, forKey: "firstRun")
     let firstRun = UserDefaults.standard.bool(forKey: "firstRun") as Bool
     
     
@@ -141,7 +141,25 @@ func GetInitState() -> Bool{
         return true
     }
     else {
+        addWordsToDM()
         return false
+    }
+}
+
+func addWordsToDM() {
+    // This function is used when the app launches after being closed. It get all the words that we have to test and the last time they were activated
+    let test_list = model.getTestList(context: context)
+    let test_words = test_list.word as! Set<Word>
+    let words = Array(test_words)
+    for word in words {
+        let times = word.time as! Set<Time>
+        let new_times = Array(times)
+        let chunk = Chunk(s: word.name!, m: model)
+        for time in new_times {
+            let interval = time.time!.timeIntervalSinceReferenceDate
+            let minutes = Double((interval/60).truncatingRemainder(dividingBy: 60))
+            model.dm.addToDM(chunk, minutes)
+        }
     }
 }
 
@@ -164,7 +182,7 @@ func moveToDataBase() throws {
         
         parseCSV_groups(data_file: "data/business_mean_level", topic_name: "Business")
         
-        parseCSV_groups(data_file: "data/city_mean_level", topic_name: "City")
+        //parseCSV_groups(data_file: "data/city_mean_level", topic_name: "City")
         
         parseCSV_groups(data_file: "data/clothes_mean_level", topic_name: "Clothes")
         
@@ -172,7 +190,7 @@ func moveToDataBase() throws {
         
         parseCSV_groups(data_file: "data/computer_mean_level", topic_name: "Computer")
         
-        parseCSV_groups(data_file: "data/cook_mean_level", topic_name: "Cook")
+        //parseCSV_groups(data_file: "data/cook_mean_level", topic_name: "Cook")
         
         parseCSV_groups(data_file: "data/day_mean_level", topic_name: "Day")
         
@@ -241,7 +259,7 @@ func moveToDataBase() throws {
         
         parseCSV_words(data_file: "data/business", topic_name: "Business")
         
-        parseCSV_words(data_file: "data/city", topic_name: "City")
+        //parseCSV_words(data_file: "data/city", topic_name: "City")
         
         parseCSV_words(data_file: "data/clothes", topic_name: "Clothes")
         
@@ -249,7 +267,7 @@ func moveToDataBase() throws {
         
         parseCSV_words(data_file: "data/computer", topic_name: "Computer")
         
-        parseCSV_words(data_file: "data/cook", topic_name: "Cook")
+        //parseCSV_words(data_file: "data/cook", topic_name: "Cook")
         
         parseCSV_words(data_file: "data/day", topic_name: "Day")
         
@@ -352,7 +370,6 @@ func parseCSV_topics (data_file: String) {
         let current_level: Int16 = 0
         let finished: Bool = false
         
-        
         let topic = TopicData(context: context)
         topic.name = name
         
@@ -435,7 +452,7 @@ func parseCSV_groups (data_file: String, topic_name: String) {
 func restartApp() {
     let model = Model()
     model.deleteAll(context: context)
-    UserDefaults.standard.set(true, forKey: "firstRun")
+    //UserDefaults.standard.set(true, forKey: "firstRun")
 }
 
 
@@ -475,7 +492,7 @@ func parseCSV_words (data_file: String, topic_name: String) {
         
         var already_shown: Bool = false
         
-        if translation.contains(character) {
+        if translation.contains(character) || translation.contains("0") || translation.contains("/") {
             already_shown = true
         }
         
