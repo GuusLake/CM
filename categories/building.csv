@@ -1,0 +1,252 @@
+EngWord,NldWord,Group
+public house,café,0
+house,huis,0
+hotel,hotel,0
+church,kerk,0
+school,school,0
+hall,hal,0
+casino,casino,0
+center,centrum,0
+stable,stal,0
+cafe,cafe,0
+opera,opera,1
+ski lodge,skihut,1
+villa,villa,1
+chapel,kapel,1
+motel,motel,1
+lodge,logeren,1
+theater,theater,1
+country house,landhuis,1
+palace,paleis,1
+kirk,kirk,1
+cabin,cabine,2
+oracle,orakel,2
+garage,garage,2
+temple,tempel,2
+town hall,Stadhuis,2
+abbey,abdij,2
+clinic,kliniek,2
+shed,schuur,2
+barn,schuur,2
+diner,diner,2
+log cabin,blokhut,3
+capitol,Capitol,3
+bethel,betel,3
+conservatory,serre,3
+rink,baan,3
+gambling house,gok huis,3
+shrine,altaar,3
+field house,veld huis,3
+beer garden,biertuin,3
+chalet,chalet,3
+bistro,bistro,4
+pump house,Pomphuis,4
+music hall,Muziekhal,4
+mosque,moskee,4
+hall of residence,woonhuis,4
+court,rechtbank,4
+day school,dag school,4
+kennel,kennel,4
+rest house,Rust huis,4
+boarding house,pension,4
+hostel,herberg,5
+cinema,bioscoop,5
+summer house,zomerhuis,5
+manor,landhuis,5
+side chapel,zijkapel,5
+beach house,strandhuis,5
+resort,toevlucht,5
+tavern,taverne,5
+call center,callcenter,5
+free house,gratis huis,5
+greenhouse,broeikas,6
+hospital,ziekenhuis,6
+gazebo,Prieel,6
+ski resort,skigebied,6
+chateau,kasteel,6
+coach house,koetshuis,6
+ruin,ruïneren,6
+pagoda,pagode,6
+music school,muziekschool,6
+library,bibliotheek,6
+art school,kunstschool,7
+pump room,pompkamer,7
+masjid,moskee,7
+ministry,ministerie,7
+restaurant,restaurant,7
+ice rink,ijsbaan,7
+safe house,veilig huis,7
+lyceum,lyceum,7
+bungalow,bungalow,7
+tenement,woning,7
+monastery,klooster,8
+guesthouse,Gasthuis,8
+shooting lodge,schiethut,8
+solar house,zonne huis,8
+canteen,kantine,8
+creche,crèche,8
+opium den,opiumkit,8
+residence,residentie,8
+meat house,vlees huis,8
+clubhouse,clubhuis,8
+service club,service club,9
+minster,minster,9
+synagogue,synagoge,9
+rotunda,rotonde,9
+priory,priorij,9
+lodging house,logeerhuis,9
+carport,carport,9
+caff,caff,9
+motor hotel,motor hotel,9
+stupa,stoepa,9
+aviary,volière,10
+shooting gallery,schiettent,10
+row house,rijtjeshuis,10
+office building,kantoorgebouw,10
+pantheon,pantheon,10
+embassy,ambassade,10
+hacienda,hacienda,10
+resort hotel,Resort Hotel,10
+convent,klooster,10
+Ritz,Rits,10
+architecture,architectuur,11
+hash house,hasj huis,11
+city hall,gemeentehuis,11
+cafeteria,cafetaria,11
+dacha,datsja,11
+signal box,signaal doos,11
+medical building,medisch gebouw,11
+control center,controle Centrum,11
+research center,onderzoekscentrum,11
+consulate,consulaat,11
+basilica,basiliek,12
+mansion,herenhuis,12
+chicken coop,kippenhok,12
+government building,overheidsgebouw,12
+coal house,kolen huis,12
+community center,gemeenschapscentrum,12
+ranch house,ranch huis,12
+chantry,chantry,12
+student center,studenten centrum,12
+little theater,klein theater,12
+smokehouse,rokerij,13
+field hospital,veld ziekenhuis,13
+farmhouse,boerderij,13
+alcazar,alcázar,13
+home theater,thuisbioscoop,13
+joss house,joss huis,13
+bathhouse,badhuis,13
+conference center,conferentiecentrum,13
+dinner theater,diner theater,13
+student union,studentenvereniging,13
+multiplex,multiplex,14
+farm building,boerderij gebouw,14
+presbytery,pastorie,14
+cathedral,kathedraal,14
+whorehouse,bordeel,14
+dormitory,slaapzaal,14
+saltbox,zoutbak,14
+Bedlam,Bedlam,14
+parsonage,pastorie,14
+military hospital,militair hospitaal,14
+imaret,imaret,15
+belvedere,belvedere,15
+burn center,brandcentrum,15
+deanery,decanaat,15
+bed and breakfast,bed and breakfast,15
+place of worship,gebedsruimte,15
+dispensary,apotheek,15
+shebeen,shebeen,15
+pull-in,inhalen,15
+bowling alley,bowlingbaan,15
+lady chapel,vrouwenkapel,16
+automat,automaat,16
+brasserie,brasserie,16
+packinghouse,pakhuis,16
+manse,pastorie,16
+telecom hotel,telecom hotel,16
+guildhall,gildehuis,16
+arena theater,arena theater,16
+mental hospital,psychiatrische inrichting,16
+apartment building,appartementencomplex,16
+maternity hospital,kraamkliniek,17
+fleapit,vlooien,17
+alehouse,bierhuis,17
+friary,klooster,17
+stash house,stash huis,17
+outhouse,bijgebouw,17
+boathouse,botenhuis,17
+settlement house,nederzetting huis,17
+tract house,traktaat huis,17
+rotisserie,rotisserie,17
+lunchroom,lunchroom,18
+bucket shop,emmer winkel,18
+religious residence,religieuze woonplaats,18
+funeral home,uitvaartcentrum,18
+brewpub,bierkroeg,18
+sudatorium,dampbad,18
+conventicle,klooster,18
+icehouse,ijskelder,18
+outbuilding,bijgebouw,18
+dollhouse,poppenhuis,18
+bioscope,bioscoop,19
+observatory,observatorium,19
+ziggurat,ziggurat,19
+firetrap,brandtrap,19
+apiary,bijenstal,19
+dude ranch,kerel boerderij,19
+morgue,lijkenhuis,19
+orangery,oranjerie,19
+stately home,statig huis,19
+flophouse,flophouse,19
+glebe house,glebe huis,20
+brownstone,bruinsteen,20
+lamasery,lamasery,20
+abattoir,slachthuis,20
+caravansary,karavaan,20
+espresso shop,espresso winkel,20
+lazaretto,lazaretto,20
+planetarium,planetarium,20
+feedlot,weidegrond,20
+detached house,Vrijstaand huis,20
+estaminet,schatten,21
+courthouse,gerechtsgebouw,21
+massage parlor,massagesalon,21
+terraced house,rijtjeshuis,21
+sanatorium,sanatorium,21
+grillroom,grillroom,21
+honeymoon resort,huwelijksreis resort,21
+duplex house,twee onder een kap,21
+buttery,boterachtig,21
+livery stable,stalhouderij,21
+ice hockey rink,ijshockeybaan,22
+diplomatic building,diplomatiek gebouw,22
+gatehouse,poortgebouw,22
+maisonette,maisonnette,22
+sod house,graszoden huis,22
+greasy spoon,vettige lepel,22
+chancellery,kanselarij,22
+rathskeller,Ratskeller,22
+skyscraper,wolkenkrabber,22
+gildhall,gildezaal,22
+steakhouse,Steak-restaurant,23
+crematory,crematorium,23
+woodshed,houtschuur,23
+charterhouse,charterhuis,23
+cybercafe,internetcafe,23
+roadhouse,wegrestaurant,23
+tithe barn,tiendenschuur,23
+Statehouse,Staatshuis,23
+fleabag,vlooienzak,23
+teashop,theewinkel,23
+cowbarn,koeienstal,24
+Hall of Fame,Eregalerij,24
+posthouse,postkantoor,24
+oast house,oosters huis,24
+chapterhouse,kapittelzaal,24
+nunnery,nonnenklooster,24
+customhouse,douanekantoor,24
+hotel-casino,hotel-casino,24
+toolshed,gereedschapsschuur,24
+Roman building,Romeins gebouw,24
+walk-up,naar boven lopen,25
