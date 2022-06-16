@@ -1,455 +1,447 @@
 EngWord,NldWord,Group
 blue,blauw,0
-bee,bij,0
 fly,vlieg,0
+bee,bij,0
 copper,koper,0
-cricket,krekel,0
 bug,beestje,0
 ant,mier,0
+cricket,krekel,0
+worker bee,werkbij,0
+emperor,keizer,0
 soldier,soldaat,0
-queen,koningin,0
-yellow jacket,gele jas,0
-butterfly,vlinder,1
 flea,vlo,1
-emperor,keizer,1
-wheel bug,wiel bug,1
-beetle,kever,1
 mosquito,mug,1
-worker bee,werkbij,1
+butterfly,vlinder,1
+yellow jacket,gele jas,1
 worker,arbeider,1
-comma,komma,1
+beetle,kever,1
+wheel bug,wiel bug,1
 leaf bug,bladluis,1
+queen,koningin,1
+comma,komma,1
 dragonfly,libel,2
 peacock,Pauw,2
-sawyer,zager,2
-moth,mot,2
-lace bug,kant bug,2
-ant cow,bladluis,2
 small white,klein wit,2
-monarch,monarch,2
+sawyer,zager,2
+lace bug,kant bug,2
+moth,mot,2
+ant cow,bladluis,2
 wasp,wesp,2
+admiral,admiraal,2
 true bug,echte bug,2
-admiral,admiraal,3
-sand fly,zandvlieg,3
-gnat,mug,3
+monarch,monarch,3
 io moth,io mot,3
-gnat,mug,3
-firefly,glimworm,3
-drone,drone,3
-mason bee,metselbij,3
-chrysalis,pop,3
+sand fly,zandvlieg,3
 dobson,dobson,3
-firefly,glimworm,4
-wood ant,hout mier,4
-luna moth,luna mot,4
-tree cricket,boomkrekel,4
-fire ant,vuur mier,4
+mason bee,metselbij,3
+gnat,mug,3
+chrysalis,pop,3
+fire ant,vuur mier,3
+walking stick,wandelstok,3
+wood ant,hout mier,3
+drone,drone,4
 hornet,horzel,4
-atlas moth,atlasmot,4
+tree cricket,boomkrekel,4
+firefly,glimworm,4
+black bee,zwarte bij,4
 bee fly,bijenvlieg,4
+atlas moth,atlasmot,4
+oil beetle,oliekever,4
 midge,mug,4
-bee moth,bijenmot,4
+searcher,zoeker,4
 grain moth,graanmot,5
-searcher,zoeker,5
-walking stick,wandelstok,5
-imago,imago,5
-flesh fly,vleesvlieg,5
-black bee,zwarte bij,5
-bee beetle,bij kever,5
-leaf beetle,bladkever,5
-pupa,pop,5
 seed beetle,zaadkever,5
-oil beetle,oliekever,6
-ground beetle,loopkever,6
-slave ant,slaaf mier,6
-termite,termiet,6
-click beetle,klik kever,6
-gall midge,galmug,6
-flour beetle,meelkever,6
-scarab,scarabee,6
-dog flea,hondenvlo,6
+flesh fly,vleesvlieg,5
+luna moth,luna mot,5
+bee moth,bijenmot,5
+leaf beetle,bladkever,5
+ground beetle,loopkever,5
+flour beetle,meelkever,5
+termite,termiet,5
+gall wasp,gal wesp,5
+imago,imago,6
+pupa,pop,6
+bee beetle,bij kever,6
+leaf roller,bladroller,6
+tiger moth,tijgermot,6
 cat flea,kattenvlo,6
-gall wasp,gal wesp,7
-leaf roller,bladroller,7
-louse,luis,7
-bumblebee,hommel,7
-large white,grote witte,7
-cicada,cicade,7
+carpet moth,tapijtmot,6
+dog flea,hondenvlo,6
+gall midge,galmug,6
+louse,luis,6
+scarab,scarabee,7
+slave ant,slaaf mier,7
+tobacco moth,tabaksmot,7
 thrips,trips,7
-fruit fly,fruit vlieg,7
+bumblebee,hommel,7
+cicada,cicade,7
 army ant,leger mier,7
-horn fly,hoorn vlieg,7
-vinegar fly,azijnvlieg,8
-dung beetle,mestkever,8
-pine sawyer,dennenzaag,8
+large white,grote witte,7
+click beetle,klik kever,7
+fruit fly,fruit vlieg,7
 digger wasp,graafwesp,8
-tobacco moth,tabaksmot,8
-aphid,bladluis,8
+water beetle,waterkever,8
+dung beetle,mestkever,8
+field cricket,veldcricket,8
 sand cricket,zand krekel,8
+common mosquito,gewone mug,8
+cotton strain,katoensoort,8
 water bug,water insect,8
-plant hopper,plantenbak,8
+horn fly,hoorn vlieg,8
 antler moth,gewei mot,8
-tiger moth,tijgermot,9
-water beetle,waterkever,9
-carpet moth,tapijtmot,9
-field cricket,veldcricket,9
-cotton strain,katoensoort,9
-bark beetle,schorskever,9
-common mosquito,gewone mug,9
-cockroach,kakkerlak,9
+vinegar fly,azijnvlieg,9
+aphid,bladluis,9
 soft scale,zachte schaal,9
-drosophila,drosophila,9
-horse tick,paardenteek,10
-ant lion,mierenleeuw,10
-cinnabar,cinnaber,10
-crane fly,Langpootmug,10
-stag beetle,hert kever,10
+ant lion,mierenleeuw,9
+stag beetle,hert kever,9
+clothes moth,kledingmot,9
+crane fly,Langpootmug,9
+cockroach,kakkerlak,9
+horse tick,paardenteek,9
+almond moth,amandelmot,9
 eggar,eggar,10
-mourning cloak,rouwmantel,10
-clothes moth,kledingmot,10
-almond moth,amandelmot,10
-scale insect,schaalinsect,10
-earwig,oorworm,11
-katydid,katydid,11
-tiger beetle,tijger kever,11
-codling moth,fruitmot,11
-mealybug,wolluis,11
+plant hopper,plantenbak,10
+locust,sprinkhaan,10
+apple aphid,appelluis,10
+drosophila,drosophila,10
+pine sawyer,dennenzaag,10
+bark beetle,schorskever,10
+honeybee,honingbij,10
+earwig,oorworm,10
+head louse,hoofdluis,10
 queen bee,bijenkoningin,11
-locust,sprinkhaan,11
+cinnabar,cinnaber,11
 carpet beetle,tapijt kever,11
-apple aphid,appelluis,11
+katydid,katydid,11
+mealybug,wolluis,11
 pharaoh ant,farao mier,11
-blister beetle,blaarkever,12
-honeybee,honingbij,12
-fish fly,vissen vliegen,12
-weevil,snuitkever,12
-hanging fly,hangende vlieg,12
-walking leaf,wandelend blad,12
+codling moth,fruitmot,11
+mourning cloak,rouwmantel,11
+blister beetle,blaarkever,11
+tiger beetle,tijger kever,11
+scale insect,schaalinsect,12
 leaf miner,mineervlieg,12
-andrena,andrena,12
-wax insect,wassen insect,12
+fish fly,vissen vliegen,12
+velvet ant,fluwelen mier,12
 mole cricket,mol cricket,12
-adelgid,adelgid,13
-carpenter bee,timmermansbij,13
-head louse,hoofdluis,13
-bird louse,vogelluis,13
+adelgid,adelgid,12
+superbug,superbug,12
+flea beetle,vlooienkever,12
+hanging fly,hangende vlieg,12
+tineid,tineid,12
+psocid,psocid,13
 cabbage butterfly,koolvlinder,13
-flea beetle,vlooienkever,13
-gypsy moth,zigeunermot,13
-cynthia moth,cynthia mot,13
-crab louse,krab luis,13
-tineid,tineid,13
-velvet ant,fluwelen mier,14
-pierid,pieri,14
-superbug,superbug,14
-jassid,jassid,14
-tortoiseshell,schildpad,14
+sawfly,Bladwesp,13
+carpenter bee,timmermansbij,13
+tortoiseshell,schildpad,13
+walking leaf,wandelend blad,13
+andrena,andrena,13
+wax insect,wassen insect,13
+cecropia,cecropia,13
+lappet,slip,13
+phasmid,fasmide,14
+squash bug,squashbeestje,14
+bulldog ant,bulldog mier,14
+botfly,horzel,14
 paper wasp,papier wesp,14
+common wasp,gewone wesp,14
 pollinator,bestuiver,14
-goldeneye,gouden Oog,14
-sawfly,Bladwesp,14
-armyworm,legerworm,14
-grasshopper,sprinkhaan,15
-lygaeid,lygaeid,15
+grasshopper,sprinkhaan,14
+firebug,vuurwants,14
+apple maggot,appel made,14
+goldeneye,gouden Oog,15
 bedbug,bedwants,15
+snout beetle,snuitkever,15
 ringlet,ringetje,15
-common wasp,gewone wesp,15
-squash bug,squashbeestje,15
-chicken louse,kippenluis,15
-firebug,vuurwants,15
-apple maggot,appel made,15
-web spinner,web spinner,15
-cecropia,cecropia,16
-bulldog ant,bulldog mier,16
-tussah,tussah,16
-phasmid,fasmide,16
+firebrat,vuurbrat,15
+bird louse,vogelluis,15
+cockchafer,meikever,15
+emperor butterfly,keizer vlinder,15
+weevil,snuitkever,15
+red admiral,rode admiraal,15
+cynthia moth,cynthia mot,16
+crab louse,krab luis,16
+armyworm,legerworm,16
+gypsy moth,zigeunermot,16
 bluebottle,bromvlieg,16
-oak blight,eikenziekte,16
 potato moth,aardappelmot,16
+social insect,sociaal insect,16
 carpenter ant,timmerman mier,16
-raisin moth,rozijnenmot,16
-emperor butterfly,keizer vlinder,16
-punkie,punkie,17
-armyworm,legerworm,17
-robber fly,rover vlieg,17
-social insect,sociaal insect,17
-red admiral,rode admiraal,17
-stonefly,steenvlieg,17
-white admiral,witte admiraal,17
-louse fly,luis vlieg,17
-onion thrips,uien trips,17
+glowworm,gloeiworm,16
+louse fly,luis vlieg,16
+chicken louse,kippenluis,17
+pierid,pieri,17
 lygus bug,lygus bug,17
-housefly,huisvlieg,18
-glowworm,gloeiworm,18
-vespid,vespied,18
-potter bee,pottenbakkersbij,18
+housefly,huisvlieg,17
+web spinner,web spinner,17
+white admiral,witte admiraal,17
+robber fly,rover vlieg,17
+raisin moth,rozijnenmot,17
+onion thrips,uien trips,17
+vespid,vespied,17
 malarial mosquito,malariamug,18
-gallfly,galvlieg,18
-bark-louse,bastluis,18
-snout beetle,snuitkever,18
-lantern fly,lantaarn vlieg,18
-botfly,horzel,18
-ichneumon fly,sluipwesp,19
+stonefly,steenvlieg,18
+potter bee,pottenbakkersbij,18
+ichneumon fly,sluipwesp,18
+nymphalid,nymphalid,18
+rose chafer,rozenkever,18
+oak blight,eikenziekte,18
+lycaenid,lycaenid,18
+arctiid,arctiid,18
+hairstreak,haarstreep,18
+corn borer,maïsboorder,19
+vedalia,vedalia,19
+chigoe,chigoe,19
+leafhopper,sprinkhaan,19
+lantern fly,lantaarn vlieg,19
+jassid,jassid,19
 sulphur butterfly,zwavel vlinder,19
-danaid,danaid,19
-common louse,gewone luis,19
-sticktight,plakkerig,19
-arctiid,arctiid,19
-brown soft scale,bruine zachte schaal,19
-gelechiid,gelechiid,19
-dorbeetle,dorbeetle,19
-hawkmoth,haviksmot,19
-chalcid fly,kelkvlieg,20
-chinch bug,chinch bug,20
-hairstreak,haarstreep,20
-corn borer,maïsboorder,20
+viceroy,onderkoning,19
+fungus gnat,schimmel mug,19
+bark-louse,bastluis,19
+conenose,conenose,20
 grape louse,druivenluis,20
-fungus gnat,schimmel mug,20
-plant louse,plantenluis,20
-leafhopper,sprinkhaan,20
-silverfish,zilvervisje,20
-alderfly,elsvlieg,20
-ephemerid,efemeride,21
-psocid,psocid,21
-fungus gnat,schimmel mug,21
-rose chafer,rozenkever,21
-rose chafer,rozenkever,21
-sheep ked,schapen ked,21
-tobacco thrips,tabak trips,21
-viceroy,onderkoning,21
-saturniid,saturniid,21
-little black ant,kleine zwarte mier,21
-gadfly,paardevlieg,22
-blowfly,blaasvlieg,22
-greenfly,bladluis,22
-whitefly,witte vlieg,22
-rove beetle,kortschildkever,22
-moth miller,mottenmolenaar,22
-mason wasp,metselaar wesp,22
+tobacco thrips,tabak trips,20
+gelechiid,gelechiid,20
+brown soft scale,bruine zachte schaal,20
+little black ant,kleine zwarte mier,20
+tussah,tussah,20
+blowfly,blaasvlieg,20
+sheep ked,schapen ked,20
+assassin bug,huurmoordenaar,20
+punkie,punkie,21
+warble fly,horzelvlieg,21
+moth miller,mottenmolenaar,21
+gadfly,paardevlieg,21
+silverfish,zilvervisje,21
+giant water bug,gigantische waterwants,21
+psychodid,psychodid,21
+rove beetle,kortschildkever,21
+common louse,gewone luis,21
+mantis,bidsprinkhaan,21
+plant louse,plantenluis,22
 praying mantis,bidsprinkhaan,22
-mantis,bidsprinkhaan,22
-giant water bug,gigantische waterwants,22
-warble fly,horzelvlieg,23
-black carpet beetle,zwarte tapijtkever,23
-proturan,proturan,23
-horsefly,paardevlieg,23
-mason wasp,metselaar wesp,23
-chigoe,chigoe,23
-assassin bug,huurmoordenaar,23
-psychodid,psychodid,23
+mason wasp,metselaar wesp,22
+mormon cricket,mormoonse krekel,22
+whitefly,witte vlieg,22
+gallfly,galvlieg,22
+spruce bark beetle,vuren schorskever,22
+chinch bug,chinch bug,22
+coreid bug,coreid-bug,22
+horsefly,paardevlieg,22
 damselfly,waterjuffer,23
-spruce bark beetle,vuren schorskever,23
-mormon cricket,mormoonse krekel,24
-buffalo carpet beetle,buffel tapijt kever,24
-lappet,slip,24
-vedalia,vedalia,24
-painted beauty,geschilderde schoonheid,24
-geometrid,meetkunde,24
-boll weevil,bolsnuitkever,24
+danaid,danaid,23
+lygaeid,lygaeid,23
+silverspot,zilvervlek,23
+buffalo carpet beetle,buffel tapijt kever,23
+boll weevil,bolsnuitkever,23
+hawkmoth,haviksmot,23
+painted beauty,geschilderde schoonheid,23
+black carpet beetle,zwarte tapijtkever,23
+pernyi moth,pernyi mot,23
 water boatman,waterbootman,24
-silverspot,zilvervlek,24
-coreid bug,coreid-bug,24
-conenose,conenose,25
-body louse,lichaamsluis,25
-lycaenid,lycaenid,25
-mirid bug,mirid bug,25
+body louse,lichaamsluis,24
+alderfly,elsvlieg,24
+tumblebug,tuimelaar,24
+greenfly,bladluis,24
+June beetle,juni kever,24
+ephemeron,efemeroon,24
+mirid bug,mirid bug,24
+Plectophera,Plectofera,24
+webworm moth,webworm mot,24
+lacewing,gaasvliegen,25
 water scorpion,water schorpioen,25
-scorpion fly,schorpioen vlieg,25
 purple emperor,grote weerschijnvlinder,25
-long-horned beetle,boktor,25
 birch leaf miner,berken mineervlieg,25
-tineoid,tineoïde,25
-webworm moth,webworm mot,26
-armored scale,gepantserde schaal,26
-bombycid,bombycid,26
-lymantriid,lymantriid,26
-calosoma,calosoma,26
-mayfly,eendagsvlieg,26
-pea weevil,erwt snuitkever,26
-collembolan,collembolan,26
+scorpion fly,schorpioen vlieg,25
+water strider,schaatsenrijder,25
+rice weevil,rijstsnuitkever,25
+mayfly,eendagsvlieg,25
+rhinoceros beetle,neushoorn kever,25
+armored scale,gepantserde schaal,25
+bean weevil,bonensnuitkever,26
 banded purple,gestreepte paars,26
-water strider,schaatsenrijder,26
-rice weevil,rijstsnuitkever,27
-bombardier beetle,bombardier kever,27
-rhinoceros beetle,neushoorn kever,27
-underwing,ondervleugel,27
-bean weevil,bonensnuitkever,27
-lacewing,gaasvliegen,27
-froghopper,kikkerdril,27
-browntail,bruinstaart,27
-anglewing,hoekvleugel,27
-mud dauber,modder dauber,27
-potter wasp,pottenbakkers wesp,28
+chalcid fly,kelkvlieg,26
+bombardier beetle,bombardier kever,26
+pea weevil,erwt snuitkever,26
+ephemerid,efemeride,26
+underwing,ondervleugel,26
+diapheromera,diaferomeer,26
+mud dauber,modder dauber,26
+potter wasp,pottenbakkers wesp,26
+tsetse fly,tseetseevlieg,27
+bombycid,bombycid,27
+tortricid,tortricide,27
+southern cabbage butterfly,zuidelijke koolvlinder,27
+calosoma,calosoma,27
+ladybug,lieveheersbeestje,27
+woolly aphid,wollige bladluis,27
+mecopteran,mecopteraan,27
+sticktight,plakkerig,27
+tineoid,tineoïde,27
 caddis fly,caddis vliegen,28
-tsetse fly,tseetseevlieg,28
-cockchafer,meikever,28
-firebrat,vuurbrat,28
-southern cabbage butterfly,zuidelijke koolvlinder,28
-ladybug,lieveheersbeestje,28
-Plectophera,Plectofera,28
-mecopteran,mecopteraan,28
-holometabola,holometabola,28
-odonate,verkondigen,29
-woolly aphid,wollige bladluis,29
-spongefly,sponsvlieg,29
-woolly apple aphid,wollige appelluis,29
-booklouse,boekenluis,29
-darkling beetle,duistere kever,29
-webbing clothes moth,webbing kleding mot,29
-nymphalid,nymphalid,29
-snowy tree cricket,besneeuwde boom cricket,29
+snowy tree cricket,besneeuwde boom cricket,28
+green peach aphid,groene perzikluis,28
+proturan,proturan,28
+woolly alder aphid,wollige elzenluis,28
+blackfly,zwarte vlieg,28
+neuropteron,neuropteron,28
+webbing clothes moth,webbing kleding mot,28
+Amazon ant,Amazone mier,28
+odonate,verkondigen,28
+dorbeetle,dorbeetle,29
 citrus mealybug,citruswolluis,29
+darkling beetle,duistere kever,29
+meadow spittlebug,weidekevers,29
+woolly apple aphid,wollige appelluis,29
+migratory locust,migrerende sprinkhaan,29
+sanguinary ant,bloedige mier,29
+saturniid,saturniid,29
+giant hornet,gigantische hoornaar,29
+death's-head moth,doodshoofdmot,29
+oriental cockroach,oosterse kakkerlak,30
+cotton stainer,katoenbevlekker,30
 spittle insect,speeksel insect,30
-green peach aphid,groene perzikluis,30
-tumblebug,tuimelaar,30
-blackfly,zwarte vlieg,30
-lasiocampid,lasiocampide,30
-migratory locust,migrerende sprinkhaan,30
+gracilariid,gracilariid,30
+heliothis moth,heliothis mot,30
+imperial moth,keizerlijke nachtvlinder,30
 greenhouse whitefly,kas witte vlieg,30
-sanguinary ant,bloedige mier,30
-giant hornet,gigantische hoornaar,30
-anopheline,anofeline,30
-imperial moth,keizerlijke nachtvlinder,31
-woolly alder aphid,wollige elzenluis,31
-oriental cockroach,oosterse kakkerlak,31
+Mutillidae,Mutillidae,30
+cicada killer,cicade moordenaar,30
+thysanopter,thysanopter,30
 spruce gall aphid,vuren gal bladluis,31
-heliothis moth,heliothis mot,31
-leaf-footed bug,bladvoetwants,31
-cotton stainer,katoenbevlekker,31
-cicada killer,cicade moordenaar,31
+fritillary,parelmoervlinder,31
+geometrid,meetkunde,31
+backswimmer,rugzwemmer,31
+migratory grasshopper,migrerende sprinkhaan,31
 deathwatch beetle,deathwatch kever,31
-June beetle,juni kever,31
-migratory grasshopper,migrerende sprinkhaan,32
-fritillary,parelmoervlinder,32
-ephemeron,efemeroon,32
-pine leaf aphid,dennenblad bladluis,32
-giant cockroach,gigantische kakkerlak,32
+anopheline,anofeline,31
+booklouse,boekenluis,31
+pine leaf aphid,dennenblad bladluis,31
+gold-tail moth,goudstaartmot,31
+coccid insect,coccid insect,32
 whirligig beetle,draaimolen kever,32
 Italian bee,Italiaanse bij,32
-Carniolan bee,Carniolan bij,32
-Mutillidae,Mutillidae,32
-tortricid,tortricide,32
-Amazon ant,Amazone mier,33
-backswimmer,rugzwemmer,33
-woolly adelgid,wollige adelgid,33
-Spanish fly,Spaanse Vlieg,33
+giant cockroach,gigantische kakkerlak,32
+froghopper,kikkerdril,32
+treehopper,boomspringer,32
+lymantriid,lymantriid,32
+woolly adelgid,wollige adelgid,32
+spongefly,sponsvlieg,32
+collembolan,collembolan,32
+green lacewing,groene gaasvlieg,33
 citrus whitefly,citrus witte vlieg,33
-brown lacewing,bruine gaasvlieg,33
-pernyi moth,pernyi mot,33
-red underwing,rode ondervleugel,33
-Manduca sexta,Manduca sexta,33
 tarnished plant bug,aangetaste plantenwants,33
-green lacewing,groene gaasvlieg,34
-tea tortrix,thee schildpad,34
-snakefly,slangenvlieg,34
-diapheromera,diaferomeer,34
+Spanish fly,Spaanse Vlieg,33
+holometabola,holometabola,33
+red underwing,rode ondervleugel,33
+brown lacewing,bruine gaasvlieg,33
+balsam woolly aphid,balsem wollige bladluis,33
+tea tortrix,thee schildpad,33
+Oriental beetle,Oosterse kever,33
+Pulex irritans,Pulex irritans,34
+Comstock mealybug,Comstock wolluis,34
+cuckoo-bumblebee,koekoek-hommel,34
+jumping plant louse,springende plantenluis,34
 pale chrysanthemum aphid,bleke chrysant bladluis,34
-balsam woolly aphid,balsem wollige bladluis,34
-tachina fly,Tachina vlieg,34
-gracilariid,gracilariid,34
-greenbottle,groene fles,34
-tent-caterpillar moth,tent-rups mot,34
-cochineal insect,cochenille insect,35
-thysanopter,thysanopter,35
-Colorado potato beetle,Coloradokever,35
-meadow spittlebug,weidekevers,35
-horse botfly,paard horzel,35
-neuropteron,neuropteron,35
-coccid insect,coccid insect,35
-jumping plant louse,springende plantenluis,35
-mantispid,bidsprinkhaan,35
-green June beetle,groene junikever,35
-hemipterous insect,hemipterus insect,36
-giant silkworm moth,gigantische zijderupsmot,36
-Strymon melinus,Strymon melinus,36
-domestic silkworm moth,binnenlandse zijderupsenmot,36
-defoliator,ontbladeraar,36
-blackfly,zwarte vlieg,36
-treehopper,boomspringer,36
-gold-tail moth,goudstaartmot,36
-Dutch-elm beetle,Hollandse iepkever,36
-clerid beetle,clerid kever,36
+Japanese beetle,Japanse kever,34
+cochineal insect,cochenille insect,34
+anglewing,hoekvleugel,34
+clerid beetle,clerid kever,34
+Colorado potato beetle,Coloradokever,34
+browntail,bruinstaart,35
+Formica fusca,Formica fusca,35
+leaf-footed bug,bladvoetwants,35
+snakefly,slangenvlieg,35
+giant silkworm moth,gigantische zijderupsmot,35
+Manduca sexta,Manduca sexta,35
+Asian longhorned beetle,Aziatische boktor,35
+domestic silkworm moth,binnenlandse zijderupsenmot,35
+Nomia melanderi,Nomia melanderi,35
+noctuid moth,nachtvlinder,35
+Carniolan bee,Carniolan bij,36
+German cockroach,Duitse kakkerlak,36
+lasiocampid,lasiocampide,36
+Hyphantria cunea,Hyphantria cunea,36
+chalcis fly,chalcis vliegen,36
+greenbottle,groene fles,36
+tachina fly,Tachina vlieg,36
+bristletail,borstelstaart,36
+pyralid,piramidevormig,36
+polyphemus moth,polyphemus nachtvlinder,36
+tent-caterpillar moth,tent-rups mot,37
+Polistes annularis,Polistes annularis,37
+elaterid beetle,elaterid kever,37
 melolonthid beetle,meloenthide kever,37
-chalcis fly,chalcis vliegen,37
-Nomia melanderi,Nomia melanderi,37
-Hessian fly,Hessische vlieg,37
+Mediterranean flour moth,Mediterrane meelmot,37
 American copper,Amerikaans koper,37
-Formica fusca,Formica fusca,37
-noctuid moth,nachtvlinder,37
-Japanese beetle,Japanse kever,37
-polyphemus moth,polyphemus nachtvlinder,37
+mantispid,bidsprinkhaan,37
 leaf-cutting bee,bladsnijdende bij,37
+horse botfly,paard horzel,37
+defoliator,ontbladeraar,37
+Gelechia gossypiella,Gelechia gossypiella,38
+dictyopterous insect,dictyopterous insect,38
+scarabaeid beetle,scarabee kever,38
 sheep botfly,schapen horzel,38
-bristletail,borstelstaart,38
-Pulex irritans,Pulex irritans,38
-German cockroach,Duitse kakkerlak,38
-death's-head moth,doodshoofdmot,38
-Africanized bee,Afrikaanse bij,38
-tent-caterpillar moth,tent-rups mot,38
-pyralid,piramidevormig,38
-heteropterous insect,heteropterous insect,38
-Culex quinquefasciatus,Culex quinquefasciatus,38
-San Jose scale,San Jose schaal,39
-pine spittlebug,pijnboom spittlebug,39
-human botfly,menselijke horzel,39
-dry-wood termite,droog hout termiet,39
-Hyphantria cunea,Hyphantria cunea,39
+sphecoid wasp,sphecoïde wesp,38
+trichopterous insect,trichopterous insect,38
+San Jose scale,San Jose schaal,38
+Australian cockroach,Australische kakkerlak,38
+dipterous insect,tweekleppig insect,38
+homopterous insect,homopterous insect,38
+common pond-skater,gewone vijverschaatser,39
+bald-faced hornet,kaalhoofdige horzel,39
 short-horned grasshopper,korthoornige sprinkhaan,39
-common European earwig,gewone Europese oorworm,39
-Oriental beetle,Oosterse kever,39
-Loxostege similalis,Loxostege similalis,39
-Hippodamia convergens,Hippodamia convergeert,39
-Asian tiger mosquito,Aziatische tijgermug,40
-Saratoga spittlebug,Saratoga spittlebug,40
-American cockroach,Amerikaanse kakkerlak,40
-red-spotted purple,rood-gevlekt paars,40
+Spodoptera frugiperda,Spodoptera frugiperda,39
+Hessian fly,Hessische vlieg,39
+Mexican bean beetle,Mexicaanse bonenkever,39
+hemipterous insect,hemipterus insect,39
+common booklouse,gewone boekenluis,39
+Africanized bee,Afrikaanse bij,39
+green June beetle,groene junikever,39
+four-lined plant bug,vierlijnige plantenwants,40
+seventeen-year locust,zeventienjarige sprinkhaan,40
+Strymon melinus,Strymon melinus,40
+lepidopterous insect,lepidopterous insect,40
+Dutch-elm beetle,Hollandse iepkever,40
+human botfly,menselijke horzel,40
+Mastotermes darwiniensis,Mastotermes darwiniensis,40
+Reticulitermes flanipes,Reticulitermes flanipes,40
+yellow-fever mosquito,gele koorts mug,40
 orthopterous insect,orthopterus insect,40
-thysanuran insect,thysanuran insect,40
-sphecoid wasp,sphecoïde wesp,40
-Asian longhorned beetle,Aziatische boktor,40
-Alsophila pometaria,Alsophila pometaria,40
-Spodoptera exigua,Spodoptera exigua,40
-elaterid beetle,elaterid kever,41
+heteropterous insect,heteropterous insect,41
+dog-day cicada,hond-dag cicade,41
+European house cricket,Europese huiscricket,41
+lamellicorn beetle,lamellicorn kever,41
+orange tortrix,oranje schildpad,41
+citrophilous mealybug,citrofiele wolluis,41
 Mastotermes electromexicus,Mastotermes electromexicus,41
-cuckoo-bumblebee,koekoek-hommel,41
-bald-faced hornet,kaalhoofdige horzel,41
-Comstock mealybug,Comstock wolluis,41
-Australian cockroach,Australische kakkerlak,41
-Mediterranean flour moth,Mediterrane meelmot,41
-trichopterous insect,trichopterous insect,41
-common pond-skater,gewone vijverschaatser,41
-slave-making ant,slavenmakende mier,41
-Reticulitermes flanipes,Reticulitermes flanipes,42
-Manduca quinquemaculata,Manduca quinquemaculata,42
-scarabaeid beetle,scarabee kever,42
-citrophilous mealybug,citrofiele wolluis,42
-dog-day cicada,hond-dag cicade,42
-lamellicorn beetle,lamellicorn kever,42
-yellow-fever mosquito,gele koorts mug,42
-homopterous insect,homopterous insect,42
-orange tortrix,oranje schildpad,42
-Gelechia gossypiella,Gelechia gossypiella,42
-Mexican bean beetle,Mexicaanse bonenkever,43
-jumping bristletail,springende borstelstaart,43
-Spodoptera frugiperda,Spodoptera frugiperda,43
-common booklouse,gewone boekenluis,43
-Polistes annularis,Polistes annularis,43
-Mastotermes darwiniensis,Mastotermes darwiniensis,43
-Paleacrita vernata,Paleacrita vernata,43
+powder-post termite,poeder-post termiet,41
+red-spotted purple,rood-gevlekt paars,41
+long-horned grasshopper,langhoornige sprinkhaan,41
+hymenopterous insect,hymenopterous insect,42
+jumping bristletail,springende borstelstaart,42
+Hippodamia convergens,Hippodamia convergeert,42
+Saratoga spittlebug,Saratoga spittlebug,42
+thysanuran insect,thysanuran insect,42
+Alsophila pometaria,Alsophila pometaria,42
+Spodoptera exigua,Spodoptera exigua,42
+Asian tiger mosquito,Aziatische tijgermug,42
+Paleacrita vernata,Paleacrita vernata,42
+slave-making ant,slavenmakende mier,42
 angoumois moth,angoumois nachtvlinder,43
-powder-post termite,poeder-post termiet,43
+casemaking clothes moth,casemaking kleding mot,43
+dry-wood termite,droog hout termiet,43
+sweet-potato whitefly,zoete aardappel witte vlieg,43
+long-horned beetle,langhoornige kever,43
+two-spotted ladybug,tweestippelig lieveheersbeestje,43
+Culex quinquefasciatus,Culex quinquefasciatus,43
 Mediterranean fruit fly,Mediterrane fruitvlieg,43
-dipterous insect,tweekleppig insect,44
-hymenopterous insect,hymenopterous insect,44
-Mastotermes electrodominicus,Mastotermes electrodominicus,44
+Loxostege similalis,Loxostege similalis,43
+Mastotermes electrodominicus,Mastotermes electrodominicus,43
 psocopterous insect,psocopterous insect,44
-sweet-potato whitefly,zoete aardappel witte vlieg,44
-European house cricket,Europese huiscricket,44
-lepidopterous insect,lepidopterous insect,44
-dictyopterous insect,dictyopterous insect,44
-two-spotted ladybug,tweestippelig lieveheersbeestje,44
-casemaking clothes moth,casemaking kleding mot,44
-long-horned grasshopper,langhoornige sprinkhaan,45
-four-lined plant bug,vierlijnige plantenwants,45
-seventeen-year locust,zeventienjarige sprinkhaan,45
-Reticulitermes lucifugus,Reticulitermes lucifugus,45
+pine spittlebug,pijnboom spittlebug,44
+American cockroach,Amerikaanse kakkerlak,44
+Reticulitermes lucifugus,Reticulitermes lucifugus,44
+common European earwig,gewone Europese oorworm,44
+Manduca quinquemaculata,Manduca quinquemaculata,44

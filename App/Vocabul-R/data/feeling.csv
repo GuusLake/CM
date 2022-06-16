@@ -1,0 +1,425 @@
+EngWord,NldWord,Group
+fit,fit,0
+sex,seks,0
+wish,wens,0
+pain,pijn,0
+hope,hoop,0
+soul,ziel,0
+thing,ding,0
+state,staat,0
+concern,zorg,0
+desire,wens,0
+bang,knal,1
+peace,vrede,1
+fear,angst,1
+regard,groet,1
+stomach,maag,1
+love,liefde,1
+pride,trots,1
+wound,wond,1
+favor,gunst,1
+alarm,alarm,1
+anger,woede,2
+happiness,geluk,2
+grief,rouw,2
+complex,complex,2
+distance,afstand,2
+ego,ego,2
+comfort,comfort,2
+fetish,fetisj,2
+weight,gewicht,2
+appetite,trek,2
+glow,gloed,3
+urge,drang,3
+panic,paniek,3
+enjoyment,genot,3
+fever,koorts,3
+passion,passie,3
+withdrawal,opname,3
+triumph,triomf,3
+suffering,lijden,3
+fury,woede,3
+sorrow,leed,4
+distress,angst,4
+stir,roeren,4
+emotion,emotie,4
+attachment,bijlage,4
+shadow,schaduw,4
+pet,huisdier,4
+joy,vreugde,4
+wrath,toorn,4
+conflict,conflict,4
+guilt,schuld,5
+sensation,gevoel,5
+agony,nood,5
+woe,wee,5
+preference,voorkeur,5
+awe,ontzag,5
+pleasure,genoegen,5
+delight,vreugde,5
+nirvana,nirvana,5
+good will,goede wil,5
+conscience,geweten,6
+isolation,isolatie,6
+insight,in zicht,6
+angst,angst,6
+shame,schaamte,6
+caprice,gril,6
+zeal,ijver,6
+resignation,ontslag,6
+dislike,afkeer,6
+chill,chillen,6
+pang,pang,7
+grudge,wrok,7
+misery,ellende,7
+security,veiligheid,7
+ecstasy,extase,7
+ambition,ambitie,7
+depression,depressie,7
+mourning,rouwen,7
+unrest,onrust,7
+despair,wanhoop,7
+discomfort,ongemak,8
+leaning,leunend,8
+suspense,spanning,8
+weakness,zwakheid,8
+dolor,dolor,8
+pique,piqué,8
+libido,libido,8
+sinking,zinkend,8
+agape,agape,8
+feelings,gevoelens,8
+repentance,berouw,9
+consolation,troost,9
+buck fever,bokkoorts,9
+surprise,verrassing,9
+inclination,neiging,9
+sweet tooth,zoetekauw,9
+worship,aanbidding,9
+calmness,rust,9
+approval,goedkeuring,9
+relief,Verlichting,9
+soft spot,zachte plek,10
+confidence,vertrouwen,10
+resentment,rancune,10
+aggression,agressie,10
+emulation,emulatie,10
+affect,beïnvloeden,10
+wonder,vraag me af,10
+sympathy,sympathie,10
+coolness,koelte,10
+creeps,kruipt,10
+tranquillity,kalmte,11
+envy,jaloezie,11
+gusto,zin in,11
+affection,affectie,11
+gold fever,goudkoorts,11
+amusement,amusement,11
+easiness,gemak,11
+addiction,verslaving,11
+apathy,apathie,11
+radiance,straling,11
+good humor,goede humor,12
+compassion,medeleven,12
+daze,versuft,12
+disgust,walging,12
+euphoria,euforie,12
+sadism,sadisme,12
+growing pains,groeipijn,12
+earnestness,ernst,12
+jealousy,jaloezie,12
+penis envy,penisnijd,12
+loyalty,loyaliteit,13
+sentiment,sentiment,13
+cruelty,wreedheid,13
+agitation,agitatie,13
+annoyance,ergernis,13
+empathy,empathie,13
+attrition,slijtage,13
+tumult,tumult,13
+nostalgia,nostalgie,13
+hopefulness,hoop,13
+sadness,droefheid,14
+cynicism,cynisme,14
+cold feet,koude voeten,14
+civic pride,burgertrots,14
+tenderness,tederheid,14
+cold comfort,koude troost,14
+optimism,optimisme,14
+confusion,verwardheid,14
+unhappiness,ongeluk,14
+boredom,verveling,14
+fulfillment,vervulling,15
+craving,verlangen,15
+hysteria,hysterie,15
+satisfaction,tevredenheid,15
+longing,verlangen,15
+frustration,frustratie,15
+temptation,verleiding,15
+blahs,blabla,15
+broken heart,gebroken hart,15
+stewing,stoven,15
+sulk,mokken,16
+impatience,ongeduld,16
+anxiety,ongerustheid,16
+sensitivity,gevoeligheid,16
+chagrin,verdriet,16
+belonging,erbij horen,16
+devotion,toewijding,16
+expectation,verwachting,16
+dignity,waardigheid,16
+harassment,Intimidatie,16
+contempt,minachting,17
+disapproval,afkeuring,17
+willies,willies,17
+heaviness,zwaarte,17
+the hots,de hots,17
+puppy love,kalverliefde,17
+homesickness,heimwee,17
+class feeling,klasse gevoel,17
+astonishment,verbazing,17
+horror,verschrikking,17
+closeness,nabijheid,18
+wishfulness,wens,18
+ill humor,slecht humeur,18
+forgiveness,vergiffenis,18
+afterglow,nagloeien,18
+repugnance,afkeer,18
+bonheur,bonheur,18
+peeve,ergernis,18
+fatigue,vermoeidheid,18
+abhorrence,afschuw,18
+electricity,elektriciteit,19
+disinclination,afkeer,19
+anticipation,anticipatie,19
+wildness,wildheid,19
+enthusiasm,enthousiasme,19
+sexual pleasure,seksueel genot,19
+placidity,kalmte,19
+anguish,doodsangst,19
+liking,leuk vinden,19
+trepidation,opwinding,19
+tsoris,tsori,20
+gloom,somberheid,20
+temper,woedeaanval,20
+gravity,zwaartekracht,20
+humility,nederigheid,20
+insecurity,onzekerheid,20
+admiration,bewondering,20
+encouragement,aanmoediging,20
+hero worship,heldenverering,20
+dudgeon,dudgeon,20
+intimidation,intimidatie,21
+heartstrings,hartzeer,21
+quality of life,kwaliteit van het leven,21
+frisson,frisson,21
+swivet,swivet,21
+covetousness,hebzucht,21
+exhilaration,opwinding,21
+masochism,masochisme,21
+prurience,wellust,21
+eagerness,gretigheid,21
+melancholy,melancholie,22
+foreboding,voorteken,22
+presage,voorteken,22
+umbrage,aanstoot,22
+compunction,wroeging,22
+wistfulness,weemoed,22
+displeasure,ongenoegen,22
+languor,loomheid,22
+compatibility,compatibiliteit,22
+brotherhood,broederschap,22
+diffidence,schroom,23
+acquired taste,verworven smaak,23
+throes,worsteling,23
+gloat,glunderen,23
+dysphoria,dysforie,23
+devastation,verwoesting,23
+gratitude,dankbaarheid,23
+hostility,vijandigheid,23
+sexual desire,seksueel verlangen,23
+pessimism,pessimisme,23
+hate,een hekel hebben aan,24
+infuriation,woede,24
+emotional state,emotionele staat,24
+nationalism,nationalisme,24
+gladness,blijdschap,24
+fidget,friemelen,24
+hilarity,hilariteit,24
+mawkishness,waanzin,24
+worry,zich zorgen maken,24
+scruple,scrupules,24
+nausea,misselijkheid,25
+captivation,bekoring,25
+embarrassment,verlegenheid,25
+gratification,bevrediging,25
+sensibility,gevoeligheid,25
+scunner,walgen,25
+bad temper,slecht humeur,25
+comfortableness,comfort,25
+aphrodisia,afrodisia,25
+velleity,velleity,25
+alienation,vervreemding,26
+apprehension,gevangenname,26
+disappointment,teleurstelling,26
+oppression,onderdrukking,26
+mellowness,zachtheid,26
+hesitance,aarzeling,26
+ardor,hartstocht,26
+approbation,goedkeuring,26
+guilt pang,schuldgevoel,26
+razbliuto,razbliuto,26
+silver lining,zilveren omlijning,27
+lividity,bleekheid,27
+intoxication,dronkenschap,27
+antagonism,antagonisme,27
+fondness,genegenheid,27
+aggravation,verergering,27
+undertow,onderstroom,27
+scare,laten schrikken,27
+antipathy,antipathie,27
+belligerence,strijdlust,27
+sensuality,sensualiteit,28
+heartburning,ergernis,28
+gaiety,vrolijkheid,28
+warpath,oorlogspad,28
+survivor guilt,schuld van de overlevende,28
+titillation,prikkeling,28
+defeatism,defaitisme,28
+hopelessness,hopeloosheid,28
+animosity,vijandigheid,28
+misogyny,vrouwenhaat,28
+stage fright,plankenkoorts,29
+discomfiture,ongenoegen,29
+contentment,tevredenheid,29
+vindictiveness,wraakzucht,29
+conditioned emotional response,geconditioneerde emotionele reactie,29
+misopedia,misopedia,29
+malice,boosaardigheid,29
+plaintiveness,klaagzang,29
+shyness,verlegenheid,29
+testiness,testiness,29
+misanthropy,misantropie,30
+ambivalence,ambivalentie,30
+dissatisfaction,ontevredenheid,30
+commiseration,medelijden,30
+buoyancy,drijfvermogen,30
+exuberance,uitbundigheid,30
+nymphomania,nymfomanie,30
+solicitude,bezorgdheid,30
+timidity,verlegenheid,30
+murderousness,moordzucht,30
+misology,misologie,31
+beneficence,weldadigheid,31
+faintness,flauwvallen,31
+discouragement,ontmoediging,31
+philogyny,filologie,31
+helplessness,hulpeloosheid,31
+joie de vivre,levensvreugde,31
+elation,opgetogenheid,31
+friendliness,vriendelijkheid,31
+Anglophilia,Anglofilie,31
+indifference,onverschilligheid,32
+mysophilia,mysofilie,32
+infatuation,uitzinnigheid,32
+rejoicing,zich verheugen,32
+moodiness,humeurigheid,32
+cheerfulness,opgewektheid,32
+algolagnia,algolagnie,32
+mental anguish,geestelijke angst,32
+benevolence,welwillendheid,32
+amour propre,amour propre,32
+technophobia,technofobie,33
+jollity,vrolijkheid,33
+dolefulness,somberheid,33
+technophilia,technofilie,33
+protectiveness,bescherming,33
+irritability,prikkelbaarheid,33
+moroseness,somberheid,33
+poignance,ontroering,33
+togetherness,saamhorigheid,33
+mournfulness,droefheid,33
+pining,smachten naar,34
+disgruntlement,ongenoegen,34
+Anglophobia,Anglofobie,34
+dander,huidschilfers,34
+indignation,verontwaardiging,34
+gratefulness,dankbaarheid,34
+despisal,verachting,34
+despondency,moedeloosheid,34
+hankering,hunkeren naar,34
+satyriasis,satyriasis,34
+complacency,zelfgenoegzaamheid,35
+embitterment,verbittering,35
+misoneism,misoneïsme,35
+sadomasochism,sadomasochisme,35
+amicability,vriendschap,35
+misocainea,misocainea,35
+jocundity,vrolijkheid,35
+exultation,opgetogenheid,35
+ingratitude,ondankbaarheid,35
+sanguinity,bloedarmoede,35
+demoralization,demoralisatie,36
+sulkiness,chagrijnig,36
+anaphrodisia,anafrodisia,36
+forlornness,verlatenheid,36
+pleasantness,aangenaamheid,36
+levity,lichtzinnigheid,36
+sensuousness,zinnelijkheid,36
+blessedness,gelukzaligheid,36
+heartlessness,harteloosheid,36
+inferiority complex,minderwaardigheidscomplex,36
+sentimentality,sentimentaliteit,37
+self-disgust,zelfafschuw,37
+meekness,zachtmoedigheid,37
+filial love,kinderlijke liefde,37
+fearlessness,onbevreesdheid,37
+self-torture,zelfkwelling,37
+Schadenfreude,Schadenfreude,37
+warmheartedness,hartelijkheid,37
+bloodlust,bloeddorstigheid,37
+unconcern,onbezorgdheid,37
+unpleasantness,onaangenaamheid,38
+world-weariness,wereldmoeheid,38
+amorousness,verliefdheid,38
+stupefaction,verbijstering,38
+malevolence,kwaadaardigheid,38
+carefreeness,zorgeloosheid,38
+smugness,zelfvoldaanheid,38
+pensiveness,nadenkendheid,38
+weepiness,huilerigheid,38
+unassertiveness,assertiviteit,38
+lovingness,liefdevolheid,39
+anxiousness,angstgevoelens,39
+lecherousness,wellustigheid,39
+discontentment,ontevredenheid,39
+abashment,verlegenheid,39
+edginess,scherpzinnigheid,39
+self-esteem,zelfvertrouwen,39
+philhellenism,philhellenisme,39
+heavyheartedness,zwaarmoedigheid,39
+shamefacedness,beschaamdheid,39
+kindheartedness,goedhartigheid,40
+jitteriness,zenuwachtigheid,40
+self-consciousness,zelfbewustzijn,40
+self-pity,zelfmedelijden,40
+unfriendliness,onvriendelijkheid,40
+joylessness,vreugdeloosheid,40
+mercifulness,barmhartigheid,40
+emotionlessness,emotieloosheid,40
+maleficence,kwaadaardigheid,40
+entrancement,in vervoering,40
+downheartedness,neerslachtigheid,41
+irascibility,opvliegendheid,41
+oversensitiveness,overgevoeligheid,41
+American Dream,Amerikaanse droom,41
+Electra complex,Electra-complex,41
+huffiness,luchthartigheid,41
+softheartedness,zachtmoedigheid,41
+cheerlessness,ongezelligheid,41
+self-depreciation,zelfwaardering,41
+Oedipus complex,Oedipus complex,41
+storminess,stormachtigheid,42
+lovesickness,liefdesverdriet,42
+creepy-crawlies,griezelige kruipers,42
+misogamy,afschuw van huwelijk,42

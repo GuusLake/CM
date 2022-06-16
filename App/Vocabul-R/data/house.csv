@@ -1,60 +1,55 @@
 EngWord,NldWord,Group
 villa,villa,0
-villa,villa,0
-villa,villa,0
 lodge,logeren,0
-lodge,logeren,0
-abbey,abdij,0
 palace,paleis,0
-palace,paleis,0
-country house,landhuis,0
 cabin,cabine,0
-abbey,abdij,1
-log cabin,blokhut,1
+abbey,abdij,0
+country house,landhuis,0
+court,rechtbank,0
+log cabin,blokhut,0
+summer house,zomerhuis,0
+chalet,chalet,0
 boarding house,pension,1
-court,rechtbank,1
-chalet,chalet,1
-summer house,zomerhuis,1
 chateau,kasteel,1
 beach house,strandhuis,1
+monastery,klooster,1
 solar house,zonne huis,1
+bungalow,bungalow,1
+manor,landhuis,1
 shooting lodge,schiethut,1
-residence,residentie,2
-manor,landhuis,2
-safe house,veilig huis,2
-row house,rijtjeshuis,2
-bungalow,bungalow,2
+residence,residentie,1
+guesthouse,Gasthuis,1
 priory,priorij,2
-monastery,klooster,2
-guesthouse,Gasthuis,2
+row house,rijtjeshuis,2
 lodging house,logeerhuis,2
+safe house,veilig huis,2
+hacienda,hacienda,2
+alcazar,alcázar,2
 mansion,herenhuis,2
-hacienda,hacienda,3
-dacha,datsja,3
+ranch house,ranch huis,2
+dacha,datsja,2
+convent,klooster,2
 bed and breakfast,bed and breakfast,3
-ranch house,ranch huis,3
-parsonage,pastorie,3
-convent,klooster,3
-alcazar,alcázar,3
 farmhouse,boerderij,3
+parsonage,pastorie,3
 deanery,decanaat,3
+saltbox,zoutbak,3
 religious residence,religieuze woonplaats,3
-saltbox,zoutbak,4
-manse,pastorie,4
-tract house,traktaat huis,4
-friary,klooster,4
-glebe house,glebe huis,4
-brownstone,bruinsteen,4
-stately home,statig huis,4
+friary,klooster,3
+manse,pastorie,3
+tract house,traktaat huis,3
+stately home,statig huis,3
 dollhouse,poppenhuis,4
+brownstone,bruinsteen,4
+glebe house,glebe huis,4
 detached house,Vrijstaand huis,4
 duplex house,twee onder een kap,4
-lamasery,lamasery,5
-terraced house,rijtjeshuis,5
-flophouse,flophouse,5
-sod house,graszoden huis,5
-gatehouse,poortgebouw,5
-charterhouse,charterhuis,5
+lamasery,lamasery,4
+terraced house,rijtjeshuis,4
+flophouse,flophouse,4
+sod house,graszoden huis,4
+gatehouse,poortgebouw,4
 maisonette,maisonnette,5
+charterhouse,charterhuis,5
 nunnery,nonnenklooster,5
 chapterhouse,kapittelzaal,5

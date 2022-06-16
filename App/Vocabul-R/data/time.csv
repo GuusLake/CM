@@ -1,85 +1,16 @@
 EngWord,NldWord,Group
-now,nu,0
-date,datum,0
-old,oud,0
-in time,op tijd,0
-today,vandaag,0
-present,Cadeau,0
-tomorrow,morgen,0
-rhythm,ritme,0
-future,toekomst,0
-ice age,ijstijd,0
-tempo,tempo,1
-yesterday,gisteren,1
-past,Verleden,1
-period,punt uit,1
-tonight,vanavond,1
-here and now,hier en nu,1
-duration,looptijd,1
-eon,eon,1
-era,tijdperk,1
-allegro,allegro,1
-common time,gewone tijd,2
-equinox,equinox,2
-upbeat,vrolijk,2
-history,geschiedenis,2
-history,geschiedenis,2
-yore,weleer,2
-epoch,tijdperk,2
-continuum,continuüm,2
-menopause,menopauze,2
-andante,andante,2
-musical time,muzikale tijd,3
-manana,manana,3
-eternity,eeuwigheid,3
-downbeat,downbeat,3
-rubato,rubato,3
-solstice,zonnewende,3
-syncopation,syncope,3
-kingdom come,Koninkrijk kome,3
-Noruz,Noruz,3
-transmission time,overdrachtstijd,3
-civil time,burgerlijke tijd,4
-time being,voor zolang het duurt,4
-bygone,vervlogen,4
-offing,offensief,4
-alpha and omega,Alpha en Omega,4
-cosmic time,kosmische tijd,4
-allegretto,allegretto,4
-biological time,biologische tijd,4
-backbeat,terugslag,4
-gestation,zwangerschap,4
-triple time,drievoudige tijd,5
-geological time,geologische tijd,5
-vernal equinox,lente-equinox,5
-meno mosso,meno mosso,5
-sidereal hour,sterren uur,5
-sidereal time,sterrentijd,5
-summer solstice,zomerzonnewende,5
-daylight-saving time,zomertijd,5
-coordinated universal time,gecoördineerde universele tijd,5
-Mountain Time,Berg tijd,5
-autumnal equinox,herfst-equinox,6
-spacecraft event time,ruimtevaartuig evenement tijd,6
-winter solstice,winterzonnewende,6
-sidereal day,siderische dag,6
-duple time,dubbele tijd,6
-accelerando,accelerando,6
-sidereal year,siderisch jaar,6
-refractory period,refractaire periode,6
-Bering Time,Beringtijd,6
-circadian rhythm,circadiaans ritme,6
-by-and-by,door-en-door,7
-Hawaii Time,Hawaï-tijd,7
-climacteric,climacterisch,7
-Eastern Time,Oosterse tijd,7
-sidereal month,siderische maand,7
-time immemorial,onheuglijke tijden,7
-Pacific Time,Pacific tijd,7
-Central Time,Centrale Tijd,7
-auld langsyne,auld lang syne,7
-Atlantic Time,Atlantische Tijd,7
-allegro con spirito,allegro con spirito,8
-Alaska Standard Time,Alaska standaardtijd,8
-Greenwich Mean Time,Greenwich Mean Time,8
-Earth-received time,Op aarde ontvangen tijd,8
+day,dag,0
+dead,dood,0
+while,terwijl,0
+moment,moment,0
+wee,wee,0
+snap,snap,0
+blink of an eye,oogwenk,0
+space age,ruimtetijdperk,0
+hard times,moeilijke tijden,0
+hot spell,hete spreuk,0
+cold spell,koude periode,1
+incarnation,incarnatie,1
+off-day,vrije dag,1
+ephemera,kortstondig,1
+Judgment Day,Dag des oordeels,1

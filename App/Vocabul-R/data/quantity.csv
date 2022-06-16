@@ -1,45 +1,2122 @@
 EngWord,NldWord,Group
-value,waarde,0
-product,Product,0
-term,termijn,0
-double,dubbele,0
-vote,stemmen,0
-zero,nul,0
-factor,factor,0
-multiple,meerdere,0
-sum,som,0
-argument,argument,0
-average,gemiddeld,1
-argument,argument,1
-vector,vector,1
-grand total,eindtotaal,1
-quantum,quantum,1
-scale value,schaalwaarde,1
-variable,variabele,1
-tensor,tensor,1
-constant,constante,1
-parameter,parameter,1
-scalar,scalair,2
-vector sum,vectorsom,2
-parameter,parameter,2
-degree of freedom,graad van vrijheid,2
-degree of freedom,graad van vrijheid,2
-operand,operand,2
-subtotal,subtotaal,2
-lowest common multiple,kleinste gemene veelvoud,2
-vector product,vectorproduct,2
-correlate,correlaat,2
-binomial,binomiaal,3
-independent variable,onafhankelijke variabele,3
-random variable,willekeurige variabele,3
-radius vector,straal vector,3
-radius vector,straal vector,3
-triple,verdrievoudigen,3
-proportional,proportioneel,3
-factorial,faculteit,3
-dependent variable,afhankelijke variabele,3
-eigenvalue,eigenwaarde,3
-numerical quantity,numerieke hoeveelheid,4
-predictor variable,voorspellervariabele,4
-infinitesimal,oneindig klein,4
-quadruple,verviervoudigen,4
+e,e,0
+g,g,0
+at,Bij,0
+one,een,0
+then,dan,0
+day,dag,0
+can,kan,0
+hours,uur,0
+set,set,0
+en,en,0
+are,zijn,1
+time,tijd,1
+year,jaar,1
+hour,uur,1
+six,zes,1
+two,twee,1
+go,Gaan,1
+bar,bar,1
+three,drie,1
+times,keer,1
+real,echt,2
+money,geld,2
+game,spel,2
+fall,val,2
+point,punt,2
+box,doos,2
+death,dood,2
+much,veel,2
+week,week,2
+step,stap,2
+bin,bin,3
+four,vier,3
+five,vijf,3
+glass,glas,3
+degree,rang,3
+hand,hand,3
+lead,lood,3
+deep,diep,3
+bag,tas,3
+century,eeuw,3
+cool,koel,4
+ten,tien,4
+block,blok,4
+dead,dood,4
+em,em,4
+jack,jack,4
+piece,deel,4
+basket,mand,4
+first,eerst,4
+couple,stel,4
+life,leven,5
+date,datum,5
+days,dagen,5
+night,nacht,5
+bath,bad,5
+month,maand,5
+case,geval,5
+zero,nul,5
+end,einde,5
+head,hoofd,5
+region,regio,6
+last,laatst,6
+number,nummer,6
+foot,voet,6
+little,klein,6
+word,woord,6
+eight,acht,6
+school,school,6
+phase,fase,6
+hole,gat,6
+palm,palm,7
+love,liefde,7
+inch,inch,7
+section,sectie,7
+league,liga,7
+mesh,mesh,7
+bell,klok,7
+euro,euro,7
+plate,bord,7
+nothing,niets,7
+value,waarde,8
+cable,kabel,8
+cent,cent,8
+fund,fonds,8
+print run,oplage,8
+run,rennen,8
+spring,lente,8
+li,li,8
+enough,genoeg,8
+bit,beetje,8
+round,ronde,9
+spot,plek,9
+summer,zomer,9
+load,laden,9
+youth,jeugd,9
+beginning,begin,9
+rule,regel,9
+mile,mijl,9
+par,par,9
+length,lengte,9
+score,scoren,10
+worth,waard,10
+tank,tank,10
+pi,pi,10
+gamma,gamma,10
+volume,volume,10
+deposit,borg,10
+evening,avond,10
+risk,risico,10
+flower,bloem,10
+seven,zeven,11
+cup,beker,11
+pot,pot,11
+gross,goor,11
+breast,borst,11
+count,graaf,11
+anna,Anna,11
+yard,tuin,11
+para,para,11
+bottle,fles,11
+cycle,fiets,12
+sleep,slaap,12
+mercury,kwik,12
+henry,Henry,12
+nine,negen,12
+tons,ton,12
+stone,steen,12
+meter,meter,12
+name day,naamdag,12
+gray,grijs,12
+metric ton,ton,13
+winter,winter,13
+pound,pond,13
+sector,sector,13
+root,wortel,13
+scale,schaal,13
+jar,kan,13
+eleven,elf,13
+key,sleutel,13
+yen,yen,13
+minute,minuut,14
+today,vandaag,14
+float,vlot,14
+duck,eend,14
+body,lichaam,14
+trick,truc,14
+volt,volt,14
+snap,snap,14
+watt,watt,14
+span,span,14
+byte,byte,15
+nose,neus,15
+while,terwijl,15
+taste,smaak,15
+set point,setpunt,15
+sen,sen,15
+lease,huren,15
+million,miljoen,15
+childhood,jeugd,15
+leu,leu,15
+field day,velddag,16
+mug,mok,16
+breath,adem,16
+copper,koper,16
+crown,kroon,16
+term,termijn,16
+point after,punt na,16
+coin,munt,16
+second,seconde,16
+mate,maat,16
+period,periode,17
+dose,dosis,17
+trace,spoor,17
+gal,gal,17
+fill,vullen,17
+tot,tot,17
+cord,koord,17
+lea,lea,17
+dollar,dollar,17
+weight,gewicht,17
+penny,cent,18
+record,dossier,18
+window,venster,18
+candle,kaars,18
+ounce,ons,18
+base,baseren,18
+factor,factor,18
+grave,graf,18
+mass,massa-,18
+watch,horloge,18
+acre,acre,19
+wee,wee,19
+rand,rand,19
+barrel,loop,19
+premium,premie,19
+season,seizoen,19
+travel time,reistijd,19
+rad,rad,19
+change,Wijzigen,19
+harvest,oogst,19
+moment,moment,20
+nail,nagel,20
+teens,tieners,20
+ocean,oceaan,20
+tender,teder,20
+man hour,man uur,20
+mil,mili,20
+work time,werktijd,20
+helping,helpen,20
+middle,midden-,20
+age,leeftijd,21
+sack,zak,21
+remainder,rest,21
+norm,norm,21
+troy,troje,21
+maximum,maximum,21
+cradle,wieg,21
+kos,kos,21
+supply,levering,21
+gram,gram,21
+cube,kubus,22
+rag,vod,22
+spark,vonk,22
+distance,afstand,22
+flash point,vlampunt,22
+fifth,vijfde,22
+ohm,ohm,22
+output,uitvoer,22
+off year,vrij jaar,22
+show time,show Time,22
+tide,getij,23
+rest day,rustdag,23
+finger,vinger,23
+vac,leeg,23
+lev,lev,23
+degree day,graaddag,23
+day off,vrije dag,23
+morning,ochtend,23
+bout,bout,23
+minimum,minimum,23
+guinea,Guinea,24
+past,Verleden,24
+bank holiday,feestdag,24
+tomorrow,morgen,24
+catch,vangst,24
+bowl,schaal,24
+tear,traan,24
+leone,leone,24
+scoop,lepel,24
+link,koppeling,24
+bill,rekening,25
+franc,frank,25
+som,zo'n,25
+holiday,vakantie,25
+grain,korrel,25
+weber,weber,25
+pause,pauze,25
+market day,markt dag,25
+hin,hoi,25
+afternoon,middag,25
+wedding day,trouwdag,26
+vacation,vakantie,26
+dol,dol,26
+bucket,emmer,26
+thirty,dertig,26
+pocket money,zakgeld,26
+ore,erts,26
+school day,schooldag,26
+dong,dong,26
+chain,ketting,26
+newton,newton,27
+stretch,rekken,27
+radius,straal,27
+tod,tod,27
+chapter,hoofdstuk,27
+kip,kip,27
+spoon,lepel,27
+weekend,weekend,27
+sou,sou,27
+twelve,twaalf,27
+drop,druppel,28
+gill,kieuw,28
+annum,jaar,28
+sop,sop,28
+basin,bassin,28
+fast day,vastendag,28
+yuan,yuan,28
+mark,markering,28
+chunk,brok,28
+nit,nee,28
+light year,lichtjaar,29
+crate,krat,29
+square,vierkant,29
+batch,partij,29
+nip,kneep,29
+digit,cijfer,29
+flask,kolf,29
+drink,drankje,29
+lux,luxe,29
+lek,lek,29
+billion,miljard,30
+nickel,nikkel,30
+deficit,tekort,30
+liter,liter,30
+eon,eon,30
+barrels,vaten,30
+barn,schuur,30
+population,bevolking,30
+pint,pint,30
+kettle,ketel,30
+halftime,rust,31
+baht,baht,31
+dram,dram,31
+festival,festival,31
+lira,lire,31
+dish,gerecht,31
+zaire,zaïre,31
+sea mile,zeemijl,31
+erg,erg,31
+quart,kwart,31
+body count,dodental,32
+light hour,licht uur,32
+dab,schar,32
+information,informatie,32
+budget,begroting,32
+real time,echte tijd,32
+free time,vrije tijd,32
+baud,baud,32
+pul,pul,32
+chaser,jager,32
+twenty,twintig,33
+jug,kruik,33
+match,wedstrijd,33
+wing,vleugel,33
+yesterday,gisteren,33
+school year,schooljaar,33
+riel,riel,33
+match point,matchpunt,33
+hundred,honderd,33
+gallon,gallon,33
+cask,vat,34
+birth,geboorte,34
+sixty,zestig,34
+eagle,adelaar,34
+touch,aanraken,34
+cgs,cgs,34
+taka,taka,34
+bulk,massaal,34
+hao,haha,34
+tala,tala,34
+time slot,tijdslot,35
+quarter,kwartaal,35
+thousand,duizend,35
+sterling,sterling,35
+sent,verzonden,35
+avo,avo,35
+pula,pula,35
+spray,sprayen,35
+tesla,tesla,35
+oka,oke,35
+ligne,ligne,36
+ream,riem,36
+time off,vrije tijd,36
+ides,ides,36
+koruna,kroon,36
+lats,lats,36
+perch,baars,36
+prohibition,verbod,36
+quarter day,kwart dag,36
+long time,lange tijd,36
+carat,karaat,37
+advantage,voordeel,37
+split,splitsen,37
+gilbert,gilbert,37
+school term,schooljaar,37
+pascal,pascal,37
+quota,quotum,37
+skeleton,skelet,37
+warmth,warmte,37
+wedding anniversary,trouwdag,37
+quantum,quantum,38
+kina,kin,38
+standard,standaard-,38
+loti,loti,38
+threshold,drempel,38
+kyat,kyat,38
+pitcher,werper,38
+birr,birr,38
+duration,looptijd,38
+power unit,krachtbron,38
+morrow,morgen,39
+vara,vara,39
+cubit,el,39
+addition,toevoeging,39
+crore,crore,39
+meal,maaltijd,39
+paper money,papiergeld,39
+balance,evenwicht,39
+dimension,dimensie,39
+shiva,shiva,39
+picking,plukken,40
+morsel,hap,40
+leave,vertrekken,40
+anal stage,anale fase,40
+craps,rotzooi,40
+deadline,deadline,40
+era,tijdperk,40
+shovel,Schep,40
+oyster,oester,40
+moiety,deel,40
+inti,inti,41
+bloom,bloeien,41
+blink of an eye,oogwenk,41
+cedi,cedi,41
+constant,constante,41
+phot,foto,41
+snuff,snuif,41
+common year,gewoon jaar,41
+semester,semester,41
+chill,chillen,41
+real number,echt nummer,42
+medium of exchange,ruilmiddel,42
+dead air,dode lucht,42
+agora,agora,42
+gauss,gauss,42
+filler,vuller,42
+diameter,diameter,42
+calendar day,kalenderdag,42
+capacity,capaciteit,42
+mass number,massagetal,42
+breakage,breuk,43
+dyne,dyne,43
+octave,octaaf,43
+tub,badkuip,43
+generation,generatie,43
+rest mass,rust massa,43
+lumen,lumen,43
+cran,cran,43
+homer,Homerus,43
+fillet,filet,43
+time scale,tijdschaal,44
+fishing season,visseizoen,44
+index fund,indexfonds,44
+board foot,boord voet,44
+micron,micron,44
+mho,mho,44
+zloty,zloty,44
+forty,veertig,44
+fifty,vijftig,44
+work unit,werkeenheid,44
+fraction,fractie,45
+chew,kauwen,45
+peck,pikken,45
+climax,climax,45
+maxwell,maxwell,45
+pya,pya,45
+carton,karton,45
+torr,torr,45
+kroon,kroon,45
+iron age,ijzertijd,45
+curie,curie,46
+tad,beetje,46
+swallow,slikken,46
+denominator,noemer,46
+day shift,dagdienst,46
+drought,droogte,46
+uptime,uptime,46
+kelvin,Kelvin,46
+oral stage,orale fase,46
+blood count,bloedbeeld,46
+sucre,sucre,47
+pail,emmer,47
+thirteen,dertien,47
+therm,therm,47
+reign,bestuur,47
+handful,handvol,47
+solar year,zonnejaar,47
+prime,priemgetal,47
+chon,chon,47
+sixteen,zestien,47
+study hall,studiezaal,48
+guest night,gast nacht,48
+conto,conto,48
+litas,litas,48
+dobra,dobra,48
+cicero,Cicero,48
+fen,moeras,48
+limit,begrenzing,48
+reserve,reserveren,48
+prime number,priemgetal,48
+karat,karaat,49
+tenge,tenge,49
+balboa,balboa,49
+paisa,paisa,49
+trust fund,Trustfonds,49
+mean time,ondertussen,49
+air alert,luchtalarm,49
+boyhood,jeugd,49
+column inch,kolom inch,49
+board measure,boordmaat:,49
+long measure,lange maat,50
+circumference,omtrek,50
+summer school,zomerschool,50
+year dot,jaar punt,50
+seek time,zoek tijd,50
+divisor,deler,50
+gigabit,gigabit,50
+sabin,sabin,50
+high season,hoogseizoen,50
+extension,verlenging,50
+lari,lari,51
+checkout,uitchecken,51
+tanga,tanga,51
+bogey,bogey,51
+feria,feria,51
+occupation,bezigheid,51
+joule,joule,51
+coldness,koude,51
+mongo,mongo,51
+rubel,rubel,51
+shekel,sikkel,52
+naira,naira,52
+ephah,epha,52
+proof,een bewijs,52
+penni,cent,52
+miler,miler,52
+pass,slagen voor,52
+acid value,zuurwaarde,52
+sone,sone,52
+jiao,jiao,52
+leisure,vrije tijd,53
+full moon,volle maan,53
+frequency,frequentie,53
+pressure unit,drukeenheid,53
+bad block,slecht blok,53
+birthday,verjaardag,53
+access time,toegangstijd,53
+nihil,nihil,53
+charge unit,laadeenheid,53
+quarter mile,kwart mijl,53
+nautical mile,zeemijl,54
+half mile,halve mijl,54
+radical,radicaal,54
+solar month,zonnemaand,54
+kobo,kobo,54
+delay,vertraging,54
+lambert,lambert,54
+bronze age,bronstijd,54
+calorie,calorie,54
+tael,tael,54
+sene,sene,55
+eighty,tachtig,55
+currency,munteenheid,55
+terminal leave,eindverlof,55
+fat chance,weinig kans,55
+asper,vanaf,55
+guilder,gulden,55
+prime factor,priemfactor,55
+running time,lopende tijd,55
+farad,farad,55
+great year,geweldig jaar,56
+time period,tijdsperiode,56
+time frame,tijdsspanne,56
+ban,verbannen,56
+payday,betaaldag,56
+light unit,lichteenheid,56
+shore leave,walverlof,56
+langley,langley,56
+precipitation,neerslag,56
+lwei,lwei,56
+time limit,tijdslimiet,57
+face time,gezichtstijd,57
+partition,partitie,57
+half pound,Half pond,57
+correction,correctie,57
+calendar year,kalenderjaar,57
+eve,vooravond,57
+dividend,dividend,57
+white heat,witte hitte,57
+time unit,tijdseenheid,57
+acre inch,acre inch,58
+lead time,doorlooptijd,58
+trillion,biljoen,58
+calendar month,kalendermaand,58
+light second,licht seconde,58
+fifteen,vijftien,58
+index,inhoudsopgave,58
+long run,lange termijn,58
+pledge,belofte ,58
+decade,decennium,58
+accretion,aanwas,59
+trial period,proefperiode,59
+football score,voetbalscore,59
+weekday,weekdag,59
+long ton,lange ton,59
+dog days,honden dagen,59
+cordoba,cordoba,59
+decimal,decimale,59
+cash,contant geld,59
+bolivar,bolivar,59
+monsoon,moesson,60
+antiquity,oudheid,60
+biomass,biomassa,60
+question time,vraagmomentje,60
+respite,uitstel,60
+troy pound,troy pond,60
+old age,oude leeftijd,60
+boiling point,kookpunt,60
+point system,puntensysteem,60
+short ton,korte ton,60
+baseline,basislijn,61
+limitation,beperking,61
+outage,storing,61
+singleton,eenling,61
+dew point,dauwpunt,61
+rupiah,roepia,61
+numerator,teller,61
+seventy,zeventig,61
+Bel,Bel,61
+bore,vervelen,61
+ninety,negentig,62
+keg,vaatje,62
+forint,forint,62
+commencement day,startdag,62
+feast day,feestdag,62
+furlong,verlof,62
+benchmark,benchmark,62
+lunar day,maan dag,62
+cease,ophouden,62
+gigabyte,gigabyte,62
+coinage,munten,63
+tugrik,tugrik,63
+peseta,peseta,63
+reservoir,reservoir,63
+time of life,tijd van leven,63
+modulus,modulus,63
+savings,besparingen,63
+jubilee,jubileum,63
+myriad,veelvoud,63
+hard time,moeilijke tijd,63
+battalion,bataljon,64
+fourteen,veertien,64
+ringgit,ringgit,64
+anniversary,verjaardag,64
+epoch,tijdperk,64
+speed of light,lichtsnelheid,64
+playing period,speelperiode,64
+minority,minderheid,64
+hryvnia,grivna,64
+golden age,gouden eeuw,64
+hectare,hectare,65
+shilling,shilling,65
+sente,sente,65
+maund,maund,65
+space age,ruimtetijdperk,65
+temperature,temperatuur-,65
+wage scale,loonschaal,65
+STP,STP,65
+frail,fragiel,65
+quaff,quaff,65
+fiat money,fiatgeld,66
+printing unit,drukeenheid,66
+pain unit,pijn eenheid,66
+crumb,kruimel,66
+lepton,lepton,66
+ruble,roebel,66
+thebe,thebe,66
+manat,manat,66
+pengo,pengo,66
+hard currency,harde valuta,66
+pataca,pataca,67
+blue moon,blauwe maan,67
+new moon,nieuwe maan,67
+majority,meerderheid,67
+markka,markka,67
+dalasi,dalasi,67
+spare time,vrije tijd,67
+ampere,ampère,67
+chilliness,kilte,67
+gauge,graadmeter,67
+lumma,lumma,68
+food stamp,voedselbon,68
+spoilage,bederf,68
+sound unit,geluidseenheid,68
+morgen,morgen,68
+eighteen,achttien,68
+stater,stater,68
+tiyin,tiyin,68
+spillage,morsen,68
+aliquot,portie,68
+high time,de hoogste tijd,69
+monad,monade,69
+rain date,regen datum,69
+force unit,kracht eenheid,69
+midweek,midweek,69
+second joint,tweede joint,69
+embolism,embolie,69
+volume unit,volume-eenheid,69
+furlough,verlof,69
+droplet,druppel,69
+growing season,groeiseizoen,70
+guarani,guarani,70
+workday,werkdag,70
+church year,kerkelijk jaar,70
+half life,halveringstijd,70
+mouthful,mondvol,70
+coulomb,coulomb,70
+modicum,beetje,70
+harvest moon,oogst maan,70
+quarter pound,kwart pond,70
+evening shift,avonddienst,71
+area unit,gebiedseenheid,71
+night shift,nachtdienst,71
+body length,lichaamslengte,71
+quire,katern,71
+clocking,klokken,71
+cross section,dwarsdoorsnede,71
+millennium,millennium,71
+plurality,meervoud,71
+half dollar,halve dollar,71
+tablespoon,eetlepel,72
+REM,REM,72
+turn of the century,eeuwwisseling,72
+exabyte,exabyte,72
+quarter section,kwart sectie,72
+lunar year,maan jaar,72
+freezing point,vriespunt,72
+footer,voettekst,72
+lunar month,maanmaand,72
+day of the week,dag van de week,72
+five hundred,vijfhonderd,73
+decibel,decibel,73
+reaction time,reactietijd,73
+ouguiya,ouguiya,73
+arity,ariteit,73
+farthing,penning,73
+fiver,vijfrr,73
+system of measurement,meetsysteem,73
+quetzal,quetzal,73
+circulation,circulatie,73
+golden years,gouden jaren,74
+sextant,sextant,74
+probation,proeftijd,74
+metical,metisch,74
+ordinate,ordinaat,74
+balance of trade,handelsbalans,74
+complex number,complex getal,74
+hunting season,jachtseizoen,74
+shift,verschuiving,74
+Y2K,Y2K,74
+googol,googol,75
+malted,gemout,75
+chicken leg,kippen been,75
+turkey leg,kalkoenpoot,75
+spring training,lente training,75
+light minute,lichte minuut,75
+quotient,quotiënt,75
+megabit,megabit,75
+simmer,sudderen,75
+fair chance,eerlijke kans,75
+catty,kattig,76
+complement,aanvulling,76
+bushel,schepel,76
+war chest,oorlogskist,76
+major fast day,grote vastendag,76
+radian,radiaal,76
+stopping point,stopplaats,76
+armful,armvol,76
+haying,hooien,76
+petty cash,kleingeld,76
+ducat,dukaat,77
+bandwidth,bandbreedte,77
+half crown,halve kroon,77
+kwanza,kwanzaa,77
+birdie,vogeltje,77
+parsec,parsec,77
+Asarh,Asarh,77
+pounder,stamper,77
+kingdom come,Koninkrijk kome,77
+current unit,huidige eenheid,77
+straight angle,rechte hoek,78
+wedding night,huwelijksnacht,78
+grosz,groots,78
+social season,sociaal seizoen,78
+football season,voetbalseizoen,78
+field capacity,veldcapaciteit,78
+lempira,lempira,78
+mass unit,massa-eenheid,78
+mass energy,massa-energie,78
+abscissa,abscis,78
+addend,addend,79
+tenner,tientje,79
+dollop,klodder,79
+weight unit,gewichtseenheid,79
+teaspoon,theelepel,79
+ten thousand,tien duizend,79
+rag day,voddendag,79
+operating budget,werkingsbudget,79
+scale factor,schaal factor,79
+frappe,frappe,79
+seventeen,zeventien,80
+khoum,khoum,80
+colon,dikke darm,80
+tetri,tetri,80
+firkin,firkin,80
+stroke,hartinfarct,80
+gourde,kalebas,80
+haler,haler,80
+fiscal year,fiscaal jaar,80
+residence time,verblijftijd,80
+modern times,moderne tijden,81
+drachma,drachme,81
+unit of measurement,meet eenheid,81
+orbit period,omlooptijd,81
+gas constant,gasconstante,81
+anaphase,anafase,81
+kopek,kopeki,81
+survey mile,enquête mijl,81
+yarder,tuinman,81
+midafternoon,middag,81
+absence,afwezigheid,82
+boodle,boodle,82
+roentgen,röntgen,82
+dotage,dotage,82
+modern era,moderne tijd,82
+occasion,gelegenheid,82
+quintal,vijftal,82
+pfennig,pfennig,82
+dogleg,dogleg,82
+departure time,vertrektijd,82
+cutlet,kotelet,83
+sick leave,ziekteverlof,83
+head count,aantal hoofden,83
+megaton,megaton,83
+critical mass,kritieke massa,83
+arrival time,aankomsttijd,83
+hard times,moeilijke tijden,83
+kilogram,kilogram,83
+trimester,trimester,83
+measuring unit,meeteenheid,83
+megohm,megohm,84
+prophase,profase,84
+toxicity,toxiciteit,84
+Advent,Komst,84
+blackout,Black Out,84
+shortness,kortheid,84
+June,juni-,84
+sthene,sthene,84
+safe period,veilige periode,84
+future date,toekomstige datum,84
+interim,tussentijds,85
+ullage,ullage,85
+gram atom,gram atoom,85
+speech day,toespraak dag,85
+terabit,terabit,85
+dry season,droge seizoen,85
+piece of eight,stuk van acht,85
+square foot,vierkante voet,85
+turnaround,omdraaien,85
+barrow,kruiwagen,85
+dry unit,droge eenheid,86
+kilowatt,kilowatt,86
+afghani,afghaans,86
+kiloton,kiloton,86
+caesura,cesuur,86
+flood,overstroming,86
+extremum,extreem,86
+yardstick,maatstaf,86
+baseball score,honkbal score,86
+arpent,arpent,86
+natural number,natuurlijk nummer,87
+atomic number,atoomnummer,87
+dime,dubbeltje,87
+termination,beëindiging,87
+monetary unit,munteenheid,87
+dustpan,stoffer,87
+May Day,1 mei,87
+atomic mass,atoom massa,87
+milliard,miljard,87
+medallion,medaillon,87
+shelf life,houdbaarheid,88
+megabyte,megabyte,88
+coordinate,coördineren,88
+hot spell,hete spreuk,88
+equivalent,gelijkwaardig,88
+Chait,chait,88
+megawatt,megawatt,88
+oersted,oersted,88
+integer,geheel getal,88
+Tammuz,Tammuz,88
+eternity,eeuwigheid,89
+eye opener,eye opener,89
+processing time,verwerkingstijd,89
+slug,naaktslak,89
+exposure,blootstelling,89
+pocketful,zak vol,89
+incubation,incubatie,89
+small change,kleine verandering,89
+holiday season,vakantie seizoen,89
+puberty,puberteit,89
+Pus,Pus,90
+square root,vierkantswortel,90
+ngultrum,ngultrum,90
+cutoff,afsnijden,90
+workweek,werkweek,90
+half eagle,halve adelaar,90
+Shebat,Shebat,90
+kilometer,kilometer,90
+square inch,vierkante inch,90
+Iyar,Iyar,90
+time constant,tijdconstante,91
+Ab,Ab,91
+last quarter,vorig kwartaal,91
+billyo,billyo,91
+magic number,magisch nummer,91
+great gross,geweldig vies,91
+telephone unit,telefooncentrale,91
+hockey season,hockeyseizoen,91
+regulation time,regulatie tijd,91
+pesewa,pesewa,91
+eleventh hour,elfde Uur,92
+twenties,twintiger,92
+curfew,avondklok,92
+lapse,vervallen,92
+schilling,schilling,92
+square mile,vierkante mijl,92
+nineteen,negentien,92
+new penny,nieuwe cent,92
+cube root,kubuswortel,92
+hair of the dog,haar van de hond,92
+rutherford,Rutherford,93
+silver age,zilveren tijdperk,93
+qepiq,qepiq,93
+information age,informatie leeftijd,93
+usance,uso,93
+ngwee,ngwee,93
+first quarter,eerste kwartier,93
+flux unit,fluxeenheid,93
+long hundred,lange honderd,93
+Lent,vasten,93
+playtime,speeltijd,94
+Bhadon,Bhadon,94
+bowling score,bowlingscore,94
+split run,gesplitste run,94
+centavo,centavo,94
+room temperature,kamertemperatuur,94
+boliviano,boliviano,94
+downtime,uitvaltijd,94
+kilobit,kilobit,94
+silver dollar,zilveren dollar,94
+coefficient,coëfficiënt,95
+chicken wing,kippenvleugel,95
+time interval,tijdsinterval,95
+paid vacation,betaalde vakantie,95
+abohm,abohm,95
+hogshead,hogshead,95
+picul,picul,95
+Nivose,Nivose,95
+milkshake,milkshake,95
+dawn,ochtendgloren,95
+Veadar,Veadar,96
+proper fraction,juiste breuk,96
+teacup,theekopje,96
+Elul,Elul,96
+obolus,obolus,96
+forties,veertiger,96
+retardation,vertraging,96
+conversion factor,conversiefactor,96
+drinking age,drink leeftijd,96
+small fortune,klein fortuin,96
+troy unit,troy eenheid,97
+ready cash,klaar contant geld,97
+basketball score,basketbal score,97
+continued fraction,kettingbreuk,97
+baseball season,honkbal seizoen,97
+santims,santims,97
+utility,nutsvoorziening,97
+capful,dop vol,97
+Passover,Pascha,97
+legal holiday,wettelijke feestdag,97
+binary digit,Binair getal,98
+square meter,vierkante meter,98
+cordage,touwwerk,98
+millibar,millibar,98
+terabyte,terabyte,98
+MIPS,MIPS,98
+regency,regentschap,98
+potential unit,potentiële eenheid,98
+petabyte,petabyte,98
+deathbed,sterfbed,98
+fast time scale,snelle tijdschaal,99
+kilovolt,kilovolt,99
+Michaelmas,Michaël,99
+diopter,dioptrie,99
+angstrom,angström,99
+phon,telefoon,99
+lustrum,lustrum,99
+deflator,deflator,99
+doubloon,doubloon,99
+cold spell,koude periode,99
+metaphase,metafase,100
+poundal,pondaal,100
+hotness,heetheid,100
+cubic foot,kubieke voet,100
+arroba,arroba,100
+minim,minimaal,100
+kurus,kuru's,100
+hundred thousand,Honderdduizend,100
+Ramadan,Ramadan,100
+Erlang,Erlang,100
+fils,bestanden,101
+pension fund,pensioen Fonds,101
+hatful,hatelijk,101
+middle age,middelbare leeftijd,101
+Adar,Adar,101
+grad,afgestudeerd,101
+electron volt,elektron volt,101
+nanogram,nanogram,101
+silly season,gekke seizoen,101
+cubic inch,kubieke inch,101
+mantissa,mantisse,102
+minor fast day,kleine vastendag,102
+pebibit,pebibit,102
+toea,Naar ea,102
+qurush,qurush,102
+May,Kunnen,102
+butut,butut,102
+bawbee,liefje,102
+pood,poedel,102
+square yard,vierkante yard,102
+temperature scale,temperatuur schaal,103
+kapeika,kapeika,103
+temperature unit,temperatuureenheid,103
+Sha'ban,Sha'ban,103
+multistage,meertraps,103
+Floreal,Floreal,103
+magneton,magneton,103
+turkey wing,kalkoenvleugel,103
+longueur,longueur,103
+Rabi I,Rabi I,103
+phase of the moon,fase van de maan,104
+Tishri,Tishri,104
+kilobyte,kilobyte,104
+milligram,milligram,104
+footstep,voetstap,104
+Safar,Safari,104
+moratorium,moratorium,104
+sixpence,zes pence,104
+military pace,militair tempo,104
+basketball season,basketbal seizoen,104
+roomful,kamervol,105
+windage,windvang,105
+year of grace,jaar van genade,105
+incarnation,incarnatie,105
+draft,voorlopige versie,105
+teraflop,teraflop,105
+centas,centa's,105
+terrestrial time,aardse tijd,105
+mass defect,massa defect,105
+shtikl,shtikl,105
+double eagle,dubbele adelaar,106
+phase of cell division,fase van celdeling,106
+leap day,schrikkeldag,106
+cubic yard,kubieke meter,106
+mutual fund,beleggingsfonds,106
+linear unit,lineaire eenheid,106
+angular unit,hoekeenheid,106
+abwatt,abwatt,106
+cardinal number,hoofdtelwoord,106
+whiskey neat,whisky puur,106
+tyiyn,tyiyn,107
+nanometer,nanometer,107
+poise,evenwicht,107
+telophase,telofase,107
+appropriation,toe-eigening,107
+seniti,seniti,107
+molecular weight,molecuulgewicht,107
+pollen count,pollengetal,107
+absolute value,absolute waarde,107
+midwinter,midwinter,107
+microgram,microgram,108
+V-day,V-dag,108
+agate line,agaat lijn,108
+parity bit,pariteitsbit,108
+two dollar bill,twee dollar biljet,108
+pagination,paginering,108
+elongation,verlenging,108
+quintillion,triljoen,108
+Rabi II,Rabi II,108
+rainy season,regenseizoen,108
+yobibit,yobibit,109
+Sivan,Sivan,109
+Jeth,Jeth,109
+centimeter,centimeter,109
+tebibit,tebibit,109
+Tuesday,Dinsdag,109
+lilangeni,lilangeni,109
+denier,ontkenning,109
+body temperature,lichaamstemperatuur,109
+aliquant,aliquant,109
+tenure,dienstverband,110
+interlude,intermezzo,110
+bimester,bimester,110
+24/7,24/7,110
+scattering,verstrooiing,110
+barye,barye,110
+demand deposit,direct opeisbaar,110
+complex fraction,complexe breuk,110
+maturity,volwassenheid,110
+sabbatical,sabbatical,110
+standard atmosphere,standaard sfeer,111
+leap year,schrikkeljaar,111
+Kartik,Kartik,111
+latency stage,latentiefase,111
+pinpoint,lokaliseren,111
+Monday,Maandag,111
+sangaree,sangari,111
+age of consent,meerderjarigheid,111
+silver certificate,zilveren certificaat,111
+polar coordinate,poolcoördinaat,111
+thimble,vingerhoed,112
+millimeter,millimeter,112
+Tet,Tet,112
+Brumaire,Brumaire,112
+religious festival,religieus festival,112
+liquid unit,vloeibare eenheid,112
+October,oktober,112
+July,juli-,112
+Sabbath,Sabbat,112
+computer memory unit,computer geheugeneenheid,112
+chaldron,chaldron,113
+rotl,rotl,113
+peacetime,vredestijd,113
+honeymoon,huwelijksreis,113
+houseful,huiselijk,113
+centennial,honderdjarig,113
+gram molecule,gram molecuul,113
+attention span,aandachtsspanne,113
+marginal utility,marginale nut,113
+beauty sleep,schoonheidsslaapje,113
+reign of terror,terreurbewind,114
+kopiyka,kopiyka,114
+decimeter,decimeter,114
+Indian summer,nazomer,114
+apogee,hoogtepunt,114
+overtime,na een tijdje,114
+milliwatt,milliwatt,114
+Phagun,phagun,114
+Saturday,zaterdag,114
+standard temperature,standaard temperatuur,114
+Messidor,Messidor,115
+piaster,piaster,115
+grade point average,cijfer punt gemiddelde,115
+religious holiday,religieuze vakantie,115
+fifty percent,vijftig procent,115
+wartime,oorlogstijd,115
+absolute zero,absolute nulpunt,115
+twopence,dubbeltje,115
+characteristic,karakteristiek,115
+split shift,gesplitste dienst,115
+fistmele,vuistslag,116
+fluidram,fluïdum,116
+improper fraction,onechte breuk,116
+baiza,baiza,116
+millime,millime,116
+busload,buslading,116
+novitiate,noviciaat,116
+decigram,decigram,116
+puerperium,kraamtijd,116
+April,april,116
+millivolt,millivolt,117
+rational number,rationaal getal,117
+Dormition,Dormition,117
+September,september,117
+eggshake,eiershake,117
+adolescence,adolescentie,117
+acre-foot,acre-foot,117
+yottabyte,yottabyte,117
+Sunday,Zondag,117
+Purim,Purim,117
+midterm,tussentijds,118
+tiebreaker,tiebreaker,118
+scruple,scrupules,118
+resistance unit,weerstandseenheid:,118
+deciliter,deciliter,118
+pachytene,pachytene,118
+vital capacity,vitale capaciteit,118
+Magh,Magho,118
+radius of curvature,kromtestraal,118
+widowhood,weduwschap,118
+information measure,informatie maatregel,119
+mebibit,mebibit,119
+theatrical season,theaterseizoen,119
+musth,moet,119
+fathom,doorgronden,119
+octane number,octaangetal,119
+Aghan,Aghan,119
+centime,centime,119
+sabbatical year,sabbatsjaar,119
+extra innings,extra innings,119
+field strength unit,veldsterkte-eenheid,120
+preseason,voorseizoen,120
+presidency,presidentschap,120
+nanovolt,nanovolt,120
+November,november,120
+common multiple,gemeenschappelijk veelvoud,120
+seedtime,zaaitijd,120
+ephemera,kortstondig,120
+double digit,dubbele cijfers,120
+kibibit,kibibit,120
+joint probability,gezamenlijke kans,121
+historic period,historische periode,121
+picofarad,picofarad,121
+metric system,metriek stelsel,121
+stotinka,stotinka,121
+dekagram,dekagram,121
+Martinmas,Martinus,121
+bulk modulus,bulk modulus,121
+likuta,likuta,121
+afterlife,hiernamaals,121
+horsepower,paardenkracht,122
+footcandle,voetkaars,122
+prehistory,prehistorie,122
+margin of safety,veiligheidsmarge,122
+prison term,gevangenis periode,122
+extended time scale,uitgebreide tijdschaal,122
+polling day,verkiezingsdag,122
+boatload,bootlading,122
+Prairial,Prairial,122
+zettabyte,zettabyte,122
+Lammas,Lammas,123
+gibibit,gibibit,123
+moment of truth,moment van de waarheid,123
+shred,versnipperen,123
+libation,plengoffer,123
+episcopate,episcopaat,123
+yottabit,yottabit,123
+dreg,bezinksel,123
+August,augustus,123
+token money,symbolisch geld,123
+kilowatt hour,kilowattuur,124
+decimal digit,decimaal cijfer,124
+sudden death,plotselinge dood,124
+Eastertide,Pasen,124
+horsepower-hour,pk-uur,124
+lactation,borstvoeding,124
+fag end,flikkereinde,124
+skepful,sceptisch,124
+sinking fund,zinkend fonds,124
+minuend,aftrektal,124
+hundred dollar bill,Honderd euro biljet,125
+magnetic flux,magnetische flux,125
+pennyworth,pennyworth,125
+one-half,een helft,125
+Sawan,Sawan,125
+tankage,tankinhoud,125
+large integer,groot geheel getal,125
+incubation period,incubatietijd,125
+Christmas,Kerstmis,125
+linage,afstamming,125
+daraf,daraf,126
+decimal fraction,decimale fractie,126
+shtik,shtik,126
+Halloween,Halloween,126
+relative quantity,relatieve hoeveelheid,126
+Christmas Eve,kerstavond,126
+ordinal number,rangtelwoord,126
+Easter,Pasen,126
+Pasch,Pasch,126
+Muharram,Muharram,126
+abvolt,abvolt,127
+adulthood,volwassenheid,127
+thirties,jaren dertig,127
+eyrir,eyrir,127
+miles per gallon,mijl per gallon,127
+fluidounce,fluïdum,127
+allocation unit,toewijzingseenheid,127
+magnetization,magnetisatie,127
+probability,waarschijnlijkheid,127
+ardeb,ardeb,127
+breadcrumb,broodkruimel,128
+pork barrel,varkensvlees vat,128
+hectometer,hectometer,128
+Kislev,Kislev,128
+eyedrop,oogdruppel,128
+last gasp,laatste zucht,128
+eighties,jaren tachtig,128
+normality,normaliteit,128
+twentieth century,twintigste eeuw,128
+Fructidor,fructidor,128
+astronomy unit,astronomie-eenheid,129
+zettabit,zettabit,129
+incipiency,begin,129
+austral,Australisch,129
+slush fund,slush fonds,129
+twenty dollar bill,twintig dollar biljet,129
+relaxation time,ontspanningstijd,129
+googolplex,googolplex,129
+steradian,steradiaal,129
+leap second,schrikkel tweede,129
+doubleton,dubbeltje,130
+half-hour,half uur,130
+one-third,een derde,130
+satang,satang,130
+hectogram,hectogram,130
+shelfful,houdbaar,130
+milliliter,milliliter,130
+metric unit,metrische eenheid,130
+absolute temperature,absolute temperatuur,130
+frostiness,vorst,130
+time-out,time-out,131
+Wednesday,Woensdag,131
+shoestring,schoenveter,131
+pipeful,pijpvol,131
+Germinal,Germinal,131
+March,Maart,131
+exabit,exabit,131
+Asin,Als in,131
+scalar product,scalair product,131
+petabit,petabit,131
+nautical chain,nautische keten,132
+significant digit,significant cijfer,132
+overtime period,overwerk periode,132
+microfarad,microfarad,132
+sliding scale,glijdende schaal,132
+picosecond,picoseconde,132
+Nisan,Nisan,132
+oxidation number,oxidatie nummer,132
+Shavous,Shavous,132
+drumstick,trommelstok,132
+compound number,samengesteld nummer,133
+Tebet,Tebet,133
+sperm count,aantal zaadcellen,133
+January,Januari,133
+composite number,samengesteld nummer,133
+invisible balance,onzichtbare balans,133
+movable feast,beweegbaar feest,133
+watt-hour,wattuur,133
+verst,werst,133
+international candle,internationale kaars,133
+psychological moment,psychologisch moment,134
+lukewarmness,lauwheid,134
+Shawwal,Shawwal,134
+milline,milline,134
+pounds per square inch,pond per vierkante inch,134
+oxtant,oxtant,134
+solubility,oplosbaarheid,134
+chetrum,chetrum,134
+headspace,hoofdruimte,134
+washday,wasdag,134
+Heshvan,Heshvan,135
+pulmonary reserve,pulmonale reserve,135
+centimo,centimo,135
+quadrillion,quadriljoen,135
+root beer float,wortel bier drijven,135
+nanosecond,nanoseconde,135
+schooldays,schooldagen,135
+crith,crith,135
+zebibit,zebibit,135
+interregnum,interregnum,135
+Rajab,Rajab,136
+headful,koppig,136
+fifties,jaren vijftig,136
+elapsed time,verstreken tijd,136
+bezant,bezant,136
+exchange traded fund,wisselkoers fonds,136
+centner,centrum,136
+voting age,stemgerechtigde leeftijd,136
+latent period,latente periode,136
+seventies,jaren zeventig,136
+sidereal hour,sterren uur,137
+terminus a quo,eindpunt a quo,137
+avoirdupois,avoirdupois,137
+nightcap,slaapmutsje,137
+cardinality,kardinaliteit,137
+octal digit,octaal cijfer,137
+infancy,kinderschoenen,137
+Rankine,Rankine,137
+exhibition season,tentoonstelling seizoen,137
+carry-over,overdragen,137
+millisecond,milliseconde,138
+British pound,Britse pond,138
+pa'anga,pa'anga,138
+microvolt,microvolt,138
+absorption unit,absorptie-eenheid:,138
+golden wedding anniversary,gouden huwelijksverjaardag,138
+imaginary part,denkbeeldig deel,138
+graveyard watch,kerkhof horloge,138
+ionic charge,ionische lading,138
+pennyweight,pennyweight,138
+Eurodollar,Euro dollar,139
+circular measure,circulaire maatregel,139
+abfarad,abfarad,139
+genital stage,genitaal stadium,139
+Pentecost,Pinksteren,139
+fundamental quantity,fundamentele hoeveelheid,139
+fieriness,vurigheid,139
+menstrual phase,menstruatiefase,139
+one-eighth,een achtste,139
+Twelfthtide,twaalfde,139
+geometric pace,geometrische tempo,140
+one-sixth,een zesde,140
+myriagram,myriagram,140
+equilibrium constant,evenwichtsconstante,140
+rainy day,regenachtige dag,140
+femtosecond,femtoseconde,140
+silver wedding anniversary,zilveren huwelijksverjaardag,140
+raindrop,regendruppel,140
+nybble,knabbelen,140
+Baisakh,Baisakh,140
+tambala,tambala,141
+Succoth,Sukkoth,141
+aleph-null,alef-null,141
+Olympiad,Olympiade,141
+Hanukkah,Chanoeka,141
+December,December,141
+diamond wedding anniversary,diamanten huwelijksverjaardag,141
+quinquennium,quinquenium,141
+Arbor Day,Arbor Day,141
+earned run average,gemiddelde verdiende run,141
+fortnight,veertien dagen,142
+handbreadth,handbreedte,142
+Ventose,Ventose,142
+bugger all,fout allemaal,142
+clotting time,stollingstijd,142
+off-day,vrije dag,142
+Irish pound,Iers pond,142
+Whitsun,Pinksteren,142
+third trimester,derde trimester,142
+louis d'or,louis d'or,142
+eightpence,acht pence,143
+Calorie,Calorie,143
+atomic mass unit,atomaire massa-eenheid:,143
+Epiphany,Openbaring,143
+qindarka,qindarka,143
+mutchkin,mutchkin,143
+explosive unit,explosieve eenheid,143
+nineties,jaren negentig,143
+skinful,huidskleur,143
+fivepence,vijf pence,143
+Pluviose,Pluviose,144
+megaflop,megaflop,144
+subsidization,subsidiëring,144
+Friday,Vrijdag,144
+system of weights,systeem van gewichten,144
+algebraic number,algebraïsch getal,144
+abcoulomb,abcoulomb,144
+longness,lang zijn,144
+diakinesis,diakinese,144
+Ramanavami,Ramanavami,144
+femtometer,femtometer,145
+life sentence,veroordeling tot levenslang,145
+silver jubilee,zilveren jubileum,145
+holy day of obligation,heilige dag van verplichting,145
+cytotoxicity,cytotoxiciteit,145
+acceleration unit,versnellingseenheid,145
+conditional probability,voorwaardelijke kans,145
+multiplier,vermenigvuldiger,145
+microgauss,microgauss,145
+centesimo,centesimo,145
+lapful,schootvol,146
+groschen,groschen,146
+compassionate leave,medelevend verlof,146
+baryon number,baryon nummer,146
+microsecond,microseconde,146
+dessiatine,dessiatijn,146
+girlhood,meisjesjaren,146
+abampere,abampere,146
+Thermidor,Thermidor,146
+neonatal period,neonatale periode,146
+Father's Day,Vaderdag,147
+subtrahend,aftrekker,147
+hospitalization,ziekenhuisopname,147
+absorption coefficient,absorptiecoëfficiënt,147
+halfpenny,halve stuiver,147
+1860s,jaren 1860,147
+second trimester,tweede trimester,147
+Frimaire,Frimaire,147
+first trimester,eerste trimester,147
+degree centigrade,graad Celsius,147
+infinitude,oneindigheid,148
+leptotene,leptoteen,148
+abhenry,abhenry,148
+coefficient of reflection,reflectiecoëfficiënt,148
+Holy Year,Heilig Jaar,148
+Flag Day,Vlaggendag,148
+decameter,decameter,148
+moment magnitude scale,moment magnitude schaal,148
+Danish krone,Deense kroon,148
+common fraction,gemeenschappelijke breuk,148
+ampere-hour,ampère-uur,149
+diamond jubilee,diamanten jubileum,149
+one-fourth,een vierde,149
+Mali franc,Mali frank,149
+Lag b'Omer,Lag b'Omer,149
+exceedance,overschrijding,149
+immortality,onsterfelijkheid,149
+sixties,de zestiger jaren,149
+myriameter,myriameter,149
+fifty dollar bill,biljet van vijftig dollar,149
+welterweight,weltergewicht,150
+1850s,jaren 1850,150
+one-tenth,een tiende,150
+definite quantity,bepaalde hoeveelheid,150
+secretory phase,secretoire fase,150
+sundowner,zonsondergang,150
+Jumada I,Jumada I,150
+fractional currency,fractionele valuta,150
+coefficient of friction,wrijvingscoëfficiënt,150
+millicurie,millicurie,150
+entr'acte,entr'acte,151
+1530s,jaren 1530,151
+inertial mass,traagheidsmassa,151
+November 5,5 november,151
+syllabub,syllabus,151
+1840s,jaren 1840,151
+Circumcision,Besnijdenis,151
+millifarad,millifarad,151
+enlistment,indiensttreding,151
+metric weight unit,metrische gewichtseenheid,151
+coefficient of expansion,uitzettingscoëfficiënt,152
+zygotene,zygotene,152
+irrational number,irrationeel nummer,152
+1790s,jaren 1790,152
+two-thirds,tweederde,152
+quattrocento,quattrocento,152
+illumination unit,verlichtingseenheid,152
+kilderkin,kinderkin,152
+foot-pound,voetpond,152
+fertile period,vruchtbare periode,152
+cracker crumbs,cracker kruimels,153
+Holy Week,goede week,153
+diplotene,diplotene,153
+Gabon franc,Gabon frank,153
+centiliter,centiliter,153
+rotational latency,roterende latentie,153
+augend,vergroten,153
+quadrennium,quadrennium,153
+metric linear unit,metrische lineaire eenheid,153
+Togo franc,Togo frank,153
+1760s,jaren 1760,154
+stirrup cup,afscheidsdronk,154
+picovolt,picovolt,154
+whiskey on the rocks,whisky op de rotsen,154
+kiloliter,kiloliter,154
+February,Februari,154
+Maundy money,wit geld,154
+femtovolt,femtovolt,154
+foot-poundal,foot-poundal,154
+New Year,Nieuwjaar,154
+revolving fund,circulerende gelden,155
+shoeful,schoenenvol,155
+Palm Sunday,Palmzondag,155
+luminous flux unit,lichtstroomeenheid,155
+quarter-hour,kwartier,155
+Rogation Day,Rogatiedag,155
+Rosh Hashanah,Rosj Hasjana,155
+metric capacity unit,metrische capaciteitseenheid:,155
+Shrovetide,Vastenavond,155
+quasiparticle,quasideeltjes,155
+flux density unit,eenheid voor fluxdichtheid,156
+command processing overhead time,Overheadtijd voor verwerking van opdrachten,156
+cubic kilometer,kubieke kilometer,156
+foot-lambert,foot-lambert,156
+modulus of rigidity,stijfheidsmodulus,156
+compensatory time,compenserende tijd,156
+octillion,octiljoen,156
+system of weights and measures,systeem van maten en gewichten,156
+Golden Age,Gouden Eeuw,156
+gravitational mass,zwaartekracht massa,156
+Fiji dollar,Fiji-dollar,157
+phallic stage,fallische fase,157
+sidereal day,siderische dag,157
+threepence,drie stuivers,157
+sidereal year,siderisch jaar,157
+hundredweight,honderdgewicht,157
+archine,archine,157
+mid-October,half oktober,157
+circulating decimal,circulerend decimaal,157
+Victoria Day,Victoria Dag,157
+run-time,looptijd,158
+foot-ton,foot-ton,158
+top-up,opwaarderen,158
+drag coefficient,luchtweerstandscoëfficiënt,158
+luminous intensity unit,lichtsterkte eenheid,158
+year-end,jaareinde,158
+1780s,jaren 1780,158
+indiction,aanwijzing,158
+Mesasamkranti,Mesasamkranti,158
+mid-May,midden mei,158
+half-moon,halve Maan,159
+pure imaginary number,puur denkbeeldig getal,159
+sextillion,zestiljoen,159
+All Souls' Day,Allerzielen,159
+milliradian,milliradiaal,159
+formatted capacity,geformatteerde capaciteit:,159
+millihenry,millihenry,159
+Veterans Day,Veteranendag,159
+coefficient of self induction,coëfficiënt van zelfinductie,159
+Vendemiaire,Vendemiaire,159
+Candlemas,Lichtmis,160
+ninepence,negen pence,160
+1750s,jaren 1750,160
+1770s,jaren 1770,160
+1830s,jaren 1830,160
+Malawi kwacha,Malawi kwacha,160
+capacitance unit,capaciteitseenheid:,160
+mid-April,half april,160
+conductance unit,geleidingseenheid:,160
+coefficient of mutual induction,coëfficiënt van wederzijdse inductie,160
+transmittance,doorlaatbaarheid,161
+cubic millimeter,kubieke millimeter,161
+inductance unit,inductie-eenheid:,161
+complex conjugate,complex geconjugeerd,161
+luminance unit,luminantie-eenheid,161
+hexadecimal digit,hexadecimaal cijfer,161
+gravitational constant,zwaartekrachtconstante,161
+terminus ad quem,eindpunt ad quem,161
+Tishah b'Av,Tishah b'Av,161
+Jumada II,Jumada II,161
+Norwegian krone,Noorse kroon,162
+nautical linear unit,nautische lineaire eenheid,162
+fractional monetary unit,fractionele munteenheid,162
+electromagnetic unit,elektromagnetische eenheid:,162
+indefinite quantity,onbepaalde hoeveelheid,162
+Bonfire Night,Kampvuur nacht,162
+dissociation constant,dissociatieconstante,162
+sidereal month,siderische maand,162
+dessertspoon,dessert lepel,162
+twenty-six,zesentwintig,162
+1870s,jaren 1870,163
+one-twelfth,een twaalfde,163
+double-bogey,dubbele bogey,163
+Low Sunday,Lage zondag,163
+dogwatch,hondenwacht,163
+Iranian dinar,Iraanse dinar,163
+Indian rupee,Indiase roepie,163
+Tuvalu dollar,Tuvalu-dollar,163
+dekaliter,dekaliter,163
+Hogmanay,Hogmanay,163
+mid-January,half januari,164
+Yom Kippur,Jom Kippoer,164
+sesquicentennial,sesquicentennial,164
+twenty-two,tweeëntwintig,164
+halfpennyworth,goedkoopwaarde,164
+chlorinity,chloorgehalte,164
+logarithmic scale,logaritmische schaal,164
+unit of viscosity,eenheid van viscositeit,164
+Quinquagesima,Quinquagesima,164
+Mardi Gras,Mardi Gras,164
+Septuagesima,Septuagesima,165
+containerful,containervol,165
+millidegree,milligraad,165
+Kelvin scale,Kelvin schaal,165
+compensating balance,compenserende balans,165
+relativistic mass,relativistische massa,165
+attosecond,attoseconde,165
+Dhu'l-Hijja,Dhu'l-Hijja,165
+picometer,picometer,165
+Brix scale,Brix schaal,165
+French franc,Franse frank,166
+Syrian pound,Syrisch pond,166
+mid-March,midden maart,166
+Maundy Thursday,Witte Donderdag,166
+hair's-breadth,haarbreedte,166
+coefficient of elasticity,elasticiteitscoëfficiënt,166
+basal body temperature,basale lichaamstemperatuur,166
+Midsummer Day,Midzomerdag,166
+Brunei dollar,Bruneise dollar,166
+mid-June,midden juni,166
+twenty-seven,zevenentwintig,167
+haymow,hooizolder,167
+Ash Wednesday,As woensdag,167
+transcendental number,transcendentaal getal,167
+shandygaff,shandygaff,167
+Benin franc,Benin frank,167
+one-fifth,een vijfde,167
+Chilean peso,Chileense peso,167
+coefficient of viscosity,coëfficiënt van viscositeit:,167
+Cinco de Mayo,Cinco de Mayo,167
+Ember Day,Sinteldag,168
+weeknight,doordeweekse avond,168
+three-fourths,drie vierde,168
+Mohs scale,Mohs schaal,168
+kilogram-meter,kilogram-meter,168
+common denominator,gemeenschappelijke noemer,168
+electrostatic unit,elektrostatische eenheid:,168
+large indefinite quantity,grote onbepaalde hoeveelheid,168
+calefaction,verhitting,168
+1820s,jaren 1820,168
+radioactivity unit,radioactiviteit eenheid,169
+small indefinite quantity,kleine onbepaalde hoeveelheid,169
+half-century,halve eeuw,169
+one-millionth,een miljoenste,169
+septillion,septiljoen,169
+Qatari riyal,Qatarese riyal,169
+fourpence,vier pence,169
+ampere-minute,ampère-minuut,169
+Thursday,Donderdag,169
+barnful,schuurvol,169
+Ascension,Hemelvaart,170
+biquadrate,tweekwadraat,170
+tenpence,tien cent,170
+riyal-omani,riyal-omani,170
+Kuwaiti dinar,Koeweitse dinar,170
+Easter Sunday,Paaszondag,170
+Guyana dollar,Guyaanse dollar,170
+Roman times,Romeinse tijden,170
+Eurocurrency,Euro valuta,170
+Inauguration Day,Inhuldigingsdag,170
+one-ninth,een-negende,171
+cosmological constant,kosmologische constante,171
+Libyan dirham,Libische dirham,171
+greatest common divisor,grootste gemene deler,171
+Singapore dollar,Singapore dollar,171
+seventy-eight,achtenzeventig,171
+ice-cream soda,ijs frisdrank,171
+quincentennial,quincentennial,171
+multiplicand,vermenigvuldigtal,171
+Bahrain dinar,Bahreinse dinar,171
+Mother's Day,Moederdag,172
+Boxing Day,Tweede kerstdag,172
+Rosh Hodesh,Rosh Hodesh,172
+twenty-three,drieëntwintig,172
+1900s,jaren 1900,172
+mid-September,midden september,172
+Saint Joseph,Sint Josef,172
+saint's day,Heiligendag,172
+Bermuda dollar,Bermuda-dollar,172
+twenty-five,vijfentwintig,172
+Valentine Day,Valentijnsdag,173
+Madagascar franc,Madagaskar frank,173
+Swedish krona,Zweedse kroon,173
+Iraqi dinar,Iraakse dinar,173
+shinplaster,scheenbeen,173
+Jazz Age,Jazztijdperk,173
+Latvian monetary unit,Letse munteenheid,173
+coextension,co-extensie,173
+engineer's chain,ingenieur ketting,173
+quatercentennial,vierhonderdjarig,173
+Sudanese pound,Soedanees pond,174
+Estonian monetary unit,Estse munteenheid,174
+Thanksgiving,Dankzegging,174
+Assumption,Veronderstelling,174
+bicentennial,tweehonderdste verjaardag,174
+Celsius scale,Celsius schaal,174
+Lammastide,Lammastide,174
+hectoliter,hectoliter,174
+Holy Saturday,heilige zaterdag,174
+one-hundredth,een honderdste,174
+Rankine scale,Rankine schaal,175
+microradian,microradiaal,175
+common divisor,gemeenschappelijke deler,175
+Columbus Day,Columbus dag,175
+prepuberty,prepuberteit,175
+factor of proportionality,factor van evenredigheid,175
+posset,bezetenheid,175
+Burundi franc,Burundese frank,175
+Niger franc,Niger frank,175
+mid-August,Midden augustus,175
+mid-November,half november,176
+Admission Day,Toegangsdag,176
+avoirdupois unit,avoirdupois eenheid,176
+Seychelles rupee,Seychelse roepie,176
+Jamaican dollar,Jamaicaanse dollar,176
+duodecimal digit,duodecimaal cijfer,176
+twenty-nine,negenentwintig,176
+one-seventh,een zevende,176
+Whitmonday,Witte maandag,176
+New Year's Eve,Oudjaarsavond,176
+twenty-one,eenentwintig,177
+Zimbabwean dollar,Zimbabwaanse dollar,177
+quarter-century,kwart eeuw,177
+millenary,duizendjarige,177
+Nepalese rupee,Nepalese roepie,177
+South Korean won,Zuid-Koreaanse won,177
+Egyptian pound,Egyptische pond,177
+Canadian dollar,Canadese dollar,177
+mess of pottage,puinhoop van potgrond,177
+Gunter's chain,Gunter's ketting,177
+Ugandan shilling,Oegandese shilling,178
+volt-ampere,volt-ampère,178
+milliequivalent,milli-equivalent,178
+Icelandic krona,IJslandse kroon,178
+Remembrance Day,Dodenherdenking,178
+sheepshearing,schapen scheren,178
+anomalistic year,anomalistisch jaar,178
+Young's modulus,Young's modulus,178
+Id al-Adha,Id al-Adha,178
+Iranian monetary unit,Iraanse munteenheid,178
+Ghanian monetary unit,Ghana munteenheid,179
+mid-February,half februari,179
+Moroccan dirham,Marokkaanse dirham,179
+Guinea-Bissau peso,Guinee-Bissau peso,179
+Australian dollar,Australische dollar,179
+Annunciation,Aankondiging,179
+mid-December,half december,179
+Allhallowtide,Allerheiligen,179
+Maltese monetary unit,Maltese munteenheid,179
+Dominican dollar,Dominicaanse dollar,179
+unformatted capacity,niet-geformatteerde capaciteit,180
+Cypriot pound,Cypriotisch pond,180
+cartload,karrenlading,180
+half-term,halve termijn,180
+Fast of Gedaliah,Vasten van Gedalia,180
+Shimchath Torah,Shimchath Tora,180
+Congo franc,Congo frank,180
+milliampere,milliampère,180
+Id al-Fitr,Id al-Fitri,180
+semidiameter,halve diameter,180
+Botswana monetary unit,Botswana munteenheid,181
+High Holy Day,Hoge Heilige Dag,181
+Hubble's constant,Constante van Hubble,181
+April Fools',April Dwazen,181
+carful,voorzichtig,181
+boxcars,gesloten goederenwagens,181
+Kuwaiti dirham,Koeweitse dirham,181
+Commonwealth Day,Gemenebest Dag,181
+one-hundred-millionth,honderdmiljoenste,181
+New Year's Day,Nieuwjaarsdag,181
+mid-July,midden juli,182
+Passion Sunday,Passiezondag,182
+trainload,treinlading,182
+Turkmen monetary unit,Turkmeense munteenheid,182
+Belize dollar,Belizaanse dollar,182
+twenty-eight,achtentwintig,182
+one-sixtieth,een-zestigste,182
+Kenyan shilling,Keniaanse shilling,182
+Walpurgis Night,Walpurgisnacht,182
+Saudi Arabian riyal,Saoedi-Arabische riyal,182
+Lebanese pound,Libanees pond,183
+Lithuanian monetary unit,Litouwse munteenheid,183
+Good Friday,Goede Vrijdag,183
+twenty-four,vierentwintig,183
+Dhu'l-Qa'dah,Dhu'l-Qa'dah,183
+letup,onderbreking,183
+Judgment Day,Dag des oordeels,183
+one-sixteenth,een zestiende,183
+one-trillionth,een biljoenste,183
+Bastille Day,Dag van de Bastille,183
+Fast of Tevet,Vasten van Tevet,184
+Chadian franc,Tsjadische frank,184
+British thermal unit,Britse Warmte-eenheid,184
+bimillennium,bimillennium,184
+Uzbekistani monetary unit,Oezbeekse munteenheid,184
+red-letter day,rode brieven dag,184
+Memorial Day,herdenkingsdag,184
+one-thousandth,een duizendste,184
+Nigerian monetary unit,Nigeriaanse munteenheid,184
+procrustean standard,procrustean standaard,184
+Jordanian dinar,Jordaanse dinar,185
+Dutch monetary unit,Nederlandse munteenheid,185
+Syrian monetary unit,Syrische munteenheid,185
+Ugandan monetary unit,Oegandese munteenheid,185
+Swiss franc,Zwitserse frank,185
+Mongolian monetary unit,Mongoolse munteenheid,185
+Christian holy day,christelijke heilige dag,185
+Transfiguration,Transfiguratie,185
+Corpus Christi,Corpus Christi,185
+half-holiday,halve vakantie,185
+Cameroon franc,Kameroen frank,186
+Reaumur scale,Reaumur schaal,186
+Beaufort scale,schaal van Beaufort,186
+Swaziland monetary unit,Swaziland munteenheid,186
+Michaelmastide,Michaëlmastide,186
+semicentennial,vijftigjaarlijks,186
+British Imperial System,Brits imperiaal systeem,186
+Planck's constant,constante van Planck,186
+British shilling,Britse shilling,186
+Philippine monetary unit,Filippijnse munteenheid,186
+fixed-point number,vast punt nummer,187
+Washington's Birthday,Washington's verjaardag,187
+ampere-turn,ampère-omwenteling,187
+Midsummer Eve,Midzomeravond,187
+Civil List,civiele lijst,187
+Iranian rial,Iraanse rial,187
+All Saints' Day,Allerheiligen,187
+anomalistic month,afwijkende maand,187
+Belarusian monetary unit,Wit-Russische munteenheid,187
+Cartesian coordinate,cartesiaanse coördinaat,187
+Mexican peso,Mexicaanse peso,188
+Hong Kong dollar,Hong Kong dollar,188
+elastance unit,elastische eenheid,188
+Irish monetary unit,Ierse munteenheid,188
+lunitidal interval,lunitidaal interval,188
+Sri Lanka rupee,Sri Lanka roepie,188
+Quadragesima,Quadragesima,188
+Austrian monetary unit,Oostenrijkse munteenheid,188
+Uruguayan monetary unit,Uruguayaanse munteenheid,188
+Groundhog Day,Groundhog Day,188
+Libyan monetary unit,Libische munteenheid,189
+Saint Agnes's Eve,Sint Agnes's Eve,189
+Guy Fawkes Day,Guy Fawkes dag,189
+Fast of Tammuz,Vasten van Tammuz,189
+Cuban monetary unit,Cubaanse munteenheid,189
+Pan American Day,Pan-Amerikaanse dag,189
+South Korean monetary unit,Zuid-Koreaanse munteenheid,189
+Patriot's Day,Dag van de patriot,189
+Malawian monetary unit,Malawische munteenheid,189
+Labor Day,Dag van de Arbeid,189
+Cuban peso,Cubaanse peso,190
+St Patrick's Day,St Patrick's Day,190
+kilovolt-ampere,kilovolt-ampère,190
+Kiribati dollar,Kiribati-dollar,190
+Tunisian dirham,Tunesische dirham,190
+Guinean franc,Guinese frank,190
+Roman pace,Romeins tempo,190
+exbibit,tentoonstelling,190
+floating-point number,getal met drijvende komma,190
+Armed Forces Day,Dag van de strijdkrachten,190
+Chinese monetary unit,Chinese munteenheid,191
+Lesotho monetary unit,Lesotho munteenheid,191
+Liberian dollar,Liberiaanse dollar,191
+torridity,verzengendheid,191
+Zairese monetary unit,Zaïrese munteenheid,191
+Bhutanese monetary unit,Bhutaanse munteenheid,191
+United Arab Emirate dirham,Verenigde Arabische Emiraat dirham,191
+Senegalese franc,Senegalese frank,191
+Islamic calendar month,Islamitische kalendermaand,191
+week from Monday,week vanaf maandag,191
+Western Samoan monetary unit,West-Samoaanse munteenheid,192
+Philippine peso,Filipijnse peso,192
+Portuguese escudo,Portugese escudo,192
+Yugoslavian monetary unit,Joegoslavische munteenheid,192
+Venezuelan monetary unit,Venezolaanse munteenheid,192
+Citizenship Day,Dag van het burgerschap,192
+Presidents' Day,Dag van de president,192
+Jewish calendar month,Joodse kalendermaand,192
+Libyan dinar,Libische dinar,192
+Angolan monetary unit,Angolese munteenheid,192
+Thai monetary unit,Thaise munteenheid,193
+Yemeni fils,Jemenitische bestanden,193
+Norwegian monetary unit,Noorse munteenheid,193
+apothecaries' unit,afdeling apothekers,193
+Danish monetary unit,Deense munteenheid,193
+Qatari dirham,Qatarese dirham,193
+Greek monetary unit,Griekse munteenheid,193
+Guinean monetary unit,Guinese munteenheid,193
+Cambodian monetary unit,Cambodjaanse munteenheid,193
+Belgian franc,Belgische frank,193
+Grenada dollar,Grenada dollar,194
+time-scale factor,tijdschaalfactor,194
+Robert E Lee's Birthday,De verjaardag van Robert E Lee,194
+Czech monetary unit,Tsjechische munteenheid,194
+Brazilian monetary unit,Braziliaanse munteenheid,194
+Yemeni rial,Jemenitische rial,194
+Macao monetary unit,Macau munteenheid,194
+Colombian peso,Colombiaanse peso,194
+Zambian monetary unit,Zambiaanse munteenheid,194
+Brinell number,Brinell-nummer,194
+Uruguayan peso,Uruguayaanse peso,195
+Rwanda franc,Rwandese frank,195
+Twelfth night,Twaalfde nacht,195
+Albanian monetary unit,Albanese munteenheid,195
+Burkina Faso franc,Burkina Faso frank,195
+Advent Sunday,Adventszondag,195
+one-billionth,een miljardste,195
+Colombian monetary unit,Colombiaanse munteenheid,195
+Kenyan monetary unit,Keniaanse munteenheid,195
+Whit-Tuesday,Pinkster-dinsdag,195
+Haitian monetary unit,Haïtiaanse munteenheid,196
+Fibonacci number,Fibonacci-getal,196
+Trinity Sunday,Drievuldigheidszondag,196
+Barbados dollar,Barbados dollar,196
+Guinea-Bissau monetary unit,Monetaire eenheid Guinee-Bissau,196
+Paraguayan monetary unit,Paraguayaanse munteenheid,196
+United States Customary System,Gebruikelijk systeem van de Verenigde Staten,196
+Bulgarian monetary unit,Bulgaarse munteenheid,196
+Fahrenheit scale,Fahrenheit schaal,196
+Somalian shilling,Somalische shilling,196
+Sudanese monetary unit,Soedanese munteenheid,197
+Papuan monetary unit,Papua munteenheid,197
+Omani monetary unit,Omaanse munteenheid,197
+United Nations Day,Dag van de Verenigde Naties,197
+bachelorhood,vrijgezellenfeest,197
+Sao Thome e Principe monetary unit,Sao Thome e Principe munteenheid,197
+Jefferson Davis' Birthday,Verjaardag van Jefferson Davis,197
+vice-presidency,vice-voorzitterschap,197
+New Zealand dollar,Nieuw-Zeelandse dollar,197
+Cape Verde escudo,Kaapverdische escudo,197
+Pakistani rupee,Pakistaanse roepie,198
+Italian monetary unit,Italiaanse munteenheid,198
+Myanmar monetary unit,Myanmarese munteenheid,198
+Russian monetary unit,Russische munteenheid,198
+Iraqi monetary unit,Iraakse munteenheid,198
+Dominican peso,Dominicaanse peso,198
+Cayman Islands dollar,Kaaimaneilandse dollar,198
+Ukranian monetary unit,Oekraïense munteenheid,198
+Polish monetary unit,Poolse munteenheid,198
+Spanish monetary unit,Spaanse munteenheid,198
+Djibouti franc,Djiboutiaanse frank,199
+parson's nose,de neus van de dominee,199
+Vietnamese monetary unit,Vietnamese munteenheid,199
+Jordanian monetary unit,Jordaanse munteenheid,199
+Ecuadoran monetary unit,Ecuadoraanse munteenheid,199
+Algerian monetary unit,Algerijnse munteenheid,199
+Mozambique monetary unit,Mozambikaanse munteenheid,199
+Mercalli scale,Mercalli schaal,199
+United States dry unit,Verenigde Staten droge eenheid,199
+Jewish holy day,Joodse heilige dag,199
+Bahamian dollar,Bahamaanse dollar,200
+German monetary unit,Duitse munteenheid,200
+Zambian kwacha,Zambiaanse kwacha,200
+Haitian centime,Haïtiaanse centime,200
+Honduran monetary unit,Hondurese munteenheid,200
+Swedish monetary unit,Zweedse munteenheid,200
+equivalent-binary-digit factor,equivalent-binaire-cijferige factor,200
+one-ten-thousandth,een tienduizendste,200
+Pakistani monetary unit,Pakistaanse munteenheid,200
+United Arab Emirate monetary unit,Munteenheid van het Verenigde Arabische Emiraat,200
+month of Sundays,maand van zondagen,201
+Cypriot monetary unit,Cypriotische munteenheid,201
+Ivory Coast franc,Ivoorkust frank,201
+one-quintillionth,een triljoenste,201
+Slovakian monetary unit,Slowaakse munteenheid,201
+Japanese monetary unit,Japanse munteenheid,201
+British monetary unit,Britse munteenheid,201
+degree Fahrenheit,graad Fahrenheit,201
+Algerian dinar,Algerijnse dinar,201
+Tunisian dinar,Tunesische dinar,201
+Curie temperature,Curietemperatuur,202
+Qatari monetary unit,Qatarese munteenheid,202
+Dominican monetary unit,Dominicaanse munteenheid,202
+Finnish monetary unit,Finse munteenheid,202
+Kazakhstani monetary unit,Kazachstaanse munteenheid,202
+Turkish monetary unit,Turkse munteenheid,202
+Taiwan dollar,Taiwanese dollar,202
+Moroccan monetary unit,Marokkaanse munteenheid,202
+Gambian monetary unit,Gambiaanse munteenheid,202
+triple-crown season,triple-kroon seizoen,202
+Azerbaijani monetary unit,Azerbeidzjaanse munteenheid,203
+Luxembourg franc,Luxemburgse frank,203
+Algerian centime,Algerijnse centime,203
+Boltzmann's constant,constante van Boltzmann,203
+Sri Lankan monetary unit,Sri Lankaanse munteenheid,203
+United States liquid unit,Vloeibare eenheid in de Verenigde Staten:,203
+one-thirty-second,een-dertig seconden,203
+Costa Rican monetary unit,Costa Ricaanse munteenheid,203
+Fast of Esther,Vasten van Esther,203
+tercentennial,driehonderdste gedenkdag,203
+Tunisian monetary unit,Tunesische munteenheid,204
+one-hundred-thousandth,honderdduizendste,204
+Mauritian monetary unit,Mauritiaanse munteenheid,204
+Bangladeshi monetary unit,Bengaalse munteenheid,204
+Indian monetary unit,Indiase munteenheid,204
+Nepalese monetary unit,Nepalese munteenheid,204
+Chilean monetary unit,Chileense munteenheid,204
+Richter scale,de schaal van Richter,204
+Laotian monetary unit,Laotiaanse munteenheid,204
+Lincoln's Birthday,Lincoln's verjaardag,204
+Tanzanian monetary unit,Tanzaniaanse munteenheid,205
+one-way light time,eenrichtingslichttijd,205
+Afghan monetary unit,Afghaanse munteenheid,205
+Mauritian rupee,Mauritiaanse roepie,205
+Yugoslavian dinar,Joegoslavische dinar,205
+Independence Day,Onafhankelijkheidsdag,205
+Tanzanian shilling,Tanzaniaanse shilling,205
+Saudi Arabian monetary unit,Saoedi-Arabische munteenheid,205
+Astronomical Unit,Astronomische Eenheid,205
+Hindu calendar month,Hindoe kalendermaand,205
+one-sixty-fourth,een-vierenzestigste,206
+Egyptian monetary unit,Egyptische munteenheid,206
+Revolutionary calendar month,Revolutionaire kalendermaand,206
+North Korean won,Noord-Koreaanse won,206
+Argentine monetary unit,Argentijnse munteenheid,206
+Tajikistani monetary unit,Tadzjikistaanse munteenheid,206
+Bahrainian monetary unit,Bahreinse munteenheid,206
+magnetomotive force unit,magnetomotorische krachteenheid,206
+off-season,buiten het seizoen,206
+Fast of the Firstborn,Vasten van de eerstgeborene,206
+South African monetary unit,Zuid-Afrikaanse munteenheid,207
+Armenian monetary unit,Armeense munteenheid,207
+Solemnity of Mary,Hoogfeest van Maria,207
+Surinamese monetary unit,Surinaamse munteenheid,207
+Seychelles monetary unit,Seychellen munteenheid,207
+Lebanese monetary unit,Libanese munteenheid,207
+Icelandic monetary unit,IJslandse munteenheid,207
+Portuguese monetary unit,Portugese munteenheid,207
+Panamanian monetary unit,Panamese munteenheid,207
+Dominion Day,Dag van de heerschappij,207
+United States dollar,Verenigde Staten Dollar,208
+North Korean monetary unit,Noord-Koreaanse munteenheid,208
+Bolivian monetary unit,Boliviaanse munteenheid,208
+Hungarian monetary unit,Hongaarse munteenheid,208
+Peruvian monetary unit,Peruaanse munteenheid,208
+Trinidad and Tobago dollar,Trinidad en Tobago dollar,208
+Sierra Leone monetary unit,Sierra Leone munteenheid,208
+British capacity unit,Britse capaciteitseenheid,208
+sell-by date,uiterste verkoopdatum,208
+Romanian monetary unit,Roemeense munteenheid,208
+one-quadrillionth,een kwart biljoenste,209
+Avogadro's number,Het nummer van Avogadro,209
+Israeli monetary unit,Israëlische munteenheid,209
+Yemeni monetary unit,Jemenitische munteenheid,209
+Moldovan monetary unit,Moldavische munteenheid,209
+Kyrgyzstani monetary unit,Kirgizische munteenheid,209
+track-to-track seek time,track-to-track zoektijd,209
+Tongan monetary unit,Tongaanse munteenheid,209
+Kuwaiti monetary unit,Koeweitse munteenheid,209
+Immaculate Conception,Onbevlekte Ontvangenis,209
+Saints Peter and Paul,Heiligen Peter en Paul,210
+Guatemalan monetary unit,Guatemalteekse munteenheid,210
+Mexican monetary unit,Mexicaanse munteenheid,210
+Georgian monetary unit,Georgische munteenheid,210
+Mauritanian monetary unit,Mauritaanse munteenheid,210
+Susan B Anthony dollar,Susan B Anthony dollar,210
+Nicaraguan monetary unit,Nicaraguaanse munteenheid,210
+Somalian monetary unit,Somalische munteenheid,210
+Systeme International d'Unites,Systeme International d'Unites,210
+El Salvadoran monetary unit,El Salvadoraanse munteenheid,210
+round-trip light time,lichttijd heen en terug,211
+Cape Verde monetary unit,Kaapverdische munteenheid,211
+Central African Republic franc,Centraal-Afrikaanse Republiek frank,211
+Malaysian monetary unit,Maleisische munteenheid,211
+Gregorian calendar month,Gregoriaanse kalendermaand,211
+Indonesian monetary unit,Indonesische munteenheid,211
+American Indian Day,Amerikaanse Indianendag,211
+Holy Innocents' Day,Dag van de Onschuldigen,211
+Ethiopian monetary unit,Ethiopische munteenheid,211
+Texas Independence Day,Texas Onafhankelijkheidsdag,211
+Martin Luther King Jr's Birthday,Martin Luther King Jr's verjaardag,212

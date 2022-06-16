@@ -1,58 +1,57 @@
 EngWord,NldWord,Group
 line,lijn,0
-drive,rit,0
 street,straat,0
-street,straat,0
+track,spoor,0
 trail,pad,0
 avenue,Laan,0
-track,spoor,0
 side road,zijweg,0
 rue,rue,0
-alley,steeg,0
-branch line,zijlijn,1
-ski run,skiloop,1
+ski run,skiloop,0
+mountain trail,bergpad,0
+branch line,zijlijn,0
 highway,snelweg,1
 post road,post weg,1
-mountain trail,bergpad,1
+alley,steeg,1
 driveway,oprit,1
 side street,zijstraat,1
+drive,drijfveer,1
 roadway,rijweg,1
-turnpike,tolweg,1
-local road,lokale weg,1
-main street,Hoofdstraat,2
-mews,mews,2
-cross street,kruispunt,2
+cross street,kruispunt,1
+mews,mews,1
+main street,Hoofdstraat,1
+local road,lokale weg,2
+turnpike,tolweg,2
+piste,piste,2
 trunk line,stamlijn,2
 main drag,hoofdweg,2
 access road,toegangsweg,2
-piste,piste,2
+speedway,speedway,2
 expressway,snelweg,2
 artery,slagader,2
-speedway,speedway,2
-beltway,ringweg,3
-deer trail,hertenspoor,3
-carriageway,rijbaan,3
+beltway,ringweg,2
 skid road,slip weg,3
-highroad,snelweg,3
+carriageway,rijbaan,3
 corduroy,corduroy,3
-portage,overdragen,3
-frontage road,voorgevel,3
-byway,terzijde,3
+deer trail,hertenspoor,3
+turnoff,zet uit,3
+autobahn,autobaan,3
+highroad,snelweg,3
 cattle trail,vee parcours,3
+portage,overdragen,3
+byway,terzijde,3
 divided highway,gescheiden snelweg,4
-autobahn,autobaan,4
-detour,Omleiding,4
+frontage road,voorgevel,4
 interstate,interstatelijk,4
-shortcut,snelkoppeling,4
 blind alley,doodlopende straat,4
+shortcut,snelkoppeling,4
+detour,Omleiding,4
 arterial road,verkeersader,4
 clearway,duidelijk,4
-causeway,verhoogde weg,4
 autostrada,autostrada,4
-loop-line,loop-lijn,5
+loop-line,loop-lijn,4
+causeway,verhoogde weg,5
 thoroughfare,verkeersader,5
-turnoff,uitschakelen,5
 horse-trail,paardenpad,5
 Indian trail,Indiaas pad,5
-one-way street,eenrichtingsverkeer,5
 two-way street,tweerichtingsverkeer,5
+one-way street,eenrichtingsverkeer,5

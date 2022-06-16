@@ -1,0 +1,496 @@
+EngWord,NldWord,Group
+car,auto,0
+van,van,0
+bus,bus,0
+boat,boot,0
+ship,schip,0
+tank,tank,0
+jet,Jet,0
+mobile home,camper,0
+coach,coach,0
+cab,taxi,0
+jeep,jeep,1
+trap,val,1
+sea boat,zeeboot,1
+launch,launch,1
+tender,teder,1
+vessel,schip,1
+rocket,raket,1
+shell,schelp,1
+water cart,waterkar,1
+tin can,blikje,1
+bicycle,fiets,2
+laundry cart,waskar,2
+yacht,jacht,2
+missile,raket,2
+compact,compact,2
+ark,ark,2
+wagon,wagen,2
+coupe,coupe,2
+ordinary,normaal,2
+balloon,ballon,2
+berlin,berlijn,3
+canoe,kano,3
+junk,rommel,3
+surrey,Surrey,3
+sedan,sedan,3
+carriage,koets,3
+buzz bomb,zoembom,3
+tea cart,thee kar,3
+craft,ambacht,3
+mail car,post auto,3
+wreck,wrak,4
+racer,racer,4
+fighter,vechter,4
+club car,club auto,4
+hulk,hulk,4
+technical,technisch,4
+pirate,piraat,4
+punt,punt,4
+corvette,korvet,4
+weather ship,weerschip,4
+bottom,onderkant,5
+racing boat,race boot,5
+liner,voering,5
+pickup,oppakken,5
+ferry,veerboot,5
+cruiser,kruiser,5
+tractor,tractor,5
+cattle car,veewagen,5
+buggy,buggy,5
+bark,blaffen,5
+sports car,sportwagen,6
+cutter,snijder,6
+smoker,roker,6
+river boat,rivierboot,6
+laundry truck,waswagen,6
+sled,slee,6
+tank car,tankwagen,6
+smack,slaan,6
+electric,elektrisch,6
+hand truck,steekwagen,6
+horse cart,paardenkar,7
+brig,brik,7
+pony cart,pony kar,7
+half track,half spoor,7
+pilot boat,loodsboot,7
+gig,optreden,7
+flying boat,vliegboot,7
+bumper car,botsauto,7
+scooter,scooter,7
+ice wagon,ijswagen,7
+guard ship,wachtschip,8
+small ship,klein schip,8
+chariot,wagen,8
+minivan,busje,8
+streetcar,tram,8
+picket,piket,8
+lander,lander,8
+shooting brake,schietrem,8
+milk float,melkwagen,8
+drone,drone,8
+school ship,schoolschip,9
+tank engine,tank motor,9
+shopping cart,winkelwagen,9
+bassinet,wieg,9
+truck,vrachtwagen,9
+sailing vessel,zeilschip,9
+clarence,clarence,9
+carrier,vervoerder,9
+slip coach,slip coach,9
+kayak,kajakken,9
+trail bike,trail fiets,10
+hot rod,hete staaf,10
+motorcycle,motorfiets,10
+sister ship,zusterschip,10
+dinky,dinky,10
+fishing boat,vissersboot,10
+touring car,toerwagen,10
+aircraft,vliegtuigen,10
+small boat,kleine boot,10
+panzer,panzer,10
+rowing boat,roeiboot,11
+delivery truck,vrachtwagen,11
+sloop,sloep,11
+clipper,klipper,11
+privateer,kaper,11
+pilot engine,pilootmotor,11
+convertible,cabriolet,11
+pontoon,ponton,11
+frigate,fregat,11
+pace car,tempo auto,11
+canal boat,kanaalboot,12
+skiff,skiff,12
+gondola,gondel,12
+test rocket,test raket,12
+coal car,kolen auto,12
+weapons carrier,wapendrager,12
+longboat,sloep,12
+airplane,vliegtuig,12
+milk wagon,melkwagen,12
+police boat,politie boot,12
+moving van,verhuiswagen,13
+corsair,zeerover,13
+stock car,voorraad auto,13
+dhow,dhow,13
+wain,wain,13
+nautilus,nautilus,13
+cargo ship,vrachtschip,13
+slave ship,slavenschip,13
+space probe,ruimtesonde,13
+airbus,luchtbus,13
+sidewinder,zijwind,14
+ambulance,ambulance,14
+helicopter,helikopter,14
+amphibian,amfibie,14
+limousine,limousine,14
+hackney,hackney,14
+police van,politie busje,14
+galley,kombuis,14
+trailer,aanhangwagen,14
+sulky,sulky,14
+sound truck,geluidswagen,15
+troika,trojka,15
+cruise ship,Cruise schip,15
+motor vehicle,motorvoertuig,15
+cruise missile,kruisraket,15
+finisher,afmaker,15
+serving cart,serveerwagen,15
+roadster,roadster,15
+treasure ship,schat schip,15
+limber,lenig,15
+rigger,tuiger,16
+pung,Pung,16
+water wagon,waterwagen,16
+dinghy,bijboot,16
+cart,winkelwagentje,16
+dune buggy,duinbuggy,16
+delta wing,deltavleugel,16
+barrow,kruiwagen,16
+forklift,heftruck,16
+ketch,kitsch,16
+landau,landauer,17
+guard boat,bewaker boot,17
+space shuttle,ruimteschip,17
+fire engine,brandweerwagen,17
+cabin car,cabine auto,17
+panda car,panda auto,17
+iron horse,ijzeren paard,17
+hospital ship,hospitaalschip,17
+sailboat,zeilboot,17
+luge,rodelen,17
+transport ship,transportschip,18
+hatchback,hatchback,18
+pilot balloon,proefballon,18
+trial balloon,proefballon,18
+steamboat,stoomboot,18
+galleon,galjoen,18
+capital ship,kapitaal schip,18
+tracked vehicle,rupsvoertuig,18
+transporter,vervoerder,18
+tow truck,takelwagen,18
+sleeping car,slaaprijtuig,19
+paddle steamer,raderboot,19
+ladder truck,ladderwagen,19
+trawler,trawler,19
+remise,remise,19
+bobsled,bobslee,19
+aircraft carrier,vliegdekschip,19
+carrack,kraak,19
+mountain bike,Mountain bike,19
+hardtop,hardtop,19
+factory ship,fabrieksschip,20
+tramcar,tram,20
+steamer,stoomboot,20
+switch engine,motor wisselen,20
+schooner,schoener,20
+wherry,wherry,20
+Caterpillar,Rups,20
+submarine,onderzeeër,20
+scull,wrikken,20
+hansom,hansom,20
+passenger car,personenwagen,21
+lugger,logger,21
+chuck wagon,chuck wagen,21
+skateboard,skateboard,21
+dump truck,Vuilniswagen,21
+garbage truck,vuilniswagen,21
+sampan,sampan,21
+surface ship,oppervlakte schip,21
+military vehicle,militair voertuig,21
+sport utility,sportfaciliteit,21
+kamikaze,kamikaze,22
+assault gun,aanvalsgeweer,22
+freight car,goederenwagon,22
+beach wagon,strandwagen,22
+camper,kampeerder,22
+bandwagon,bandwagon,22
+houseboat,woonboot,22
+pastry cart,patisserie,22
+battleship,slagschip,22
+dining car,restauratiewagen,22
+cargo liner,vrachtschip,23
+stanhope,stanhope,23
+dray,droevig,23
+loaner,leenman,23
+yawl,geeuwen,23
+caisson,caisson,23
+baby buggy,baby buggy,23
+catamaran,catamaran,23
+handcart,handkar,23
+sharpie,scherpte,23
+bareboat,bareboat,24
+kite balloon,kabelballon,24
+banana boat,bananen boot,24
+container ship,containerschip,24
+felucca,felucca,24
+passenger van,passagiersbusje,24
+brougham,brougham,24
+mackinaw,mackinaw,24
+airliner,vliegtuig,24
+Humvee,Humvee,24
+minicab,minicab,25
+coracle,coracle,25
+passenger ship,passagiersschip,25
+trireme,trireem,25
+moped,bromfiets,25
+welcome wagon,welkom wagen,25
+picket boat,piket boot,25
+water scooter,waterscooter,25
+skidder,slipper,25
+luxury liner,luxe voering,25
+showboat,showboot,26
+guided missile,geleide raket,26
+bulldozer,bulldozer,26
+parlor car,salon auto,26
+racing gig,race optreden,26
+locomotive,locomotief,26
+patrol boat,patrouilleboot,26
+Exocet,Exocet,26
+watering cart,sproeiwagen,26
+stagecoach,postkoets,26
+traction engine,tractiemotor,27
+refrigerator car,koelkast auto,27
+baggage car,bagagewagen,27
+covered wagon,bedekte wagon,27
+MANPAD,MANPAD,27
+icebreaker,ijsbreker,27
+go-kart,skelter,27
+picket ship,piketschip,27
+propjet,propjet,27
+rolling stock,rollend materieel,27
+oil tanker,Olietanker,28
+keelboat,kielboot,28
+bomber,bommenwerper,28
+skibob,skibob,28
+single prop,enkele steun,28
+droshky,droshky,28
+abandoned ship,verlaten schip,28
+bumboat,bumboat,28
+personnel carrier,personeelsvervoerder,28
+landing craft,landingsvaartuig,28
+unicycle,eenwieler,29
+dumpcart,dumpcar,29
+gharry,gharry,29
+speedboat,speedboot,29
+toboggan,rodelbaan,29
+doodlebug,doodlebug,29
+safety bicycle,veiligheidsfiets,29
+swamp buggy,moeras buggy,29
+steamroller,stoomwals,29
+hearse,lijkwagen,29
+minibike,minibike,30
+tugboat,sleepboot,30
+scow,schouwen,30
+stockcar,stockcar,30
+fanjet,fanjet,30
+oxcart,ossekar,30
+wheeled vehicle,wielvoertuig,30
+motorboat,motorboot,30
+recreational vehicle,recreatie voertuig,30
+funny wagon,grappige wagen,30
+cabin cruiser,kajuitkruiser,31
+motor scooter,motor scooter,31
+flagship,vlaggenschip,31
+shipwreck,schipbreuk,31
+trimaran,trimaran,31
+cabin liner,cabine voering,31
+barouche,barouche,31
+trailer truck,vrachtwagen met aanhanger,31
+bogy,boeman,31
+Indiaman,Indiër,31
+barge,binnenschip,32
+monoplane,eendekker,32
+starship,ruimteschip,32
+mailboat,mailboot,32
+hovercraft,hovercraft,32
+tandem trailer,tandemtrailer,32
+airship,luchtschip,32
+PT boat,PT boot,32
+Stinger,Stinger,32
+space capsule,ruimtecapsule,32
+racing skiff,race skiff,33
+cargo helicopter,vrachthelikopter,33
+biplane,tweedekker,33
+hang glider,deltavlieger,33
+caroche,caroche,33
+destroyer,torpedojager,33
+catboat,catboat,33
+fireboat,blusboot,33
+torpedo boat,torpedoboot,33
+cockleshell,kokkels,33
+tricycle,driewieler,34
+spacecraft,ruimtevaartuig,34
+gypsy cab,zigeuner taxi,34
+windjammer,windjammer,34
+brigantine,brigantijn,34
+ironclad,ijzersterk,34
+jolly boat,vrolijke boot,34
+Pullman,Pullman,34
+lightship,lichtschip,34
+twinjet,twinjet,34
+outrigger canoe,stempelkano,35
+snowmobile,sneeuwscooter,35
+shuttle helicopter,shuttle helikopter,35
+battle cruiser,gevechtskruiser,35
+pedicab,fietstaxi,35
+buckboard,buckboard,35
+sounding rocket,klinkende raket,35
+knockabout,klopjacht,35
+gondola car,gondel auto,35
+lorry,vrachtwagen,35
+Model T,Model T,36
+Minuteman,Minuteman,36
+jumbojet,jumbojet,36
+dogcart,hondenkar,36
+side-wheeler,zijwieler,36
+cattleship,veeschip,36
+handcar,handwagen,36
+Sno-cat,Sno-kat,36
+raceabout,race over,36
+dugout canoe,boomstamkano,36
+attack submarine,aanval onderzeeër,37
+subcompact,subcompact,37
+stealth fighter,camouflagestrijder,37
+jinrikisha,jinriksha,37
+surfboat,surfboot,37
+dive bomber,duik bommenwerper,37
+stealth aircraft,stealth-vliegtuigen,37
+guided missile cruiser,geleide raketkruiser,37
+nonsmoker,niet-roker,37
+camper trailer,camper aanhanger,37
+minesweeper,mijnenveger,38
+glider,zweefvliegtuig,38
+whaleboat,walvisboot,38
+applecart,appelkar,38
+angledozer,hoekdozer,38
+autogiro,autogiro,38
+steam locomotive,stoomlocomotief,38
+troop carrier,troepen vervoerder,38
+interceptor,onderschepper,38
+pocket battleship,zak slagschip,38
+dogsled,hondenslee,39
+post chaise,chaise longue,39
+lifeboat,reddingsboot,39
+snowplow,sneeuwploeg,39
+warship,oorlogsschip,39
+tank destroyer,tankvernietiger,39
+armored car,gepantserde auto,39
+skyhook,lucht haak,39
+stealth bomber,stealth bommenwerper,39
+chaise,chaise longue,39
+orthopter,orthopter,40
+sloop of war,oorlogssloep,40
+lunar excursion module,maanexcursie module,40
+dredger,baggerschip,40
+auxiliary research submarine,hulponderzoek onderzeeër,40
+ballistic missile,ballistische raket,40
+shunter,rangeerder,40
+choo-choo,choo-choo,40
+push-bike,duw fiets,40
+whaler,walvisvaarder,40
+tanker plane,tanker vliegtuig,41
+bookmobile,boekenmobiel,41
+diesel locomotive,diesel locomotief,41
+minicar,kleine auto,41
+armored vehicle,gepantserd voertuig,41
+three-decker,driedekker,41
+hangar queen,hangar koningin,41
+meteorological balloon,meteorologische ballon,41
+tramp steamer,zwerver stoomboot,41
+destroyer escort,torpedojagerescorte,41
+four-wheeler,vierwieler,42
+supertanker,supertanker,42
+submersible,onderdompelbaar,42
+reconnaissance vehicle,verkenningsvoertuig,42
+bloodmobile,bloedmobiel,42
+electric locomotive,elektrische locomotief,42
+fleet ballistic missile submarine,vloot ballistische raket onderzeeër,42
+brilliant pebble,briljante kiezelsteen,42
+reconnaissance plane,verkenningsvliegtuig,42
+intercontinental ballistic missile,intercontinentale ballistische raket,42
+armored personnel carrier,gepantserde personeelscarrier,43
+propeller plane,propeller vliegtuig,43
+seaplane,watervliegtuig,43
+dreadnought,angstaanjagend,43
+barrage balloon,versperringsballon,43
+flatcar,platte wagen,43
+gunboat,kanonneerboot,43
+sternwheeler,sternwheeler,43
+sharpshooter,scherpschutter,43
+blimp,slap luchtschip,43
+guided missile frigate,geleide raket fregat,44
+fore-and-after,voor en na,44
+tumbrel,vuilniswagen,44
+iceboat,ijsschuitje,44
+multistage rocket,meertraps raket,44
+gas guzzler,benzineslurper,44
+jaunting car,pittige auto,44
+pantechnicon,pantechnicon,44
+golfcart,golfwagentje,44
+sailing warship,zeilend oorlogsschip,44
+horsecar,paardenwagen,45
+double-prop,dubbele prop,45
+boxcar,gesloten goederenwagen,45
+jetliner,straalvliegtuig,45
+floatplane,drijf vliegtuig,45
+hydrofoil,draagvleugelboot,45
+birchbark canoe,berkenbast kano,45
+outboard motorboat,buitenboord motorboot,45
+minelayer,mijnenlegger,45
+man-of-war,oorlogsschip,45
+warplane,gevechtsvliegtuig,46
+velocipede,snelheidsduivel,46
+troopship,troepenschip,46
+ski-plane,ski-vliegtuig,46
+horseless carriage,koets zonder paard,46
+Liberty ship,Vrijheidsschip,46
+widebody aircraft,widebody-vliegtuigen,46
+used-car,gebruikte auto,46
+gas-turbine ship,gasturbine schip,46
+air-to-ground missile,lucht-grondraket,46
+guard's van,beveiligingsbusje,47
+surface-to-air missile,Luchtdoelraket,47
+shrimper,garnalenvisser,47
+boneshaker,bottenschudder,47
+four-wheel drive,vierwielaandrijving,47
+hot-air balloon,heteluchtballon,47
+blockade-runner,blokkade-runner,47
+square-rigger,vierkante rigger,47
+narrowbody aircraft,narrowbody-vliegtuigen,47
+multiengine airplane,meermotorig vliegtuig,47
+diesel-electric locomotive,diesel-elektrische locomotief,48
+Stanley Steamer,Stanley Stoomboot,48
+torpedo-boat destroyer,torpedoboot torpedobootjager,48
+nuclear-powered ship,nucleair aangedreven schip,48
+air-to-air missile,lucht-lucht raket,48
+antiballistic missile,antiballistische raket,48
+heavier-than-air craft,zwaarder dan luchtvaartuigen,48
+car-ferry,veerboot voor auto's,48
+self-propelled vehicle,zelfrijdend voertuig,48
+heat-seeking missile,hittezoekende raket,48
+horse-drawn vehicle,door paarden getrokken voertuig,49
+single-rotor helicopter,helikopter met één rotor,49
+diesel-hydraulic locomotive,dieselhydraulische locomotief,49
+bicycle-built-for-two,fiets-gebouwd-voor-twee,49
+lighter-than-air craft,lichter dan luchtvaartuigen,49

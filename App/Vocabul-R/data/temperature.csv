@@ -4,22 +4,22 @@ mercury,kwik,0
 flash point,vlampunt,0
 chill,chillen,0
 warmth,warmte,0
-dew point,dauwpunt,0
 coldness,koude,0
 chilliness,kilte,0
+dew point,dauwpunt,0
 white heat,witte hitte,0
 boiling point,kookpunt,0
-simmer,sudderen,1
-frostiness,vorst,1
 room temperature,kamertemperatuur,1
-hotness,heetheid,1
+simmer,sudderen,1
 body temperature,lichaamstemperatuur,1
 absolute zero,absolute nulpunt,1
+hotness,heetheid,1
 freezing point,vriespunt,1
+frostiness,vorst,1
+lukewarmness,lauwheid,1
 absolute temperature,absolute temperatuur,1
 fieriness,vurigheid,1
-lukewarmness,lauwheid,1
-torridity,verzengendheid,2
 calefaction,verhitting,2
+torridity,verzengendheid,2
 basal body temperature,basale lichaamstemperatuur,2
 Curie temperature,Curietemperatuur,2

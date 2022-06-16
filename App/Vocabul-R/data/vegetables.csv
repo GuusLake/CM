@@ -4,173 +4,172 @@ pepper,peper,0
 bean,Boon,0
 onion,ui,0
 cos,omdat,0
-soy,soja,0
 bell pepper,paprika,0
+soy,soja,0
 chili,Chili,0
 tomato,tomaat,0
 marrow,merg,0
-cabbage,kool,1
-squash,Squash,1
-pea,erwt,1
-wax bean,wasboon,1
-lettuce,sla,1
+squash,squash,1
 globe pepper,bolpeper,1
-pumpkin,pompoen,1
-yam,yam,1
+cabbage,kool,1
+wax bean,wasboon,1
+pea,erwt,1
 string bean,snijboon,1
+lettuce,sla,1
 yam,yam,1
-beet,biet,2
-carrot,wortel,2
+pumpkin,pompoen,1
+carrot,wortel,1
 head cabbage,kopkool,2
-purple onion,paarse ui,2
+beet,biet,2
 leek,prei,2
-green onion,groene ui,2
-navy bean,marineboon,2
+root vegetable,knolgewas,2
+goa bean,goa bean,2
+potato,aardappel,2
 bean sprout,taugé,2
-greens,groentjes,2
 lima bean,limaboon,2
-root vegetable,knolgewas,3
-hot pepper,hete peper,3
-goa bean,goa bean,3
-potato,aardappel,3
-sprout,spruit,3
-taro,taro,3
+taro,taro,2
+green onion,groene ui,2
+shell bean,shell boon,3
+field pea,velderwt,3
+spinach,spinazie,3
 gumbo,gumbo,3
 mustard,mosterd-,3
-shell bean,shell boon,3
-broccoli,broccoli,3
-fennel,venkel,4
-cayenne,cayenne,4
-celery,selderij,4
-leaf lettuce,blad sla,4
-asparagus,asperges,4
-turnip,raap,4
-lentil,Linze,4
+sprout,spruit,3
+purple onion,paarse ui,3
+turnip,raap,3
+cayenne,cayenne,3
+hot pepper,hete peper,3
+broccoli,broccoli,4
 fresh bean,verse boon,4
-bok choy,paksoi,4
+greens,groentjes,4
+navy bean,marineboon,4
+leaf lettuce,blad sla,4
+lentil,linze,4
+celery,selderij,4
+sweet pepper,zoete peper,4
+fennel,venkel,4
 black bean,zwarte Boon,4
-truffle,truffel,5
-common bean,gewone boon,5
-cherry tomato,kerstomaat,5
-field pea,velderwt,5
-spinach,spinazie,5
-sweet pepper,zoete peper,5
-red cabbage,rode kool,5
-radish,radijs,5
 snap bean,sperzieboon,5
+bok choy,paksoi,5
 green bean,groene boon,5
-salad green,salade groen,6
-mushroom,paddestoel,6
+cherry tomato,kerstomaat,5
+common bean,gewone boon,5
+red cabbage,rode kool,5
+truffle,truffel,5
+sorrel,zuring,5
+radish,radijs,5
+salad green,salade groen,5
+asparagus,asperges,6
+shallot,sjalot,6
 tabasco,tabasco,6
-sorrel,zuring,6
-chard,snijbiet,6
-green pepper,groene paprika,6
-artichoke,artisjok,6
 cucumber,komkommer,6
 kidney bean,bruine bonen,6
-shallot,sjalot,6
-chipotle,chipotle,7
+chipotle,chipotle,6
+eggplant,aubergine,6
+mushroom,paddestoel,6
+artichoke,artisjok,6
+green pepper,groene paprika,6
+gherkin,augurk,7
 raw vegetable,rauwe groente,7
-summer squash,zomer squash,7
-eggplant,aubergine,7
+zucchini,courgette,7
 brussels sprouts,spruitjes,7
 cauliflower,bloemkool,7
-gherkin,augurk,7
-plum tomato,pruimtomaat,7
 oyster plant,oesterplant,7
 jalapeno,jalapeno,7
-zucchini,courgette,8
-garden cress,tuinkers,8
-yellow squash,gele pompoen,8
-green pea,groene erwt,8
-cress,tuinkers,8
-cushaw,cushaw,8
-plantain,weegbree,8
-bamboo shoot,bamboe-scheut,8
+garden cress,tuinkers,7
+cress,tuinkers,7
+yellow squash,gele pompoen,7
+summer squash,zomer squash,8
 chicory,cichorei,8
-pinto bean,pinto boon,8
-julienne,julienne,9
-winter squash,winterpompoen,9
+plum tomato,pruimtomaat,8
+chard,snijbiet,8
+plantain,weegbree,8
+green pea,groene erwt,8
+bamboo shoot,bamboe-scheut,8
+snow pea,sneeuw erwt,8
+winter squash,winterpompoen,8
+sweet potato,zoete aardappel,8
 fava bean,tuinboon,9
-sweet potato,zoete aardappel,9
-snow pea,sneeuw erwt,9
-savoy cabbage,savooiekool,9
-rutabaga,koolraap,9
-celtuce,celtuce,9
-crookneck,kromhals,9
+pinto bean,pinto boon,9
+cushaw,cushaw,9
+julienne,julienne,9
 sugar beet,suikerbiet,9
+Belgian endive,witlof,9
+cardoon,kardoen,9
+celtuce,celtuce,9
+frijole,frijole,9
+savoy cabbage,savooiekool,9
 crisphead lettuce,kropsla,10
+potherb,potherb,10
+rutabaga,koolraap,10
 jacket potato,aardappel in de schil,10
-frijole,frijole,10
 kohlrabi,koolraap,10
-hubbard squash,hubbard squash,10
-beet green,bietengroen,10
-kale,boerenkool,10
+watercress,waterkers,10
 baked potato,gebakken aardappel,10
-acorn squash,eikelpompoen,10
-white turnip,witte raap,10
-potherb,potherb,11
-radicchio,radicchio,11
-Belgian endive,witlof,11
-turnip greens,raapstelen,11
+kale,boerenkool,10
+hubbard squash,hubbard squash,10
+turnip greens,raapstelen,10
+crookneck,kromhals,11
+beet green,bietengroen,11
+acorn squash,eikelpompoen,11
+white turnip,witte raap,11
+pieplant,rabarber,11
+Bibb lettuce,Bibb sla,11
 scarlet runner,scharlaken loper,11
+french fries,Franse frietjes,11
 parsnip,pastinaak,11
-tomatillo,tomatillo,11
-winter cress,winterkers,11
 legume,peulvrucht,11
-watercress,waterkers,11
-french fries,Franse frietjes,12
-cardoon,kardoen,12
-field soybean,veld sojabonen,12
+winter cress,winterkers,12
+tomatillo,tomatillo,12
 wild spinach,wilde spinazie,12
-spaghetti squash,spaghettipompoen,12
-Bibb lettuce,Bibb sla,12
-green soybean,groene sojaboon,12
 sugar snap pea,sugar snap erwt,12
-home fries,huisgemaakte friet,12
-flageolet,flageolet,12
-pieplant,rabarber,13
+green soybean,groene sojaboon,12
+field soybean,veld sojabonen,12
+spaghetti squash,spaghettipompoen,12
+radicchio,radicchio,12
+collards,halsbanden,12
+butterhead lettuce,botersla,12
+home fries,huisgemaakte friet,13
 mashed potato,aardappelpuree,13
 butternut squash,flespompoen,13
+flageolet,flageolet,13
 artichoke heart,artisjok hart,13
-collards,halsbanden,13
-butterhead lettuce,botersla,13
-split-pea,split-erwt,13
+sieva bean,sievaboon,13
 alfalfa sprout,alfalfa spruit,13
 salad burnet,salade burnet,13
-Bermuda onion,Bermuda ui,13
-cajan pea,cajan erwt,14
-pascal celery,pascal bleekselderij,14
+pascal celery,pascal bleekselderij,13
+split-pea,split-erwt,13
+cocozelle,cocoszelle,14
 Fordhooks,Fordhaken,14
 chickpea,kikkererwten,14
-sieva bean,sievaboon,14
-Vidalia onion,Vidalia ui,14
 dandelion green,paardebloem groen,14
+Boston lettuce,Boston sla,14
 celeriac,knolselderij,14
+Spanish onion,Spaanse ui,14
 broccoli rabe,Broccoli Rabe,14
-buttercrunch,botercrunch,14
-buttercup squash,boterbloempompoen,15
-haricot vert,haricot vert,15
-turban squash,tulbandpompoen,15
-cocozelle,cocoszelle,15
-Boston lettuce,Boston sla,15
-pimento,Spaanse peper,15
-salsify,schorseneren,15
-Spanish onion,Spaanse ui,15
-Chinese cabbage,Chinese kool,15
+buttercup squash,boterbloempompoen,14
+turban squash,tulbandpompoen,14
+Bermuda onion,Bermuda ui,15
 scorzonera,schorseneer,15
-beefsteak tomato,biefstuk tomaat,16
-French sorrel,Franse zuring,16
+cajan pea,cajan erwt,15
+salsify,schorseneren,15
+haricot vert,haricot vert,15
+pimento,Spaanse peper,15
+Chinese cabbage,Chinese kool,15
+buttercrunch,botercrunch,15
+Vidalia onion,Vidalia ui,15
+French sorrel,Franse zuring,15
 marrowfat pea,mergvet erwt,16
-mangel-wurzel,mangel-wurzel,16
-lamb's-quarter,lamskwartier,16
+beefsteak tomato,biefstuk tomaat,16
 chicory escarole,witlof escarole,16
-Kentucky wonder,Kentucky wonder,16
+lamb's-quarter,lamskwartier,16
+mangel-wurzel,mangel-wurzel,16
 cruciferous vegetable,kruisbloemige groente,16
-chop-suey greens,Chop Suey Groenten,16
+pattypan squash,pattypan pompoen,16
+solanaceous vegetable,solanaceous groente,16
 winter crookneck squash,winter Crookneck squash,16
-black-eyed pea,erwt met zwarte ogen,17
-pattypan squash,pattypan pompoen,17
-solanaceous vegetable,solanaceous groente,17
-Jerusalem artichoke,Artisjok van Jeruzalem,17
+black-eyed pea,erwt met zwarte ogen,16
+Kentucky wonder,Kentucky wonder,17
+chop-suey greens,Chop Suey Groenten,17
 Uruguay potato,Uruguayaanse aardappel,17
+Jerusalem artichoke,Artisjok van Jeruzalem,17

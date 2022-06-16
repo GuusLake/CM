@@ -1,618 +1,593 @@
 EngWord,NldWord,Group
 bass,bas,0
 jack,jack,0
+cisco,cisco,0
+salmon,Zalm,0
 sole,zool,0
 char,char,0
-salmon,Zalm,0
-cisco,cisco,0
 shark,haai,0
-ray,straal,0
+pike,snoek,0
 trout,forel,0
-ling,leng,0
+northern pike,Snoek,0
+ray,straal,1
 ling,leng,1
-pike,snoek,1
-sierra,sierra,1
-northern pike,Snoek,1
 skate,vleet,1
+sierra,sierra,1
 gar,gar,1
 eel,aal,1
+drum,trommel,1
 liza,liza,1
-tuna,tonijn,1
-tuna,tonijn,1
-brit,britse,2
-sweeper,veger,2
-hind,hindi,2
-carp,karper,2
-parr,parr,2
-sturgeon,steur,2
-flounder,bot,2
-drum,trommel,2
+sleeper,slaper,1
+flounder,bot,1
+sucker,sukkel,2
 perch,baars,2
+rudd,Rudd,2
 parr,parr,2
-sleeper,slaper,3
-herring,haring,3
-perch,baars,3
-rudd,Rudd,3
-game fish,wild vis,3
-sucker,sukkel,3
-grunt,grom,3
-shad,elft,3
+sweeper,veger,2
+herring,haring,2
+shad,elft,2
+grunt,grom,2
+tuna,tonijn,2
+hind,hindi,2
 yellow bass,gele bas,3
+brit,britse,3
+sturgeon,steur,3
+carp,karper,3
+tetra,tetra,3
+brill,griet,3
+game fish,wild vis,3
+coho,coho,3
 rock bass,rock bas,3
-mullet,matje,4
-mullet,matje,4
-sea bass,zeebaars,4
-flame fish,vlam vis,4
-tetra,tetra,4
-brill,griet,4
-coho,coho,4
-mako,mako,4
-cow shark,koe haai,4
+sea bass,zeebaars,3
 moray,murene,4
+mako,mako,4
+manta,manta,4
+mullet,matje,4
+cow shark,koe haai,4
+coney,coney,4
+minnow,voorn,4
+dory,dory,4
+yellow jack,gele jack,4
+cat shark,kat haai,4
 sand sole,zandzool,5
-cat shark,kat haai,5
-coney,coney,5
-manta,manta,5
 rough fish,ruwe vis,5
-minnow,voorn,5
-dory,dory,5
+wahoo,wahoo,5
 marlin,marlijn,5
 whitefish,witvis,5
+snapper,snapper,5
+sand lance,zandlans,5
 piranha,piranha,5
-snapper,snapper,6
-goldfish,goudvis,6
-snapper,snapper,6
+worm fish,worm vis,5
+pompano,pompano,5
 catfish,meerval,6
-whiting,wijting,6
-wahoo,wahoo,6
+pollack,koolvis,6
+flame fish,vlam vis,6
+young fish,jonge vis,6
 chinook,chinook,6
-whiting,wijting,6
-sea raven,zee raaf,6
-worm fish,worm vis,6
-halibut,heilbot,7
-pollack,koolvis,7
-pompano,pompano,7
-sand lance,zandlans,7
-hake,heek,7
+hake,heek,6
+halibut,heilbot,6
+goldfish,goudvis,6
+tarpon,tarpon,6
+cod,kabeljauw,6
+mollie,mollie,7
+lemon sole,tongschar,7
+whiting,wijting,7
+sea raven,zee raaf,7
+sea trout,zeeforel,7
+runner,hardloper,7
 margate,margate,7
-tarpon,tarpon,7
-yellow jack,gele jack,7
-sea trout,zeeforel,7
-sea trout,zeeforel,7
-young fish,jonge vis,8
-whiting,wijting,8
-mackerel,makreel,8
-mollie,mollie,8
-guppy,guppy,8
-cod,kabeljauw,8
-lemon sole,tongschar,8
-lemon sole,tongschar,8
-buffalo fish,buffel vis,8
-bony fish,beenvis,8
-windowpane,ruit,9
-bonito,bonito,9
-scad,scad,9
-bonito,bonito,9
-runner,hardloper,9
-goby,goby,9
-scup,scup,9
+guppy,guppy,7
+bony fish,beenvis,7
+mackerel,makreel,7
+goby,goby,8
+scad,scad,8
+bonito,bonito,8
+windowpane,ruit,8
+black bass,zwarte bas,8
+brook trout,beekforel,8
+scup,scup,8
+sockeye,sok oog,8
+permit,vergunning,8
+porgy,porgy,8
+cero,cero,9
+buffalo fish,buffel vis,9
+stone bass,stenen bas,9
+puffer,puffer,9
+conger,conger,9
+roach,kakkerlak,9
 fish doctor,vis dokter,9
-scup,scup,9
-brook trout,beekforel,9
-puffer,puffer,10
-sockeye,sok oog,10
-conger,conger,10
-porgy,porgy,10
-permit,vergunning,10
-cero,cero,10
-roach,kakkerlak,10
+tench,zeelt,9
+angel shark,engel haai,9
+haddock,schelvis,9
+eagle ray,adelaarsrog,10
+food fish,voedsel vis,10
+plaice,schol,10
+beluga,beloega,10
 sunfish,maanvis,10
-angel shark,engel haai,10
-black bass,zwarte bas,10
-lake trout,meer forel,11
+summer flounder,zomerbot,10
+sand tiger,zand tijger,10
+wrasse,lipvis,10
+tiger shark,tijgerhaai,10
+hammerhead,hamerkop,10
 whiff,vleugje,11
-stone bass,stenen bas,11
-tench,zeelt,11
-plaice,schol,11
-beluga,beloega,11
-pomfret,pomfret,11
-food fish,voedsel vis,11
-tiger shark,tijgerhaai,11
-sailfish,zeilvis,11
-hammerhead,hamerkop,12
-summer flounder,zomerbot,12
-sardine,sardine,12
+cobia,cobia,11
+climbing perch,klimbaars,11
+argentine,Argentijns,11
+sand dab,zand schar,11
+lake trout,meer forel,11
+sardine,sardine,11
+pogge,pogge,11
+barracuda,barracuda,11
+turbot,tarbot,11
+slippery dick,gladde lul,12
+smelt,spiering,12
 sawfish,zaagvis,12
-cobia,cobia,12
-pogge,pogge,12
-climbing perch,klimbaars,12
+gurnard,poon,12
+groundfish,bodemvis,12
 blue shark,blauwe haai,12
-wrasse,lipvis,12
-eagle ray,adelaarsrog,12
-capelin,lodde,13
-platy,platy,13
-sand tiger,zand tijger,13
-lemon shark,citroenhaai,13
-gurnard,poon,13
+capelin,lodde,12
+platy,platy,12
+sea chub,zeevoorn,12
+chub,kopvoorn,12
 poacher,stroper,13
-slippery dick,gladde lul,13
-haddock,Schelvis,13
-barracuda,barracuda,13
-turbot,tarbot,13
-carpet shark,tapijt haai,14
-whale shark,walvis haai,14
-sand dab,zand schar,14
+sailfish,zeilvis,13
+flatfish,platvis,13
+pomfret,pomfret,13
+remora,remora,13
+blenny,blenny,13
+lemon shark,citroenhaai,13
+winter flounder,winterbot,13
+redfish,rode vis,13
+escolar,escolar,13
+anchovy,ansjovis,14
+yellow perch,gele baars,14
+barbu,barbu,14
+white mullet,witte mul,14
+rock hind,rock hinde,14
 bull shark,stierenhaai,14
-smelt,spiering,14
-sea chub,zeevoorn,14
-groundfish,bodemvis,14
+whale shark,walvis haai,14
+carpet shark,tapijt haai,14
+grouper,tandbaars,14
 spearfish,speervis,14
-chub,kopvoorn,14
-argentine,Argentijns,14
-yellow perch,gele baars,15
-rock hind,rock hinde,15
-redfish,rode vis,15
-scrod,scrod,15
-barbu,barbu,15
-lingcod,lingcod,15
-remora,remora,15
-blenny,blenny,15
-flashlight fish,zaklamp vis,15
-escolar,escolar,15
-croaker,croaker,16
-winter flounder,winterbot,16
-red drum,rode trommel,16
+swordfish,zwaardvis,15
+croaker,croaker,15
+red drum,rode trommel,15
+damselfish,juffer,15
+gunnel,gunnel,15
+whitebait,witvis,15
+bonefish,bonefish,15
+brown trout,bruine forel,15
+rock sea bass,rock zeebaars,15
+bluegill,bluegill,15
+scrod,scrod,16
 sculpin,sculpin,16
-white mullet,witte mul,16
-flatfish,platvis,16
-codling,codling,16
-bonefish,bonefish,16
-spawner,spawner,16
-damselfish,juffer,16
-whitebait,witvis,17
-sild,sild,17
-swordfish,zwaardvis,17
-grouper,tandbaars,17
+pompon,pompon,16
+blue pike,blauwe snoek,16
+flashlight fish,zaklamp vis,16
+butterfly ray,vlinderstraal,16
+shanny,shanny,16
+devil ray,duivel straal,16
+butterfly fish,Koraalvlinder,16
+flying fish,vliegende vis,16
 gudgeon,grondel,17
-pompon,pompon,17
-brown trout,bruine forel,17
-anchovy,ansjovis,17
-rock sea bass,rock zeebaars,17
-blue pike,blauwe snoek,17
-shanny,shanny,18
-grey flounder,grijze bot,18
-gunnel,gunnel,18
-tautog,tautog,18
-oyster fish,oestervissen,18
-flying fish,vliegende vis,18
-bullhead,donderpad,18
-bluegill,bluegill,18
+bullhead,donderpad,17
+black buffalo,zwarte buffel,17
+oyster fish,oestervissen,17
+codling,codling,17
+grey flounder,grijze bot,17
+sea catfish,zee meerval,17
+spawner,spawner,17
+lingcod,lingcod,17
+tautog,tautog,17
+burbot,kwabaal,18
 lungfish,longvis,18
-sea catfish,zee meerval,18
-rivulus,beekje,19
-skipjack,skipjack,19
-pilchard,sardine,19
-bullhead,donderpad,19
-skipjack,skipjack,19
-burbot,kwabaal,19
-black buffalo,zwarte buffel,19
-sparling,sparling,19
-flathead,platte kop,19
+rockfish,roodbaars,18
+silver perch,zilverbaars,18
+grubby,groezelig,18
+clinid,clinid,18
+white perch,witte baars,18
+bowfin,boogvin,18
+sild,sild,18
+dogfish,doornhaai,18
 sea bream,zeebrasem,19
-opah,opa,20
-clinid,clinid,20
-silver perch,zilverbaars,20
+cichlid,cichliden,19
+hogfish,hogfish,19
+grenadier,grenadier,19
+whale sucker,walviszuiger,19
+snook,snookeren,19
+flathead,platte kop,19
+sparling,sparling,19
+chimaera,chimaera,19
+pilchard,sardine,19
+basking shark,reuzenhaai,20
 billfish,billfish,20
 alewife,alevrouw,20
-whale sucker,walviszuiger,20
-devil ray,duivel straal,20
-chimaera,chimaera,20
-rockfish,roodbaars,20
-butterfly ray,vlinderstraal,20
-flathead,platte kop,21
-butterfly fish,Koraalvlinder,21
-seahorse,zeepaardje,21
-menhaden,menhaden,21
-basking shark,reuzenhaai,21
-white perch,witte baars,21
-shiner,uitblinker,21
+dace,serpeling,20
+seahorse,zeepaardje,20
+skipjack,skipjack,20
+bluefish,blauwe vis,20
+requiem shark,requiem haai,20
+menhaden,menhaden,20
+mackerel shark,makreelhaai,20
+rock beauty,rots schoonheid,21
 fingerling,vingeren,21
-snook,snookeren,21
-bowfin,boogvin,21
+timucu,timucu,21
+silver jenny,zilveren jenny,21
+chum salmon,vriend zalm,21
+shiner,uitblinker,21
+red snapper,rode snapper,21
+jawfish,kaakvis,21
+walleye,snoekbaarzen,21
+horse mackerel,horsmakreel,21
+white marlin,witte marlijn,22
 razor fish,scheermes vis,22
-dogfish,doornhaai,22
-elver,elver,22
-silver jenny,zilveren jenny,22
+black sea bass,zwarte zeebaars,22
+hog sucker,varkenszuiger,22
+saury,makkie,22
+lake whitefish,meer witvis,22
+butterfish,botervis,22
+shovelhead,schopkop,22
 crappie,waardeloos,22
-hogfish,hogfish,22
-dace,serpeling,22
-rock beauty,rots schoonheid,22
-requiem shark,requiem haai,22
-horse mackerel,horsmakreel,22
-lake whitefish,meer witvis,23
-cichlid,cichliden,23
-horse mackerel,horsmakreel,23
-chum salmon,vriend zalm,23
-bolti,bolti,23
-mackerel shark,makreelhaai,23
-hog sucker,varkenszuiger,23
-freshwater bass,zoetwaterbaars,23
-grubby,groezelig,23
+skillet fish,koekenpan vis,22
+sea robin,zee roodborstje,23
+rainbow runner,regenboog loper,23
+jewfish,jodenvis,23
+threadfin,draadvin,23
+bigeye,groot oog,23
+killifish,killifish,23
+round whitefish,ronde witvis,23
+tonguefish,tongvis,23
 grey skate,grijze schaats,23
-white marlin,witte marlijn,24
+tilefish,tegelvis,23
+leather carp,lederen karper,24
+pipefish,zeenaald,24
+largemouth,grote mond,24
+amberjack,amberjack,24
+louvar,louvar,24
+cowfish,koevis,24
 little skate,kleine schaats,24
-black sea bass,zwarte zeebaars,24
-sea robin,zee roodborstje,24
-shovelhead,schopkop,24
-grenadier,grenadier,24
-rainbow runner,regenboog loper,24
-striped bass,gestreepte bas,24
-mirror carp,spiegel karper,24
-jawfish,kaakvis,24
-leather carp,lederen karper,25
-bluefish,blauwe vis,25
-largemouth,grote mond,25
-red snapper,rode snapper,25
-walleye,snoekbaarzen,25
-bigeye,groot oog,25
+cusk,slagtand,24
+freshwater bass,zoetwaterbaars,24
+common eel,gewone paling,24
 electric ray,elektrische straal,25
-mojarra,mojarra,25
-gadoid,gadoïde,25
-pinfish,pinfish,25
-skillet fish,koekenpan vis,26
-killifish,killifish,26
-pipefish,zeenaald,26
-amberjack,amberjack,26
-louvar,louvar,26
-threadfin,draadvin,26
-butterfish,botervis,26
-channel catfish,kanaal meerval,26
-soapfish,zeepvis,26
+anemone fish,anemonen vis,25
+bolti,bolti,25
+rainbow trout,Regenboog forel,25
+striped bass,gestreepte bas,25
+maigre,magere,25
+great white shark,grote witte haai,25
+black marlin,zwarte marlijn,25
+mirror carp,spiegel karper,25
+blue marlin,blauwe marlijn,25
+paddlefish,peddelvis,26
+kingfish,koningsvis,26
 cutlassfish,zeekat,26
-jewfish,jodenvis,27
-blue marlin,blauwe marlijn,27
+pinfish,pinfish,26
+sergeant major,Sergeant majoor,26
+bonito shark,bonito haai,26
+sheepshead,schapenkop,26
+yellowtail,geelstaart,26
+elver,elver,26
+sheepshead porgy,schaapskop,26
+blackfish,zwarte vis,27
+channel catfish,kanaal meerval,27
+corbina,corbina,27
+red porgy,rode porgy,27
 blue catfish,blauwe meerval,27
-round whitefish,ronde witvis,27
-sandfish,zandvis,27
-eelpout,puitaal,27
-rainbow trout,Regenboog forel,27
-great white shark,grote witte haai,27
-tilefish,tegelvis,27
-common eel,gewone paling,27
-black marlin,zwarte marlijn,28
-rosefish,rozevis,28
-ganoid,ganoid,28
-sergeant major,Sergeant majoor,28
-yellowtail,geelstaart,28
-nurse shark,verpleegster haai,28
-yellowtail,geelstaart,28
-anemone fish,anemonen vis,28
-cusk,slagtand,28
-paddlefish,peddelvis,28
-river shad,rivierschaduw,29
-kingfish,koningsvis,29
-kingfish,koningsvis,29
-smallmouth,kleine mond,29
-round scad,ronde scad,29
-king whiting,koning wijting,29
+round scad,ronde scad,27
+tub gurnard,kuip poon,27
+river shad,rivierschaduw,27
+nurse shark,verpleegster haai,27
+robalo,Robalo,27
+leatherjacket,leren jas,28
+frogfish,zeeduivel,28
+chaetodon,chaetodon,28
+snailfish,slakvis,28
+sandfish,zandvis,28
+opah,opa,28
+wolffish,zeewolf,28
+flagfish,vlagvis,28
+snake mackerel,slang makreel,28
+stingray,pijlstaartrog,28
 salmonid,zalmachtige,29
-bonito shark,bonito haai,29
-red porgy,rode porgy,29
+angelfish,maanvissen,29
 golden shiner,gouden glans,29
-snake mackerel,slang makreel,30
-angelfish,maanvissen,30
-tub gurnard,kuip poon,30
-grey snapper,grijze snapper,30
-leatherjacket,leren jas,30
-brotula,brotula,30
-blackfish,zwarte vis,30
-sheepshead,schapenkop,30
-chaetodon,chaetodon,30
+smallmouth,kleine mond,29
+harvestfish,oogstvis,29
+king whiting,koning wijting,29
+eelpout,puitaal,29
+pickerel,pikhouweel,29
+brotula,brotula,29
+grey snapper,grijze snapper,29
+coelacanth,coelacanth,30
+threadfish,draadvis,30
+great barracuda,grote barracuda,30
 goatfish,geitenvis,30
-coelacanth,coelacanth,31
-mosquitofish,muggenvis,31
-pickerel,pikhouweel,31
-sheepshead porgy,schaapskop,31
-catalufa,catalufa,31
-great barracuda,grote barracuda,31
-maigre,magere,31
-teleost fish,teleos vis,31
-leatherjacket,leren jas,31
-mulloway,mulloway,31
-northern sea robin,noordelijke zee-robin,32
-goosefish,ganzenvis,32
-stingray,pijlstaartrog,32
-triggerfish,trekkervis,32
-striped drum,gestreepte trommel,32
+southern flounder,zuidelijke bot,30
+striped mullet,gestreepte mul,30
+dealfish,dealfish,30
+triggerfish,trekkervis,30
+northern sea robin,noordelijke zee-robin,30
+common mackerel,gewone makreel,30
+king mackerel,Koningsmakreel,31
+driftfish,drijfvis,31
+filefish,filefish,31
+cardinal tetra,kardinaal tetra,31
+silverfish,zilvervisje,31
+rivulus,beekje,31
+striped drum,gestreepte trommel,31
+silver whiting,zilveren wijting,31
+striped marlin,gestreepte marlijn,31
+lancetfish,lancetvis,31
+hogchoker,hogchoker,32
+crucifix fish,kruisbeeld vis,32
+black bream,zwarte brasem,32
+thresher,dorsmachine,32
+pilotfish,pilootvis,32
 moonfish,maanvis,32
-frogfish,zeeduivel,32
-cardinal tetra,kardinaal tetra,32
-gempylid,geppylid,32
-corbina,corbina,32
-black bream,zwarte brasem,33
-timucu,timucu,33
-pigfish,varkentje,33
-cowfish,koevis,33
-striped mullet,gestreepte mul,33
-southern flounder,zuidelijke bot,33
-ceratodus,ceratodus,33
-snailfish,slakvis,33
-topminnow,topminnow,33
-king mackerel,Koningsmakreel,33
-stargazer,sterrenkijker,34
-white crappie,witte crappie,34
-hogchoker,hogchoker,34
-striped marlin,gestreepte marlijn,34
-spotted eagle ray,gevlekte adelaarsrog,34
-common mackerel,gewone makreel,34
-silver whiting,zilveren wijting,34
-saury,makkie,34
-silverfish,zilvervisje,34
+spotted eagle ray,gevlekte adelaarsrog,32
+domestic carp,binnenlandse karper,32
+redhorse,rood paard,32
+snail darter,slak darter,32
+white crappie,witte crappie,33
+dragonet,draakje,33
+characin,characin,33
+mosquitofish,muggenvis,33
+gadoid,gadoïde,33
+teleost fish,teleos vis,33
+stargazer,sterrenkijker,33
+prickleback,stekelig,33
+boarfish,everzwijn,33
+red rockfish,rode roodbaars,33
+cornetfish,cornetvis,34
+oilfish,olievis,34
 weakfish,zwakke vis,34
-domestic carp,binnenlandse karper,35
-thresher,dorsmachine,35
-snail darter,slak darter,35
-crucifix fish,kruisbeeld vis,35
-clingfish,clingfish,35
-robalo,Robalo,35
-driftfish,drijfvis,35
-armored catfish,gepantserde meerval,35
-oilfish,olievis,35
-flagfish,vlagvis,35
-rudderfish,roervis,36
-electric catfish,elektrische meerval,36
-silver hake,zilveren heek,36
-tonguefish,tongvis,36
-spadefish,schopvis,36
-redhorse,rood paard,36
-albacore,witte tonijn,36
-filefish,filefish,36
-sandbar shark,zandbankhaai,36
-red rockfish,rode roodbaars,36
-ribbonfish,lintvis,37
-flathead catfish,platkop meerval,37
-John Dory,John Dory,37
-surgeonfish,doktersvis,37
-black crappie,zwarte crappie,37
-electric eel,elektrische paling,37
-characin,characin,37
-dusky shark,schemerige haai,37
-oarfish,oarfish,37
-yellowfin,geelvintonijn,37
-shrimpfish,garnaalvis,38
+parrotfish,papegaaivis,34
+black crappie,zwarte crappie,34
+electric eel,elektrische paling,34
+albacore,witte tonijn,34
+armored catfish,gepantserde meerval,34
+silver hake,zilveren heek,34
+mojarra,mojarra,34
+stonefish,steenvis,35
+flathead catfish,platkop meerval,35
+electric catfish,elektrische meerval,35
+rosefish,rozevis,35
+rock gunnel,rock gunnel,35
+dusky shark,schemerige haai,35
+soapfish,zeepvis,35
+rudderfish,roervis,35
+stickleback,stekelbaars,35
+sandbar shark,zandbankhaai,35
+muskellunge,muskellunge,36
+mulloway,mulloway,36
+northern whiting,noordelijke wijting,36
+smooth hammerhead,gladde hamerkop,36
+horned whiff,gehoornde geur,36
+surgeonfish,doktersvis,36
+ribbonfish,lintvis,36
+yellowfin,geelvintonijn,36
+blanquillo,blanquillo,36
+yellowtail flounder,geelstaartbot,36
+needlefish,naaldvis,37
+pearlfish,parelvis,37
+ganoid,ganoid,37
+cunner,bedrieger,37
+schoolmaster,schoolmeester,37
+palometa,palometa,37
+spadefish,schopvis,37
+pumpkinseed,pompoenzaad,37
+beaugregory,schoonheid,37
+freshwater bream,zoetwaterbrasem,37
 loach,modderkruiper,38
-harvestfish,oogstvis,38
-stickleback,stekelbaars,38
-schoolmaster,schoolmeester,38
-yellowtail flounder,geelstaartbot,38
-rock gunnel,rock gunnel,38
-pikeblenny,pikeblenny,38
-northern whiting,noordelijke wijting,38
-dealfish,dealfish,38
-parrotfish,papegaaivis,39
-stonefish,steenvis,39
-trumpetfish,trompetvis,39
-smooth hammerhead,gladde hamerkop,39
-tomtate,tomtate,39
-jacksmelt,jacksmelt,39
-dragonet,draakje,39
-threadfish,draadvis,39
-pumpkinseed,pompoenzaad,39
-brown bullhead,bruine donderpad,39
-prickleback,stekelig,40
-muskellunge,muskellunge,40
-white croaker,witte croaker,40
-balloonfish,ballonvis,40
-ocean sunfish,oceaan maanvis,40
-cunner,bedrieger,40
-bluefin,blauwvintonijn,40
-dollarfish,dollarvis,40
-allice shad,allice shad,40
-clown anemone fish,clown anemoon vis,40
-thorny skate,doornige schaats,41
-horned whiff,gehoornde geur,41
-white croaker,witte croaker,41
-freshwater bream,zoetwaterbrasem,41
-greenling,groenling,41
-lionfish,koraalduivel,41
-rainbow smelt,regenboog smelt,41
-crucian carp,kroeskarper,41
-guitarfish,gitaarvis,41
-toadfish,paddenvis,41
-scombroid,scombroid,42
-wolffish,zeewolf,42
-common shiner,gewone uitblinker,42
-driftfish,drijfvis,42
-copper rockfish,koperen roodbaars,42
-handsaw fish,handzaag vis,42
-bigeye scad,grootoog scad,42
-palometa,palometa,42
-ocean pout,oceaan steenbolk,42
-beaugregory,schoonheid,42
-chub mackerel,kopvoorn makreel,43
-greeneye,groen oog,43
+bluefin,blauwvintonijn,38
+white croaker,witte croaker,38
+allice shad,allice shad,38
+surfperch,surfperch,38
+brown bullhead,bruine donderpad,38
+rainbow smelt,regenboog smelt,38
+ocean sunfish,oceaan maanvis,38
+thorny skate,doornige schaats,38
+clown anemone fish,clown anemoon vis,38
+lionfish,koraalduivel,39
+crucian carp,kroeskarper,39
+scombroid,scombroid,39
+bigeye scad,grootoog scad,39
+burrfish,burrfish,39
+sparid,spaarzaam,39
+John Dory,John Dory,39
+catalufa,catalufa,39
+balloonfish,ballonvis,39
+barracouta,barracouta,39
+goosefish,ganzenvis,40
+soldierfish,soldaatvis,40
+rabbitfish,konijnenvis,40
+common shiner,gewone uitblinker,40
+oarfish,oarfish,40
+trumpetfish,trompetvis,40
+ocean pout,oceaan steenbolk,40
+tomtate,tomtate,40
+copper rockfish,koperen roodbaars,40
+snakeblenny,snakeblenny,40
+anomalops,afwijkingen,41
+greeneye,groen oog,41
+handsaw fish,handzaag vis,41
+chub mackerel,kopvoorn makreel,41
+spotted sunfish,gevlekte maanvis,41
+pigfish,varkentje,41
+wrymouth,wrange mond,41
+whitetip shark,witpunthaai,41
+scorpaenid,scorpaenid,41
+scorpionfish,schorpioenvis,41
+mackerel scad,makreel makreel,42
+topminnow,topminnow,42
+emerald shiner,smaragdgroene glans,42
+bottom lurkers,onderste lurkers,42
+conchfish,schelpdier,42
+elasmobranch,elasmobranch,42
+scorpaenoid,scorpaenoïde,42
+mutton snapper,schapenvlees snapper,42
+batfish,vleermuisvis,42
+smooth dogfish,gladde hondshaai,42
+bluehead,blauwkop,43
+silurid,siluride,43
+jacksmelt,jacksmelt,43
+sand stargazer,zand sterrenkijker,43
 brisling,bruisend,43
-pearlfish,parelvis,43
-spotted sunfish,gevlekte maanvis,43
-barracouta,barracouta,43
-pigfish,varkentje,43
-needlefish,naaldvis,43
-mummichog,mummichog,43
-emerald shiner,smaragdgroene glans,43
-pilotfish,pilootvis,44
-lumpfish,snoekbaars,44
-bottom lurkers,onderste lurkers,44
-burrfish,burrfish,44
-sand stargazer,zand sterrenkijker,44
-mutton snapper,schapenvlees snapper,44
-elasmobranch,elasmobranch,44
-silurid,siluride,44
-smooth dogfish,gladde hondshaai,44
-bluehead,blauwkop,44
-doctorfish,doktersvis,45
-cyprinodont,cyprinodont,45
-mackerel scad,makreel makreel,45
-clupeid fish,clupeïde vis,45
-batfish,vleermuisvis,45
-horned pout,gehoornde steenbolk,45
-cardinalfish,kardinaalvis,45
-vermillion rockfish,vermiljoen roodbaars,45
-wrymouth,wrange mond,45
-lizardfish,hagedisvis,45
-scorpionfish,schorpioenvis,46
-spiny puffer,stekelige kogelvis,46
-anomalops,afwijkingen,46
-porbeagle,haringhaai,46
-blacktip shark,zwartpunthaai,46
-sargassum fish,sargassum vis,46
-creole-fish,creoolse vis,46
-Chile bonito,Chili bonito,46
-soldierfish,soldaatvis,46
-puddingwife,puddingvrouw,46
-eelblenny,eelblenny,47
-barndoor skate,barndoor skate,47
-pike-perch,snoekbaars,47
-cornetfish,cornetvis,47
-boarfish,everzwijn,47
-surfperch,surfperch,47
-sparid,spaarzaam,47
-chain pickerel,ketting pickerel,47
-dwarf pipefish,dwerg zeenaald,47
-bottom-feeder,bodem-feeder,47
-spiny dogfish,doornige hondshaai,48
-landlocked salmon,niet aan zee grenzende zalm,48
-dolphinfish,goudmakreel,48
-mediterranean anchovy,mediterrane ansjovis,48
-boarfish,everzwijn,48
-beaked salmon,snavelvormige zalm,48
-lancetfish,lancetvis,48
-porcupinefish,stekelvarken,48
-conchfish,schelpdier,48
+porkfish,varkensvlees,43
+horned pout,gehoornde steenbolk,43
+vermillion rockfish,vermiljoen roodbaars,43
+gempylid,geppylid,43
+lumpfish,snoekbaars,43
+barndoor skate,barndoor skate,44
+spiny puffer,stekelige kogelvis,44
+sargassum fish,sargassum vis,44
+mummichog,mummichog,44
+catostomid,catostomide,44
+ceratodus,ceratodus,44
+toadfish,paddenvis,44
+mouthbreeder,mondkweker,44
+pike-perch,snoekbaars,44
+spiny dogfish,doornige hondshaai,44
+lanternfish,lantaarn vis,45
+greenling,groenling,45
+chain pickerel,ketting pickerel,45
+flying gurnard,vliegende poon,45
+dwarf pipefish,dwerg zeenaald,45
+sailor's-choice,zeemanskeuze,45
+blacktip shark,zwartpunthaai,45
+landlocked salmon,niet aan zee grenzende zalm,45
+boxfish,koffervis,45
+pikeblenny,pikeblenny,45
+cottonwick,katoenen lont,46
+mediterranean anchovy,mediterrane ansjovis,46
+eelblenny,eelblenny,46
+dollarfish,dollarvis,46
+beaked salmon,snavelvormige zalm,46
+red goatfish,rode geitenvis,46
+yellow goatfish,gele geitenvis,46
+guitarfish,gitaarvis,46
+shrimpfish,garnaalvis,46
+percoid fish,percoïde vis,46
+creole-fish,creoolse vis,47
+crevalle jack,crevalle jack,47
+clingfish,clingfish,47
+cyprinid,karperachtigen,47
+biplane flying fish,tweedekker vliegende vis,47
+cownose ray,koeneusstraal,47
+cusk-eel,cusk-paling,47
+smoothhound,gladde hond,47
+dolphinfish,goudmakreel,47
+halfbeak,halve snavel,47
+silversides,zilveren kanten,48
+porbeagle,haringhaai,48
 barrelfish,barrelfish,48
-flying gurnard,vliegende poon,49
-mouthbreeder,mondkweker,49
-whitetip shark,witpunthaai,49
-halfbeak,halve snavel,49
-lanternfish,lantaarn vis,49
-red goatfish,rode geitenvis,49
-silversides,zilveren kanten,49
-boxfish,koffervis,49
-biplane flying fish,tweedekker vliegende vis,49
-cyprinid,karperachtigen,49
-cottonwick,katoenen lont,50
-yellow goatfish,gele geitenvis,50
-Ostariophysi,Ostariofysio,50
-lefteye flounder,linkeroog bot,50
-carangid fish,carangid vis,50
-snipefish,watersnipvis,50
-longfin mako,langvin makreel,50
-redfin pickerel,redfin pickerel,50
-spotted weakfish,gespot zwakke vis,50
-rabbitfish,konijnenvis,50
-sharksucker,haaienzuiger,51
-porkfish,varkensvlees,51
-yellowfin croaker,geelvintonijn croaker,51
-lumpsucker,klompenzuiger,51
-blackmouth bass,blackmouth bas,51
-deepwater pipefish,diepwater zeenaald,51
-striped killifish,gestreepte killifish,51
-queen triggerfish,koningin trekkervis,51
-smoothhound,gladde hond,51
-blanquillo,blanquillo,51
-whitetip shark,witpunthaai,52
-European perch,Europese baars,52
-cartilaginous fish,kraakbeenachtige vissen,52
+lizardfish,hagedisvis,48
+roughtail stingray,pijlstaartrog,48
+European sole,Europese tong,48
+cyprinodont,cyprinodont,48
+holocephalan,holocephalan,48
+doctorfish,doktersvis,48
+yellowfin croaker,geelvintonijn croaker,48
+spotted weakfish,gespot zwakke vis,49
+Arctic char,Arctische char,49
+longfin mako,langvin makreel,49
+redfin pickerel,redfin pickerel,49
+Chile bonito,Chili bonito,49
+queen triggerfish,koningin trekkervis,49
+deepwater pipefish,diepwater zeenaald,49
+striped killifish,gestreepte killifish,49
+jackknife-fish,jackknife-fish,49
+sciaenid fish,sciaenid vis,49
+blennioid fish,blennioïde vis,50
+reef squirrelfish,rif eekhoornvis,50
+Spanish grunt,Spaanse grunt,50
+English sole,Engelse tong,50
+cartilaginous fish,kraakbeenachtige vissen,50
+miller's-thumb,molenaarsduim,50
+Florida pompano,Florida pompano,50
+cardinalfish,kardinaalvis,50
+puddingwife,puddingvrouw,50
+Bermuda chub,Bermuda kopvoorn,50
+Spanish mackerel,Spaanse makreel,51
+bottom-feeder,bodem-feeder,51
+northern snakehead,noordelijke slangenkop,51
+European perch,Europese baars,51
+serranid fish,serranid vis,51
+squirrelfish,eekhoornvis,51
+monoplane flying fish,eendekker vliegende vis,51
+pearly razorfish,parelachtige scheermessen,51
+cypriniform fish,cypriniforme vis,51
+snipefish,watersnipvis,51
+plumed scorpionfish,gepluimde schorpioenvis,52
+sharksucker,haaienzuiger,52
+Ostariophysi,Ostariofysio,52
 plectognath,plectognath,52
-scorpaenid,scorpaenid,52
-northern snakehead,noordelijke slangenkop,52
-squaretail,vierkantstaart,52
-Arctic char,Arctische char,52
-English sole,Engelse tong,52
-kelp greenling,kelp groenling,52
-monoplane flying fish,eendekker vliegende vis,53
-pearly razorfish,parelachtige scheermessen,53
-miller's-thumb,molenaarsduim,53
-serranid fish,serranid vis,53
-European sole,Europese tong,53
-crevalle jack,crevalle jack,53
-cusk-eel,cusk-paling,53
-squirrelfish,eekhoornvis,53
-cownose ray,koeneusstraal,53
-snakeblenny,snakeblenny,53
-soupfin shark,soupfin haai,54
-plumed scorpionfish,gepluimde schorpioenvis,54
-lookdown,kijk naar beneden,54
-reef squirrelfish,rif eekhoornvis,54
-American plaice,Amerikaanse schol,54
-mudskipper,modderschipper,54
-belted sandfish,zandvis met riem,54
-cypriniform fish,cypriniforme vis,54
-Pacific sardine,Pacifische sardine,54
-holocephalan,holocephalan,54
-swordtail,zwaardstaart,55
-New World opah,Nieuwe Wereld opah,55
-scorpaenoid,scorpaenoïde,55
-catostomid,catostomide,55
-Molly Miller,Molly Miller,55
-rainbow seaperch,regenboog zeebaars,55
-percoid fish,percoïde vis,55
-tripletail,drievoudige staart,55
-painted greenling,geschilderd groenling,55
-European sea bream,Europese zeebrasem,55
-sciaenid fish,sciaenid vis,56
-smalltooth sawfish,kleintand zaagvis,56
-sailor's-choice,zeemanskeuze,56
-Bermuda chub,Bermuda kopvoorn,56
-Coryphaena hippurus,Coryphaena hippurus,56
+Atlantic salmon,Atlantische zalm,52
+soupfin shark,soupfin haai,52
+New World opah,Nieuwe Wereld opah,52
+European sea bream,Europese zeebrasem,52
+swordtail,zwaardstaart,52
+carangid fish,carangid vis,52
+Kentucky black bass,Kentucky zwarte bas,53
+clupeid fish,clupeïde vis,53
+Pacific tripletail,Pacific tripletail,53
+Atlantic manta,Atlantische manta,53
+European catfish,Europese meerval,53
+American plaice,Amerikaanse schol,53
+Molly Miller,Molly Miller,53
+squaretail,vierkantstaart,53
+lefteye flounder,linkeroog bot,53
+porcupinefish,stekelvarken,53
+alligatorfish,alligatorvissen,54
+three-spined stickleback,driedoornige stekelbaars,54
+tripletail,drievoudige staart,54
+sharptail mola,scherpe staart mola,54
+Coryphaena hippurus,Coryphaena hippurus,54
+lumpsucker,klompenzuiger,54
+smalltooth sawfish,kleintand zaagvis,54
+Atlantic tripletail,Atlantische tripletail,54
+archerfish,boogschuttervis,54
+armored searobin,gepantserde zeerobin,54
+kelp greenling,kelp groenling,55
+Pacific halibut,Pacifische heilbot,55
+Chinese paddlefish,Chinese peddelvissen,55
+Pacific spiny dogfish,Pacifische doornhaai,55
+crossopterygian,crossopterygisch,55
+Pacific cod,Pacifische kabeljauw,55
+deepwater squirrelfish,diepwater eekhoornvis,55
+Pacific sturgeon,Pacifische steur,55
+righteye flounder,rechteroog bot,55
+shortfin mako,kortvin makreel,55
+Florida smoothhound,Florida gladde hond,56
+mudskipper,modderschipper,56
 Atlantic herring,Atlantische haring,56
-jackknife-fish,jackknife-fish,56
-armored searobin,gepantserde zeerobin,56
-ladyfish,lieveheersbeestje,56
-smalleye hammerhead,kleinoog hamerhaai,56
-Spanish grunt,Spaanse grunt,57
-European flatfish,Europese platvis,57
-crossopterygian,crossopterygisch,57
-ten-spined stickleback,tiendoornige stekelbaars,57
-common American shad,gewone Amerikaanse shad,57
-roughtail stingray,pijlstaartrog,57
-Pacific cod,Pacifische kabeljauw,57
-Coryphaena equisetis,Coryphaena equisetis,57
-Spanish mackerel,Spaanse makreel,57
-alligatorfish,alligatorvissen,57
-viviparous eelpout,levendbarende steenbolk,58
-Atlantic sailfish,Atlantische zeilvis,58
+American smooth dogfish,Amerikaanse gladde hondshaai,56
+European flatfish,Europese platvis,56
+blackmouth bass,blackmouth bas,56
+Pacific herring,Pacifische haring,56
+Scomberomorus maculatus,Scomberomorus maculatus,56
+European bream,Europese brasem,56
+yellowfin mojarra,geelvintonijn mojarra,56
+Holocentrus ascensionis,Holocentrische ascensionis,57
+Atlantic sea bream,Atlantische zeebrasem,57
+Atlantic sailfish,Atlantische zeilvis,57
+belted sandfish,zandvis met riem,57
+Atlantic spiny dogfish,Atlantische doornhaai,57
+Atlantic croaker,Atlantische croaker,57
+painted greenling,geschilderd groenling,57
+Pacific sardine,Pacifische sardine,57
+smalleye hammerhead,kleinoog hamerhaai,57
+rainbow seaperch,regenboog zeebaars,57
 spiny-finned fish,vis met stekelvin,58
-blennioid fish,blennioïde vis,58
-Spanish mackerel,Spaanse makreel,58
-righteye flounder,rechteroog bot,58
-archerfish,boogschuttervis,58
-deepwater squirrelfish,diepwater eekhoornvis,58
-Pacific herring,Pacifische haring,58
-Florida smoothhound,Florida gladde hond,58
-European catfish,Europese meerval,59
-European bream,Europese brasem,59
-Atlantic croaker,Atlantische croaker,59
-Atlantic sea bream,Atlantische zeebrasem,59
-Pacific sturgeon,Pacifische steur,59
-American smooth dogfish,Amerikaanse gladde hondshaai,59
-Florida pompano,Florida pompano,59
-Atlantic spiny dogfish,Atlantische doornhaai,59
-soft-finned fish,vis met zachte vinnen,59
-Rocky Mountain whitefish,Rocky Mountain witvis,59
-Chinese paddlefish,Chinese peddelvissen,60
-shortfin mako,kortvin makreel,60
-Atlantic halibut,Atlantische heilbot,60
-Pacific halibut,Pacifische heilbot,60
-sharptail mola,scherpe staart mola,60
-Pacific spiny dogfish,Pacifische doornhaai,60
-Atlantic salmon,Atlantische zalm,60
-Pacific tripletail,Pacific tripletail,60
-Kentucky black bass,Kentucky zwarte bas,60
-yellowfin mojarra,geelvintonijn mojarra,60
-Scomberomorus maculatus,Scomberomorus maculatus,61
-Atlantic manta,Atlantische manta,61
-Holocentrus ascensionis,Holocentrische ascensionis,61
-Atlantic cod,Atlantische kabeljauw,61
-three-spined stickleback,driedoornige stekelbaars,61
-bluethroat pikeblenny,blauwborst pikeblenny,61
-Atlantic tripletail,Atlantische tripletail,61
+ladyfish,lieveheersbeestje,58
+soft-finned fish,vis met zachte vinnen,58
+lookdown,kijk naar beneden,58
+Rocky Mountain whitefish,Rocky Mountain witvis,58
+Coryphaena equisetis,Coryphaena equisetis,58
+Atlantic cod,Atlantische kabeljauw,58
+Atlantic halibut,Atlantische heilbot,58
+common American shad,gewone Amerikaanse shad,58
+bluethroat pikeblenny,blauwborst pikeblenny,58
+viviparous eelpout,levendbarende steenbolk,59
+ten-spined stickleback,tiendoornige stekelbaars,59

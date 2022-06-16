@@ -1,29 +1,6477 @@
 EngWord,NldWord,Group
-side,kant,0
-hand,hand,0
-external,extern,0
-department,afdeling,0
-sector,sector,0
-quality,kwaliteit,0
-aspect,aspect,0
-attention,aandacht,0
-surface,oppervlak,0
-foil,folie,0
-feature,voorzien zijn van,1
-safety feature,Veiligheids optie,1
-downside,nadeel,1
-calling card,visitekaartje,1
-texture,textuur,1
-badge,insigne,1
-contour,contour,1
-excellence,uitmuntendheid,1
-feature of speech,kenmerk van spraak,1
-sex characteristic,geslachtskenmerk,1
-attraction,aantrekkingskracht,2
-virilism,virilisme,2
-tourist attraction,toeristische attractie,2
-centerpiece,middelpunt,2
-invariant,onveranderbaar,2
-secondary sex characteristic,secundair geslachtskenmerk,2
-primary sex characteristic,primaire geslachtskenmerk,2
-peculiarity,eigenaardigheid,2
+now,nu,0
+day,dag,0
+white,wit,0
+set,set,0
+old,oud,0
+home,huis,0
+cell,cel,0
+good,goed,0
+high,hoog,0
+sex,seks,0
+name,naam,1
+time,tijd,1
+line,lijn,1
+size,maat,1
+yellow,geel,1
+care,zorg,1
+hope,hoop,1
+box,doos,1
+low,laag,1
+point,punt,1
+look,Look,2
+class,klas,2
+wish,wens,2
+union,unie,2
+red,rood,2
+large,groot,2
+room,kamer,2
+life,leven,2
+band,band,2
+voice,stem,2
+gold,goud,3
+view,visie,3
+lead,lood,3
+first,eerst,3
+star,ster,3
+price,prijs,3
+wrong,mis,3
+death,dood,3
+address,adres,3
+date,datum,3
+degree,rang,4
+state,staat,4
+self,zelf,4
+cut,snee,4
+black,zwart,4
+opportunity,kans,4
+tree,boom,4
+wall,muur,4
+wine,wijn,4
+cool,koel,4
+heart,hart,5
+action,actie,5
+skin,huid,5
+fact,feit,5
+night,nacht,5
+start,begin,5
+air,lucht,5
+sheet,vel,5
+better,beter,5
+ball,bal,5
+thing,ding,6
+ring,ring,6
+play,Speel,6
+light,licht,6
+fit,fit,6
+error,fout,6
+case,geval,6
+pressure,druk,6
+pain,pijn,6
+core,kern,6
+edge,kant,7
+aid,hulp,7
+block,blok,7
+pink,roze,7
+end,einde,7
+trip,reis,7
+cold,koud,7
+phase,fase,7
+small,klein,7
+branch,tak,7
+wild,wild,8
+rose,roos,8
+pocket,zak-,8
+blue,blauw,8
+row,rij,8
+color,kleur,8
+head,hoofd,8
+rank,rang,8
+hole,gat,8
+least,minst,8
+track,spoor,9
+might,macht,9
+corner,hoek,9
+bass,bas,9
+third,derde,9
+nude,naakt,9
+growth,groei,9
+soul,ziel,9
+cast,vorm,9
+loop,lus,9
+focus,focus,10
+sort,soort,10
+brown,bruin,10
+cross,kruis,10
+flash,flash,10
+mode,modus,10
+hearing,horen,10
+authority,Gezag,10
+spirit,geest,10
+blood,bloed,10
+framework,kader,11
+bone,bot,11
+luxury,luxe,11
+hip,heup,11
+gap,gat,11
+youth,jeugd,11
+virus,virus,11
+ready,klaar,11
+column,kolom,11
+bell,klok,11
+wheel,wiel,12
+sequence,reeks,12
+profit,winst,12
+worth,waard,12
+raw,rauw,12
+dream,droom,12
+concern,zorg,12
+peace,vrede,12
+sleep,slaap,12
+wave,Golf,12
+honor,eer,13
+last,laatst,13
+echo,echo,13
+fear,angst,13
+standing,staan,13
+delta,delta,13
+number,nummer,13
+power,stroom,13
+way,manier,13
+mouth,mond,13
+section,sectie,14
+cup,beker,14
+place,plaats,14
+love,liefde,14
+plane,vlak,14
+stone,steen,14
+desire,wens,14
+bang,knal,14
+leg,been,14
+tone,toon,14
+belt,riem,15
+street,straat,15
+angle,hoek,15
+shot,schot,15
+canon,canon,15
+mobile,mobiel,15
+say,zeggen,15
+pipe,pijp,15
+value,waarde,15
+space,ruimte,15
+today,vandaag,16
+run,rennen,16
+mercury,kwik,16
+war,oorlog,16
+yoga,yoga,16
+welcome,welkom,16
+smoke,rook,16
+plenty,veel,16
+tall,hoog,16
+present,Cadeau,16
+gulf,golf,17
+company,bedrijf,17
+force,kracht,17
+juice,sap,17
+sound,geluid,17
+key,sleutel,17
+piano,piano,17
+figure,figuur,17
+regard,groet,17
+agency,bureau,17
+body,lichaam,18
+density,dikte,18
+humor,humor,18
+drama,drama,18
+muscle,spier,18
+blues,blues,18
+privacy,privacy,18
+nature,natuur,18
+meter,meter,18
+storm,storm,18
+slot,sleuf,19
+legs,poten,19
+king,koning,19
+gray,grijs,19
+sin,zonde,19
+volume,volume,19
+effect,effect,19
+cancer,kanker,19
+arc,boog,19
+running,rennen,19
+score,scoren,20
+stuff,spullen,20
+success,succes,20
+length,lengte,20
+alarm,alarm,20
+hook,haak,20
+cloud,wolk,20
+pit,pit,20
+disease,ziekte,20
+corn,maïs,20
+roller,rol,21
+debt,schuld,21
+fame,roem,21
+soup,soep,21
+function,functie,21
+tongue,tong,21
+grade,cijfer,21
+arch,boog,21
+weight,gewicht,21
+salmon,Zalm,21
+bow,boog,22
+in time,op tijd,22
+dark,donker,22
+face,gezicht,22
+shock,schok,22
+copper,koper,22
+pride,trots,22
+medium,medium,22
+joke,grap,22
+sector,sector,22
+distance,afstand,23
+loss,verlies,23
+second,seconde,23
+penalty,straf,23
+ease,gemak,23
+polish,Pools,23
+side pocket,zijvak,23
+office,kantoor,23
+bitch,teef,23
+bad,slechte,23
+stream,stroom,24
+contact,contact,24
+fitness,fitness,24
+base,baseren,24
+boom,boom,24
+fork,vork,24
+childhood,jeugd,24
+alto,alt,24
+heat,warmte,24
+account,account,24
+mass,massa-,25
+boundary,grens,25
+lip,lip-,25
+religion,geloof,25
+orange,oranje,25
+energy,energie,25
+position,positie,25
+pace,tempo,25
+solid,stevig,25
+scratch,kras,25
+convenience,gemak,26
+belly,buik,26
+disk,schijf,26
+favor,gunst,26
+profile,profiel,26
+stomach,maag,26
+behavior,gedrag,26
+ray,straal,26
+rim,rand,26
+void,leegte,26
+good fortune,geluk,27
+height,hoogte,27
+lack,gebrek,27
+margin,marge,27
+amber,amber,27
+wear,dragen,27
+context,context,27
+ticket,ticket,27
+hull,romp,27
+funk,funk,27
+hollow,hol,28
+sixth,zesde,28
+manner,manier,28
+barrel,loop,28
+violence,geweld,28
+conditions,conditie,28
+period,periode,28
+matrix,Matrix,28
+format,formaat,28
+depth,diepte,28
+window,venster,29
+roll,rollen,29
+feeling,gevoel,29
+vector,vector,29
+purple,Purper,29
+part,een deel,29
+coverage,Dekking,29
+throw,gooien,29
+strength,kracht,29
+cage,kooi,29
+emphasis,nadruk,30
+aspect,aspect,30
+ultimate,ultieme,30
+possession,bezit,30
+right,Rechtsaf,30
+green,groente,30
+circle,cirkel,30
+rise,opstaan,30
+importance,belang,30
+evil,slecht,30
+courage,moed,31
+tie,binden,31
+ice age,ijstijd,31
+leak,lek,31
+extreme,extreem,31
+flux,flux,31
+chaos,chaos,31
+scope,domein,31
+vacuum,vacuüm,31
+vintage,vintage,31
+acne,acne,32
+danger,Gevaar,32
+fourth,vierde,32
+noise,lawaai,32
+odds,kansen,32
+passion,passie,32
+fault,schuld,32
+dean,decaan,32
+dirt,aarde,32
+grip,greep,32
+anger,woede,33
+bite,beet,33
+happiness,geluk,33
+complex,complex,33
+illness,ziekte,33
+catch,vangst,33
+asthma,astma,33
+crisis,crisis,33
+bowl,schaal,33
+fifth,vijfde,33
+dip,duik,34
+wound,wond,34
+petite,Fijn,34
+stock,voorraad,34
+moisture,vocht,34
+beam,straal,34
+bargain rate,koopje,34
+behalf,namens,34
+climate,klimaat,34
+sleeping,slapen,34
+regular,normaal,35
+hold,uitstel,35
+stretch,rekken,35
+past,Verleden,35
+tomorrow,morgen,35
+timing,timing,35
+bolt,bout,35
+outer space,ruimte,35
+old gold,oud goud,35
+tumor,tumor,35
+ego,ego,36
+chocolate,chocola,36
+hang,hangen,36
+cube,kubus,36
+curve,kromme,36
+poverty,armoede,36
+pull,trekken,36
+bulb,lamp,36
+guard,bewaker,36
+mess,troep,36
+canvas,canvas,37
+rhythm,ritme,37
+suffering,lijden,37
+doubt,twijfel,37
+tail,staart,37
+corner pocket,hoekzak,37
+fetish,fetisj,37
+bump,buil,37
+thickness,dikte,37
+opening,opening,37
+grief,rouw,38
+crack,scheur,38
+element,element,38
+relationship,relatie,38
+property,eigendom,38
+grain,korrel,38
+preservation,behoud,38
+impression,indruk,38
+drop,druppel,38
+square one,vierkant,38
+resource,hulpbron,39
+olive,olijf-,39
+front,voorkant,39
+environment,omgeving,39
+attention,aandacht,39
+difference,verschil,39
+bug,beestje,39
+silence,stilte,39
+cult,sekte,39
+age,leeftijd,39
+square,vierkant,40
+wedge,wig,40
+optics,optiek,40
+lap,ronde,40
+radius,straal,40
+fold,vouwen,40
+register,register,40
+foam,schuim,40
+pet,huisdier,40
+rage,woede,40
+status,toestand,41
+bubble,bubbel,41
+coral,koraal,41
+pep,fut,41
+lisp,lisp,41
+fever,koorts,41
+rain,regenen,41
+trance,trance,41
+dig,graven,41
+withdrawal,opname,41
+control,controle,42
+breeding,fokken,42
+groove,groef,42
+blond,blond,42
+problem,probleem,42
+glow,gloed,42
+mercy,genade,42
+virtue,deugd,42
+scoop,lepel,42
+marble,marmer,42
+give,verlenen,43
+consequence,gevolg,43
+deficit,tekort,43
+urge,drang,43
+severity,ernst,43
+failing,falend,43
+coil,spoel,43
+stain,vlek,43
+panic,paniek,43
+being,het zijn,43
+appetite,trek,44
+comfort,comfort,44
+walk,wandelen,44
+freedom,vrijheid,44
+carriage,koets,44
+width,breedte,44
+motion,beweging,44
+flute,fluit,44
+approach,nadering,44
+fury,woede,44
+participation,deelname,45
+advantage,voordeel,45
+distress,angst,45
+whip,zweep,45
+beige,beige,45
+situation,situatie,45
+beat,verslaan,45
+vanity,trots,45
+dent,deuk,45
+ladder,ladder,45
+tempo,tempo,46
+dome,koepel,46
+triumph,triomf,46
+touch,aanraken,46
+rest,rust uit,46
+truth,waarheid,46
+sweep,vegen,46
+trauma,trauma,46
+fidelity,trouw,46
+white water,wit water,46
+violet,paars,47
+future,toekomst,47
+sphere,gebied,47
+pouch,zakje,47
+sea power,zeemacht,47
+niche,niche,47
+yesterday,gisteren,47
+avail,baten,47
+character,karakter,47
+bulk,massaal,47
+command,opdracht,48
+enjoyment,genot,48
+speed,snelheid,48
+mum,mamma,48
+sorrow,leed,48
+response,antwoord,48
+nip,kneep,48
+center stage,centraal,48
+joy,vreugde,48
+taboo,taboe,48
+mania,manie,49
+ridge,bergkam,49
+cavity,holte,49
+judgment,oordeel,49
+ghetto,getto,49
+rust,Roest,49
+attachment,bijlage,49
+license,licentie,49
+knot,knoop,49
+helix,helix,49
+shadow,schaduw,50
+drag,sleuren,50
+operation,operatie,50
+flash point,vlampunt,50
+wreck,wrak,50
+mortality,sterfte,50
+ash grey,asgrijs,50
+showcase,etalage,50
+soap bubble,zeepbel,50
+sting,steek,50
+plague,pest,51
+increase,toenemen,51
+ability,vermogen,51
+qi,qi,51
+fracture,breuk,51
+ordinary,normaal,51
+wealth,rijkdom,51
+roots,wortels,51
+aura,aura,51
+disorder,wanorde,51
+mole,wrat,52
+antenna,antenne,52
+chap,kerel,52
+horizon,horizon,52
+seventh,zevende,52
+marriage,huwelijk,52
+injury,blessure,52
+vogue,mode,52
+nap,dutje,52
+altitude,hoogte,52
+chalk,krijt,53
+education,opleiding,53
+dun,dun,53
+wrath,toorn,53
+grind,malen,53
+tenor,tenor,53
+commission,commissie,53
+palette,palet,53
+quality,kwaliteit,53
+former,vroegere,53
+pip,Pip,54
+crust,korst,54
+bouquet,boeket,54
+slack,slap,54
+poison,vergif,54
+gall,gal,54
+sea green,zee groen,54
+structure,structuur,54
+top,bovenkant,54
+hunger,honger,54
+poker face,pokerface,55
+flare,gloed,55
+envelope,envelop,55
+decay,verval,55
+economy,economie,55
+defect,defect,55
+erosion,erosie,55
+raj,raj,55
+patience,geduld,55
+stir,roeren,55
+heart block,hartblok,56
+emotion,emotie,56
+cyan,cyaan,56
+damn,verdomd,56
+fortune,fortuin,56
+trim,trimmen,56
+full blood,vol bloed,56
+pinch,kneep,56
+hush,stil,56
+shade,schaduw,56
+good part,goed deel,57
+rotation,rotatie,57
+retirement,pensioen,57
+veto,veto,57
+utilization,gebruik,57
+time bomb,tijdbom,57
+allowance,zakgeld,57
+coating,coating,57
+coma,coma,57
+stout,stout,57
+mark,markering,58
+good will,goede wil,58
+bronze,bronzen,58
+chic,chique,58
+agony,nood,58
+playing field,speelveld,58
+tan,bruinen,58
+upper hand,bovenhand,58
+jag,jag,58
+order,bestellen,58
+brink,rand,59
+tonight,vanavond,59
+magnitude,grootte,59
+texture,textuur,59
+bleeding,bloeden,59
+surety,borg,59
+repair,reparatie,59
+hue,tint,59
+gutter,goot,59
+bondage,slavernij,59
+ozone hole,ozongat,60
+breach,inbreuk,60
+emerald,smaragd,60
+nirvana,nirvana,60
+salvation,redding,60
+guilt,schuld,60
+granite,graniet,60
+forte,forte,60
+verge,berm,60
+delight,vreugde,60
+nowhere,nergens,61
+bloom,bloeien,61
+ownership,eigendom,61
+occurrence,voorval,61
+hot stuff,goed spul,61
+challenge,uitdaging,61
+note,Opmerking,61
+affair,affaire,61
+conflict,conflict,61
+hour angle,uur hoek,61
+constitution,grondwet,62
+cavern,grot,62
+pencil,potlood,62
+split,splitsen,62
+clash,botsen,62
+eighth,achtste,62
+yellow jack,gele jack,62
+duration,looptijd,62
+thinking cap,denkhoed,62
+emergency,noodgeval,62
+elan,elan,63
+contrast,contrast,63
+definition,definitie,63
+parallel,parallel,63
+smut,vuil,63
+yoke,juk,63
+use,gebruiken,63
+indigo,indigo,63
+mystery,mysterie,63
+event,evenement,63
+dead hand,dode hand,64
+woe,wee,64
+lobe,kwab,64
+free will,vrije wil,64
+trouble,probleem,64
+sensation,gevoel,64
+stress,spanning,64
+sickness,ziekte,64
+eye disease,oogziekte,64
+hygiene,hygiëne,64
+tenth,tiende,65
+black eye,zwart oog,65
+excess,overmaat,65
+herpes,herpes,65
+streak,streep,65
+lupus,lupus,65
+cameo,cameo,65
+pose,houding,65
+determination,bepaling,65
+warmth,warmte,65
+eleventh,elfde,66
+swing,schommel,66
+animation,animatie,66
+smog,smog,66
+keel,kiel,66
+huff,huff,66
+wisdom,wijsheid,66
+raising,opvoeden,66
+leaf shape,bladvorm,66
+cunning,sluw,66
+dimension,dimensie,67
+craze,rage,67
+drive,drijfveer,67
+jet lag,jetlag,67
+print,afdrukken,67
+thirst,dorst,67
+era,tijdperk,67
+old rose,oude roos,67
+ulcer,zweer,67
+balance,evenwicht,67
+plume,pluim,68
+pore,porie,68
+facet,facet,68
+prism,prisma,68
+pleasure,genoegen,68
+swamp,moeras,68
+felicity,geluk,68
+view angle,kijkhoek,68
+vigil,waken,68
+angst,angst,68
+liberty,vrijheid,69
+nobility,adel,69
+worse,slechter,69
+bounty,premie,69
+absurd,absurd,69
+caste,kaste,69
+acreage,areaal,69
+aperture,opening,69
+entirety,geheel,69
+disadvantage,nadeel,69
+ninth,negende,70
+lure,lokken,70
+worst,slechtst,70
+spiral,spiraal,70
+voodoo,voodoo,70
+seriousness,ernst,70
+infection,infectie,70
+caprice,gril,70
+spectrum,spectrum,70
+awe,ontzag,70
+baroque,barok-,71
+amelia,amelia,71
+big time,grote tijd,71
+decline,afwijzen,71
+roulette,roulette,71
+rift,breuk,71
+irony,ironie,71
+diameter,diameter,71
+hot water,heet water,71
+security,veiligheid,71
+crop failure,misoogst,72
+coalition,coalitie,72
+dislike,afkeer,72
+hangover,kater,72
+dart,darten,72
+zeal,ijver,72
+sphinx,sfinx,72
+climax,climax,72
+flaw,gebrek,72
+funnel,koker,72
+pastel,pastel,73
+here and now,hier en nu,73
+simplicity,eenvoud,73
+leverage,hefboom,73
+coal black,gitzwart,73
+preference,voorkeur,73
+bishop,bisschop,73
+haste,haast,73
+inheritance,erfenis,73
+chord,akkoord,73
+cataract,staar,74
+dilemma,dilemma,74
+inclusion,inclusie,74
+ecstasy,extase,74
+stance,houding,74
+crotch,kruis,74
+wood grain,houtnerf,74
+crunch,kraken,74
+strawberry,aardbei,74
+incident,incident,74
+capability,vermogen,75
+blister,blaar,75
+morale,moreel,75
+resignation,ontslag,75
+bazaar,bazaar,75
+lymphoma,lymfoom,75
+bend,kromming,75
+utopia,Utopia,75
+misery,ellende,75
+conscience,geweten,75
+health,Gezondheid,76
+red water,rood water,76
+insight,in zicht,76
+ecology,ecologie,76
+mourning,rouwen,76
+drought,droogte,76
+regulation,regulatie,76
+inhibition,remming,76
+yellow green,geel groen,76
+origin,oorsprong,76
+fix,repareren,77
+alert,alarmeren,77
+reality,realiteit,77
+tendency,tendens,77
+esteem,achting,77
+embrace,omarmen,77
+eon,eon,77
+bullet hole,kogelgat,77
+kingdom,koninkrijk,77
+ordination,wijding,77
+chill,chillen,78
+breakdown,afbreken,78
+hypnosis,hypnose,78
+ambition,ambitie,78
+priest,priester,78
+appearance,uiterlijk,78
+wrinkle,rimpel,78
+image,afbeelding,78
+good form,goede vorm,78
+tension,spanning,78
+boil,B' olie,79
+standard,standaard-,79
+redundancy,ontslag,79
+grudge,wrok,79
+nerves,zenuwen,79
+breaking point,breekpunt,79
+isolation,isolatie,79
+leaning,leunend,79
+erection,erectie,79
+tact,tact,79
+despair,wanhoop,80
+magenta,magenta,80
+air bubble,luchtbel,80
+slit,spleet,80
+reign,bestuur,80
+arthritis,artritis,80
+inconvenience,ongemak,80
+pang,pang,80
+harmony,harmonie,80
+analogue,analoog,80
+condition,voorwaarde,81
+triangle,driehoek,81
+reflux,reflux,81
+congestion,ophoping,81
+cylinder,cilinder,81
+bore,vervelen,81
+shame,schaamte,81
+monopoly,Monopoly,81
+heart failure,hartfalen,81
+dash,streepje,81
+lesion,laesie,82
+province,provincie,82
+corrosion,corrosie,82
+resistance,weerstand,82
+dark red,donkerrood,82
+mumps,bof,82
+clutter,ophoping,82
+heart disease,hartziekte,82
+acquaintance,kennis,82
+audacity,durf,82
+hurry,haast je,83
+yellow spot,gele vlek,83
+sore throat,keelpijn,83
+flag rank,vlag rang,83
+glut,veel,83
+animal disease,dierziekte,83
+leukemia,leukemie,83
+hair coloring,haarverf,83
+tight money,krap geld,83
+deuce,deuce,83
+kink,knik,84
+amnesty,amnestie,84
+sounding,klinkend,84
+ethos,ethos,84
+handicap,handicap,84
+mocha,mokka,84
+eczema,eczeem,84
+line of life,levenslijn,84
+flank,flank,84
+notch,inkeping,84
+high ground,hoge grond,85
+connection,verbinding,85
+general anesthesia,narcose,85
+alliance,alliantie,85
+clearance sale,opruiming,85
+cyst,cyste,85
+cleanliness,reinheid,85
+potential,potentieel,85
+deacon,diaken,85
+allergy,allergie,85
+node,knooppunt,86
+repose,rust,86
+angina,angina,86
+betrayal,bedrog,86
+stigma,stigma,86
+cadence,cadans,86
+blight,vloek,86
+esprit,esprit,86
+submission,inzending,86
+book value,boekwaarde,86
+compartment,gedeelte,87
+light brown,lichtbruin,87
+wart,wrat,87
+sale,uitverkoop,87
+unrest,onrust,87
+skin cancer,huidkanker,87
+ellipse,Ovaal,87
+skin disease,huidziekte,87
+trust,vertrouwen,87
+phobia,fobie,87
+smallpox,pokken,88
+home rule,huis regel,88
+swath,zwad,88
+drawback,nadeel,88
+cusp,cusp,88
+blemish,smet,88
+complexion,teint,88
+adhesion,adhesie,88
+mogul,mogul,88
+jog,joggen,88
+association,vereniging,89
+gout,jicht,89
+repentance,berouw,89
+soprano,sopraan,89
+safety,veiligheid,89
+damp,vochtig,89
+fugue,fuga,89
+vigor,kracht,89
+azimuth,azimut,89
+rein,teugel,89
+driving belt,drijfriem,90
+luster,glans,90
+recognition,herkenning,90
+mold,gietvorm,90
+dandruff,roos,90
+fret,tobben,90
+dolor,dolor,90
+idle,inactief,90
+momentum,momentum,90
+necessity,noodzaak,90
+sinking,zinkend,91
+insulation,isolatie,91
+swell,zwellen,91
+free living,vrij leven,91
+consolation,troost,91
+grace,elegantie,91
+acme,toppunt,91
+cutting angle,snijhoek:,91
+pique,piqué,91
+interest,interesse ,91
+pica,pica,92
+foot rot,voetrot,92
+burgundy,bordeaux,92
+picture,afbeelding,92
+consideration,overweging,92
+crud,grof,92
+wave angle,golfhoek:,92
+cradle cap,wieg dop,92
+homelessness,dakloos,92
+shaking,schudden,92
+shrinkage,krimp,93
+depression,depressie,93
+taupe,taupe,93
+hallmark,keurmerk,93
+scarlet fever,roodvonk,93
+atmosphere,atmosfeer,93
+discomfort,ongemak,93
+boiling point,kookpunt,93
+latency,latentie,93
+chestnut,kastanje,93
+lower bound,ondergrens,94
+ring rot,ringrot,94
+upper bound,bovengrens,94
+solid angle,vaste hoek,94
+biomass,biomassa,94
+blessing,zegening,94
+excitement,spanning,94
+rest mass,rust massa,94
+tune,afstemmen,94
+optimum,optimaal,94
+ruin,ruïneren,95
+hazel,hazelaar,95
+carnation,anjer,95
+weakness,zwakheid,95
+injustice,onrecht,95
+lavender,lavendel,95
+setup,opstelling,95
+malaria,malaria-,95
+dew point,dauwpunt,95
+pentagon,Pentagon,95
+allegro,allegro,96
+circumference,omtrek,96
+significance,betekenis,96
+proportion,proportie,96
+edema,oedeem,96
+confidence,vertrouwen,96
+glyph,glyph,96
+suspense,spanning,96
+narrow gauge,smalspoor,96
+junction,knooppunt,96
+half track,half spoor,97
+emulation,emulatie,97
+periphery,omtrek,97
+separation,scheiding,97
+sty,stal,97
+pupil,leerling,97
+weak point,zwak punt,97
+discretion,discretie,97
+beauty,schoonheid,97
+high pitch,hoge toon,97
+prestige,prestige,98
+libido,libido,98
+mauve,mauve,98
+low status,lage status,98
+corruption,corruptie,98
+sway,zwaaien,98
+collapse,instorten,98
+limitation,beperking,98
+sand crack,zand barst,98
+dead duck,dode eend,98
+free hand,vrije hand,99
+fibrosis,fibrose,99
+innocence,onschuld,99
+hernia,hernia,99
+leprosy,lepra,99
+weak part,zwak deel,99
+oral cancer,mondkanker,99
+burn,brandwond,99
+first class,eerste klas,99
+low pitch,lage toon,99
+high status,hoge status,100
+wale,wale,100
+bow leg,boog been,100
+vacancy,vacature,100
+emptiness,leegte,100
+primus,primus,100
+blob,klodder,100
+reflection,reflectie,100
+anima,anima,100
+wellbeing,welzijn,100
+gamut,gamma,101
+rut,sleur,101
+glaze,glazuur,101
+correction,correctie,101
+equator,evenaar,101
+parity,pariteit,101
+eidos,eidos,101
+attenuation,demping,101
+orbital plane,baanvlak,101
+balk,balk,101
+richness,rijkdom,102
+moderation,met mate,102
+ballast,ballast,102
+hard cheese,harde kaas,102
+lubrication,smering,102
+equinox,equinox,102
+assurance,zekerheid,102
+precedence,voorrang,102
+anarchy,anarchie,102
+utmost,uiterste,102
+anthrax,miltvuur,103
+manners,manieren,103
+bosom,boezem,103
+light time,lichte tijd,103
+greed,hebzucht,103
+second class,tweede klas,103
+air alert,luchtalarm,103
+red alert,rood alarm,103
+chasm,kloof,103
+aggression,agressie,103
+pyramid,piramide,104
+dry rot,droogrot,104
+pedestal,voetstuk,104
+hemisphere,halfrond,104
+brown rot,bruinrot,104
+unison,unisono,104
+shank,schacht,104
+thin air,ijle lucht,104
+swelling,zwelling,104
+sex drive,zin in seks,104
+black rot,zwartrot,105
+torus,torus,105
+prison,gevangenis,105
+roller coaster,achtbaan,105
+limb,ledemaat,105
+mosaic,mozaïek-,105
+indulgence,mildheid,105
+dado,dado,105
+pollution,vervuiling,105
+minority,minderheid,105
+affection,affectie,106
+dementia,Dementie,106
+pedigree,stamboom,106
+teardrop,traan,106
+sclerosis,sclerose,106
+realism,realisme,106
+persona,persona,106
+envy,jaloezie,106
+erasure,wissen,106
+waking,ontwaken,106
+worship,aanbidding,107
+urgency,urgentie,107
+election,verkiezing,107
+bottle green,fles groen,107
+carving,snijwerk,107
+heartbeat,hartslag,107
+upbeat,vrolijk,107
+inclination,neiging,107
+measles,mazelen,107
+countenance,gelaat,107
+rainbow,regenboog,108
+organization,organisatie,108
+surprise,verrassing,108
+limit,begrenzing,108
+brunt,bruut,108
+milieu,milieu,108
+unwillingness,onwil,108
+death toll,dood straf,108
+feelings,gevoelens,108
+extension,verlenging,108
+calmness,rust,109
+awareness,bewustzijn,109
+tremor,tremor,109
+reserve,reserveren,109
+projection,projectie,109
+reputation,reputatie,109
+survival,overleving,109
+toe crack,teen barst,109
+calyx,kelk,109
+solace,troost,109
+failure,mislukking,110
+pox,pokken,110
+openness,openheid,110
+herm,herm,110
+market value,marktwaarde,110
+synapse,synaps,110
+agape,agape,110
+vicar,dominee,110
+confines,grenzen,110
+binding,verbindend,110
+capacity,capaciteit,111
+oneness,eenheid,111
+amount,hoeveelheid,111
+setting,instelling,111
+disgust,walging,111
+facility,faciliteit,111
+clear,Doorzichtig,111
+priority,prioriteit,111
+wilderness,wildernis,111
+motivation,motivatie,111
+treatment,behandeling,112
+anomaly,anomalie,112
+polygon,veelhoek,112
+phenotype,fenotype,112
+epoch,tijdperk,112
+resentment,rancune,112
+recession,recessie,112
+clinch,clinch,112
+sarcoma,sarcoom,112
+nadir,nadir,112
+life style,levensstijl,113
+deadlock,impasse,113
+melanoma,melanoma,113
+osteoarthritis,artrose,113
+inversion,inversie,113
+common time,gewone tijd,113
+apathy,apathie,113
+quietness,rust,113
+protection,bescherming,113
+mysticism,mystiek,113
+daze,versuft,114
+far cry,ver huilen,114
+nub,nub,114
+vegetation,vegetatie,114
+equilibrium,evenwicht,114
+dispatch,verzenden,114
+desperation,wanhoop,114
+privilege,voorrecht,114
+crown gall,kroongal,114
+heart attack,hartaanval,114
+area,Oppervlakte,115
+twelfth,twaalfde,115
+imbalance,onbalans,115
+tangent,raaklijn,115
+tangent plane,raakvlak,115
+plurality,meervoud,115
+discrepancy,verschil,115
+deviation,afwijking,115
+buck fever,bokkoorts,115
+community,gemeenschap,115
+divide,verdeling,116
+check,controleren,116
+abyss,afgrond,116
+noose,strop,116
+discipline,discipline,116
+leaf disease,bladziekte,116
+sake,rijstwijn,116
+rheumatism,reuma,116
+curvature,kromming,116
+cash account,kasrekening,116
+gleam,glans,117
+sex appeal,sex-appeal,117
+supplement,supplement,117
+stenosis,stenose,117
+consistency,samenhang,117
+tangle,wirwar,117
+fireball,vuurbol,117
+hepatitis,hepatitis,117
+alabaster,albast,117
+wise,verstandig,117
+round shape,ronde vorm,118
+cardiac rhythm,hartritme,118
+sepsis,sepsis,118
+tranquillity,kalmte,118
+dyslexia,dyslexie,118
+sweet tooth,zoetekauw,118
+paranoia,paranoia,118
+acid rain,zure regen,118
+jealousy,jaloezie,118
+nothingness,niets,118
+terminus,eindpunt,119
+pomp,praal,119
+potency,potentie,119
+coloration,kleur,119
+identity,identiteit,119
+umbra,umbra,119
+glaucoma,glaucoom,119
+whitehead,withoofd,119
+radiance,straling,119
+mobility,mobiliteit,119
+enclosure,behuizing,120
+tin ear,tinnen oor,120
+pitch,toonhoogte,120
+genotype,genotype,120
+gusto,zin in,120
+sympathy,sympathie,120
+constraint,beperking,120
+hardness,hardheid,120
+harvest moon,oogst maan,120
+cardinal,kardinaal,120
+anorexia,anorexia,121
+bolus,bolus,121
+full moon,volle maan,121
+brake drum,remtrommel,121
+physiology,fysiologie,121
+olive green,olijfgroen,121
+clarity,helderheid,121
+strain,deformatie,121
+addiction,verslaving,121
+lung cancer,longkanker,121
+highlight,hoogtepunt,122
+bull nose,stier neus,122
+pleat,plooi,122
+rupture,scheuren,122
+empathy,empathie,122
+abundance,overvloed,122
+girth,omvang,122
+gauge,graadmeter,122
+broad gauge,breedspoor,122
+earthquake,aardbeving,122
+noma,noma,123
+fullness,volheid,123
+mire,slijk,123
+duress,dwang,123
+background,achtergrond,123
+creeps,kruipt,123
+rating,beoordeling,123
+sudden infant death syndrome,wiegendood,123
+canker,kanker,123
+meander,dwalen,123
+coolness,koelte,124
+rococo,rococo,124
+typhoid,tyfus-,124
+clutch,koppeling,124
+bounce,stuiteren,124
+craziness,gekte,124
+rejection,afwijzing,124
+pathos,pathos,124
+rioting,rellen,124
+detention,Nablijven,124
+renal failure,nierfalen,125
+bummer,jammer,125
+pass,slagen voor,125
+book fair,Boekenbeurs,125
+timbre,timbre,125
+rule of law,rechtsstaat,125
+darkness,duisternis,125
+enterprise,onderneming,125
+dark blue,donkerblauw,125
+perfection,perfectie,125
+zigzag,zigzag,126
+ataxia,ataxie,126
+titer,titer,126
+chink,kier,126
+propriety,fatsoen,126
+hay fever,hooikoorts,126
+bight,bocht,126
+composure,kalmte,126
+predisposition,aanleg,126
+camber,camber,126
+quarto,quarto,127
+glioma,glioom,127
+freshness,versheid,127
+easiness,gemak,127
+cirrhosis,cirrose,127
+decency,fatsoen,127
+deference,eerbied,127
+sadism,sadisme,127
+dearth,gebrek,127
+merit,verdienste,127
+fairy ring,elfen ring,128
+graze,grazen,128
+semblance,schijn,128
+deferral,uitstel,128
+syphilis,syfilis,128
+aphasia,afasie,128
+jade green,Jade groen,128
+euphoria,euforie,128
+puce,puce,128
+tare,tarra,128
+infidelity,ontrouw,129
+hexagon,zeshoek,129
+linkage,koppeling,129
+dryness,droogte,129
+myeloma,myeloom,129
+rhombus,ruit,129
+sloth,luiaard,129
+mystique,mystiek,129
+cholera,cholera,129
+tetanus,tetanus,129
+garden roller,tuinroller,130
+paint roller,verfroller,130
+preserve,beschermen,130
+twang,twang,130
+gold fever,goudkoorts,130
+magnificence,pracht,130
+autonomy,autonomie,130
+selfishness,egoïsme,130
+lather,schuim,130
+abrasion,slijtage,130
+reproach,verwijt,131
+pale yellow,bleek geel,131
+hypoxia,hypoxie,131
+angle of incidence,invalshoek,131
+prosperity,voorspoed,131
+disposition,gezindheid,131
+diagonal,diagonaal,131
+penetration,penetratie,131
+validity,Geldigheid,131
+raw wound,rauwe wond,131
+nomination,voordracht,132
+reliance,vertrouwen,132
+amplitude,amplitude,132
+dog bite,hondenbeet,132
+charcoal,houtskool,132
+sweetness,zoetheid,132
+simmer,sudderen,132
+continuum,continuüm,132
+ethnicity,etniciteit,132
+matter,er toe doen,132
+deafness,doofheid,133
+kidney disease,nierziekte,133
+consciousness,bewustzijn,133
+suspended animation,schijndood,133
+poverty trap,armoedeval,133
+tolerance,tolerantie,133
+pathology,pathologie,133
+ischemia,ischemie,133
+arrest,arresteren,133
+coldness,koude,133
+influenza,influenza,134
+carcinoma,carcinoom,134
+reluctance,tegenzin,134
+registration,registratie,134
+extremity,uiteinde,134
+low profile,laag profiel,134
+epilepsy,epilepsie,134
+amusement,amusement,134
+yore,weleer,134
+approval,goedkeuring,134
+colon cancer,darmkanker,135
+earnestness,ernst,135
+certainty,zekerheid,135
+head cold,verkoudheid,135
+elegance,elegantie,135
+phase space,fase ruimte,135
+dead letter,dode letter,135
+symmetry,symmetrie,135
+oil stain,olie vlek,135
+need,nodig hebben,135
+steel blue,staal blauw,136
+freezing point,vriespunt,136
+contamination,besmetting,136
+cleft lip,hazenlip,136
+breast cancer,borstkanker,136
+currency,munteenheid,136
+compassion,medeleven,136
+sore,ontstoken,136
+second wind,tweede wind,136
+rectangle,rechthoek,136
+selling point,verkooppunt,137
+demeanor,houding,137
+saddle sore,zadelpijn,137
+white heat,witte hitte,137
+cynicism,cynisme,137
+pock,zak,137
+pink disease,roze ziekte,137
+charisma,charisma,137
+stature,gestalte,137
+iron blue,ijzer blauw,137
+trial balance,proefbalans,138
+blain,blain,138
+straight line,rechte lijn,138
+hickey,zuigzoen,138
+investment,investering,138
+war power,oorlogsmacht,138
+growing pains,groeipijn,138
+sharpness,scherpte,138
+lector,lector,138
+platen,platen,138
+menopause,menopauze,139
+hysteria,hysterie,139
+development,ontwikkeling,139
+attrition,slijtage,139
+andante,andante,139
+heft,gewicht,139
+multiplicity,veelheid,139
+homology,homologie,139
+annoyance,ergernis,139
+salient,saillant,139
+agitation,agitatie,140
+asana,asana,140
+valence,valentie,140
+blood disease,bloedziekte,140
+fresh start,nieuw begin,140
+perimeter,perimeter,140
+agreement,overeenkomst,140
+roughness,ruwheid,140
+closeout,afsluiten,140
+hepatic coma,levercoma,140
+assessment,beoordeling,141
+extra large,extra groot,141
+decomposition,ontleding,141
+expression,uitdrukking,141
+null space,null-ruimte,141
+quantity,hoeveelheid,141
+crevice,spleet,141
+kuru,kuru,141
+leadership,leiderschap,141
+presentation,presentatie,141
+good faith,goed geloof,142
+orange yellow,Oranje Geel,142
+penis envy,penisnijd,142
+malady,ziekte,142
+folly,dwaasheid,142
+improvement,verbetering,142
+sentiment,sentiment,142
+acceptance,aanvaarding,142
+craving,verlangen,142
+hunting ground,jacht grond,142
+carousel,carrousel,143
+gastric ulcer,maagzweer,143
+perpendicular,loodrecht,143
+germ pore,kiemporie,143
+octavo,octavo,143
+psoriasis,psoriasis,143
+polyp,poliep,143
+disrepair,verval,143
+sufficiency,voldoende,143
+cleavage,decollete,143
+caput,caput,144
+allure,verleiden,144
+body type,lichaamstype,144
+nostalgia,nostalgie,144
+recourse,toevlucht,144
+tuck,instoppen,144
+wilt,verwelken,144
+longing,verlangen,144
+stymie,stymie,144
+distraction,afleiding,144
+facet plane,facetvlak,145
+stiffness,stijfheid,145
+history,geschiedenis,145
+right angle,juiste hoek,145
+tumult,tumult,145
+croup,kruis,145
+interior angle,binnenhoek:,145
+herniated disc,hernia,145
+malaise,malaise,145
+aspiration,aspiratie,145
+infirmity,ziekte,146
+field strength,veldsterkte,146
+dither,dither,146
+murine typhus,tyfus,146
+hoodoo,hoodoo,146
+resilience,weerstand,146
+plane angle,vlakke hoek,146
+typhus,tyfus,146
+blotch,vlek,146
+blackout,Black Out,146
+duality,dualiteit,147
+endemic,endemisch,147
+slam dunk,slam dunk,147
+ague,ague,147
+black spot,zwarte vlek,147
+first water,eerste water,147
+goiter,struma,147
+cold war,koude Oorlog,147
+cerise,cerise,147
+cold storage,koude opslag,147
+temperature,temperatuur-,148
+soft spot,zachte plek,148
+living death,levende dood,148
+recommendation,aanbeveling,148
+extent,mate waarin,148
+stoma,stoma,148
+new moon,nieuwe maan,148
+majority,meerderheid,148
+affect,beïnvloeden,148
+eclat,eclat,148
+relief,Verlichting,149
+stamina,weerstand,149
+anoxia,anoxie,149
+diversity,diversiteit,149
+perspective,perspectief,149
+integrity,integriteit,149
+lyricism,lyriek,149
+sprue,spruw,149
+axil,oksel,149
+high profile,hoog profiel,149
+sparkle,fonkeling,150
+unhappiness,ongeluk,150
+good humor,goede humor,150
+snit,snit,150
+cruelty,wreedheid,150
+bone age,botleeftijd,150
+sadness,droefheid,150
+aplomb,aplomb,150
+reprieve,uitstel,150
+good nature,goede natuur,150
+irritation,irritatie,151
+eating disorder,eetstoornis,151
+cowardice,lafheid,151
+correctness,juistheid,151
+omission,weglating,151
+efficiency,efficiëntie,151
+wonder,vraag me af,151
+flag smut,vlag smut,151
+soft rot,zacht rot,151
+lunacy,waanzin,151
+pregnancy,zwangerschap,152
+manana,manana,152
+activity,werkzaamheid,152
+smudge,vlekken,152
+local option,lokale optie,152
+logjam,logjam,152
+adenoma,adenoom,152
+root rot,wortelrot,152
+tremolo,tremolo,152
+arabesque,arabesk,152
+tarnish,aanslag,153
+bottom rot,bodem rot,153
+disquiet,onrust,153
+trembles,beeft,153
+blindness,blindheid,153
+storm center,stormcentrum,153
+quarter crack,kwart barst,153
+infamy,schande,153
+acidosis,acidose,153
+spread,verspreiding,153
+soil profile,bodemprofiel,154
+varus,varus,154
+bank account,bankrekening,154
+cranny,gaatje,154
+hinge,scharnier,154
+fifth wheel,vijfde wiel,154
+emphysema,emfyseem,154
+coherence,samenhang,154
+hesitation,aarzeling,154
+confinement,beperking,154
+membership,lidmaatschap,155
+comparison,vergelijking,155
+brain damage,hersenschade,155
+psychosis,psychose,155
+cold feet,koude voeten,155
+checking account,bankrekening,155
+frontage,voorgevel,155
+overdrive,overdrive,155
+dead weight,dood gewicht,155
+optimism,optimisme,155
+tangerine,mandarijn,156
+repression,repressie,156
+hiding,verstoppen,156
+form,het formulier,156
+statue,standbeeld,156
+whiteness,witheid,156
+absence,afwezigheid,156
+boredom,verveling,156
+presence,aanwezigheid,156
+scarcity,schaarste,156
+cold sweat,koud zweet,157
+octagon,achthoek,157
+predicament,toestand,157
+junior status,juniorstatus,157
+overkill,overkill,157
+delusion,waanidee,157
+repellent,afstotend,157
+decorum,decorum,157
+drape,draperen,157
+bulimia,boulimia,157
+inside track,binnen spoor,158
+demerit,nadeel,158
+orphanage,weeshuis,158
+spiff,spiff,158
+tentacle,tentakel,158
+twilight,schemering,158
+race problem,ras probleem,158
+cold comfort,koude troost,158
+scabies,schurft,158
+liver disease,leverziekte,158
+courtesy,beleefdheid,159
+sulk,mokken,159
+coordination,coördinatie,159
+mange,schurft,159
+chlamydia,chlamydia,159
+bust,borstbeeld,159
+neurosis,neurose,159
+occasion,gelegenheid,159
+liver cancer,leverkanker,159
+ascendant,ascendant,159
+sentience,gevoel,160
+mirror image,spiegelbeeld,160
+enlargement,uitbreiding,160
+theism,theïsme,160
+sprocket,tandwiel,160
+similarity,gelijkenis,160
+invitation,uitnodiging,160
+zinc deficiency,zinktekort,160
+purpura,purpura,160
+the hots,de hots,160
+infarct,infarct,161
+smoothness,gladheid,161
+lichen,korstmos,161
+fester,etteren,161
+ascites,ascites,161
+dishonor,onteren,161
+baldness,kaalheid,161
+primacy,voorrang,161
+highness,hoogheid,161
+atomic mass,atoom massa,161
+dedication,toewijding,162
+pellet,korreltje,162
+greatness,grootheid,162
+svoboda,svoboda,162
+excitation,opwinding,162
+civic pride,burgertrots,162
+stability,stabiliteit,162
+tenderness,tederheid,162
+ionization,ionisatie,162
+presumption,vermoeden,162
+sprawl,wildgroei,163
+humidity,vochtigheid,163
+sixteenth,zestiende,163
+stewing,stoven,163
+crescent,halve maan,163
+tongue tie,tongriempje,163
+free rein,vrij spel,163
+omnipotence,almacht,163
+loyalty,loyaliteit,163
+poison ivy,Poison Ivy,163
+estrus,oestrus,164
+appeal,hoger beroep,164
+fulfillment,vervulling,164
+helix angle,helix hoek,164
+white sale,witte verkoop,164
+scarlet,scharlaken,164
+tunnel vision,tunnelvisie,164
+neatness,netheid,164
+atresia,atresie,164
+raphe,raphe,164
+disturbance,verstoring,165
+exorcist,exorcist,165
+brown study,bruine studie,165
+scrapie,scrapie,165
+fuschia,fuschia,165
+lilt,liefje,165
+vibration,trillingen,165
+bunion,bunion,165
+scepter,scepter,165
+secant,secans,165
+hopefulness,hoop,166
+glitter,schitteren,166
+twentieth,twintigste,166
+miasma,miasma,166
+status quo,status quo,166
+vent,ventileren,166
+willingness,bereidheid,166
+inability,onvermogen,166
+brightness,helderheid,166
+tapestry,tapijtwerk,166
+temptation,verleiding,167
+approximation,benadering,167
+peduncle,steel,167
+overlap,overlappen,167
+suspicion,verdenking,167
+dystrophy,dystrofie,167
+mud stain,moddervlek,167
+resonance,resonantie,167
+delirium,delirium,167
+confusion,verwardheid,167
+exterior angle,buitenhoek:,168
+cleft,gespleten,168
+aneurysm,aneurysma,168
+sage green,salie groen,168
+olive brown,olijf bruin,168
+affliction,kwelling,168
+brain tumor,hersentumor,168
+immunity,immuniteit,168
+restraint,beheersing,168
+chorea,chorea,168
+thirteenth,dertiende,169
+purgatory,vagevuur,169
+diocesan,diocesane,169
+adversity,tegenslag,169
+slub,slub,169
+dominance,dominantie,169
+dysfunction,disfunctie,169
+acidity,zuurgraad,169
+friendship,vriendschap,169
+readiness,gereedheid,169
+devotion,toewijding,170
+mosquito bite,muggenbeet,170
+intensity,intensiteit,170
+reflex angle,reflexhoek,170
+altar boy,misdienaar,170
+misfortune,tegenslag,170
+vitality,vitaliteit,170
+frown line,fronslijn,170
+heaves,deinst,170
+chrome red,chroom rood,170
+leer,koeloven,171
+diphtheria,difterie,171
+slumber,sluimeren,171
+dimple,kuiltje,171
+rigidity,stijfheid,171
+shortness,kortheid,171
+arousal,opwinding,171
+iron mold,ijzeren mal,171
+disapproval,afkeuring,171
+odium,odium,171
+satisfaction,tevredenheid,172
+fire sale,brand verkoop,172
+purity,zuiverheid,172
+bluster,brullen,172
+strangulation,Wurging,172
+diabetes,suikerziekte,172
+flexure,buiging,172
+black disease,zwarte ziekte,172
+morality,moraliteit,172
+egoism,egoïsme,172
+anesthesia,anesthesie,173
+refinement,verfijning,173
+ground state,grondtoestand,173
+extinction,uitsterven,173
+line of heart,lijn van hart,173
+pimple,puistje,173
+glamor,glamour,173
+bonheur,bonheur,173
+tilth,tilth,173
+spur,aansporing,173
+impatience,ongeduld,174
+gonorrhea,gonorroe,174
+alopecia,alopecia,174
+chagrin,verdriet,174
+wholeness,heelheid,174
+frustration,frustratie,174
+dysphagia,dysfagie,174
+shambles,puinhoop,174
+ozone sickness,ozonziekte,174
+dynamism,dynamiek,174
+eroticism,erotiek,175
+scoliosis,scoliose,175
+piety,vroomheid,175
+motion sickness,reisziekte,175
+heaviness,zwaarte,175
+milk sickness,melkziekte,175
+idealism,idealisme,175
+eminence,eminentie,175
+narrow margin,smalle marge,175
+mountain sickness,bergziekte,175
+destitution,armoede,176
+eternity,eeuwigheid,176
+ocher,oker,176
+dysplasia,dysplasie,176
+whiplash,zweepslag,176
+undress,uitkleden,176
+glaciation,ijstijd,176
+foramen,foramen,176
+realization,realisatie,176
+affinity,affiniteit,176
+whirl,werveling,177
+bestiality,bestialiteit,177
+voltage drop,spanningsval,177
+chrome green,chroom groen,177
+softness,zachtheid,177
+imperium,imperium,177
+yellow dwarf,gele dwerg,177
+unemployment,werkloosheid,177
+ballgame,balspel,177
+futurity,toekomst,177
+revocation,herroeping,178
+open marriage,open huwelijk,178
+standard gauge,normaalspoor,178
+affluence,welvaart,178
+disarray,wanorde ,178
+abnormality,afwijking,178
+romanticism,romantiek,178
+neuroma,neuroma,178
+green thumb,groene Duim,178
+upbringing,opvoeding,178
+flutter,fladderen,179
+distinction,onderscheid,179
+temperance,matigheid,179
+yips,yips,179
+blahs,blabla,179
+musical time,muzikale tijd,179
+warble,kwelen,179
+hard time,moeilijke tijd,179
+point of honor,punt van eer,179
+busyness,drukte,179
+preponderance,overwicht,180
+staggers,wankelt,180
+sedation,verdoving,180
+practicality,praktisch,180
+paganism,heidendom,180
+uremia,uremie,180
+sawtooth,zaagtand,180
+eligibility,geschiktheid,180
+sensitivity,gevoeligheid,180
+lipoma,lipoom,180
+anomie,anomie,181
+anxiety,ongerustheid,181
+ptosis,ptosis,181
+lotus position,lotushouding,181
+popularity,populariteit,181
+concert pitch,concertpitch,181
+closeness,nabijheid,181
+culture shock,cultuurschok,181
+humanity,de mensheid,181
+filth,vuiligheid,181
+kyphosis,kyfose,182
+footprint,voetafdruk,182
+contempt,minachting,182
+uncertainty,onzekerheid,182
+face angle,gezichtshoek,182
+bas relief,bas-reliëf,182
+valgus,valgus,182
+jungle rot,jungle rot,182
+college level,college-niveau,182
+cystitis,cystitis,182
+citizenship,burgerschap,183
+longevity,levensduur,183
+prospect,verwachting,183
+equivalent,gelijkwaardig,183
+solid figure,solide figuur,183
+celiac disease,coeliakie,183
+eye condition,oogaandoening,183
+amputation,amputatie,183
+possibility,mogelijkheid,183
+justice,gerechtigheid,183
+thinness,dunheid,184
+rouleau,rouleau,184
+difficulty,moeilijkheid,184
+impotence,impotentie,184
+scours,schuren,184
+exposure,blootstelling,184
+brass ring,messing ring,184
+repugnance,afkeer,184
+identification,identificatie,184
+indemnity,vergoeding,184
+stabile,stabiel,185
+senior moment,senior moment,185
+depletion,uitputting,185
+plant disease,plantenziekte,185
+viremia,viremie,185
+parenthood,ouderschap,185
+concentration,concentratie,185
+obligation,verplichting,185
+noise level,geluidsniveau,185
+publicity,publiciteit,185
+ill nature,zieke natuur,186
+short account,korte rekening,186
+drip loop,druppellus,186
+allegiance,loyaliteit,186
+brick red,baksteenrood,186
+poison oak,giftige eik,186
+mass energy,massa-energie,186
+obstruction,obstructie,186
+nightmare,nachtmerrie,186
+familiarity,bekendheid,186
+disagreement,onenigheid,187
+harassment,Intimidatie,187
+exclusion,uitsluiting,187
+longitude,Lengtegraad,187
+heat content,warmte-inhoud,187
+class feeling,klasse gevoel,187
+willies,willies,187
+hematoma,hematoom,187
+continuity,continuïteit,187
+stigmata,stigmata,187
+stagnation,stagnatie,188
+mammon,mammon-,188
+polygamy,polygamie,188
+paresis,parese,188
+twilight zone,schemerzone,188
+dirty linen,vuil linnen,188
+tightness,strakheid,188
+mimesis,mimesis,188
+sobriety,soberheid,188
+astonishment,verbazing,188
+topography,topografie,189
+catastrophe,catastrofe,189
+competence,bevoegdheid,189
+defiance,trotsering,189
+eighteenth,achttiende,189
+flatness,vlakheid,189
+dystopia,dystopie,189
+low spirits,neerslachtig,189
+reverie,mijmering,189
+fever pitch,koortshoogte,189
+egotism,egoïsme,190
+deep freeze,diepvriezen,190
+disability,onbekwaamheid,190
+bigamy,bigamie,190
+learning disorder,leerstoornis,190
+disguise,vermomming,190
+glory,heerlijkheid,190
+powder blue,poeder blauw,190
+fatness,vetheid,190
+eternal life,eeuwig leven,190
+pustule,puist,191
+slowness,traagheid,191
+normal fault,normale fout,191
+sine curve,sinuscurve,191
+holiness,heiligheid,191
+downbeat,downbeat,191
+dogleg,dogleg,191
+horror,verschrikking,191
+latitude,breedtegraad,191
+looseness,losheid,191
+wretchedness,ellende,192
+irradiation,bestraling,192
+cargo cult,vrachtcultus,192
+fatty liver,vette lever,192
+myxoma,myxoma,192
+celibacy,celibaat,192
+lightness,lichtheid,192
+rope burn,touw branden,192
+championship,kampioenschap,192
+sodoku,sudoku,192
+reformation,hervorming,193
+juncture,kruispunt,193
+pinkness,roze,193
+hypocrisy,hypocrisie,193
+vagueness,vaagheid,193
+transposition,omzetting,193
+aberration,aberratie,193
+gradation,gradatie,193
+crescendo,crescendo,193
+altruism,altruïsme,193
+pay dirt,vuil betalen,194
+electricity,elektriciteit,194
+analgesia,analgesie,194
+iron cage,ijzeren kooi,194
+shininess,glans,194
+easy money,makkelijk geld,194
+deepness,diepte,194
+cone,ijshoorntje,194
+anchorage,ankerplaats,194
+bunt,stootslag,194
+peptic ulcer,maagzweer,195
+whooping cough,kinkhoest,195
+afterglow,nagloeien,195
+disloyalty,ontrouw,195
+perversion,perversie,195
+prevalence,prevalentie,195
+dilatation,dilatatie,195
+jitters,kriebels,195
+hemophilia,hemofilie,195
+ivory tower,ivoren toren,195
+jungle fever,tropenkoorts,196
+lethargy,lethargie,196
+sophistication,verfijning,196
+cert,certificaat,196
+cross section,dwarsdoorsnede,196
+savings account,spaarrekening,196
+disinclination,afkeer,196
+belonging,erbij horen,196
+erythema,erytheem,196
+alertness,alertheid,196
+anergy,woede,197
+conceit,eigendunk,197
+fearfulness,angst,197
+major lobe,grote kwab,197
+nephritis,nefritis,197
+bankruptcy,faillissement,197
+sufferance,lijden,197
+austerity,starheid,197
+profusion,overvloed,197
+legality,wettigheid,197
+broken heart,gebroken hart,198
+chilliness,kilte,198
+head register,hoofd register,198
+dollar volume,dollar volume,198
+dermatitis,dermatitis,198
+trisomy,trisomie,198
+apraxia,apraxie,198
+mass defect,massa defect,198
+power hunger,machtshonger,198
+exhaustion,uitputting,198
+jugular,halsader,199
+dignity,waardigheid,199
+moratorium,moratorium,199
+dormancy,kiemrust,199
+primary color,primaire kleur,199
+knife pleat,mes plooi,199
+pucker,rimpelen,199
+solstice,zonnewende,199
+rubato,rubato,199
+charity,liefdadigheid,199
+tetrahedron,tetraëder,200
+azure,azuurblauw,200
+covetousness,hebzucht,200
+perturbation,verstoring,200
+parabola,parabool,200
+stria,striae,200
+latter,laatstgenoemd,200
+absolution,absolutie,200
+predominance,overwicht,200
+falsity,valsheid,200
+fourteenth,veertiende,201
+big deal,groot probleem,201
+nihilism,nihilisme,201
+cubbyhole,hokje,201
+abhorrence,afschuw,201
+stasis,stilstand,201
+social station,sociale zender,201
+trepidation,opwinding,201
+bearing,handelswijze,201
+resemblance,gelijkenis,201
+expectation,verwachting,202
+dazzle,verblinden,202
+qualification,kwalificatie,202
+luminosity,helderheid,202
+polyhedron,veelvlak,202
+hairy root,harige wortel,202
+exemption,vrijstelling,202
+poise,evenwicht,202
+gumma,gumma,202
+peeve,ergernis,202
+pentacle,pentagram,203
+tastefulness,smaak,203
+puppy love,kalverliefde,203
+enthusiasm,enthousiasme,203
+cybersex,cyberseks,203
+bygone,vervlogen,203
+eyedness,ogen,203
+combustion,verbranding,203
+lodgment,onderdak,203
+quadrate,quadraat,203
+resultant,resultante,204
+proficiency,vaardigheid,204
+sustainability,duurzaamheid,204
+domination,overheersing,204
+complexity,complexiteit,204
+renovation,vernieuwing,204
+humiliation,vernedering,204
+jamais vu,jamais vu,204
+intrigue,intrigeren,204
+neglect,verwaarlozen,204
+negligence,nalatigheid,205
+fatigue,vermoeidheid,205
+rickets,rachitis,205
+spheroid,sferoïde,205
+ill humor,slecht humeur,205
+myoma,myoom,205
+corolla,bloemkroon,205
+vaccinia,vaccinia,205
+pigeon breast,duivenborst,205
+craft fair,handwerkbeurs,205
+harshness,hardheid,206
+acute angle,Scherpe hoek,206
+wildness,wildheid,206
+roundness,rondheid,206
+hotness,heetheid,206
+canary yellow,kanariegeel,206
+homesickness,heimwee,206
+bonded labor,dwangarbeid,206
+curtailment,inperking,206
+ferocity,wreedheid,206
+enslavement,slavernij,207
+abstinence,onthouding,207
+sag,doorzakken,207
+manifold,verdeelstuk,207
+oxbow,ossenboog,207
+slouch,slungelig,207
+silicosis,silicose,207
+fastness,snelheid,207
+punctuality,stiptheid,207
+abdominousness,buik,207
+papule,papel,208
+fascination,fascinatie,208
+kilter,wankelen,208
+forgiveness,vergiffenis,208
+paralysis,verlamming,208
+car sickness,wagenziekte,208
+high blood pressure,hoge bloeddruk,208
+effectiveness,effectiviteit,208
+critical mass,kritieke massa,208
+gravida,gravida,208
+dysphoria,dysforie,209
+hexagram,hexagram,209
+visual range,visueel bereik,209
+warp,kromtrekken,209
+meningitis,meningitis,209
+ranking,rangschikking,209
+tuberculosis,tuberculose,209
+fairness,eerlijkheid,209
+kibe,kibe,209
+gangrene,gangreen,209
+stammer,stamelen,210
+green smut,groen vuil,210
+paternity,vaderschap,210
+bits per inch,bits per inch,210
+reporting weight,gewicht melden,210
+asymmetry,asymmetrie,210
+narrowing,vernauwing,210
+hotbed,broeinest,210
+sleep apnea,slaapapneu,210
+repute,reputatie,210
+rim blight,randziekte,211
+goldfish bowl,goudviskom,211
+bluntness,botheid,211
+leaf blight,bladziekte,211
+cacophony,kakofonie,211
+turgor,turgor,211
+porphyria,porfyrie,211
+acquiescence,berusting,211
+intaglio,diepdruk,211
+newness,nieuwheid,211
+stem blight,stamziekte,212
+quadrilateral,vierhoek,212
+thirtieth,dertigste,212
+exarch,exarch,212
+pappus,pappus,212
+nakedness,naaktheid,212
+papilloma,papilloma,212
+dissimilarity,verschil,212
+washout,uitwassen,212
+vitiligo,vitiligo,212
+blankness,leegte,213
+doorkeeper,portier,213
+inguinal hernia,liesbreuk,213
+illumination,verlichting,213
+proneness,neiging,213
+corrugation,gegolfd,213
+pleurisy,pleuritis,213
+anguish,doodsangst,213
+cane blight,rietziekte,213
+cloudiness,bewolking,213
+harmonic,harmonische,214
+presage,voorteken,214
+angular distance,hoekafstand,214
+asbestosis,asbestose,214
+crown wart,kroon wrat,214
+diffidence,schroom,214
+anticipation,anticipatie,214
+nineteenth,negentiende,214
+elongation,verlenging,214
+gloom,somberheid,214
+honesty,eerlijkheid,215
+varicose vein,spataderen,215
+narcosis,narcose,215
+badness,slechtheid,215
+wrench,moersleutel,215
+standard of living,levensstandaard,215
+liquidity,liquiditeit,215
+critical angle,kritieke hoek,215
+precession,precessie,215
+declination,declinatie,215
+dehydration,uitdroging,216
+quadric,quadric,216
+saturation,verzadiging,216
+body weight,lichaamsgewicht,216
+virulence,virulentie,216
+monogamy,monogamie,216
+rummage,snuffelen,216
+oblong,langwerpig,216
+botulism,botulisme,216
+polarization,polarisatie,216
+underbelly,onderbuik,217
+eclampsia,eclampsie,217
+clawfoot,klauwvoet,217
+cardioid,cardioïde,217
+alcoholism,alcoholisme,217
+self acceptance,zelfacceptatie,217
+dudgeon,dudgeon,217
+firepower,vuurkracht,217
+fibroma,fibroom,217
+dysuria,dysurie,217
+red scare,rode schrik,218
+empyema,empyeem,218
+occupational disease,beroepsziekte,218
+backbone,ruggengraat,218
+lordosis,lordose,218
+loop gain,lusversterking,218
+liking,leuk vinden,218
+toxemia,toxemie,218
+amplification,versterking,218
+bee sting,bijen steek,218
+flea bite,vlooienbeet,219
+common good,algemeen belang,219
+color property,kleureigenschap,219
+stardom,sterrendom,219
+face value,nominale waarde,219
+fruition,vervulling,219
+sunburn,zonnebrand,219
+price increase,prijs verhoging,219
+kingdom come,Koninkrijk kome,219
+derangement,stoornis,219
+temper,woedeaanval,220
+asset,Bedrijfsmiddel,220
+fettle,fettle,220
+decrepitude,verval,220
+drusen,drusen,220
+celerity,snelheid,220
+aplasia,aplasie,220
+oblique angle,schuine hoek,220
+blackhead,mee-eter,220
+osteoporosis,osteoporose,220
+blunt trauma,stomp trauma,221
+drawing power,kracht trekken,221
+trachoma,trachoom,221
+frisson,frisson,221
+hydatid,hydatid,221
+superficies,opstal,221
+toroid,ringkern,221
+feasibility,haalbaarheid,221
+anaglyph,anaglyph,221
+habitus,gewoonte,221
+plainness,eenvoud,222
+altitude sickness,hoogteziekte,222
+visibility,zichtbaarheid,222
+profundity,diepgang,222
+exigency,urgentie,222
+normal curve,normale curve,222
+picture plane,foto vliegtuig,222
+oral herpes,orale herpes,222
+turbulence,turbulentie,222
+mesothelioma,mesothelioom,222
+compunction,wroeging,223
+quicksand,drijfzand,223
+hollowness,holheid,223
+solidarity,solidariteit,223
+syncopation,syncopen,223
+crystal ball,kristallen bol,223
+accuracy,nauwkeurigheid,223
+glare,schittering,223
+globule,bolletje,223
+encouragement,aanmoediging,223
+umbrage,aanstoot,224
+quarantine,quarantaine,224
+placidity,kalmte,224
+military rank,militaire rang,224
+gravity,zwaartekracht,224
+octahedron,octaëder,224
+fetal distress,foetale nood,224
+last quarter,vorig kwartaal,224
+bleach,bleekmiddel,224
+iron fist,ijzeren vuist,224
+disfavor,afkeuren,225
+sculpture,beeldhouwwerk,225
+vertical angle,verticale hoek,225
+garage sale,garage verkoop,225
+cachexia,cachexie,225
+schmaltz,schmaltz,225
+windage,windvang,225
+dominion,heerschappij,225
+fermata,fermata,225
+ripeness,rijpheid,225
+anonymity,anonimiteit,226
+angioma,angioom,226
+hepatoma,hepatoom,226
+laceration,snijwond,226
+ancestry,voorgeslacht,226
+zoonosis,zoönose,226
+aridity,dorheid,226
+Noruz,Noruz,226
+sexual pleasure,seksueel genot,226
+toehold,houvast,226
+athletic type,atletisch type,227
+tidiness,netheid,227
+fluorosis,fluorose,227
+body odor,lichaamsgeur,227
+completeness,volledigheid,227
+inequality,ongelijkheid,227
+oscitancy,drang,227
+signal level,signaalniveau:,227
+infrastructure,infrastructuur,227
+flexibility,flexibiliteit,227
+seating capacity,zitcapaciteit,228
+dullness,saaiheid,228
+decrease,kleiner worden,228
+back burner,achterbrander,228
+heather mixture,heide mengsel,228
+impaction,impactie,228
+threshold level,drempelwaarde,228
+spavin,spat,228
+vulnerability,kwetsbaarheid,228
+influence,invloed hebben,228
+inkblot,inktvlek,229
+tardiness,traagheid,229
+shape,vorm geven aan,229
+bitterness,bitterheid,229
+cleanness,reinheid,229
+sleep disorder,slaapstoornis,229
+teratoma,teratoom,229
+chest register,borst register,229
+mutism,mutisme,229
+impetigo,impetigo,229
+genuineness,echtheid,230
+foreboding,voorteken,230
+affiliation,verbondenheid,230
+molluscum,weekdier,230
+legal power,juridische macht,230
+mental illness,geestesziekte,230
+machismo,machismo,230
+asepsis,asepsis,230
+nosebleed,bloedneus,230
+shaving cream,scheerschuim,230
+employment,werkgelegenheid,231
+wistfulness,weemoed,231
+orthodoxy,orthodoxie,231
+shaving foam,scheerschuim,231
+state of mind,gemoedstoestand,231
+stranglehold,wurggreep,231
+fineness,fijnheid,231
+umbilical hernia,navelbreuk,231
+surfeit,overdaad,231
+ovoid,eivormig,231
+excellence,uitmuntendheid,232
+anxiety disorder,angststoornis,232
+hookworm,mijnworm,232
+brain disorder,hersenstoornis,232
+black knot,zwarte knoop,232
+heartstrings,hartzeer,232
+poisoning,vergiftiging,232
+conversion disorder,omzettingsfout,232
+volvulus,volvulus,232
+pontifex,pontifex,232
+likeness,gelijkenis,233
+lavishness,weelde,233
+speech disorder,spraakstoornis,233
+granuloma,granuloom,233
+transparency,transparantie,233
+coarseness,grofheid,233
+trapezoid,trapezium,233
+faithlessness,ontrouw,233
+third dimension,derde dimensie,233
+exhilaration,opwinding,233
+overgrowth,overgroei,234
+sereness,kalmte,234
+good health,goede gezondheid,234
+automation,automatisering,234
+asthenia,asthenie,234
+myopathy,myopathie,234
+hero worship,heldenverering,234
+fraudulence,bedrog,234
+abulia,abulia,234
+quickening,bezieling,234
+Wicca,Wicca,235
+physical ability,fysiek vermogen,235
+virtu,virtuoos,235
+homeostasis,homeostase,235
+variety,verscheidenheid,235
+pigeon toes,duiven tenen,235
+inclined fault,geneigd fout,235
+alkalosis,alkalose,235
+guise,vermomming,235
+shamanism,sjamanisme,235
+cotton ball,wattenschijfje,236
+bronchitis,bronchitis,236
+deforestation,ontbossing,236
+bifurcation,bifurcatie,236
+chlorosis,chlorose,236
+olive drab,olijf olie,236
+languor,loomheid,236
+diplopia,diplopie,236
+admixture,bijmenging,236
+offing,offensief,236
+seminoma,seminoom,237
+incredulity,ongeloof,237
+swamp fever,moeraskoorts,237
+fifteenth,vijftiende,237
+enchantment,betovering,237
+fatality,fataliteit,237
+futility,futiliteit,237
+benefit,ten goede komen,237
+appro,goedkeuren,237
+keratosis,keratose,237
+differential,differentieel,238
+deformity,misvorming,238
+distrust,wantrouwen,238
+financial condition,financiele staat,238
+flux density,fluxdichtheid,238
+osteoma,osteoom,238
+displeasure,ongenoegen,238
+priestess,priesteres,238
+backbeat,terugslag,238
+swashbuckling,roekeloos,238
+geodesic,geodetisch,239
+fluctuation,fluctuatie,239
+promptness,stiptheid,239
+sebaceous cyst,talgcyste,239
+rawness,rauwheid,239
+pretension,pretentie,239
+closed curve,gesloten curve,239
+tinderbox,tondeldoos,239
+athleticism,atletisch,239
+shiner,uitblinker,239
+isomerism,isomerie,240
+balance of power,machtsevenwicht,240
+suitability,geschiktheid,240
+pneumonic plague,longpest,240
+scrimshaw,scrimshaw,240
+exactness,exactheid,240
+frustum,afgeknot,240
+connectivity,connectiviteit,240
+infestation,besmetting,240
+alpha and omega,Alpha en Omega,240
+diaper rash,luieruitslag,241
+porosity,porositeit,241
+rip,Rust in vrede,241
+solitude,eenzaamheid,241
+tangency,raaklijn,241
+immediacy,directheid,241
+atrocity,gruweldaad,241
+margin account,marge rekening,241
+puissance,puissance,241
+stardust,sterrenstof,241
+waviness,golving,242
+eversion,eversie,242
+craftiness,sluwheid,242
+totality,totaliteit,242
+gloat,glunderen,242
+hundredth,honderdste,242
+articulation,articulatie,242
+ellipsoid,ellipsoïde,242
+humility,nederigheid,242
+conciliation,verzoening,242
+aphakia,afakie,243
+scotoma,scotoom,243
+anosmia,anosmie,243
+utility,nutsvoorziening,243
+schizophrenia,schizofrenie,243
+cohesiveness,samenhang,243
+hypotension,hypotensie,243
+felon,misdadiger,243
+incision,insnijding,243
+gooseneck,zwanenhals,243
+undertone,ondertoon,244
+insolvency,insolventie,244
+capital stock,aandelenkapitaal,244
+baseness,laagheid,244
+masochism,masochisme,244
+tilt angle,hellingsgraad,244
+bitter end,bittere einde,244
+gold standard,gouden standaard,244
+gratitude,dankbaarheid,244
+pessimism,pessimisme,244
+angular momentum,impulsmoment,245
+angular shape,hoekige vorm,245
+sequela,sequela,245
+notoriety,bekendheid,245
+hydrocephalus,waterhoofd,245
+perforation,perforatie,245
+centerline,middellijn,245
+balagan,balagan,245
+shipping fever,verzendkoorts,245
+firmness,stevigheid,245
+agnosia,agnosie,246
+eagerness,gretigheid,246
+perpetuity,eeuwigheid,246
+ailment,aandoening,246
+subspace,deelruimte,246
+frizz,kroeshaar,246
+admiration,bewondering,246
+maturity,volwassenheid,246
+crudeness,ruwheid,246
+insecurity,onzekerheid,246
+rightness,juistheid,247
+frazzle,frazzle,247
+wingspan,spanwijdte,247
+finality,finaliteit,247
+karyotype,karyotype,247
+adequacy,geschiktheid,247
+tobacco mosaic,tabak mozaïek,247
+smallness,kleinheid,247
+chancre,sjanker,247
+millionth,miljoenste,247
+color of law,kleur van de wet,248
+social contract,sociaal contract,248
+dysentery,dysenterie,248
+classical style,klassieke stijl,248
+airs,uitgezonden,248
+ectasia,ectasie,248
+first quarter,eerste kwartier,248
+frugality,soberheid,248
+encapsulation,inkapseling,248
+susceptibility,gevoeligheid,248
+amblyopia,amblyopie,249
+exoticism,exotisme,249
+backseat,achterbank,249
+diathesis,diathese,249
+bedside manner,bedmanieren,249
+macumba,macumba,249
+damping off,demping uit,249
+alkalinity,alkaliteit,249
+tensile strength,treksterkte,249
+sweating sickness,zweetziekte,249
+constriction,vernauwing,250
+relativity,relativiteit,250
+melancholy,melancholie,250
+cycloid,cycloid,250
+thalweg,thalweg,250
+crenel,crenel,250
+imbroglio,imbroglio,250
+complication,complicatie,250
+anemia,Bloedarmoede,250
+spirituality,spiritualiteit,250
+brotherhood,broederschap,251
+prominence,uitsteeksel,251
+devastation,verwoesting,251
+gutsiness,lef,251
+robustness,robuustheid,251
+wage setter,loonbepaler,251
+sarcoidosis,sarcoïdose,251
+convex shape,convexe vorm,251
+fiftieth,vijftigste,251
+treason,landverraad,251
+color blindness,Kleurenblind,252
+thread blight,draadziekte,252
+assimilation,assimilatie,252
+eruption,uitbarsting,252
+intimidation,intimidatie,252
+loneliness,eenzaamheid,252
+physical condition,fysieke conditie,252
+ugliness,lelijkheid,252
+tularemia,tularemie,252
+naivete,naïviteit,252
+anaphylaxis,anafylaxie,253
+saltiness,zoutheid,253
+starvation,hongersnood,253
+holding pattern,vasthoudpatroon,253
+soapsuds,zeepsop,253
+toleration,tolerantie,253
+fidget,friemelen,253
+unit character,eenheidskarakter,253
+tax assessment,belastingaanslag,253
+civil time,burgerlijke tijd,253
+civil order,burgerlijke orde,254
+throes,worsteling,254
+transmission time,overdrachtstijd,254
+acute triangle,acute driehoek,254
+civil union,burgerlijke unie,254
+disjunction,disjunctie,254
+calcification,verkalking,254
+civil death,burgerlijke dood,254
+myasthenia,myasthenie,254
+dysphonia,dysfonie,254
+gladness,blijdschap,255
+brucellosis,brucellose,255
+repletion,ophoping,255
+certitude,zekerheid,255
+stoicism,stoïcisme,255
+condemnation,veroordeling,255
+ornamentation,versiering,255
+acidemia,acidemie,255
+beriberi,beriberi,255
+agility,wendbaarheid,255
+foulness,vuilheid,256
+characteristic,karakteristiek,256
+autarky,autarkie,256
+phimosis,phimosis,256
+variability,variabiliteit,256
+torpor,verdoving,256
+seborrhea,seborroe,256
+oxygen deficit,zuurstoftekort,256
+lymphedema,lymfoedeem,256
+rhythmicity,ritmiek,256
+sixtieth,zestigste,257
+seventeenth,zeventiende,257
+glint,glinsteren,257
+essentiality,essentie,257
+nervous breakdown,zenuwinzinking,257
+providence,voorzienigheid,257
+sourness,zuurheid,257
+progeria,progeria,257
+selloff,verkopen,257
+wetness,nattigheid,257
+golden mean,gulden middenweg,258
+swivet,swivet,258
+sexual relationship,seksuele relatie,258
+conic section,kegelsnede,258
+isometry,isometrie,258
+feebleness,zwakheid,258
+prolapse,verzakking,258
+defensiveness,defensief,258
+box pleat,stolpplooi,258
+elasticity,elasticiteit,258
+temperament,temperament,259
+choking,verstikking,259
+pemphigus,pemphigus,259
+privation,ontbering,259
+nationality,nationaliteit,259
+vapor density,dampdichtheid,259
+diabetes mellitus,suikerziekte,259
+pellagra,pellagra,259
+appropriateness,geschiktheid,259
+crimson,karmozijnrood,259
+modernity,moderniteit,260
+frostiness,vorst,260
+regression line,regressie lijn,260
+acuteness,scherpte,260
+head blight,hoofdziekte,260
+mental age,mentale leeftijd,260
+genius loci,genius loci,260
+apple blight,appelziekte,260
+alder blight,elzenziekte,260
+room temperature,kamertemperatuur,260
+Chabad,Chabad,261
+hilarity,hilariteit,261
+collar blight,kraagziekte,261
+uniformity,uniformiteit,261
+hot potato,hete aardappel,261
+embarrassment,verlegenheid,261
+isotropy,isotropie,261
+frostbite,bevriezing,261
+needle blight,naaldziekte,261
+greediness,hebzucht,261
+rabbet,sponning,262
+prostate cancer,prostaatkanker,262
+insulin shock,insuline shock,262
+chatter mark,chatter merk,262
+sincerity,oprechtheid,262
+incandescence,gloeiend,262
+specificity,specificiteit,262
+nationalism,nationalisme,262
+fragmentation,fragmentatie,262
+panic disorder,paniekstoornis,262
+instability,instabiliteit,263
+maroon,kastanjebruin,263
+bulge,uitstulping,263
+tomato streak,tomaat streak,263
+polysemy,polysemie,263
+restfulness,rust,263
+facilitation,facilitering,263
+legitimacy,legitimiteit,263
+double helix,dubbele helix,263
+graining,korreling,263
+reactivity,reactiviteit,264
+adolescence,adolescentie,264
+viscosity,viscositeit:,264
+hyperbola,hyperbool,264
+recess,onderbreking,264
+national income,Nationaal inkomen,264
+amorphous shape,amorfe vorm,264
+painfulness,pijn,264
+onion yellow dwarf,ui gele dwerg,264
+sound property,geluidseigenschap,264
+swine influenza,varkensgriep,265
+tamponade,tamponade,265
+average cost,gemiddelde kosten,265
+ballet position,ballet positie,265
+urinary retention,urineretentie,265
+leiomyoma,leiomyoom,265
+deflection,doorbuiging,265
+icosahedron,icosaëder,265
+time deposit account,termijnrekening,265
+neuropathy,neuropathie,265
+dissociation,dissociatie,266
+shakeout,shake-out,266
+human nature,menselijke natuur,266
+personal business,Persoonlijke zaken,266
+albinism,albinisme,266
+radius of curvature,kromtestraal,266
+free agency,gratis agentschap,266
+hostility,vijandigheid,266
+indolence,traagheid,266
+catatonia,katatonie,266
+vanishing point,verdwijnpunt,267
+delinquency,delinquentie,267
+carbuncle,karbonkel,267
+primality,oergevoel,267
+patriotism,patriottisme,267
+circlet,cirkeltje,267
+dieback,afsterven,267
+otherness,andersheid,267
+scurvy,scheurbuik,267
+anastomosis,anastomose,267
+molecular weight,molecuulgewicht,268
+enormity,enormiteit,268
+reinstatement,herplaatsing,268
+indebtedness,schuldenlast,268
+mottle,vlekkerig,268
+amyloidosis,amyloïdose,268
+Post-Office box,Postbus,268
+nausea,misselijkheid,268
+seasickness,zeeziekte,268
+tesseract,tesseract,268
+blister rust,blaren roest,269
+priapism,priapisme,269
+pungency,scherpte,269
+fan belt,ventilator riem,269
+disparity,ongelijkheid,269
+leresis,leresis,269
+seniority,anciënniteit,269
+vehemence,heftigheid,269
+decubitus,decubitus,269
+coffee blight,koffieziekte,269
+saving grace,reddende genade,270
+dysthymia,dysthymie,270
+overabundance,overvloed,270
+sensibility,gevoeligheid,270
+asymptote,asymptoot,270
+sluggishness,traagheid,270
+straightness,rechtheid,270
+clearness,helderheid,270
+scruple,scrupules,270
+gluttony,vraatzucht,270
+dastardliness,lafheid,271
+fire blight,bacterievuur,271
+nervousness,nervositeit,271
+banishment,verbanning,271
+avarice,gierigheid,271
+gingivitis,gingivitis,271
+malnutrition,ondervoeding,271
+tameness,tamheid,271
+rabies,hondsdolheid,271
+daredevilry,durf,271
+readability,leesbaarheid,272
+giro account,girorekening,272
+skip distance,afstand overslaan,272
+anisotropy,anisotropie,272
+mettlesomeness,moed,272
+peach blight,perzikziekte,272
+isomorphism,isomorfisme,272
+blister blight,blarenziekte,272
+plane figure,vliegtuig figuur,272
+order arms,wapens bestellen,272
+uncus,uncus,273
+Father,Vader,273
+falsetto,falsetstem,273
+water pollution,watervervuiling,273
+godliness,godsvrucht,273
+absolute space,absolute ruimte,273
+par value,nominale waarde,273
+air pollution,luchtvervuiling,273
+Shiism,sjiisme,273
+noise pollution,geluidsoverlast,273
+natural shape,natuurlijke vorm,274
+dysaphia,dysafie,274
+sameness,gelijkheid,274
+alalia,alalia,274
+raw beauty,rauwe schoonheid,274
+twig blight,twijgziekte,274
+absurdity,absurditeit,274
+taste property,smaak eigenschap,274
+gratification,bevrediging,274
+directness,directheid,274
+villainy,slechterik,275
+hyperplasia,hyperplasie,275
+neutrality,neutraliteit,275
+amity,vriendschap,275
+obscenity,obsceniteit,275
+stemma,stemma,275
+stubbornness,koppigheid,275
+abasia,abasië,275
+phase of the moon,fase van de maan,275
+arduousness,moeite,275
+turbidity,troebelheid,276
+functionality,functionaliteit,276
+caffeinism,cafeïne,276
+paper tiger,papieren tijger,276
+fast lane,snelle rijstrook,276
+perfidy,trouweloos,276
+shuteye,dutje,276
+nastiness,smerigheid,276
+wiggle room,speelruimte,276
+excrescence,uitwas,276
+common wart,gewone wrat,277
+thousandth,duizendste,277
+political arena,politieke arena,277
+stratification,gelaagdheid,277
+noisiness,lawaai,277
+silver standard,zilveren standaard,277
+criticality,kriticiteit,277
+obeah,obeah,277
+pyemia,pyemie,277
+blackwater,zwart Water,277
+seemliness,netheid,278
+truculence,branie,278
+thereness,erheid,278
+enjoyableness,plezier,278
+indentation,inspringing,278
+crowding,verdringing,278
+hyphema,hyphema,278
+actuality,actualiteit,278
+disfigurement,misvorming,278
+Islam,Islam,278
+loginess,logisme,279
+AIDS,AIDS,279
+purplish blue,paarsblauw,279
+carcinoid,carcinoïde,279
+agoraphobia,agorafobie,279
+pantheism,pantheïsme,279
+brevity,beknoptheid,279
+physical property,fysieke eigenschap,279
+oldness,oudheid,279
+pH,pH,279
+playfulness,speelsheid,280
+sacredness,heiligheid,280
+fourth dimension,vierde dimensie,280
+ancientness,oudheid,280
+acquired taste,verworven smaak,280
+lucidity,helderheid,280
+frequency response,frequentierespons,280
+wishfulness,wens,280
+mawkishness,waanzin,280
+allegretto,allegretto,280
+personality,persoonlijkheid,281
+raise,salarisverhoging,281
+absolute zero,absolute nulpunt,281
+dynamic balance,dynamische balans,281
+putrescence,rotting,281
+disposal,beschikbaarheid,281
+concentration camp,concentratiekamp,281
+oxygen debt,Zuurstof tekort,281
+draft,voorlopige versie,281
+Vedanta,Vedanta,281
+Zen,Zen,282
+triple time,drievoudige tijd,282
+biological time,biologische tijd,282
+antipathy,antipathie,282
+bank failure,bankfaillissement,282
+malignancy,maligniteit,282
+dyskinesia,dyskinesie,282
+strabismus,scheelzien,282
+ataraxia,ataraxie,282
+solidity,stevigheid,282
+ardor,hartstocht,283
+bowleg,bowleg,283
+overbite,overbeet,283
+compatibility,compatibiliteit,283
+lowness,laagheid,283
+acolyte,misdienaar,283
+mental disorder,mentale stoornis,283
+metropolitan,grootstedelijke,283
+spark advance,vonk voorschot,283
+poliosis,poliose,283
+fertility,vruchtbaarheid,284
+horniness,geilheid,284
+infuriation,woede,284
+love affair,liefdesaffaire,284
+umbo,umbo,284
+gallop rhythm,galop ritme,284
+isogon,isogon,284
+Shinto,Shinto,284
+myotonia,myotonie,284
+knothole,knoopgat,284
+ankylosis,ankylose,285
+acholia,acholia,285
+birth trauma,geboortetrauma,285
+hairiness,beharing,285
+livedo,livedo,285
+biodiversity,biodiversiteit,285
+obloquy,onmondig,285
+dysphasia,dysfasie,285
+tax advantage,belastingvoordeel,285
+time being,voor zolang het duurt,285
+visual property,visuele eigenschap,286
+tachycardia,tachycardie,286
+civility,beleefdheid,286
+laxness,laksheid,286
+slickness,gladheid,286
+liability,aansprakelijkheid,286
+normality,normaliteit,286
+spherule,bol,286
+sigeh,sigeh,286
+damnation,verdoemenis,286
+roundedness,ronding,287
+formality,formaliteit,287
+hell to pay,hel om te betalen,287
+hypertrophy,hypertrofie,287
+gender identity,gender identiteit,287
+dissonance,dissonantie,287
+subtlety,subtiliteit,287
+hypothermia,hypothermie,287
+emotional state,emotionele staat,287
+delicacy,delicatesse,287
+polyuria,polyurie,288
+drug addiction,drugsverslaving,288
+malacia,Malacia,288
+cussedness,vloeken,288
+front burner,voorste brander,288
+inherited wealth,geërfde rijkdom,288
+internment,internering,288
+hastiness,haast,288
+double bind,dubbele binding,288
+mental health,mentale gezondheid,288
+betterment,verbetering,289
+legal status,wettelijke status van,289
+cosmic time,kosmische tijd,289
+becomingness,worden,289
+permanence,permanentie,289
+caution,voorzichtigheid,289
+food allergy,voedselallergie,289
+scunner,walgen,289
+insomnia,slapeloosheid,289
+aphagia,afagie,289
+lengthiness,lengte,290
+unwieldiness,logheid,290
+silver spoon,zilveren Lepel,290
+economic condition,economische conditie,290
+car boot sale,kofferbak verkoop,290
+lap of luxury,schoot van luxe,290
+quarrelsomeness,ruzie,290
+ski conditions,ski-omstandigheden,290
+circumstance,omstandigheid,290
+S-shape,S-vorm,290
+bliss,gelukzaligheid,291
+Q fever,Q-koorts,291
+praisworthiness,lof,291
+consensus,overeenstemming,291
+nitrogen balance,stikstof balans,291
+viral infection,virale infectie,291
+fare increase,tariefverhoging,291
+dunghill,mesthoop,291
+captivation,bekoring,291
+beggary,bedelaar,291
+portability,draagbaarheid,292
+nervous disorder,zenuwaandoening,292
+penumbra,halfschaduw,292
+identity crisis,identiteitscrisis,292
+impishness,ondeugd,292
+quality of life,kwaliteit van het leven,292
+archbishop,aartsbisschop,292
+lifeblood,levensbloed,292
+righteousness,gerechtigheid,292
+Tantra,Tantra,292
+meningioma,meningeoom,293
+focal infection,focale infectie,293
+kalemia,Kalemie,293
+convexity,convexiteit,293
+spur blight,sporenziekte,293
+crookedness,kromheid,293
+anestrus,narcose,293
+chemosis,chemose,293
+dependence,afhankelijkheid,293
+acorea,acorea,293
+bruise,blauwe plek,294
+madness,krankzinnigheid,294
+acute leukemia,acute leukemie,294
+bugginess,buggie,294
+degeneracy,degeneratie,294
+acquisitiveness,hebzucht,294
+neutropenia,neutropenie,294
+alastrim,alastrim,294
+morbidity,ziektecijfers,294
+paleness,bleekheid,294
+moon blindness,maanblindheid,295
+body temperature,lichaamstemperatuur,295
+innocency,onschuld,295
+hepatitis delta,hepatitis delta,295
+responsibility,verantwoordelijkheid,295
+tout ensemble,tout ensemble,295
+genetic disease,genetische ziekte,295
+divinity,goddelijkheid,295
+thoroughness,grondigheid,295
+confessor,biechtvader,295
+cladogram,cladogram,296
+agraphia,agraphia,296
+leaf scorch,bladschroei,296
+anuresis,anurese,296
+Hinayana,Hinayana,296
+credit crunch,kredietcrisis,296
+false pregnancy,valse zwangerschap,296
+dust contamination,stof vervuiling,296
+psammoma,psammoma,296
+oppression,onderdrukking,296
+thumb index,duim wijsvinger,297
+nature worship,natuur aanbidding,297
+leakiness,lekkage,297
+thermal pollution,Warmte vervuiling,297
+brittleness,broosheid,297
+strip alert,strip waarschuwing,297
+bloodstain,bloedvlek,297
+HIV,hiv,297
+pretentiousness,pretentie,297
+optical density,optische dichtheid,297
+representation,vertegenwoordiging,298
+bad temper,slecht humeur,298
+electric shock,elektrische schok,298
+lividness,razernij,298
+gamesmanship,spelkunst,298
+chancroid,chancroid,298
+accord,overeenstemming,298
+heterosis,heterosis,298
+independence,onafhankelijkheid,298
+revivalism,opwekking,298
+dukedom,hertogdom,299
+cardinal virtue,kardinale deugd,299
+Lamaism,Lamaïsme,299
+palmature,handpalm,299
+furcation,furcatie,299
+druidism,druïdisme,299
+epicycle,epicycle,299
+originality,originaliteit,299
+taper,taps toelopen,299
+scot and lot,schot en veel,299
+metric space,metrische ruimte,300
+carte blanche,carte blanche,300
+siren call,sirene oproep,300
+hamartoma,hamartoma,300
+greenness,groenheid,300
+trapezium,trapezium,300
+stripe blight,streepziekte,300
+physique,lichaamsbouw,300
+superiority,superioriteit,300
+passivity,passiviteit,300
+sexual desire,seksueel verlangen,301
+muteness,stomheid,301
+orthodox sleep,orthodoxe slaap,301
+aphrodisia,afrodisia,301
+clubfoot,klompvoet,301
+amebiasis,amebiasis,301
+fluency,vloeiendheid,301
+worry,zich zorgen maken,301
+enfranchisement,stemrecht,301
+hypotonia,hypotonie,301
+polygyny,polygynie,302
+ozena,ozena,302
+columella,columella,302
+discreteness,discretie,302
+hydremia,hydremie,302
+state of the art,het nieuwste van het nieuwste,302
+mineral deficiency,mineraal tekort,302
+acute renal failure,acuut nierfalen,302
+endometriosis,endometriose,302
+photophobia,fotofobie,302
+Mimamsa,Mimamsa,303
+secrecy,geheimhouding,303
+generosity,vrijgevigheid,303
+sovereignty,soevereiniteit,303
+spotted fever,gevlekte koorts,303
+trench foot,loopgraafvoet,303
+dumps,stortplaatsen,303
+dysarthria,dysartrie,303
+cerebral edema,hersenoedeem,303
+mustiness,schimmel,303
+alienation,vervreemding,304
+aortic stenosis,aortastenose,304
+entasis,entasis,304
+ovarian cyst,ovariumcyste,304
+lukewarmness,lauwheid,304
+peradventure,misschien,304
+briefness,kortheid,304
+ill health,slechte gezondheid,304
+rarity,zeldzaamheid,304
+margin of safety,veiligheidsmarge,304
+adulthood,volwassenheid,305
+school phobia,school fobie,305
+prurience,wellust,305
+beet blight,bietenziekte,305
+angle of attack,hoek van aanvallen,305
+infelicity,ongeluk,305
+authenticity,authenticiteit,305
+aggravation,verergering,305
+chemical property,chemische eigenschap,305
+guilt pang,schuldgevoel,305
+computer architecture,computer architectuur,306
+intoxication,dronkenschap,306
+game misconduct,spel wangedrag,306
+academic freedom,academische vrijheid,306
+environmental condition,conditie van de omgeving,306
+aphonia,afonie,306
+glandular disease,klierziekte,306
+bladder disorder,blaasaandoening,306
+tone deafness,toondoofheid,306
+materialism,materialisme,306
+fondness,genegenheid,307
+antagonism,antagonisme,307
+hibernation,winterslaap,307
+sterility,steriliteit,307
+disappointment,teleurstelling,307
+walleye,snoekbaarzen,307
+hydrocele,hydrocele,307
+rummage sale,rommelmarkt,307
+lameness,kreupelheid,307
+brawn,spierkracht,307
+blandness,flauwheid,308
+thrust fault,stuwkracht fout,308
+diestrus,diestrus,308
+stiff upper lip,stijve bovenlip,308
+mathematical space,wiskundige ruimte,308
+triple crown,drievoudige kroon,308
+obedience,gehoorzaamheid,308
+marriage of convenience,verstandshuwelijk,308
+sparseness,schaarste,308
+wheat scab,tarwe korst,308
+dislocation,ontwrichting,309
+undertow,onderstroom,309
+reasonableness,redelijkheid,309
+kingship,koningschap,309
+widowhood,weduwschap,309
+finiteness,eindigheid,309
+depopulation,ontvolking,309
+generality,algemeenheid,309
+full employment,volledige werkgelegenheid,309
+graveness,ernst,309
+pulmonary tuberculosis,longtuberculose,310
+sun protection factor,zonbeschermingsfactor,310
+musketry,musketier,310
+politeness,beleefdheid,310
+inaction,inactiviteit,310
+coexistence,coëxistentie,310
+blastoma,blastoom,310
+cravenness,lafheid,310
+primary color for light,primaire kleur voor licht,310
+pigmentation,pigmentatie,310
+hemangioma,hemangioom,311
+artistic style,artistieke stijl,311
+logicality,logische,311
+cat scratch disease,kattenkrabziekte,311
+soundness,degelijkheid,311
+acne rosacea,acne rosacea,311
+quinsy,quinsy,311
+handsomeness,knapheid,311
+apprehension,gevangenname,311
+hemiplegia,hemiplegie,311
+temporary state,tijdelijke toestand,312
+sanitary condition,sanitaire staat,312
+birthmark,moedervlek,312
+cyclicity,cycliteit,312
+symphysis,symphysis,312
+anasarca,anasarca,312
+athetosis,athetose,312
+leukopenia,leukopenie,312
+anopia,anopia,312
+automatic pilot,automatische piloot,312
+probability,waarschijnlijkheid,313
+concave shape,concave vorm,313
+execution speed,uitvoeringssnelheid,313
+mental reservation,mentale reservering,313
+line of fate,lijn van het lot,313
+relative density,relatieve dichtheid,313
+posturing,aanmatiging,313
+gestation,zwangerschap,313
+dodecahedron,dodecaëder,313
+deadness,doodsheid,313
+attraction,aantrekkingskracht,314
+worthiness,waardigheid,314
+paratyphoid,paratyfus,314
+monosomy,monosomie,314
+finishing touch,kers op de taart,314
+chasteness,kuisheid,314
+worldly concern,wereldse zorg,314
+velleity,velleity,314
+thalassemia,thalassemie,314
+ultramarine,ultramarijn,314
+strictness,strengheid,315
+continence,continentie,315
+shamefulness,schaamte,315
+dwarfism,dwerggroei,315
+approximate range,geschatte bereik,315
+meno mosso,meno mosso,315
+preciosity,precisie,315
+dysgraphia,dysgrafie,315
+fortieth,veertigste,315
+scare,laten schrikken,315
+stringency,strengheid,316
+expensiveness,duurheid,316
+recency,recentheid,316
+pink elephants,roze olifanten,316
+separatism,separatisme,316
+chickenpox,waterpokken,316
+anhedonia,anhedonie,316
+handmaid,dienstmaagd,316
+asphyxia,verstikking,316
+sense of the meeting,gevoel van de vergadering,316
+sooth,verzachtend,317
+diverticulum,divertikel,317
+probity,eerlijkheid,317
+woodcarving,houtsnijden,317
+gaiety,vrolijkheid,317
+bacteremia,bacteriëmie,317
+listeriosis,listeriose,317
+tsoris,tsori,317
+ectopia,ectopie,317
+scald,verbranden,317
+thurifer,thurifer,318
+kick pleat,schop plooi,318
+monotheism,monotheïsme,318
+ranula,ranula,318
+fulsomeness,volheid,318
+nerve compression,zenuw compressie,318
+obtuse angle,stompe hoek,318
+suffocation,verstikking,318
+bradycardia,bradycardie,318
+geological time,geologische tijd,318
+absolute magnitude,absolute grootte,319
+pastness,verleden,319
+awayness,weg zijn,319
+billionth,miljardste,319
+paraplegia,dwarslaesie,319
+hate,een hekel hebben aan,319
+leanness,magerheid,319
+giardiasis,Giardiasis,319
+dysgenesis,dysgenese,319
+brininess,zoutheid,319
+diplegia,diplegie,320
+niceness,aardigheid,320
+midplane,middenvlak,320
+acoustic power,akoestische kracht,320
+mothball,mottenbal,320
+adulteration,vervalsing,320
+unanimity,unanimiteit,320
+burdensomeness,last,320
+classicism,classicisme,320
+debarment,uitsluiting,320
+bubonic plague,builenpest,321
+dexterity,behendigheid,321
+German measles,rodehond,321
+pneumonia,longontsteking,321
+incisure,incisie,321
+atypicality,atypisch,321
+hypoplasia,hypoplasie,321
+murrain,murrain,321
+inner resource,innerlijke hulpbron,321
+diligence,zorgvuldigheid,321
+tubercle,knobbeltje,322
+little potato,kleine aardappel,322
+exostosis,exostose,322
+filariasis,filariasis,322
+bolt-hole,boutgat,322
+chauvinism,chauvinisme,322
+wideness,wijdsheid,322
+desuetude,onbruik,322
+ADA-SCID,ADA-SCID,322
+fitfulness,fitheid,322
+prurigo,prurigo,323
+negativity,negativiteit,323
+warpath,oorlogspad,323
+poltroonery,lafheid,323
+acardia,acardia,323
+sureness,zekerheid,323
+objectivity,objectiviteit,323
+noise conditions,geluidsomstandigheden,323
+sapremia,sapremia,323
+naturalization,naturalisatie,323
+absolutism,absolutisme,324
+total darkness,totale duisternis,324
+equality,gelijkwaardigheid,324
+inertness,traagheid,324
+solferino,solferino,324
+indiscretion,indiscretie,324
+cowpox,koepokken,324
+pyelitis,pyelitis,324
+pit of the stomach,putje van de maag,324
+meanness,gemeenheid,324
+complete fracture,volledige breuk,325
+angle of refraction,brekingshoek,325
+multitudinousness,veelheid,325
+squareness,haaksheid,325
+solubility,oplosbaarheid,325
+intrados,intrados,325
+conformity,overeenstemming,325
+frivolity,frivoliteit,325
+ruggedness,robuustheid,325
+myxedema,myxoedeem,325
+creaminess,romigheid,326
+tomato blight,tomatenziekte,326
+distaff,spinrokken,326
+bellyful,buikvol,326
+civil liberty,burgerlijke vrijheid,326
+impurity,onzuiverheid,326
+inauspiciousness,onheil,326
+ergot,moederkoren,326
+respiratory tract infection,luchtweginfectie,326
+religious trance,religieuze trance,326
+narcolepsy,narcolepsie,327
+captivity,gevangenschap,327
+monetary value,geldelijke waarde,327
+sleekness,gladheid,327
+cystocele,cystocele,327
+tribalism,tribalisme,327
+chalazion,chalazion,327
+compactness,compactheid,327
+dermatosis,dermatose,327
+viral hepatitis,virale hepatitis,327
+presbyopia,presbyopie,328
+approbation,goedkeuring,328
+kindness,vriendelijkheid,328
+exogamy,exogamie,328
+urethritis,urethritis,328
+senility,seniliteit,328
+scalability,schaalbaarheid,328
+twilight sleep,schemering slaap,328
+absolute temperature,absolute temperatuur,328
+sprain,verstuiking,328
+retinopathy,retinopathie,329
+social phobia,sociale angst,329
+abeyance,opschorting,329
+subfigure,subfiguur,329
+varix,varix,329
+obsessiveness,obsessief,329
+selectivity,selectiviteit,329
+sidereal hour,sterren uur,329
+poorness,armoede,329
+asterism,asterisme,329
+deterioration,verslechtering,330
+shagginess,ruigheid,330
+misogyny,vrouwenhaat,330
+uropathy,uropathie,330
+picturesqueness,pittoresk,330
+sidereal time,sterrentijd,330
+conflict of interest,belangenverstrengeling,330
+magnetization,magnetisatie,330
+rationality,rationaliteit,330
+haziness,wazigheid,330
+contentment,tevredenheid,331
+slenderness,slankheid,331
+lallation,lallatie,331
+agedness,ouderdom,331
+domestic prelate,huisprelaat,331
+homogeneity,homogeniteit,331
+sensuality,sensualiteit,331
+bareness,naaktheid,331
+true anomaly,echte anomalie,331
+intestinal obstruction,darmobstructie,331
+ecchymosis,ecchymose,332
+cross-eye,scheel,332
+ossification,ossificatie,332
+singularity,singulariteit,332
+heredity,erfelijkheid,332
+appetizingness,eetlust,332
+neonatal death,neonatale dood,332
+bibliomania,bibliomanie,332
+genital herpes,genitale herpes,332
+hearing impairment,slechthorendheid,332
+efficacy,doeltreffendheid,333
+distorted shape,vervormde vorm,333
+marginal cost,marginale kosten,333
+mass hysteria,massahysterie,333
+angle of reflection,hoek van reflectie,333
+lordship,heerschappij,333
+acceptation,acceptatie,333
+ecclesiastical province,kerkprovincie,333
+confidentiality,vertrouwelijkheid,333
+shigellosis,Shigellose,333
+disability of walking,handicap bij het lopen,334
+hypospadias,hypospadie,334
+desire to know,verlangen om te weten,334
+hypotenuse,hypotenusa,334
+time-ball,tijdbal,334
+sunstroke,zonnesteek,334
+versatility,veelzijdigheid,334
+sportsmanship,sportiviteit,334
+acute glaucoma,acuut glaucoom,334
+Bahaism,Bahaïsme,334
+preoccupation,preoccupatie,335
+organic disorder,organische stoornis,335
+primness,primeur,335
+military capability,militaire capaciteit,335
+infancy,kinderschoenen,335
+common touch,gemeenschappelijke aanraking,335
+specific gravity,soortelijk gewicht,335
+acromegaly,acromegalie,335
+simulacrum,simulacrum,335
+drippiness,druipen,335
+melanosis,melanose,336
+earliness,vroegheid,336
+spume,schuim,336
+stage fright,plankenkoorts,336
+heterogeneity,heterogeniteit,336
+ambiguity,meerduidigheid,336
+hesitance,aarzeling,336
+revealed religion,geopenbaarde religie,336
+natural virtue,natuurlijke deugd,336
+brokerage account,effectenrekening,336
+hiatus hernia,hiatus hernia,337
+asystole,asystolie,337
+macular edema,macula-oedeem,337
+coarctation,coarctatie,337
+respiratory disease,luchtwegaandoening,337
+parallelism,parallellisme,337
+rectocele,rectocele,337
+diversification,diversificatie,337
+belligerence,strijdlust,337
+varicocele,varicocèle,337
+cryophobia,cryofobie,338
+incompetence,incompetentie,338
+ichthyosis,ichthyosis,338
+delusional disorder,waanstoornis,338
+manhood,mannelijkheid,338
+functional disorder,functionele stoornis,338
+ketoacidosis,ketoacidose,338
+consonance,consonantie,338
+heat exhaustion,oververhitting,338
+discordance,onenigheid,338
+concavity,concaafheid,339
+tediousness,verveling,339
+mellowness,zachtheid,339
+peonage,pioenroos,339
+heatstroke,zonnesteek,339
+coccidiosis,coccidiose,339
+rattrap,rattenval,339
+eparch,eparch,339
+immanence,immanentie,339
+potato mosaic,aardappelmozaïek,339
+xeroderma,xerodermie,340
+custodial account,bewaarrekening,340
+malice,boosaardigheid,340
+androgyny,androgynie,340
+marbleization,marmering,340
+stalagmite,stalagmiet,340
+oblique triangle,schuine driehoek,340
+claret,bordeauxrood,340
+dishonesty,oneerlijkheid,340
+lithiasis,lithiasis,340
+proxy war,oorlog bij volmacht,341
+atelectasis,atelectase,341
+ascariasis,ascariasis,341
+shyness,verlegenheid,341
+herpes simplex,herpes simplex,341
+birth defect,geboorteafwijking,341
+deliberation,beraadslaging,341
+radio brightness,radio helderheid,341
+raggedness,ruwheid,341
+boringness,saaiheid,341
+presence of mind,tegenwoordigheid van geest,342
+defeatism,defaitisme,342
+account payable,te betalen rekening,342
+meaningfulness,zinvolheid,342
+magnetic field strength,Magnetische veldsterkte,342
+rustication,rustiek,342
+sturdiness,stevigheid,342
+inconsistency,inconsistentie,342
+disharmony,disharmonie,342
+molarity,molariteit,342
+yaws,framboesia,343
+limited liability,beperkte aansprakelijkheid,343
+scleroderma,sclerodermie,343
+adiposity,adipositas,343
+mosaicism,mosaïcisme,343
+ceremoniousness,ceremonie,343
+immorality,immoraliteit,343
+angularity,hoekigheid,343
+intestacy,ingewanden,343
+myocardial infarction,myocardinfarct,343
+amyxia,amyxie,344
+earldom,graafschap,344
+dimness,schemering,344
+assiduity,volharding,344
+intentness,intentie,344
+eightieth,tachtigste,344
+pleasingness,behagen,344
+azymia,azymie,344
+spontaneity,spontaniteit,344
+trichinosis,trichinose,344
+directivity,gerichtheid,345
+hopelessness,hopeloosheid,345
+rhomboid,ruitvormig,345
+ductility,ductiliteit,345
+buoyancy,drijfvermogen,345
+standardization,standaardisatie,345
+simple fracture,eenvoudige breuk,345
+myxomatosis,myxomatose,345
+discomfiture,ongenoegen,345
+positivity,positiviteit,345
+blackheart,zwart hart,346
+titillation,prikkeling,346
+dengue,knokkelkoorts,346
+nymphomania,nymfomanie,346
+paronychia,paronychia,346
+animosity,vijandigheid,346
+dirtiness,vuiligheid,346
+extraversion,extraversie,346
+ambivalence,ambivalentie,346
+limelight,schijnwerpers,346
+agerasia,agerasië,347
+blight canker,bacterievuur,347
+perpetual motion,perpetuum mobile,347
+stinginess,gierigheid,347
+invalidity,invaliditeit,347
+bastardy,bastaardij,347
+solicitude,bezorgdheid,347
+drunkenness,dronkenschap,347
+Darsana,Darsana,347
+shoeshine,schoensmeer,347
+astigmatism,astigmatisme,348
+spina bifida,spina bifida,348
+volatility,wisselvalligheid,348
+septal defect,septumdefect,348
+complaisance,instemming,348
+melancholia,melancholie,348
+neotony,neoteny,348
+adynamia,adynamie,348
+jactitation,laster,348
+homomorphism,homomorfisme,348
+cognitive state,cognitieve toestand,349
+hypertonia,hypertonie,349
+intemperance,onmatigheid,349
+perigon,perigon,349
+malocclusion,malocclusie,349
+psychological state,psychologische staat,349
+polytheism,polytheïsme,349
+power of appointment,aanstellingsbevoegdheid,349
+encopresis,encopresis,349
+gross domestic product,bruto nationaal product,349
+gross national product,bruto nationaal product,350
+complex instruction set computing,complexe instructieset computing,350
+birthright,geboorterecht,350
+rancidity,ranzigheid,350
+topicality,actualiteit,350
+squeamishness,preutsheid,350
+dissatisfaction,ontevredenheid,350
+diastema,diasteem,350
+bleakness,somberheid,350
+syncretism,syncretisme,350
+thermal barrier,thermische barrière,351
+spinach blight,spinazieziekte,351
+walnut blight,walnotenziekte,351
+gutlessness,lafheid,351
+vindictiveness,wraakzucht,351
+apostasy,afvalligheid,351
+fussiness,pietluttig,351
+restlessness,rusteloosheid,351
+polydipsia,polydipsie,351
+cardiovascular disease,hart-en vaatziekte,351
+erysipelas,erysipelas,352
+celery blight,selderijziekte,352
+chestnut blight,kastanjeziekte,352
+insanity,krankzinnigheid,352
+unsteadiness,onvastheid,352
+catalepsy,catalepsie,352
+myopia,bijziendheid,352
+thistledown,disteldons,352
+loathsomeness,walging,352
+pityriasis,pityriasis,352
+merchantability,verkoopbaarheid,353
+putrefaction,verrotting,353
+reduced instruction set computing,gereduceerde instructieset computergebruik,353
+rinderpest,runderpest,353
+regularity,regelmatigheid,353
+celioma,celioma,353
+reflex epilepsy,reflex epilepsie,353
+largeness,grootsheid,353
+credibility,geloofwaardigheid,353
+foreignness,vreemdheid,353
+anal personality,anale persoonlijkheid,354
+poundage,pondsprijs,354
+filthiness,vuiligheid,354
+marital status,burgerlijke staat,354
+xerostomia,xerostomie,354
+minuteness,minuutheid,354
+right ascension,rechte klimming,354
+prettiness,schoonheid,354
+siderosis,siderosis,354
+accountability,verantwoordelijkheid,354
+electric burn,elektrische verbranding,355
+hereness,hierheid,355
+biosafety,bioveiligheid,355
+emasculation,ontmanning,355
+squatness,hurkzit,355
+astasia,astasia,355
+fragility,breekbaarheid,355
+likelihood,waarschijnlijkheid,355
+incompleteness,onvolledigheid,355
+atherosclerosis,atherosclerose,355
+moral certainty,morele zekerheid,356
+deficiency disease,deficiëntieziekte,356
+vanity fair,ijdelheid eerlijk,356
+muscular dystrophy,spierdystrofie,356
+favism,favisme,356
+cyclopia,cyclopie,356
+bluish green,blauwig-groen,356
+cerebral hemorrhage,hersenbloeding,356
+blast trauma,ontploffingstrauma,356
+myiasis,myiasis,356
+comfortableness,comfort,357
+morphea,morphea,357
+urinary tract infection,urineweginfectie,357
+erectile dysfunction,erectiestoornis,357
+legal representation,wettelijke vertegenwoordiging,357
+fatigue crack,vermoeidheid barst,357
+xanthoma,xanthoma,357
+fowl cholera,kippen cholera,357
+illogicality,onlogisch,357
+zoophobia,zoofobie,357
+hypersomnia,hypersomnie,358
+visual impairment,visuele beperking,358
+onychosis,onychose,358
+glyptics,glyptics,358
+candlepower,kaarskracht,358
+fetal age,foetale leeftijd,358
+achylia,achylia,358
+cleft foot,gespleten voet,358
+amastia,amassie,358
+acerbity,scherpte,358
+austereness,soberheid,359
+keratoconus,keratoconus,359
+dishabille,huisjurk,359
+anaplasia,anaplasie,359
+anarthria,anartrie,359
+spherical angle,sferische hoek:,359
+sleep terror disorder,slaap terreur stoornis,359
+silver lining,zilveren omlijning,359
+outside clinch,buiten clinch,359
+sanitariness,hygiëne,359
+cytopenia,cytopenie,360
+palilalia,palilalia,360
+amplitude level,amplitude niveau,360
+dyslogia,dyslogia,360
+neophobia,neofobie,360
+chutzpa,chutzpa,360
+abdominal pregnancy,buikzwangerschap,360
+jobbery,jobbery,360
+lead poisoning,loodvergiftiging,360
+ninetieth,negentigste,360
+saturation point,verzadigingspunt,361
+angiitis,angiitis,361
+bad manners,slechte manieren,361
+conscientiousness,gewetensvol,361
+anxiety hysteria,angst hysterie,361
+profoundness,diepgang,361
+acute brain disorder,acute hersenaandoening,361
+meaninglessness,zinloosheid,361
+uprightness,oprechtheid,361
+faintness,flauwvallen,361
+sloppiness,slordigheid,362
+organic brain syndrome,organisch hersensyndroom,362
+basophilia,basofilie,362
+mercury poisoning,kwikvergiftiging,362
+snakebite,slangenbeet,362
+Salafism,salafisme,362
+vagrancy,landloperij,362
+misanthropy,misantropie,362
+serration,karteling,362
+collective security,Collectieve beveiliging,362
+ampleness,overvloed,363
+real gross national product,echt bruto nationaal product,363
+operating capability,operationele capaciteit:,363
+aneuploidy,aneuploïdie,363
+nonagon,nonagon,363
+introversion,introversie,363
+salt depletion,zout uitputting,363
+achromia,achromie,363
+arrested development,gestopte ontwikkeling,363
+inflammatory disease,ontstekingsziekte,363
+silkiness,zachtheid,364
+Mountain Time,Berg tijd,364
+indecorum,indecorum,364
+mediacy,mediatie,364
+curiosity,nieuwsgierigheid,364
+lightsomeness,lichtheid,364
+cocaine addiction,cocaïne verslaving,364
+diabetic coma,diabetisch coma,364
+motor aphasia,motor afasie,364
+Hollywood,Hollywood,364
+dewdrop,dauwdruppel,365
+polycythemia,polycytemie,365
+insufficiency,insufficiëntie,365
+regionalism,regionalisme,365
+hypercapnia,hypercapnie,365
+polyandry,polyandrie,365
+sociality,socialiteit,365
+pyorrhea,pyorroe,365
+delayed allergy,vertraagde allergie,365
+riskiness,riskantheid,365
+rathole,rattenhol,366
+inside clinch,binnen clinch,366
+subsistence,levensonderhoud,366
+sanguine,optimistisch,366
+industrial air pollution,industriële luchtvervuiling,366
+abasement,vernedering,366
+temporal property,tijdelijke eigendom,366
+muchness,veelheid,366
+nonchalance,nonchalance,366
+assertiveness,assertiviteit,366
+currentness,actualiteit,367
+cigarette burn,brandende sigaretten,367
+scintillation,scintillatie,367
+desirability,wenselijkheid,367
+masculinity,mannelijkheid,367
+Yogacara,Yogacara,367
+ateleiosis,ateleiose,367
+adactylia,adactylie,367
+seventieth,zeventigste,367
+bluffness,blufheid,367
+lipidosis,lipidose,368
+spatial property,ruimtelijke eigenschap,368
+zoopsia,zoopsie,368
+acne vulgaris,acne vulgaris,368
+lap of the gods,schoot van de goden,368
+tepidness,lauwheid,368
+ophidism,ophidisme,368
+elation,opgetogenheid,368
+latent diabetes,latente diabetes,368
+luminescence,luminescentie,368
+adenocarcinoma,adenocarcinoom,369
+vernal equinox,lente-equinox,369
+aggressiveness,agressiviteit,369
+neuroblastoma,neuroblastoom,369
+dyscrasia,dyscrasie,369
+personal equation,persoonlijke vergelijking,369
+lividity,bleekheid,369
+hydathode,hydathode,369
+ametropia,ametropie,369
+exuberance,uitbundigheid,369
+disintegration,desintegratie,370
+decahedron,decaëder,370
+racial immunity,raciale immuniteit,370
+fantods,fantods,370
+trench fever,loopgravenkoorts,370
+Taoism,Taoïsme,370
+personality disorder,persoonlijkheidsstoornis,370
+battle fatigue,strijd vermoeidheid,370
+leukoma,leukoom,370
+torticollis,torticollis,370
+active immunity,actieve immuniteit,371
+joie de vivre,levensvreugde,371
+solvency,solvabiliteit,371
+huskiness,heesheid,371
+dyscalculia,dyscalculie,371
+respiratory distress syndrome,ademnood syndroom,371
+thermal equilibrium,thermisch evenwicht,371
+temporal arrangement,tijdelijke regeling,371
+locomotion,voortbeweging,371
+scholasticism,scholastiek,371
+virility,mannelijkheid,372
+infectious disease,besmettelijke ziekte,372
+folie a deux,folie a deux,372
+modesty,bescheidenheid,372
+theological virtue,theologische deugd,372
+split personality,gespleten persoonlijkheid,372
+cystic fibrosis,taaislijmziekte,372
+heartburning,ergernis,372
+anencephaly,anencefalie,372
+clear and present danger,duidelijk en aanwezig gevaar,372
+brachium,brachium,373
+fixedness,vastheid,373
+convex polygon,convexe veelhoek,373
+developmental age,ontwikkelingsleeftijd,373
+abandon,in de steek laten,373
+helplessness,hulpeloosheid,373
+toxoplasmosis,toxoplasmose,373
+duodenal ulcer,ulcus duodeni,373
+anxiety neurosis,angstneurose,373
+right triangle,rechthoekige driehoek,373
+regularization,regularisatie,374
+safeness,veiligheid,374
+carcinoma in situ,carcinoom in situ,374
+incomplete fracture,onvolledige breuk,374
+displaced fracture,verplaatste breuk,374
+pointedness,puntigheid,374
+exomphalos,exomphalos,374
+magical ability,magische vaardigheid,374
+French polish,politoer,374
+legibility,leesbaarheid,374
+stateliness,statigheid,375
+comprehensiveness,volledigheid,375
+A level,Een level,375
+poison sumac,vergif sumak,375
+depressed fracture,depressieve breuk,375
+radial symmetry,radiale symmetrie,375
+pseudobulb,pseudobol,375
+combativeness,strijdlust,375
+elastosis,elastose,375
+Shingon,Shingon,375
+vinegariness,azijnheid,376
+dysomia,dysomie,376
+gloominess,somberheid,376
+monotony,eentonigheid,376
+timidity,verlegenheid,376
+sleepiness,slaperigheid,376
+chronic renal failure,chronisch nierfalen,376
+motility,beweeglijkheid,376
+parental quality,ouderlijke kwaliteit,376
+knock-knee,klop-knie,376
+truncated cone,afgeknotte kegel,377
+Shivaism,Shaivisme,377
+flatulence,winderigheid,377
+plumpness,molligheid,377
+simple closed curve,eenvoudige gesloten curve,377
+maneuverability,wendbaarheid,377
+monogyny,monogynie,377
+interoperability,interoperabiliteit,377
+virginity,maagdelijkheid,377
+healthfulness,gezondheid,377
+anaclisis,anaclisis,378
+endogamy,endogamie,378
+activeness,activiteit,378
+responsiveness,ontvankelijkheid,378
+stream of consciousness,stroom van bewustzijn,378
+paraparesis,paraparese,378
+multiple sclerosis,multiple sclerose,378
+uratemia,uratemie,378
+Jainism,jaïnisme,378
+oral personality,mondelinge persoonlijkheid,378
+impossibility,onmogelijkheid,379
+scorch,verschroeien,379
+sexual attraction,seksuele aantrekkingskracht,379
+herpes zoster,herpes zoster,379
+hallucination,hallucinatie,379
+viability,levensvatbaarheid,379
+summer solstice,zomerzonnewende,379
+nonbeing,niet-zijn,379
+crassness,grofheid,379
+plaintiveness,klaagzang,379
+double clinch,dubbele clinch,380
+gumboil,kauwgom,380
+portal hypertension,Portale hypertensie,380
+ergotism,ergotisme,380
+celebrant,feestvierder,380
+undercut,ondersnijding,380
+enervation,enervatie,380
+anagnost,anagnost,380
+uncleanliness,onreinheid,380
+corruptness,corruptie,380
+tonicity,toniciteit,381
+philogyny,filologie,381
+hyperthermia,hyperthermie,381
+osteosarcoma,osteosarcoom,381
+extravagance,extravagantie,381
+acanthosis,acanthosis,381
+port-wine stain,wijn vlek,381
+suffragan,suffragaan,381
+Anabaptism,wederdoop,381
+lawlessness,wetteloosheid,381
+puniness,strafheid,382
+complementary color,complementaire kleur,382
+shakiness,wankelheid,382
+succulence,sappigheid,382
+urtication,urticatie,382
+doctrine of analogy,leer van analogie,382
+fluidity,vloeibaarheid,382
+variegation,schakering,382
+grandfather clause,grootvader clausule,382
+bodily property,lichamelijk bezit,382
+allopatry,allopatrie,383
+untruthfulness,onwaarheid,383
+brackishness,brakheid,383
+keratocele,keratocelé,383
+anorgasmia,anorgasmie,383
+everlastingness,eeuwigheid,383
+commiseration,medelijden,383
+lower respiratory infection,lagere luchtweginfectie,383
+saintliness,heiligheid,383
+tumidity,tumiditeit,383
+psittacosis,psittacose,384
+smuttiness,vuiligheid,384
+sympatry,sympathie,384
+esprit de corps,esprit de corps,384
+sulkiness,chagrijnig,384
+cretinism,cretinisme,384
+ennoblement,veredeling,384
+apophatism,apofatisme,384
+edacity,gulzigheid,384
+flabbiness,slapheid,384
+blood poisoning,bloed vergiftiging,385
+phobophobia,fobofobie,385
+Anglophobia,Anglofobie,385
+abruptness,abruptheid,385
+pycnosis,pycnosis,385
+illegality,onwettigheid,385
+Sikhism,Sikhisme,385
+shrillness,schrilheid,385
+rhagades,rhagades,385
+aquaphobia,aquafobie,385
+buxomness,molligheid,386
+cerebral palsy,hersenverlamming,386
+heroism,heldhaftigheid,386
+piquancy,pikantheid,386
+hyposmia,hyposmie,386
+interestedness,interesse,386
+passive immunity,passieve immuniteit,386
+epidemic disease,epidemische ziekte,386
+Donatism,Donatisme,386
+stalactite,druipsteen,386
+rigor mortis,Rigor mortis,387
+discouragement,ontmoediging,387
+frailty,kwetsbaarheid,387
+Mahdism,Mahdisme,387
+impropriety,ongepastheid,387
+sternness,strengheid,387
+inexpensiveness,goedkoop,387
+ideality,idealiteit,387
+disorientation,desoriëntatie,387
+immediate allergy,onmiddellijke allergie,387
+lenticel,lenticel,388
+savageness,wreedheid,388
+disassociation,dissociatie,388
+risibility,risico's,388
+contingency,onvoorspelbaarheid,388
+incorrectness,onjuistheid,388
+compression fracture,compressiefractuur,388
+devoutness,vroomheid,388
+testiness,testiness,388
+reprobation,verwerping,388
+stickiness,kleverigheid,389
+anoxemia,anoxemie,389
+glioblastoma,glioblastoom,389
+acridity,scherpte,389
+arthropathy,artropathie,389
+purplish red,paarsig rood,389
+lycanthropy,lycantropie,389
+awkwardness,onhandigheid,389
+chronic leukemia,chronische leukemie,389
+outsize,buitenmaats,389
+fatigue fracture,vermoeidheid breuk,390
+bighead,groot hoofd,390
+serviceability,bruikbaarheid,390
+aloneness,eenzaamheid,390
+misology,misologie,390
+protectiveness,bescherming,390
+protuberance,uitsteeksel,390
+befoulment,bevuiling,390
+marasmus,marasmus,390
+slanginess,straattaal,390
+poignance,ontroering,391
+bargaining chip,onderhandelingsfiche,391
+materiality,materialiteit,391
+infatuation,uitzinnigheid,391
+gas gangrene,gas gangreen,391
+soberness,soberheid,391
+unfairness,oneerlijkheid,391
+verticil,verticil,391
+otosclerosis,otosclerose,391
+spasticity,spasticiteit,391
+frigidity,frigiditeit,392
+errancy,dwaling,392
+azoturia,azoturië,392
+bipolar disorder,bipolaire stoornis,392
+opportunism,opportunisme,392
+unprofitableness,onrendabel,392
+nephroptosis,nefroptose,392
+freedom of the seas,vrijheid van de zeeën,392
+individuality,individualiteit,392
+subjugation,onderwerping,392
+gigantism,gigantisme,393
+sallowness,vaalheid,393
+polyploidy,polyploïdie,393
+concurrence,overeenstemming,393
+lupus vulgaris,lupus vulgaris,393
+lightheadedness,duizeligheid,393
+mechanization,mechanisatie,393
+canine distemper,hondenziekte,393
+distemper,hondenziekte,393
+upper respiratory infection,bovenste luchtweginfectie,393
+solarization,solarisatie,394
+youngness,jongheid,394
+looping ill,ziek in een lus,394
+conglomeration,conglomeraat,394
+sogginess,doorweekt,394
+spiciness,kruidigheid,394
+potato blight,aardappelziekte,394
+pyrophobia,pyrofobie,394
+element of a cylinder,element van een cilinder,394
+leukocytosis,leukocytose,394
+gruffness,norsheid,395
+helpfulness,behulpzaamheid,395
+orientalism,oriëntalisme,395
+mummification,mummificatie,395
+flaccid bladder,slappe blaas,395
+gummosis,gummosis,395
+ptomaine,ptomaine,395
+pneumothorax,pneumothorax,395
+bluetongue,blauwe tong,395
+humbleness,nederigheid,395
+late blight,aardappelziekte,396
+cuboid,kubusvormig,396
+extrados,extrados,396
+obstreperousness,koppigheid,396
+adhesiveness,kleefkracht,396
+schemozzle,schemozzle,396
+stuffiness,benauwdheid,396
+exquisiteness,fijnheid,396
+bubbliness,bubbels,396
+akinesis,akinesis,396
+advisability,raadzaamheid,397
+staleness,stalenheid,397
+heroin addiction,heroïne verslaving,397
+paraboloid,paraboloïde,397
+parasitemia,parasitemie,397
+abrachia,abrachia,397
+edibility,eetbaarheid,397
+flimsiness,zwakheid,397
+equivalence,gelijkwaardigheid,397
+impracticality,onpraktisch,397
+complementary angles,Complementaire hoeken,398
+liposarcoma,liposarcoom,398
+incapability,onvermogen,398
+amorality,amoraliteit,398
+hydrogen ion concentration,waterstofionenconcentratie:,398
+wakefulness,waakzaamheid,398
+hypothyroidism,hypothyreoïdie,398
+discontinuity,discontinuïteit,398
+iridoncus,iridoncus,398
+Romanticism,Romantiek,398
+precariousness,onzekerheid,399
+tawniness,taaiheid,399
+laterality,lateraliteit,399
+coronary heart disease,coronaire hartziekte,399
+potato wart,aardappel wrat,399
+omniscience,alwetendheid,399
+skinniness,magerheid,399
+boorishness,lompheid,399
+winter solstice,winterzonnewende,399
+adventurism,avonturisme,399
+professionalism,professionaliteit,400
+hyperopia,verziendheid,400
+deadliness,doodsheid,400
+decagon,tienhoek,400
+ingenuity,vindingrijkheid,400
+bonyness,benigheid,400
+gaminess,gaminess,400
+dumpiness,domheid,400
+element of a cone,element van een kegel,400
+Hawaii Time,Hawaï-tijd,400
+juvenile wart,juveniele wrat,401
+jejunity,jejunity,401
+liveliness,levendigheid,401
+technophobia,technofobie,401
+semicoma,semicoma,401
+Judaism,jodendom,401
+hospitalization,ziekenhuisopname,401
+homozygosity,homozygotie,401
+fowl pest,gevogelte plaag,401
+acquired immunity,verkregen immuniteit,401
+dodecagon,dodecagon,402
+quadriplegia,quadriplegie,402
+malignant tumor,kwaadaardige tumor,402
+togetherness,saamhorigheid,402
+hydrophobia,watervrees,402
+cheerfulness,opgewektheid,402
+particularity,bijzonderheid,402
+permeability,doorlaatbaarheid,402
+Vedism,Vedisme,402
+differentia,differentie,402
+alacrity,enthousiasme,403
+congruity,congruentie,403
+Mahayana,Mahayana,403
+food poisoning,voedselvergiftiging,403
+recklessness,roekeloosheid,403
+friskiness,dartelheid,403
+ferociousness,wreedheid,403
+oxycephaly,oxycefalie,403
+unfamiliarity,onbekendheid,403
+griminess,vuiligheid,403
+divisibility,deelbaarheid,404
+glossolalia,glossolalie,404
+cheapness,goedkoopheid,404
+severe acute respiratory syndrome,ernstig acuut respiratoir syndroom,404
+blood brotherhood,bloedbroederschap,404
+universality,universaliteit,404
+subjectivity,subjectiviteit,404
+acrophobia,hoogtevrees,404
+spinal anesthesia,spinale anesthesie,404
+perversity,perversiteit,404
+wrongness,verkeerdheid,405
+invagination,invaginatie,405
+sociability,gezelligheid,405
+hog cholera,varkens cholera,405
+benign tumor,goedaardige tumor,405
+leishmaniasis,leishmaniasis,405
+Mormonism,Mormonisme,405
+sottishness,sulligheid,405
+poetic license,poëtische licentie,405
+musicality,muzikaliteit,405
+sublimity,verhevenheid,406
+orderliness,ordelijkheid,406
+adenopathy,adenopathie,406
+aspergillosis,aspergillose,406
+kwashiorkor,kwashiorkor,406
+parsimony,spaarzaamheid,406
+etiolation,etiolation,406
+bewilderment,verbijstering,406
+endurance,uithoudingsvermogen,406
+papilledema,papiloedeem,406
+compound fracture,samengestelde breuk,407
+foresight,vooruitziendheid,407
+neighborliness,nabuurschap,407
+lymphangioma,lymfangioom,407
+jollity,vrolijkheid,407
+disqualification,diskwalificatie,407
+mindfulness,opmerkzaamheid,407
+preeclampsia,pre-eclampsie,407
+prudence,voorzichtigheid,407
+grand mal epilepsy,grand mal epilepsie,407
+unevenness,oneffenheden,408
+hydronephrosis,hydronefrose,408
+competitiveness,concurrentievermogen,408
+essential hypertension,essentiële hypertensie,408
+secondary hypertension,secundaire hypertensie,408
+pulmonary anthrax,pulmonale miltvuur,408
+pinprick,speldenprik,408
+loose smut,losse vuiligheid,408
+missionary position,missionaris positie,408
+lateness,te laat komen,408
+rejoicing,zich verheugen,409
+histiocytosis,histiocytose,409
+hoydenism,hoydenisme,409
+servitude,dienstbaarheid,409
+freemasonry,vrijmetselarij,409
+benevolence,welwillendheid,409
+candor,openhartigheid,409
+nicotine addiction,nicotineverslaving,409
+religiosity,religiositeit,409
+equine distemper,paardenziekte,409
+aortic aneurysm,aorta-aneurysma,410
+randomness,willekeurigheid,410
+acromicria,acromicria,410
+sensitization,sensibilisatie,410
+perplexity,verbijstering,410
+moodiness,humeurigheid,410
+fundamentalism,fundamentalisme,410
+triangular prism,driehoekig Prisma,410
+phocomelia,focomelia,410
+enormousness,enormheid,410
+eccentricity,excentriciteit,411
+pediculosis,pediculosis,411
+typicality,typischheid,411
+hankering,hunkeren naar,411
+haploidy,haploïdie,411
+poliomyelitis,poliomyelitis,411
+ovarian pregnancy,ovariumzwangerschap,411
+spherical triangle,sferische driehoek,411
+impacted fracture,geïmpacteerde breuk,411
+guilt by association,schuld door associatie,411
+hyperactivity,hyperactiviteit,412
+handiness,handigheid,412
+dynamical system,dynamisch systeem,412
+salience,opvallendheid,412
+friendliness,vriendelijkheid,412
+chivalry,ridderlijkheid,412
+stoutness,stevigheid,412
+femininity,vrouwelijkheid,412
+Romanism,Romanisme,412
+cutaneous anthrax,cutane miltvuur,412
+oblivion,vergeetachtigheid,413
+prismoid,prismoïde,413
+plantar wart,plantaire wrat,413
+transcendence,transcendentie,413
+angle of extinction,hoek van uitsterven,413
+boldness,vrijmoedigheid,413
+fly in the ointment,vlieg in de zalf,413
+impunity,straffeloosheid,413
+diploidy,diploïdie,413
+exoneration,vrijstelling,413
+cataphasia,katafasia,414
+animateness,bezieling,414
+corporatism,corporatisme,414
+neurinoma,neuronoom,414
+petit mal epilepsy,petit mal epilepsie,414
+amnesia,geheugenverlies,414
+street credibility,straat geloofwaardigheid,414
+intumescence,opvatting,414
+immortality,onsterfelijkheid,414
+trait,karaktereigenschap,414
+laparocele,laparocelé,415
+auspiciousness,voorspoed,415
+natural immunity,natuurlijke immuniteit,415
+acathexia,acathexie,415
+loco disease,locomotief ziekte,415
+meromelia,meromelia,415
+quietism,quiëtisme,415
+meagerness,magerheid,415
+detergency,wasmiddel,415
+algophobia,algofobie,415
+spit and polish,spugen en polijsten,416
+urbanization,verstedelijking,416
+mugginess,zwoelheid,416
+exogenous obesity,exogene obesitas,416
+asynergy,asynergie,416
+coordinated universal time,gecoördineerde universele tijd,416
+Theravada,Theravada,416
+agalactia,agalactia,416
+hoariness,grijsheid,416
+pancreatic cancer,alvleesklierkanker,416
+fire and brimstone,vuur en zwavel,417
+salient angle,opvallende hoek:,417
+linguistic competence,Taalkundige competentie,417
+inertial mass,traagheidsmassa,417
+actinism,actinisme,417
+solitary confinement,eenzame opsluiting,417
+reddish purple,roodachtig paars,417
+trundle,onderschuifbed,417
+sensory epilepsy,sensorische epilepsie,417
+footing,voet aan de grond,417
+angiopathy,angiopathie,418
+lysinemia,lysinemie,418
+diplomatic immunity,diplomatieke immuniteit,418
+corpulence,corpulentie,418
+simple phobia,eenvoudige fobie,418
+capriciousness,grilligheid,418
+lymphocytosis,lymfocytose,418
+reddish brown,roodachtig bruin,418
+rheumatoid arthritis,Reumatoïde artritis,418
+flakiness,schilfering,418
+metabolic disorder,stofwisselingsstoornis,419
+Parsiism,parsiisme,419
+hypovolemia,hypovolemie,419
+heptagon,zevenhoek,419
+syndactyly,syndactylie,419
+accelerando,accelerando,419
+wingspread,vleugelslag,419
+micropyle,micropyle,419
+isometropia,isometrie,419
+cynophobia,cynofobie,419
+yellowish pink,geelachtig roze,420
+endogenous depression,endogene depressie,420
+immunodeficiency,immuundeficiëntie,420
+undecagon,ontelbaar,420
+starkness,grimmigheid,420
+disunity,verdeeldheid,420
+bunker mentality,bunker mentaliteit,420
+congenital heart defect,Aangeboren hartfout,420
+vivacity,levendigheid,420
+beneficence,weldadigheid,420
+salmonellosis,salmonellose,421
+semicircle,halve cirkel,421
+sweetness and light,zoetheid en licht,421
+primary syphilis,primaire syfilis,421
+requisiteness,vereiste,421
+diastasis,diastase,421
+indifference,onverschilligheid,421
+illegitimacy,onwettigheid,421
+acephalia,acephalia,421
+colpocele,colpocelé,421
+regional anesthesia,regionale anesthesie,422
+saddle block anesthesia,zadelblok anesthesie,422
+obscurity,onduidelijkheid,422
+varicosis,spataderen,422
+womanhood,vrouwelijkheid,422
+Sufism,soefisme,422
+God's Will,Gods wil,422
+glanders,kwade droes,422
+retinal detachment,netvliesloslating,422
+dysosmia,dysosmie,422
+contact dermatitis,contactdermatitis,423
+concave polygon,concave veelhoek,423
+periodontal disease,tandvleesziekte,423
+allergic eczema,allergisch eczeem,423
+imperfection,onvolmaaktheid,423
+amour propre,amour propre,423
+survivor guilt,schuld van de overlevende,423
+acanthoma,acanthoma,423
+opacity,ondoorzichtigheid,423
+wholesomeness,heilzaamheid,423
+mitral stenosis,mitralisstenose,424
+pelvic inflammatory disease,eileiderontsteking,424
+maple syrup urine disease,ahornsiroop urineziekte,424
+visual aphasia,visuele afasie,424
+calefaction,verhitting,424
+pesticide poisoning,pesticidenvergiftiging,424
+anabiosis,anabiose,424
+malleability,maakbaarheid,424
+sanitation,sanitaire voorzieningen,424
+armistice,wapenstilstand,424
+chronological age,chronologische leeftijd,425
+hyperacusis,hyperacusis,425
+dormant account,slapende rekening,425
+hypochondria,hypochondrie,425
+catenary,bovenleiding,425
+tritanopia,tritanopie,425
+tonic epilepsy,tonische epilepsie,425
+cinquefoil,wateraardbei,425
+intolerance,onverdraagzaamheid,425
+fallibility,feilbaarheid,425
+insensitivity,ongevoeligheid,426
+microcytosis,microcytose,426
+autoimmune disease,auto immuunziekte,426
+disobedience,ongehoorzaamheid,426
+watchfulness,waakzaamheid,426
+granville wilt,granville verwelkt,426
+airiness,luchtigheid,426
+angioedema,angio-oedeem,426
+worthwhileness,waardigheid,426
+halo blight,halo bacterievuur,426
+infantilism,infantilisme,427
+misopedia,misopedia,427
+physiological property,fysiologische eigenschap,427
+unneighborliness,nabuurschap,427
+gammopathy,gammopathie,427
+nuclear cataract,nucleair cataract,427
+untidiness,slordigheid,427
+pleural space,pleurale ruimte,427
+spherical polygon,bolvormige veelhoek,427
+lissomeness,lissomeness,427
+Monsignor,Monseigneur,428
+truncated pyramid,afgeknotte piramide,428
+fortitude,standvastigheid,428
+hexahedron,hexaëder,428
+scrofula,klierziekte,428
+cardiomyopathy,cardiomyopathie,428
+lactosuria,lactosurie,428
+expanse,uitgestrektheid,428
+myelofibrosis,myelofibrose,428
+dependability,betrouwbaarheid,428
+admissibility,toelaatbaarheid,429
+desperate straits,wanhopige zeestraat,429
+gravitational mass,zwaartekracht massa,429
+irritability,prikkelbaarheid,429
+inhalation anesthesia,inhalatie-anesthesie,429
+alcoholic dementia,alcoholische dementie,429
+mournfulness,droefheid,429
+exogenous depression,exogene depressie,429
+predictability,voorspelbaarheid,429
+catastrophic illness,catastrofale ziekte,429
+geophagy,geofagie,430
+lung-power,longkracht,430
+nicotine poisoning,nicotinevergiftiging,430
+mental anguish,geestelijke angst,430
+yellow dwarf of potato,gele dwerg van aardappel,430
+mysophobia,mysofobie,430
+coziness,gezelligheid,430
+acceptability,aanvaardbaarheid,430
+costliness,kostbaarheid,430
+ultimacy,ultimacy,430
+stodginess,taaiheid,431
+discord,meningsverschil,431
+multiple myeloma,multipel myeloom,431
+glove anesthesia,handschoen anesthesie,431
+intactness,intactheid,431
+acromphalus,acrophalus,431
+quirk,eigenaardigheid,431
+even spacing,gelijkmatige tussenruimte,431
+iniquity,ongerechtigheid,431
+hairline fracture,haarlijn breuk,431
+concreteness,concreetheid,432
+synechia,synechia,432
+chronic glaucoma,chronisch glaucoom,432
+microcephaly,microcefalie,432
+serum sickness,allergisch voor antibiotica,432
+Anglomania,Anglomanie,432
+spacecraft event time,ruimtevaartuig evenement tijd,432
+bronchiolitis,bronchiolitis,432
+rhinophyma,rhinophyma,432
+phonophobia,fonofobie,432
+ametria,ametrien,433
+lenience,mildheid,433
+ergodicity,ergodiciteit,433
+giddiness,duizeligheid,433
+osteomalacia,osteomalacie,433
+aspiration pneumonia,aspiratiepneumonie,433
+legal blindness,juridische blindheid,433
+effeminacy,verwijfdheid,433
+hypersensitivity,overgevoeligheid,433
+nationhood,nationaliteit,433
+jocundity,vrolijkheid,434
+mushroom poisoning,paddenstoelenvergiftiging,434
+equilateral,gelijkzijdige,434
+hydatid mole,hydatide mol,434
+hypnophobia,hypnofobie,434
+inappropriateness,ongepastheid,434
+mental exhaustion,mentale uitputting,434
+taphephobia,taphefobie,434
+reddish orange,roodachtig oranje,434
+dander,huidschilfers,434
+Puritanism,Puritanisme,435
+putridity,verrotting,435
+manageability,beheersbaarheid,435
+fugacity,vluchtigheid,435
+whole shebang,hele klootzak,435
+circle of curvature,cirkel van kromming,435
+fibrosity,fibrositeit,435
+conditioned emotional response,geconditioneerde emotionele reactie,435
+generalized anxiety disorder,gegeneraliseerde angststoornis,435
+gynecomastia,gynaecomastie,435
+interconnection,onderlinge verbinding,436
+brand-newness,gloednieuw,436
+herpangia,herpangina,436
+allusiveness,zinspeling,436
+adult respiratory distress syndrome,ademhalingsnoodsyndroom bij volwassenen,436
+viral pneumonia,virale longontsteking,436
+liberality,vrijgevigheid,436
+arachnophobia,arachnofobie,436
+lepidophobia,lepidofobie,436
+tragic flaw,tragische tekortkoming,436
+plasmacytoma,plasmacytoom,437
+chromatism,chromatisme,437
+decrescendo,decrescendo,437
+monasticism,kloosterleven,437
+pulmonary stenosis,pulmonale stenose,437
+substantiality,substantieel,437
+penetrating trauma,doordringend trauma,437
+tarantism,tarantisme,437
+epicycloid,epicycloïde,437
+retinoblastoma,retinoblastoom,437
+wateriness,waterigheid,438
+tritheism,tritheïsme,438
+cortical cataract,corticale cataract,438
+expressiveness,expressiviteit,438
+life imprisonment,levenslange gevangenisstraf,438
+easygoingness,gemakzucht,438
+sordidness,gemeenheid,438
+Brahmanism,brahmanisme,438
+hypericism,hypericisme,438
+bubble gum dermatitis,kauwgom dermatitis,438
+slovenliness,slordigheid,439
+paramnesia,paramnesie,439
+political correctness,politieke correctheid,439
+malignant hypertension,kwaadaardige hypertensie,439
+affective disorder,Affectieve stoornis,439
+local anesthesia,plaatselijke verdoving,439
+indignation,verontwaardiging,439
+topical anesthesia,plaatselijke verdoving,439
+atherogenesis,atherogenese,439
+oddity,eigenaardigheid,439
+insecureness,onzekerheid,440
+galactosemia,galactosemie,440
+conviviality,gezelligheid,440
+princedom,vorstendom,440
+metroptosis,metroptosis,440
+tyrosinemia,tyrosinemie,440
+urethrocele,urethrocele,440
+dapple-grey,appelgrijs,440
+anaphrodisia,anafrodisia,440
+regular polygon,regelmatige veelhoek,440
+bloodguilt,bloedschuld,441
+scrappiness,slordigheid,441
+algolagnia,algolagnie,441
+spuriousness,onechtheid,441
+summum bonum,summum bonum,441
+anorexia nervosa,anorexia nervosa,441
+pancytopenia,pancytopenie,441
+angiosarcoma,angiosarcoom,441
+hypnotic trance,hypnotische trance,441
+endomorphy,endomorfie,441
+neurasthenia,neurasthenie,442
+cortical epilepsy,corticale epilepsie,442
+onycholysis,onycholyse,442
+heterozygosity,heterozygotie,442
+zoanthropy,zoantropie,442
+autumnal equinox,herfst-equinox,442
+capaciousness,capaciteit,442
+oscheocele,oscheocele,442
+osteopetrosis,osteopetrose,442
+chronic wasting disease,chronische verspillende ziekte,442
+alkalemia,alkaliëmie,443
+lyricality,lyraliteit,443
+gratefulness,dankbaarheid,443
+refractoriness,vuurvastheid,443
+deviousness,kronkelendheid,443
+double pneumonia,dubbele longontsteking,443
+ineligibility,ongeschiktheid,443
+muscularity,gespierdheid,443
+tertiary syphilis,tertiaire syfilis,443
+abstractness,abstractheid,443
+hebephrenia,hebefrenie,444
+informality,informaliteit,444
+giantism,gigantisme,444
+snuff-color,snuifkleur,444
+ablepharia,ablepharia,444
+moroseness,somberheid,444
+greenish yellow,groenachtig geel,444
+misoneism,misoneïsme,444
+greasiness,vettigheid,444
+inanition,uitputting,444
+genital personality,genitale persoonlijkheid,445
+radial asymmetry,radiale asymmetrie,445
+footedness,footedness,445
+mongolism,mongolisme,445
+varicosity,spataderen,445
+gracefulness,bevalligheid,445
+nympholepsy,nymplepsie,445
+flammability,ontvlambaarheid,445
+docility,volgzaamheid,445
+outlandishness,vreemdheid,445
+retarded depression,vertraagde depressie,446
+blackwater fever,zwartwaterkoorts,446
+xanthopsia,xanthopsia,446
+inconstancy,inconstantie,446
+spider angioma,spin angioom,446
+actinomycosis,actinomycose,446
+lopsidedness,scheefheid,446
+attentiveness,oplettendheid,446
+powerlessness,machteloosheid,446
+nervous exhaustion,nerveuze uitputting,446
+genital wart,genitale wratten,447
+coronary thrombosis,coronaire trombose,447
+yellowish brown,geelachtig bruin,447
+pining,smachten naar,447
+extremeness,extreemheid,447
+keratonosus,keratonosus,447
+biliousness,gulzigheid,447
+pyelonephritis,pyelonefritis,447
+comity,hoffelijkheid,447
+sanity,geestelijke gezondheid,447
+cyberphobia,cyberfobie,448
+covalence,covalentie,448
+Calvinism,calvinisme,448
+invisibility,onzichtbaarheid,448
+nonexistence,niet bestaand,448
+alto relievo,alt reliëf,448
+protanopia,protanopie,448
+circularity,circulariteit,448
+concatenation,aaneenschakeling,448
+narrowness,bekrompenheid,448
+nerve entrapment,zenuwbeknelling,449
+oat cell carcinoma,havercelcarcinoom,449
+electrolyte balance,elektrolytenbalans,449
+trustworthiness,betrouwbaarheid,449
+amaurosis,amaurose,449
+inherence,inherentie,449
+despondency,moedeloosheid,449
+ulatrophia,ulatrophia,449
+vitalness,vitaliteit,449
+latent hostility,latente vijandigheid,449
+spitting image,spugen afbeelding,450
+egality,gelijkheid,450
+neurosyphilis,neurosyfilis,450
+domesticity,huiselijkheid,450
+dry gangrene,droge gangreen,450
+entelechy,entelechie,450
+claustrophobia,claustrofobie,450
+nasality,nasaliteit,450
+casualness,terloopsheid,450
+victimization,slachtofferschap,450
+fewness,weinigheid,451
+Ismailism,ismailisme,451
+gentleness,vriendelijkheid,451
+inaccuracy,onnauwkeurigheid,451
+major depressive episode,depressieve episode,451
+aptness,geschiktheid,451
+absoluteness,absoluutheid,451
+lichen planus,lichen planus,451
+erroneousness,onjuistheid,451
+complicity,medeplichtigheid,451
+faineance,faineance,452
+overplus,overschot,452
+musophobia,musofobie,452
+show-stopper,showstopper,452
+pneumoconiosis,pneumoconiose,452
+paradoxical sleep,paradoxale slaap,452
+sadomasochism,sadomasochisme,452
+cheilosis,cheilosis,452
+costiasis,costiasis,452
+constancy,standvastigheid,452
+canine chorea,honden chorea,453
+incongruity,ongerijmdheid,453
+hebetude,hebbetude,453
+spastic bladder,spastische blaas,453
+inadequacy,ontoereikendheid,453
+misocainea,misocainea,453
+gamboge,guttegom,453
+essential tremor,essentiële tremor,453
+monochromacy,monochroom,453
+rascality,schurkerij,453
+hypoesthesia,hypesthesie,454
+attractiveness,aantrekkelijkheid,454
+eremitism,eremitisme,454
+Bering Time,Beringtijd,454
+sleaziness,slordigheid,454
+incompatibility,onverenigbaarheid,454
+paranoid schizophrenia,paranoïde schizofrenie,454
+commonness,algemeenheid,454
+fibroadenoma,fibroadenoom,454
+oligodontia,oligodontie,454
+duple time,dubbele tijd,455
+opalescence,opalescentie,455
+arteriosclerosis,arteriosclerose,455
+superiority complex,superioriteitscomplex,455
+neurofibroma,neurofibroom,455
+exultation,opgetogenheid,455
+atonicity,atoniciteit,455
+hypogonadism,hypogonadisme,455
+indefiniteness,onbepaaldheid,455
+mordacity,mordacity,455
+Shaktism,Shaktisme,456
+mysophilia,mysofilie,456
+heterology,heterologie,456
+fascioliasis,fascioliase,456
+encompassment,omhulling,456
+enteropathy,enteropathie,456
+monosemy,monosemie,456
+coextension,co-extensie,456
+obstructive shock,obstructieve schok,456
+crispness,knapperigheid,456
+cholera morbus,cholera morbus,457
+secondary syphilis,secundaire syfilis,457
+parallelogram,parallellogram,457
+sexual arousal,seksuele opwinding,457
+insubordination,insubordinatie,457
+infallibility,onfeilbaarheid,457
+hyperthyroidism,hyperthyreoïdie,457
+polydactyly,polydactylie,457
+castration anxiety,castratie angst,457
+crankiness,humeurigheid,457
+audibility,hoorbaarheid,458
+hemochromatosis,hemochromatose,458
+comeliness,bevalligheid,458
+unconsciousness,bewusteloosheid,458
+meteorological conditions,meteorologische omstandigheden,458
+separability,scheidbaarheid,458
+obtuse triangle,stompe driehoek,458
+splenomegaly,splenomegalie,458
+impiety,goddeloosheid,458
+molality,molaliteit,458
+renal insufficiency,nierinsufficiëntie,459
+frankness,openhartigheid,459
+solvability,solvabiliteit,459
+mental abnormality,mentale afwijking,459
+serfdom,lijfeigenschap,459
+precaution,voorzorgsmaatregel,459
+naturalness,natuurlijkheid,459
+quotability,quotiteit,459
+nominal aphasia,nominale afasie,459
+committedness,toewijding,459
+skillfulness,vaardigheid,460
+decompression sickness,decompressieziekte,460
+helminthiasis,wormziekte,460
+acarophobia,acarofobie,460
+sidereal year,siderisch jaar,460
+foramen magnum,foramen magnum,460
+basal body temperature,basale lichaamstemperatuur,460
+graciousness,hoffelijkheid,460
+chromatic color,chromatische kleur,460
+monoplegia,monoplegie,460
+circadian rhythm,circadiaans ritme,461
+feculence,feculence,461
+thrombocytopenia,trombocytopenie,461
+ill-being,ziek zijn,461
+blessedness,gelukzaligheid,461
+coronary occlusion,coronaire occlusie,461
+myosarcoma,myosarcoom,461
+sidereal day,siderische dag,461
+wiriness,draadigheid,461
+reversibility,omkeerbaarheid,461
+disorganization,desorganisatie,462
+inerrancy,onfeilbaarheid,462
+arm's length,armlengte,462
+prebendary,prebendaris,462
+disaffection,ontevredenheid,462
+androphobia,androfobie,462
+Adventism,adventisme,462
+iron deficiency anemia,bloedarmoede door ijzertekort,462
+perfectionism,perfectionisme,462
+greenish blue,groenachtig blauw,462
+refractory period,refractaire periode,463
+urbanity,stedelijkheid,463
+ingratitude,ondankbaarheid,463
+palatability,smakelijkheid,463
+excommunication,excommunicatie,463
+lawfulness,rechtmatigheid,463
+scleredema,scleroedeem,463
+contagious disease,besmettelijke ziekte,463
+grogginess,onzekerheid,463
+aniseikonia,aniseikonia,463
+meningocele,meningocele,464
+depressive disorder,depressieve stoornis,464
+Midas touch,Midas touch,464
+retroversion,retroversie,464
+undernourishment,ondervoeding,464
+xerophthalmia,xeroftalmie,464
+throw-weight,werpgewicht,464
+dustiness,stoffigheid,464
+conduction anesthesia,geleidingsanesthesie,464
+plausibility,aannemelijkheid,464
+chondroma,chondroom,465
+rootage,beworteling,465
+scandalization,schandaal,465
+gynophobia,gynofobie,465
+miserliness,gierigheid,465
+diverticulosis,diverticulosis,465
+sultriness,zwoelheid,465
+scrawniness,magerheid,465
+mutual resemblance,onderlinge gelijkenis,465
+humanness,menselijkheid,465
+disproportion,wanverhouding,466
+stigmatism,stigmatisme,466
+dinginess,smerigheid,466
+dimensionality,dimensionaliteit,466
+epithelioma,epithelioom,466
+standdown,standdown,466
+sycophancy,samenzwering,466
+trichomoniasis,trichomoniasis,466
+inessentiality,nietigheid,466
+isostasy,isostasie,466
+shirtsleeves,shirt mouwen,467
+unimportance,onbelangrijk,467
+brownish yellow,bruinachtig geel,467
+pachycheilia,pachycheilia,467
+acataphasia,acataphasie,467
+pathological state,pathologische toestand,467
+angina pectoris,angina pectoris,467
+oligospermia,oligospermie,467
+phenylketonuria,fenylketonurie,467
+vicar apostolic,apostolisch vicaris,467
+homogeny,homogeniteit,468
+atopognosia,atopognosie,468
+tactile property,tactiele eigenschap,468
+petechia,petechiën,468
+tangibility,tastbaarheid,468
+airworthiness,luchtwaardigheid,468
+Dutch elm disease,iepziekte,468
+achievability,haalbaarheid,468
+conveyer belt,transportband:,468
+fasciolopsiasis,fasciolopsie,468
+prismatoid,prismatoïde,469
+vascularity,vasculariteit,469
+animalism,dierlijkheid,469
+lysogeny,lysogenie,469
+razbliuto,razbliuto,469
+rowdiness,baldadigheid,469
+aberrance,afwijking,469
+irregularity,onregelmatigheid,469
+placenta previa,placenta previa,469
+fare-thee-well,tot ziens,469
+defensibility,weerbaarheid,470
+cleft palate,gespleten gehemelte,470
+scallop,sint-jakobsschelp,470
+acariasis,acariasis,470
+carbon monoxide poisoning,koolstofmonoxidevergiftiging,470
+monandry,monandrie,470
+eyestrain,vermoeide ogen,470
+convex polyhedron,convex veelvlak,470
+ungodliness,goddeloosheid,470
+misgiving,twijfelachtig,470
+metabolic acidosis,metabole acidose,471
+statesmanship,staatsmanschap,471
+hyperboloid,hyperboloïde,471
+cerebral aneurysm,cerebraal aneurysma,471
+premature ventricular contraction,premature ventriculaire contractie,471
+lysine intolerance,lysine-intolerantie,471
+lactose intolerance,lactose intolerantie,471
+rhinopathy,rhinopathie,471
+subordination,ondergeschiktheid,471
+spinal curvature,kromming van de wervelkolom,471
+Frankenstein,Frankenstein,472
+communicable disease,overdraagbare ziekte,472
+preexistence,voorbestaan,472
+sunniness,zonneschijn,472
+inverted pleat,omgekeerde plooi,472
+congeniality,gemoedelijkheid,472
+sunburst pleat,zonnestraalplooi,472
+cryesthesia,cryesthesie,472
+auditory aphasia,auditieve afasie,472
+conduction aphasia,geleidingsafasie,472
+carotenemia,carotenemie,473
+conductive hearing loss,conductief gehoorverlies,473
+carelessness,onzorgvuldigheid,473
+rheumatic fever,reumatische koorts,473
+alienage,vervreemding,473
+tympanites,tympanieten,473
+normal tension glaucoma,normale spanning glaucoom,473
+frontal eminence,frontale eminentie,473
+leisureliness,ontspanning,473
+mollification,vertedering,473
+ischemic stroke,ischemische beroerte,474
+indecision,besluiteloosheid,474
+Lassa fever,Lassakoorts,474
+elasticity of shear,elasticiteit van afschuiving:,474
+arrears,achterstallige betalingen,474
+knife-edge,messcherp,474
+borderline schizophrenia,borderline schizofrenie,474
+staginess,stagnatie,474
+fearlessness,onbevreesdheid,474
+thoughtfulness,bedachtzaamheid,474
+digestibility,verteerbaarheid,475
+personhood,persoonlijkheid,475
+psychotic depression,psychotische depressie,475
+autoimmunity,auto-immuniteit,475
+peculiarity,eigenaardigheid,475
+venereal disease,geslachtsziekte,475
+secureness,veiligheid,475
+subdeacon,subdiaken,475
+deviated septum,afwijkend septum,475
+endlessness,oneindigheid,475
+common denominator,gemeenschappelijke noemer,476
+Wahhabism,wahabisme,476
+atrial fibrillation,atriale fibrillatie,476
+cyanide poisoning,cyanide vergiftiging,476
+cholelithiasis,cholelithiasis,476
+alkali poisoning,alkali vergiftiging,476
+singleness,vrijgezel zijn,476
+self-government,zelfbestuur,476
+mental soundness,mentale gezondheid,476
+immaturity,onvolwassenheid,476
+immunosuppression,immunosuppressie,477
+crevasse,gletsjerspleet,477
+gastroenteritis,gastro-enteritis,477
+worthlessness,waardeloosheid,477
+condescension,neerbuigendheid,477
+xenophobia,vreemdelingenhaat,477
+senile dementia,seniele dementie,477
+severe combined immunodeficiency,ernstige gecombineerde immunodeficiëntie,477
+inhomogeneity,inhomogeniteit,477
+explicitness,explicietheid,477
+adaptability,aanpassingsvermogen,478
+invariance,onveranderlijkheid,478
+resourcefulness,vindingrijkheid,478
+expedience,opportuniteit,478
+relativistic mass,relativistische massa,478
+rectangularity,rechthoekig,478
+instrumentality,instrumentaliteit,478
+bloat,opgeblazen gevoel,478
+indisposition,ongesteldheid,478
+ordinariness,alledaagsheid,478
+dangerousness,gevaarlijkheid,479
+iron-grey,ijzergrijs,479
+subservience,onderdanigheid,479
+flamboyance,uitbundigheid,479
+ophthalmoplegia,oftalmoplegie,479
+subjectivism,subjectivisme,479
+mesalliance,mesalliance,479
+impulsiveness,impulsiviteit,479
+emotional arousal,emotionele opwinding,479
+insincerity,onoprechtheid,479
+ineffectiveness,ineffectiviteit,480
+meekness,zachtmoedigheid,480
+pudendal block,pudendal blok,480
+unpopularity,Impopulariteit,480
+licentiousness,losbandigheid,480
+inferiority,minderwaardigheid,480
+echinococcosis,echinokokkose,480
+abstractedness,abstractie,480
+schistosomiasis,schistosomiasis,480
+patchiness,vlekkerigheid,480
+habitability,bewoonbaarheid,481
+maleness,mannelijkheid,481
+unresponsiveness,niet reageren,481
+circulatory failure,circulatoire storing,481
+dermoid cyst,dermoid cyste,481
+marriageability,huwbaarheid,481
+levity,lichtzinnigheid,481
+companionability,gezelschap,481
+distinctness,onderscheiding,481
+excitability,prikkelbaarheid,481
+real McCoy,echte McCoy,482
+affectionateness,genegenheid,482
+evangelicalism,evangelicalisme,482
+longness,lang zijn,482
+indigence,behoeftigheid,482
+hirsuteness,behaardheid,482
+unconcern,onbezorgdheid,482
+suzerainty,suzereiniteit,482
+cellularity,cellulariteit,482
+demoralization,demoralisatie,482
+lipomatosis,lipomatose,483
+hemophilia A,hemofilie A,483
+ischemic hypoxia,ischemische hypoxie,483
+sponginess,sponzigheid,483
+ambiversion,ambiversie,483
+rustiness,roestigheid,483
+unworthiness,onwaardigheid,483
+respectability,respectabiliteit,483
+expectedness,verwachting,483
+irrationality,irrationaliteit,483
+effortfulness,inspanning,484
+inconsequence,als gevolg,484
+religiousness,religieusheid,484
+Krishnaism,Krishnaïsme,484
+windburn,windbranden,484
+intentionality,opzettelijkheid,484
+hepatomegaly,hepatomegalie,484
+concave polyhedron,concaaf veelvlak,484
+sessile polyp,sessiele poliep,484
+neediness,behoeftigheid,484
+unfitness,ongeschiktheid,485
+atypical pneumonia,atypische longontsteking,485
+pleasantness,aangenaamheid,485
+abdominal aortic aneurysm,buikslagaderaneurysma,485
+estivation,waardering,485
+congestive heart failure,congestief hartfalen,485
+bulimarexia,boulimarexia,485
+carpal tunnel syndrome,carpaal tunnel syndroom,485
+fibroid tumor,vleesboom tumor,485
+anorthopia,anorthopie,485
+pheochromocytoma,feochromocytoom,486
+sentimentality,sentimentaliteit,486
+disgruntlement,ongenoegen,486
+posteriority,nageslacht,486
+underdevelopment,in ontwikkeling,486
+refractory anemia,ongevoelige bloedarmoede,486
+conditionality,conditionaliteit,486
+leukoderma,leukoderma,486
+insignificance,onbeduidendheid,486
+chronic bronchitis,chronische bronchitis,486
+xanthosis,xanthosis,487
+hemeralopia,hemeralopie,487
+discourtesy,onbeleefdheid,487
+credulity,goedgelovigheid,487
+distal muscular dystrophy,distale spierdystrofie,487
+complacency,zelfgenoegzaamheid,487
+fieriness,vurigheid,487
+neurogenic bladder,neurogene blaas,487
+intelligibility,verstaanbaarheid,487
+contractility,contractiliteit,487
+circumspection,omzichtigheid,488
+manipulability,maakbaarheid,488
+superinfection,superinfectie,488
+naughtiness,ondeugendheid,488
+reproducibility,reproduceerbaarheid,488
+cor pulmonale,cor pulmonale,488
+incapacity,arbeidsongeschiktheid,488
+climacteric,climacterisch,488
+orthogonality,orthogonaliteit,488
+aphthous ulcer,afteuze zweer,488
+rurality,landelijkheid,489
+incivility,onbeleefdheid,489
+half-cock,halve haan,489
+listlessness,lusteloosheid,489
+inactiveness,inactiviteit,489
+inflexibility,inflexibiliteit,489
+ventricular aneurysm,ventriculair aneurysma,489
+lotusland,lotusland,489
+stationariness,stationair,489
+macular degeneration,maculaire degeneratie,489
+luxuriance,weelderigheid,490
+conventionality,conventioneel,490
+Buddhism,Boeddhisme,490
+daylight-saving time,zomertijd,490
+flashiness,flitsendheid,490
+osculation,osculatie,490
+regular hexagon,regelmatige zeshoek,490
+sphericity,bolvormigheid,490
+tallness,rijzigheid,490
+munificence,vrijgevigheid,490
+givenness,gegevenheid,491
+nyctophobia,nyctofobie,491
+polysomy,polysomie,491
+shabbiness,armoedigheid,491
+rhabdomyosarcoma,rabdomyosarcoom,491
+camelpox,kameelpokken,491
+unreality,onwerkelijkheid,491
+anhidrosis,anhidrose,491
+lymphadenopathy,lymfadenopathie,491
+hypocycloid,hypocycloïde,491
+dilatoriness,traagheid,492
+unpleasantness,onaangenaamheid,492
+sanguinity,bloedarmoede,492
+primary color for pigments,primaire kleur voor pigmenten,492
+bone spavin,bot spavin,492
+ignobleness,onnozelheid,492
+innateness,aangeboren,492
+embitterment,verbittering,492
+Indian red,Indiaas rood,492
+erythroderma,erytrodermie,492
+rancidness,ranzigheid,493
+distributive shock,distributieve schok,493
+endometrial carcinoma,endometriumcarcinoom,493
+balletomania,balletomanie,493
+asynclitism,asynclitisme,493
+hydrophobicity,hydrofobiciteit,493
+heedlessness,achteloosheid,493
+alopecia areata,alopecia areata,493
+infiniteness,oneindigheid,493
+biosafety level,bioveiligheidsniveau,493
+abocclusion,abocclusie,494
+Holy Order,Heilige Orde,494
+myelatelia,myelatelia,494
+unbecomingness,ongepastheid,494
+inwardness,innerlijkheid,494
+baronetcy,baronetschap,494
+hypocapnia,hypocapnie,494
+deservingness,verdienste,494
+neurofibromatosis,neurofibromatose,494
+dowdiness,sulligheid,494
+cattiness,kattigheid,495
+indispensability,onmisbaarheid,495
+fleshiness,vlezigheid,495
+asthenic type,asthenisch type,495
+navigability,bevaarbaarheid,495
+Methodism,Methodisme,495
+convulsion,stuiptrekkingen,495
+pyloric stenosis,pylorus stenose,495
+steadiness,standvastigheid,495
+eventration,eventratie,495
+indirectness,indirectheid,496
+degenerative disorder,degeneratieve stoornis,496
+astereognosis,astereognose,496
+pliability,plooibaarheid,496
+hematocele,hematocele,496
+despisal,verachting,496
+heartiness,hartelijkheid,496
+opportunistic infection,opportunistische infectie,496
+Hinduism,hindoeïsme,496
+Mithraism,Mithraïsme,496
+interstitial pneumonia,interstitiële pneumonie,497
+humaneness,menselijkheid,497
+Albigensianism,albigenzisme,497
+flightiness,vluchtigheid,497
+half-moon,halve Maan,497
+malevolence,kwaadaardigheid,497
+indecency,onfatsoenlijkheid,497
+faultlessness,foutloosheid,497
+stupefaction,verbijstering,497
+astraphobia,astrafobie,497
+immunogenicity,immunogeniciteit,498
+epidural anesthesia,epidurale anesthesie,498
+trickiness,listigheid,498
+schizothymia,schizothymie,498
+Unitarianism,unitarisme,498
+xanthomatosis,xanthomatose,498
+destructiveness,destructiviteit,498
+hemianopia,hemianopie,498
+sandiness,zanderigheid,498
+rheumatic heart disease,reumatische hartziekte,498
+bimetallism,bimetallisme,499
+pernicious anemia,pernicieuze anemie,499
+cardiac arrhythmia,hartritmestoornissen,499
+anoxic anoxia,anoxische anoxie,499
+coronary insufficiency,coronaire insufficiëntie,499
+cardiac tamponade,harttamponnade,499
+agitated depression,geagiteerde depressie,499
+Zeitgeist,tijdsgeest,499
+cacogenesis,cacogenese,499
+transient ischemic attack,tijdelijke ischemische aanval,499
+steadfastness,standvastigheid,500
+anemic anoxia,anemische anoxie,500
+coprolalia,coprolalia,500
+neuromuscular junction,neuromusculaire junctie,500
+macrocephaly,macrocefalie,500
+idiopathic disease,idiopathische ziekte,500
+sidereal month,siderische maand,500
+defenselessness,weerloosheid,500
+uncommonness,ongewoonheid,500
+ruddiness,rossigheid,500
+tortuosity,kronkeligheid,501
+self-love,zelfliefde,501
+deuteranopia,deuteranopie,501
+hemorrhagic cyst,hemorragische cyste,501
+eyesore,doorn in het oog,501
+shiftiness,wankelheid,501
+olfactory property,olfactorische eigenschap,501
+Pax Romana,Pax romana,501
+snag,addertje onder het gras,501
+tubal pregnancy,eileiders zwangerschap,501
+throe,worsteling,502
+imperativeness,imperatief,502
+disesteem,minachting,502
+bellicosity,oorlogszucht,502
+onchocerciasis,onchocerciasis,502
+wariness,behoedzaamheid,502
+emmetropia,emmetropia,502
+mandibular notch,onderkaak inkeping,502
+fruitfulness,vruchtbaarheid,502
+uricaciduria,uricacidurie,502
+directionality,directionaliteit,503
+blood spavin,bloed spavin,503
+myasthenia gravis,myasthenia gravis,503
+balkiness,baldadigheid,503
+Trinitarianism,trinitarisme,503
+ulteriority,bijbedoeling,503
+decorativeness,sierlijkheid,503
+immobility,onbeweeglijkheid,503
+conspicuousness,verdachtheid,503
+satyriasis,satyriasis,503
+allergic rhinitis,allergische rhinitis,504
+chubbiness,molligheid,504
+anemic hypoxia,anemische hypoxie,504
+invulnerability,onkwetsbaarheid,504
+encephalocele,encefalocele,504
+pinkroot,rozewortel,504
+macroglossia,macroglossia,504
+anorchism,anorchisme,504
+leiomyosarcoma,leiomyosarcoom,504
+forgetfulness,vergeetachtigheid,504
+demyelination,demyelinisatie,505
+matsyendra,matsyendra,505
+predomination,overheersing,505
+chronic obstructive pulmonary disease,chronische obstructieve longziekte,505
+algidity,algiditeit,505
+neurosarcoma,neurosarcoom,505
+hornet's nest,wespennest,505
+transferability,overdraagbaarheid,505
+caudal anesthesia,caudale anesthesie,505
+gourmandism,fijnproevers,505
+bloodiness,bloedigheid,506
+purposelessness,doelloosheid,506
+artificiality,kunstmatigheid,506
+magnetic declination,magnetische declinatie,506
+hemolytic anemia,hemolytische anemie,506
+hypersensitivity reaction,overgevoeligheidsreactie,506
+tactlessness,tactloosheid,506
+lupus erythematosus,lupus erythematosus,506
+global aphasia,wereldwijde afasie,506
+disequilibrium,onevenwichtigheid,506
+neoclassicism,neoclassicisme,507
+semitrance,halve trance,507
+hospitableness,gastvrijheid,507
+bloodlust,bloeddorstigheid,507
+chondrosarcoma,chondrosarcoom,507
+lymphocytic leukemia,lymfatische leukemie,507
+tractability,handelbaarheid,507
+nonconformity,non-conformiteit,507
+traditionalism,traditionalisme,507
+immunological disorder,immunologische stoornis,507
+veracity,waarheidsgetrouwheid,508
+gregariousness,gezelligheid,508
+hemorrhagic fever,Hemorragische koorts,508
+simultaneity,gelijktijdigheid,508
+pentahedron,vijfvlakkige,508
+selective amnesia,selectief geheugenverlies,508
+cyclothymia,cyclothymie,508
+workaholism,workaholisme,508
+inevitability,onvermijdelijkheid,508
+adorability,schattigheid,508
+scaliness,schraalheid,509
+practicability,uitvoerbaarheid,509
+crabbiness,kribbigheid,509
+neurotic depression,neurotische depressie,509
+foppishness,foppishness,509
+cryptic coloration,cryptische kleuring,509
+Arminianism,Arminianisme,509
+unhealthfulness,ongezondheid,509
+somatic delusion,somatische waanvoorstelling,509
+tetartanopia,tetartanopie,509
+serial monogamy,seriële monogamie,510
+ventricular fibrillation,ventriculaire fibrillatie,510
+delusions of persecution,waanideeën van vervolging,510
+polyhedral angle,veelvlakkige hoek,510
+mezzo-relievo,mezzo-reliëf,510
+executive clemency,uitvoerende clementie,510
+intracranial aneurysm,intracranieel aneurysma,510
+delusions of grandeur,waanideeën van grootsheid,510
+hydramnios,hydramnio's,510
+brushwork,penseelvoering,510
+agranulocytosis,agranulocytose,511
+insurability,verzekerbaarheid,511
+glomerulonephritis,glomerulonefritis,511
+fastidiousness,kieskeurigheid,511
+conformational entropy,conformationele entropie,511
+troublesomeness,moeilijkheid,511
+unceremoniousness,onoprechtheid,511
+unsuitability,ongeschiktheid,511
+animality,dierlijkheid,511
+triplicity,tripliciteit,511
+ubiquity,alomtegenwoordigheid,512
+Dunkirk,Duinkerken,512
+taxability,belastbaarheid,512
+keratoderma,keratodermie,512
+goldbrick,goud steen,512
+convertibility,convertibiliteit,512
+pneumocytosis,pneumocytose,512
+grotesqueness,groteskheid,512
+affirmativeness,bevestiging,512
+archpriest,aartspriester,512
+chromosomal aberration,chromosomale aberratie,513
+hemophilia B,hemofilie B,513
+nitrogen narcosis,stikstofnarcose,513
+emotionality,emotionaliteit,513
+countercheck,tegencontrole,513
+fibrous dysplasia of bone,fibreuze dysplasie van bot,513
+achondroplasia,achondroplasie,513
+evenness,gelijkmatigheid,513
+disease of the neuromuscular junction,ziekte van de neuromusculaire junctie,513
+pneumococcal pneumonia,pneumokokkenpneumonie,513
+glenoid fossa,glenoïde fossa,514
+Anglophilia,Anglofilie,514
+ambulant plague,ambulante pest,514
+Black Death,Zwarte Dood,514
+hemorrhagic stroke,hemorragische beroerte,514
+atopic dermatitis,atopische dermatitis,514
+filial love,kinderlijke liefde,514
+Catholicism,katholicisme,514
+polyvalence,polyvalentie,514
+Vaishnavism,Vaishnavisme,514
+truthfulness,waarheidsgetrouwheid,515
+perdurability,duurzaamheid,515
+transient global amnesia,voorbijgaande globaal geheugenverlies,515
+adeptness,bedrevenheid,515
+constructiveness,constructief,515
+contentedness,tevredenheid,515
+hypoxic hypoxia,hypoxische hypoxie,515
+regular tetrahedron,regelmatige tetraëder,515
+femaleness,vrouwelijkheid,515
+commonality,gemeenschappelijkheid,515
+lovingness,liefdevolheid,516
+epicurism,epicurisme,516
+cancroid,huidkanker,516
+hallucinosis,hallucinose,516
+retrograde amnesia,retrograde geheugenverlies,516
+keratonosis,keratonose,516
+Pacific Time,Pacific tijd,516
+pettiness,kleinzieligheid,516
+murderousness,moordzucht,516
+sinuosity,kronkeligheid,516
+abarticulation,abarticulatie,517
+criminalism,criminalisme,517
+biodegradable pollution,biologisch afbreekbare vervuiling,517
+honorableness,eerbaarheid,517
+protective coloration,beschermende kleuring,517
+starvation acidosis,uithongering acidose,517
+garishness,opzichtigheid,517
+respiratory acidosis,respiratoire acidose,517
+enteroptosis,enteroptose,517
+metrorrhagia,metrorragie,517
+inconsideration,in overweging,518
+manfulness,mannelijkheid,518
+arteriectasis,arteriëctasie,518
+inanity,krankzinnigheid,518
+dolefulness,somberheid,518
+Vandyke brown,Vandyke bruin,518
+diabetic retinopathy,diabetische retinopathie,518
+overemphasis,te veel nadruk,518
+acute schizophrenic episode,acute schizofrene episode,518
+inadvisability,af te raden,518
+sensuousness,zinnelijkheid,519
+acantholysis,acantholyse,519
+federalization,federalisering,519
+combustibility,brandbaarheid,519
+insensibility,ongevoeligheid,519
+obliqueness,scheefheid,519
+crow's foot,kraaienpootje,519
+plagiocephaly,plagiocefalie,519
+smugness,zelfvoldaanheid,519
+shamefacedness,beschaamdheid,519
+benign prostatic hyperplasia,goedaardige prostaathyperplasie,520
+prosiness,welvarendheid,520
+heartlessness,harteloosheid,520
+Tyrian purple,Tyrisch paars,520
+old-fashionedness,ouderwetsheid,520
+perpendicularity,loodrechtheid,520
+waxiness,wasachtigheid,520
+expertness,deskundigheid,520
+factuality,feitelijkheid,520
+anthracosis,anthracose,520
+atrial septal defect,atriaal septumdefect,521
+possessiveness,bezitterigheid,521
+impermanence,vergankelijkheid,521
+mitral valve prolapse,mitralisklep prolaps,521
+bewitchery,betovering,521
+unpredictability,onvoorspelbaarheid,521
+outrageousness,schandaligheid,521
+brashness,onbezonnenheid,521
+flaccid paralysis,slappe verlamming,521
+deification,vergoddelijking,521
+antisocial personality disorder,antisociale persoonlijkheids stoornis,522
+submissiveness,onderdanigheid,522
+osteodystrophy,osteodystrofie,522
+traumatophobia,traumatofobie,522
+discontentment,ontevredenheid,522
+brutalization,brutalisering,522
+venality,omkoopbaarheid,522
+tapeworm infection,lintworm infectie,522
+anisometropia,anisometropie,522
+refractivity,refractiviteit,522
+orthochorea,orthochorea,523
+homeliness,huiselijkheid,523
+hepatitis A,Hepatitis A,523
+achlorhydria,achloorhydrie,523
+tumescence,tumescentie,523
+nephrolithiasis,nefrolithiasis,523
+perceptiveness,opmerkzaamheid,523
+benignity,goedaardigheid,523
+infeasibility,onhaalbaarheid,523
+inanimateness,levenloosheid,523
+inelasticity,inelasticiteit,524
+Ewing's sarcoma,Ewing-sarcoom,524
+polycystic kidney disease,polycysteuze nierziekte,524
+numerousness,talrijkheid,524
+time immemorial,onheuglijke tijden,524
+colpoxerosis,colpoxerose,524
+impertinence,onbeschaamdheid,524
+cerebrospinal meningitis,cerebrospinale meningitis,524
+creditworthiness,kredietwaardigheid,524
+rhombohedron,rhomboëder,524
+reentrant angle,inspringende hoek,525
+trueness,waarachtigheid,525
+acute lymphocytic leukemia,acute lymfatische leukemie,525
+downrightness,oprechtheid,525
+ectopic pregnancy,buitenbaarmoederlijke zwangerschap,525
+pityriasis alba,pityriasis alba,525
+unexpectedness,onverwachtheid,525
+compressibility,samendrukbaarheid,525
+avitaminosis,avitaminose,525
+ureterocele,ureterocele,525
+technophilia,technofilie,526
+shoddiness,slordigheid,526
+roadworthiness,rijvaardigheid,526
+favorableness,gunstigheid,526
+occidentalism,occidentalisme,526
+figural blindness,figuurlijke blindheid,526
+Christianity,Christendom,526
+productiveness,productiviteit,526
+anxiousness,angstgevoelens,526
+semidarkness,halfduister,526
+satanophobia,satanofobie,527
+childlessness,kinderloosheid,527
+xanthelasma,xanthelasma,527
+indigenousness,inheemsheid,527
+cystoplegia,cystoplegie,527
+macrocytosis,macrocytose,527
+autosomal dominant disease,autosomaal dominante ziekte,527
+disparateness,ongelijkheid,527
+comicality,komischheid,527
+visual hallucination,visuele hallucinatie,527
+intractability,onhandelbaarheid,528
+villeinage,dorpsgenoot,528
+priggishness,eigenwijsheid,528
+airsickness,luchtziekte,528
+gawkiness,ondeugendheid,528
+carefreeness,zorgeloosheid,528
+permissiveness,toegeeflijkheid,528
+glossoptosis,glossoptosis,528
+absorbency,absorptievermogen,528
+autosomal recessive disease,autosomaal recessieve ziekte,528
+aldosteronism,aldosteronisme,529
+vermiculation,vermiculatie,529
+idiosyncrasy,eigenaardigheid,529
+unassertiveness,assertiviteit,529
+intrusiveness,opdringerigheid,529
+torridity,verzengendheid,529
+irreversibility,onomkeerbaarheid,529
+chronic lymphocytic leukemia,chronische lymfatische leukemie,529
+facetiousness,grappenmakerij,529
+Hasidism,chassidisme,529
+Eastern Time,Oosterse tijd,530
+hereditary cerebellar ataxia,erfelijke cerebellaire ataxie,530
+transience,vergankelijkheid,530
+post-maturity,post-maturity,530
+jaggedness,gekarteldheid,530
+improvidence,zorgeloosheid,530
+bipedalism,tweevoetigheid,530
+electrosleep,elektroslaap,530
+lambdacism,lambdacisme,530
+relapsing fever,terugkerende koorts,530
+regular polyhedron,regelmatige veelvlak,531
+palatine raphe,palatijnse raphe,531
+dishonorableness,oneerlijkheid,531
+groundlessness,ongegrondheid,531
+gaseousness,gasachtigheid,531
+permissibility,toelaatbaarheid,531
+alveolar resorption,alveolaire resorptie,531
+separateness,afgescheidenheid,531
+valvular heart disease,hartklepaandoening,531
+seaworthiness,zeewaardigheid,531
+osteosclerosis,osteosclerose,532
+harmfulness,schadelijkheid,532
+mendacity,leugenachtigheid,532
+inaptness,onbekwaamheid,532
+impetuousness,onstuimigheid,532
+shallowness,oppervlakkigheid,532
+kindliness,vriendelijkheid,532
+intervertebral disc,tussenwervelschijf,532
+callowness,ongevoeligheid,532
+clinodactyly,clinodactylie,532
+inferiority complex,minderwaardigheidscomplex,533
+demineralization,demineralisatie,533
+sandfly fever,zandvliegkoorts,533
+winsomeness,lieftalligheid,533
+oxblood red,ossenbloed rood,533
+dejection,neerslachtigheid,533
+anaplasmosis,anaplasmose,533
+approachability,benaderbaarheid,533
+steatopygia,steatopygie,533
+asininity,stompzinnigheid,533
+knight errantry,dolende ridder,534
+hyperpigmentation,hyperpigmentatie,534
+intravasation,intravasatie,534
+pinealoma,pijnappelklier,534
+nativeness,inheemsheid,534
+unrestraint,ongeremdheid,534
+diverseness,diversiteit,534
+curvaceousness,gewelfdheid,534
+unpalatability,onsmakelijk,534
+ischemic anoxia,ischemische anoxie,534
+continuousness,continuïteit,535
+muscular tonus,gespierde tonus,535
+malignity,kwaadaardigheid,535
+cardiogenic shock,cardiogene shock,535
+slatternliness,slaperigheid,535
+lymphogranuloma,lymfogranuloom,535
+tweediness,tweedigheid,535
+deaf-mutism,doofmutisme,535
+preciseness,nauwkeurigheid,535
+entomophobia,entomofobie,535
+unknowingness,onwetendheid,536
+hyperparathyroidism,hyperparathyreoïdie,536
+hepatitis C,hepatitis C,536
+brow ptosis,wenkbrauw ptosis,536
+salicylate poisoning,salicylaatvergiftiging,536
+keratectasia,keratectasie,536
+prickliness,stekeligheid,536
+hiddenness,verborgenheid,536
+photogenic epilepsy,fotogenieke epilepsie,536
+bulkiness,omvangrijkheid,536
+cutaneous leishmaniasis,cutane leishmaniasis,537
+insalubrity,ongezondheid,537
+dextrocardia,dextrocardie,537
+progressive vaccinia,progressieve vaccinia,537
+equivocation,dubbelzinnigheid,537
+gastroesophageal reflux,gastro-oesofageale reflux,537
+cyclic neutropenia,cyclische neutropenie,537
+compartmentalization,compartimentering,537
+actinic dermatitis,actinische dermatitis,537
+unsanitariness,onhygiënisch,537
+vacuolization,vacuolisatie,538
+visual agnosia,visuele agnosie,538
+naphthalene poisoning,naftaleenvergiftiging,538
+elephantiasis,olifantenziekte,538
+forlornness,verlatenheid,538
+auditory hallucination,auditieve hallucinatie,538
+metastability,metastabiliteit,538
+foaminess,schuimigheid,538
+Americanism,Amerikanisme,538
+receivership,surseance van betaling,538
+fusarium wilt,fusarium verwelkingsziekte,539
+streptococcal sore throat,streptokokken zere keel,539
+superficiality,oppervlakkigheid,539
+narcissistic personality,narcistische persoonlijkheid,539
+dissociative disorder,Dissociatieve stoornis,539
+systemic lupus erythematosus,systemische lupus erythematodes,539
+mutability,veranderlijkheid,539
+arability,bebouwbaarheid,539
+Turkey red,Turkije rood,539
+maladjustment,onaangepastheid,539
+paltriness,armzaligheid,540
+strawberry hemangioma,aardbei hemangioom,540
+carefulness,voorzichtigheid,540
+pentecostalism,pinksterbeweging,540
+unrighteousness,onrechtvaardigheid,540
+high-spiritedness,opgewektheid,540
+adenomegaly,adenomegalie,540
+agreeableness,vriendelijkheid,540
+inelegance,onbevalligheid,540
+Lutheranism,lutheranisme,540
+fistulous withers,vuisten schoft,541
+unipolar depression,unipolaire depressie,541
+incoherence,onsamenhangendheid,541
+diabetes insipidus,diabetes insipidus,541
+risklessness,risicoloosheid,541
+wholeheartedness,oprechtheid,541
+ornateness,versierdheid,541
+boastfulness,opschepperij,541
+essential thrombocytopenia,essentiële trombocytopenie,541
+penuriousness,armoedigheid,541
+ventricular septal defect,defect in het ventriculaire septum,542
+pharyngeal recess,faryngeale uitsparing,542
+hyperacidity,hyperaciditeit,542
+affability,vriendelijkheid,542
+ostentation,uiterlijk vertoon,542
+achromatic color,achromatische kleur,542
+hypervolemia,hypervolemie,542
+bumpiness,hobbeligheid,542
+staphylococcal infection,stafylokokken infectie,542
+unorthodoxy,onorthodoxie,542
+tardive dyskinesia,tardieve dyskinesie,543
+wiggliness,wiebeligheid,543
+discomposure,ontsteltenis,543
+trichuriasis,trichuriasis,543
+erythema multiforme,erythema multiforme,543
+abashment,verlegenheid,543
+inaccessibility,ontoegankelijkheid,543
+voicelessness,stemloosheid,543
+cylindricality,cilindriteit,543
+subnormality,subnormaliteit,543
+imminence,op handen zijnde,544
+self-control,zelfbeheersing,544
+elaborateness,uitgebreidheid,544
+extraordinariness,buitengewoon,544
+demureness,ingetogenheid,544
+malathion poisoning,malathionvergiftiging,544
+averageness,gemiddeldheid,544
+brachycephaly,brachycefalie,544
+sensibleness,verstandigheid,544
+visceral leishmaniasis,viscerale leishmaniasis,544
+malignant hyperthermia,kwaadaardige hyperthermie,545
+depersonalization,depersonalisatie,545
+pulchritude,heerlijkheid,545
+deviated nasal septum,afgeweken neustussenschot,545
+fleetness,vluchtigheid,545
+enterobiasis,enterobiasis,545
+oblateness,afgeplatheid,545
+actinic keratosis,actinische keratose,545
+abstemiousness,ingetogenheid,545
+pityriasis rosea,pityriasis rosea,545
+lastingness,duurzaamheid,546
+bumptiousness,hobbeligheid,546
+weepiness,huilerigheid,546
+unholiness,onheiligheid,546
+psychosomatic disorder,psychosomatische stoornis,546
+anaphylactic shock,anafylactische shock,546
+Tuscan order,Toscaanse orde,546
+gracelessness,genadeloosheid,546
+lymphoblastic leukemia,lymfoblastische leukemie,546
+satisfactoriness,tevredenheid,546
+subarachnoid space,subarachnoïdale ruimte,547
+mushiness,papperigheid,547
+sideropenia,sideropenie,547
+aloofness,afstandelijkheid,547
+breeziness,luchtigheid,547
+concentricity,concentriciteit,547
+hyalinization,hyalinisatie,547
+unwholesomeness,onheilzaamheid,547
+fingermark,vingerafdruk,547
+bovine spongiform encephalitis,boviene spongiforme encefalitis,547
+adenomatous polyp,adenomateuze poliep,548
+pervasiveness,alomtegenwoordigheid,548
+speech intelligibility,spraakverstaanbaarheid,548
+normothermia,normothermie,548
+hypertrophic cardiomyopathy,hypertrofische cardiomyopathie,548
+agelessness,tijdloosheid,548
+unfavorableness,ongunstigheid,548
+amorousness,verliefdheid,548
+acute pyelonephritis,acute pyelonefritis,548
+lobularity,lobulariteit,548
+barrenness,onvruchtbaarheid,549
+archidiaconate,archidiaconaat,549
+rhabdomyoma,rhabdomyoma,549
+sapidity,goede smaak,549
+hematocolpos,hematocolpos,549
+mastopathy,mastopathie,549
+bottomlessness,bodemloosheid,549
+urinary hesitancy,urinaire aarzeling,549
+psoriatic arthritis,psoriatische arthritis,549
+cryptobiosis,cryptobiose,549
+macrencephaly,macrencefalie,550
+ulemorrhagia,ulemorragie,550
+irresponsibility,onverantwoordelijkheid,550
+laryngostenosis,laryngostenose,550
+God's Wisdom,Gods wijsheid,550
+indomitability,ontembaarheid,550
+megalomania,grootheidswaanzin,550
+quadrantanopia,kwadrantanopie,550
+erythema nodosum,erythema nodosum,550
+thriftlessness,spaarzaamheid,550
+nephrosclerosis,nefrosclerose,551
+Central Time,Centrale Tijd,551
+partialness,partijdigheid,551
+raison d'etre,bestaansreden,551
+spondylolisthesis,spondylolisthesis,551
+cuckoldom,hoorndrager,551
+saccharinity,sachariniteit,551
+transsexualism,transseksualiteit,551
+comprehensibility,begrijpelijkheid,551
+momentousness,gewichtigheid,551
+self-torture,zelfkwelling,552
+automysophobia,automysofobie,552
+shapelessness,vormeloosheid,552
+paraquat poisoning,paraquatvergiftiging,552
+opportuneness,opportuniteit,552
+ectrodactyly,ectrodactylie,552
+nanophthalmos,nanophthalmus,552
+boisterousness,onstuimigheid,552
+expansiveness,uitgestrektheid,552
+persuasiveness,overredingskracht,552
+indiscipline,ongedisciplineerd,553
+rhinostenosis,rhinostenose,553
+psychomotor epilepsy,psychomotorische epilepsie,553
+jauntiness,opgewektheid,553
+alkaptonuria,alkaptonurie,553
+totipotency,totipotentie,553
+eyelessness,oogloosheid,553
+delirium tremens,delirium tremens,553
+spinnbarkeit,spinnbarkeit,553
+Manichaeism,manicheïsme,553
+enchondroma,enchondroom,554
+amyotrophic lateral sclerosis,amyotrofische laterale sclerose,554
+warmheartedness,hartelijkheid,554
+outwardness,uiterlijkheid,554
+hermaphroditism,hermafroditisme,554
+metabolic alkalosis,metabole alkalose,554
+posttraumatic epilepsy,posttraumatische epilepsie,554
+ankylosing spondylitis,spondylitis ankylopoetica,554
+erythroblastosis,erythroblastose,554
+disrepute,in diskrediet brengen,554
+ecclesiasticism,kerkelijkheid,555
+epispadias,epispadia's,555
+inborn error of metabolism,aangeboren stofwisselingsziekte,555
+melanoderma,melanoderma,555
+obviousness,vanzelfsprekendheid,555
+reentrant polygon,terugkerende veelhoek,555
+pensiveness,nadenkendheid,555
+durance,uithoudingsvermogen,555
+myoclonus epilepsy,myoclonus epilepsie,555
+skittishness,schichtigheid,555
+hyperpyrexia,hyperpyrexie,556
+self-hypnosis,zelfhypnose,556
+disgustingness,walgelijkheid,556
+sentimentalism,sentimentalisme,556
+unpointedness,onpuntigheid,556
+predestinarianism,predestinatie,556
+quadrangular prism,vierhoekig prisma,556
+cataphatism,kataphatisme,556
+illuminance,verlichtingssterkte,556
+world-weariness,wereldmoeheid,556
+inattentiveness,onoplettendheid,557
+cholera infantum,cholera infantum,557
+photoretinitis,fotoretinitis,557
+infectious mononucleosis,infectieuze mononucleosis,557
+galactocele,galactocele,557
+immoderation,overmatigheid,557
+sedateness,bezadigdheid,557
+chirpiness,vrolijkheid,557
+elusiveness,ongrijpbaarheid,557
+implicitness,implicietheid,557
+amicability,vriendschap,558
+metamorphopsia,metamorfopsie,558
+translucence,doorschijnendheid,558
+hairlessness,haarloosheid,558
+inopportuneness,ongelegenheid,558
+equilateral triangle,gelijkzijdige driehoek,558
+decisiveness,besluitvaardigheid,558
+quaintness,eigenaardigheid,558
+Four Horsemen,Vier ruiters,558
+bendability,buigbaarheid,558
+pertness,eigenwijsheid,559
+unlikeness,ongelijkheid,559
+unambiguity,eenduidigheid,559
+verisimilitude,waarschijnlijkheid,559
+status epilepticus,status epilepticus,559
+monogenic disorder,monogene stoornis,559
+receptiveness,ontvankelijkheid,559
+bog spavin,moeras spavin,559
+holy of holies,heilige der heiligen,559
+hemorrhagic septicemia,hemorragische septikemie,559
+edginess,scherpzinnigheid,560
+tailspin,neerwaartse spiraal,560
+allegro con spirito,allegro con spirito,560
+furunculosis,furunculosis,560
+unselfishness,onzelfzuchtigheid,560
+childishness,kinderachtigheid,560
+monorchism,monarchisme,560
+self-disgust,zelfafschuw,560
+acquired hemochromatosis,verworven hemochromatose,560
+posttraumatic stress disorder,post-traumatische stress-stoornis,560
+erectness,oprechtheid,561
+blood extravasation,bloed extravasatie,561
+classic hemochromatosis,klassieke hemochromatose,561
+lymphadenoma,lymfadenoom,561
+rakishness,losbandigheid,561
+familial hypercholesterolemia,familiale hypercholesterolemie,561
+ailurophobia,ailurofobie,561
+purulent pleurisy,etterende pleuritis,561
+indecisiveness,besluiteloosheid,561
+aplastic anemia,aplastische bloedarmoede,561
+puerperal fever,kraamvrouwenkoorts,562
+savoir-faire,savoir-faire,562
+valvular incompetence,valvulaire incompetentie,562
+misalliance,mesalliance,562
+curate cycloid,curate cycloïde,562
+flippancy,luchthartigheid,562
+vitalization,vitalisering,562
+dankness,dankbaarheid,562
+parathion poisoning,parathion vergiftiging,562
+handedness,links-of rechtshandig zijn,562
+spinnability,spinbaarheid,563
+justness,rechtvaardigheid,563
+tattletale grey,tattletale grijs,563
+papal infallibility,pauselijke onfeilbaarheid,563
+asperity,scherpzinnigheid,563
+undesirability,onwenselijkheid,563
+acromyotonia,acromyotonie,563
+choriomeningitis,choriomeningitis,563
+Zoroastrianism,zoroastrisme,563
+embryonal carcinoma,embryonaal carcinoom,563
+suggestibility,Suggestibiliteit,564
+rhinosporidiosis,rhinosporidiose,564
+purposefulness,doelgerichtheid,564
+seborrheic dermatitis,seborrheic dermatitis,564
+obtuseness,stompzinnigheid,564
+imprudence,onvoorzichtigheid,564
+analbuminemia,analbuminemie,564
+pliancy,meegaandheid,564
+isosceles triangle,gelijkbenige driehoek,564
+microbrachia,microbrachia,564
+resoluteness,vastberadenheid,565
+inefficacy,ineffectiviteit,565
+laboriousness,omslachtigheid,565
+polygenic disorder,polygene stoornis,565
+subconsciousness,onderbewustzijn,565
+clinocephaly,clinocefalie,565
+depigmentation,depigmentatie,565
+verticilliosis,verticilliose,565
+defectiveness,gebrekkigheid,565
+Wilms' tumor,Wilms' tumor,565
+perspicuity,doorzichtigheid,566
+doggedness,vasthoudendheid,566
+conceivableness,voorstelbaar,566
+abrasiveness,abrasiviteit,566
+immutability,onveranderlijkheid,566
+keratosis pilaris,keratosis pilaris,566
+hepatitis B,hepatitis B,566
+bronchopneumonia,bronchopneumonie,566
+unappetizingness,onsmakelijk,566
+unkindness,onvriendelijkheid,566
+insolubility,onoplosbaarheid,567
+auditory agnosia,auditieve agnosie,567
+pleuropneumonia,pleuropneumonie,567
+electronegativity,elektronegativiteit,567
+unfeelingness,gevoelloosheid,567
+Star of David,Ster van David,567
+rhinotracheitis,rhinotracheïtis,567
+improbability,onwaarschijnlijkheid,567
+amenability,ontvankelijkheid,567
+cephalhematoma,cephalhematoom,567
+paramountcy,opperste plaats,568
+womanliness,vrouwelijkheid,568
+personableness,persoonlijkheid,568
+ungraciousness,onhoffelijkheid,568
+relentlessness,meedogenloosheid,568
+coyness,terughoudendheid,568
+myelomeningocele,myelomeningocele,568
+seborrheic keratosis,seborrheische keratose,568
+curability,geneesbaarheid,568
+pediculosis pubis,pediculosis pubis,568
+incaution,voorzichtigheid,569
+unmalleability,maakbaarheid,569
+maleficence,kwaadaardigheid,569
+hyperbilirubinemia,hyperbilirubinemie,569
+spondylarthritis,spondylartritis,569
+insubstantiality,onbeduidendheid,569
+obsoleteness,achterhaaldheid,569
+viscountcy,burggraafschap,569
+prognathism,prognathisme,569
+indistinctness,onduidelijkheid,569
+shamelessness,schaamteloosheid,570
+intermittent claudication,claudicatio intermittens,570
+chronic pyelonephritis,chronische pyelonefritis,570
+snootiness,verwaandheid,570
+comity of nations,hoffelijkheid van naties,570
+salubrity,gezond verstand,570
+inexpedience,onraadzaamheid,570
+regular octahedron,regelmatige octaëder,570
+Kawasaki disease,Kawasaki ziekte,570
+rockiness,rotsachtigheid,570
+ubiety,verblijfplaats,571
+suavity,vriendelijkheid,571
+deceptiveness,bedrieglijkheid,571
+prankishness,grappenmakerij,571
+alveolar rhabdomyosarcoma,alveolair rabdomyosarcoom,571
+nefariousness,boosaardigheid,571
+unbreakableness,onbreekbaarheid,571
+by-and-by,door-en-door,571
+awfulness,verschrikkelijkheid,571
+Anglicanism,anglicanisme,571
+orthostatic hypotension,orthostatische hypotensie,572
+jitteriness,zenuwachtigheid,572
+vicissitude,wisselvalligheid,572
+inhumaneness,onmenselijkheid,572
+irascibility,opvliegendheid,572
+central scotoma,centraal scotoom,572
+choreic abasia,choreic abasia,572
+immovability,onroerend goed,572
+Tractarianism,Tractarianisme,572
+knowledgeability,kennisvermogen,572
+artfulness,kunstzinnigheid,573
+unlawfulness,onrechtmatigheid,573
+bigheartedness,grootmoedigheid,573
+catarrhal fever,catarrale koorts,573
+Olympian Zeus,Olympische Zeus,573
+atrioventricular nodal rhythm,atrioventriculair nodaal ritme,573
+mark of Cain,teken van Kaïn,573
+immodesty,onbescheidenheid,573
+nihilistic delusion,nihilistische waanvoorstelling,573
+nutritiousness,voedzaamheid,573
+unsociability,ongezelligheid,574
+unthoughtfulness,onnadenkendheid,574
+unsoundness,ondeugdelijkheid,574
+nonuniformity,niet-uniformiteit,574
+furtiveness,heimelijkheid,574
+overanxiety,overbezorgdheid,574
+spermatocele,spermatocele,574
+impecuniousness,onbemiddeldheid,574
+leptomeningitis,leptomeningitis,574
+illiberality,onliberaliteit,574
+homecourt advantage,thuisvoordeel,575
+monocytic leukemia,monocytische leukemie,575
+Legionnaires' disease,Veteranenziekte,575
+lecherousness,wellustigheid,575
+immateriality,immaterialiteit,575
+impressiveness,indrukwekkendheid,575
+diminutiveness,verkleinwoord,575
+thrombocytopenic purpura,trombocytopenische purpura,575
+male hypogonadism,mannelijk hypogonadisme,575
+inadmissibility,niet-ontvankelijkheid,575
+dispassion,onverschilligheid,576
+regular dodecahedron,regelmatige dodecaëder,576
+impracticability,onuitvoerbaarheid,576
+primary subtractive color for light,primaire subtractieve kleur voor licht,576
+sacrilegiousness,heiligschennis,576
+meningoencephalitis,meningo-encefalitis,576
+trophoblastic cancer,trofoblastische kanker,576
+determinateness,vastberadenheid,576
+self-consciousness,zelfbewustzijn,576
+breakableness,breekbaarheid,576
+rusticity,landelijkheid,577
+bookishness,boekenwijsheid,577
+scrupulousness,nauwgezetheid,577
+invalidism,invaliditeit,577
+lovesickness,liefdesverdriet,577
+catatonic schizophrenia,catatonische schizofrenie,577
+credulousness,goedgelovigheid,577
+discursiveness,discursiviteit,577
+pullorum disease,pullorum ziekte,577
+obliviousness,vergeetachtigheid,577
+unsolvability,onoplosbaarheid,578
+prolate cycloid,prolate cycloïde,578
+garrulity,praatachtigheid,578
+osteogenesis imperfecta,osteogenesis imperfecta,578
+myotonic muscular dystrophy,myotone spierdystrofie,578
+astringency,samentrekkendheid,578
+heteroploidy,heteroploïdie,578
+nonspecific urethritis,niet-specifieke urethritis,578
+contemporaneity,gelijktijdigheid,578
+hideousness,afzichtelijkheid,578
+hypoparathyroidism,hypoparathyreoïdie,579
+snowblindness,sneeuwblindheid,579
+comminuted fracture,verbrijzelde breuk,579
+passbook savings account,bankboekje spaarrekening,579
+unhelpfulness,nutteloosheid,579
+parallelepiped,parallellepipedum,579
+valuelessness,waardeloosheid,579
+regular icosahedron,regelmatige icosaëder,579
+brachydactyly,brachydactylie,579
+Oedipus complex,Oedipus complex,579
+speculativeness,speculativiteit,580
+respiratory alkalosis,respiratoire alkalose,580
+executability,uitvoerbaarheid,580
+absorptivity,absorptievermogen,580
+unpleasingness,onaangenaamheid,580
+offensiveness,aanstootgevendheid,580
+single-mindedness,vastberadenheid,580
+speciousness,ruimdenkendheid,580
+afibrinogenemia,afibrinogenemie,580
+effusiveness,uitbundigheid,580
+high-mindedness,hooghartigheid,581
+beastliness,beestachtigheid,581
+thievishness,diefachtigheid,581
+analyticity,analytisch vermogen,581
+graduality,geleidelijkheid,581
+anterograde amnesia,anterograde amnesie,581
+crumbliness,brokkeligheid,581
+unconscientiousness,gewetenloosheid,581
+hypervitaminosis,hypervitaminose,581
+spinsterhood,oude vrijster,581
+hatefulness,haatdragendheid,582
+curliness,krullerigheid,582
+inhospitableness,ongastvrijheid,582
+kindheartedness,goedhartigheid,582
+profaneness,godslastering,582
+fibrocystic breast disease,fibrocystische borstziekte,582
+asexuality,aseksualiteit,582
+sensorineural hearing loss,Sensorineuraal gehoorverlies,582
+embryonal rhabdomyosarcoma,embryonaal rabdomyosarcoom,582
+lankiness,slungeligheid,582
+oligodactyly,oligodactylie,583
+agammaglobulinemia,agammaglobulinemie,583
+bedsore,doorligwonden,583
+obsequiousness,onderdanigheid,583
+Cupid's bow,Cupido's boog,583
+cogency,overtuigingskracht,583
+dactylomegaly,dactylomegalie,583
+molluscum contagiosum,molluscum contagiosum,583
+unsightliness,onooglijkheid,583
+congenialness,gemoedelijkheid,583
+hematocolpometra,hematocolpometra,584
+tastelessness,smakeloosheid,584
+papulovesicle,papulovesikel,584
+talipes equinus,talipes equinus,584
+girlishness,maagdelijkheid,584
+Rastafarianism,Rastafariisme,584
+muskiness,muskusachtigheid,584
+studiousness,leergierigheid,584
+miliary tuberculosis,miliaire tuberculose,584
+rickettsialpox,rickettsiapokken,584
+ratbite fever,rattenbeetkoorts,585
+eeriness,griezeligheid,585
+type I diabetes,diabetes type I,585
+immunocompetence,immunocompetentie,585
+disorderliness,wanordelijkheid,585
+toxemia of pregnancy,toxemie van zwangerschap,585
+occipital protuberance,achterhoofdsknobbel,585
+myotonia congenita,myotonia congenita,585
+xeroderma pigmentosum,xeroderma pigmentosum,585
+compulsiveness,dwangmatigheid,585
+thrombasthenia,trombosthenie,586
+Lyme disease,ziekte van Lyme,586
+sedulity,naarstigheid,586
+auld langsyne,auld lang syne,586
+newsworthiness,nieuwswaardigheid,586
+obscureness,onduidelijkheid,586
+inconvertibility,onomkeerbaarheid,586
+lagophthalmos,lagophthalmus,586
+Asian influenza,Aziatische griep,586
+nosiness,nieuwsgierigheid,586
+melodiousness,melodieusheid,587
+contrariness,tegendraadsheid,587
+irresoluteness,besluiteloosheid,587
+acroanesthesia,acroanesthesie,587
+Wesleyanism,Wesleyanisme,587
+unnoticeableness,onmerkbaarheid,587
+spotlessness,vlekkeloosheid,587
+myelocytic leukemia,myelocytische leukemie,587
+jocoseness,grappenmakerij,587
+type II diabetes,diabetes type II,587
+self-pity,zelfmedelijden,588
+daintiness,sierlijkheid,588
+internationality,internationaliteit,588
+protozoal infection,protozoaire infectie,588
+temporariness,tijdelijkheid,588
+amebic dysentery,amebische dysenterie,588
+rickettsial disease,ziekte van rickettsia,588
+unacceptability,onaanvaardbaarheid,588
+pleomorphic rhabdomyosarcoma,pleomorf rabdomyosarcoom,588
+mucopolysaccharidosis,mucopolysacharidose,588
+blatancy,schaamteloosheid,589
+uncheerfulness,onoprechtheid,589
+baker's eczema,bakkerseczeem,589
+flavorsomeness,smakelijkheid,589
+Hilbert space,Hilbert-ruimte,589
+pycnodysostosis,pycnodysostosis,589
+neurodermatitis,neurodermitis,589
+lobar pneumonia,lobaire longontsteking,589
+meticulousness,nauwgezetheid,589
+exchangeability,uitwisselbaarheid,589
+philhellenism,philhellenisme,590
+necrotizing enterocolitis,necrotiserende enterocolitis,590
+slough of despond,slough van wanhoop,590
+hypoplastic anemia,hypoplastische bloedarmoede,590
+pediculosis capitis,pediculosis capitis,590
+affectedness,beïnvloeding,590
+acanthosis nigricans,acanthosis nigricans,590
+shrewishness,spitsvondigheid,590
+abruptio placentae,abruptio placentae,590
+impoliteness,onbeleefdheid,590
+enterostenosis,enterostenose,591
+unwariness,onoplettendheid,591
+joylessness,vreugdeloosheid,591
+entrancement,in vervoering,591
+incomprehensibility,onbegrijpelijkheid,591
+cryoanesthesia,cryoanesthesie,591
+dispensability,onmisbaarheid,591
+triangularity,driehoekigheid,591
+sketchiness,schetsmatigheid,591
+blood dyscrasia,bloed dyscrasie,591
+flavorlessness,smaakloosheid,592
+unobtrusiveness,onopvallendheid,592
+trombiculiasis,trombiculiasis,592
+mercifulness,barmhartigheid,592
+alveolar ectasia,alveolaire ectasie,592
+nyctalopia,nachtblindheid,592
+hematocytopenia,hematocytopenie,592
+hazardousness,gevaarlijkheid,592
+pediculosis corporis,pediculosis corporis,592
+innumerableness,ontelbaarheid,592
+good-temperedness,goedgeluimdheid,593
+unpretentiousness,bescheidenheid,593
+movability,verplaatsbaarheid,593
+political incorrectness,politieke incorrectheid,593
+prematureness,voorbarigheid,593
+blameworthiness,verwijtbaarheid,593
+disingenuousness,oneerlijkheid,593
+unfriendliness,onvriendelijkheid,593
+spastic abasia,spastische abasie,593
+unruliness,weerspannigheid,593
+unsusceptibility,ongevoeligheid,594
+uppityness,hooghartigheid,594
+acanthocytosis,acanthocytose,594
+discoid lupus erythematosus,discoïde lupus erythematosus,594
+ureterostenosis,ureterostenose,594
+semidiameter,halve diameter,594
+unscrupulousness,gewetenloosheid,594
+Pick's disease,Ziekte van Pick,594
+intermittence,intermitterend,594
+talipes valgus,talipes valgus,594
+noiselessness,geruisloosheid,595
+selfsameness,zelfgelijkheid,595
+fortuitousness,toevalligheid,595
+thanatophobia,thanatofobie,595
+motherliness,moederlijkheid,595
+lymphocytopenia,lymfocytopenie,595
+Prussian blue,Pruisisch blauw,595
+uninterestingness,oninteressantheid,595
+dissolubility,oplosbaarheid,595
+osteoblastoma,osteoblastoom,595
+self-determination,zelfbeschikking,596
+litigiousness,litigiousness,596
+obtrusiveness,opdringerigheid,596
+androglossia,androglossia,596
+semifluidity,halfvloeibaarheid,596
+perishability,bederfelijkheid,596
+Achilles' heel,Achillespees,596
+mucocutaneous leishmaniasis,mucocutane leishmaniasis,596
+softheartedness,zachtmoedigheid,596
+stainability,vlekbaarheid,596
+forwardness,vooruitstrevendheid,597
+hyperlipoproteinemia,hyperlipoproteïnemie,597
+courtliness,hoffelijkheid,597
+paralytic abasia,verlamde abasia,597
+megaloblastic anemia,megaloblastaire anemie,597
+lepromatous leprosy,lepromateuze lepra,597
+thoracic actinomycosis,thoracale actinomycose,597
+concomitance,gelijktijdigheid,597
+supernaturalism,bovennatuurlijkheid,597
+literalness,letterlijkheid,597
+progressiveness,vooruitstrevendheid,598
+acute myelocytic leukemia,acute myelocytische leukemie,598
+chumminess,kameraadschap,598
+up-tick,kleine toename,598
+inutility,nutteloosheid,598
+arteriolosclerosis,arteriosclerose,598
+insidiousness,verraderlijkheid,598
+woodiness,houtachtigheid,598
+brown rot gummosis,bruinrot gummosis,598
+reflectiveness,reflectievermogen,598
+canicola fever,canicola-koorts,599
+incompressibility,onsamendrukbaarheid,599
+Nash equilibrium,Nash-evenwicht,599
+ambidexterity,ambidexteriteit,599
+ratability,beweeglijkheid,599
+implausibility,onwaarschijnlijkheid,599
+abdominal actinomycosis,abdominale actinomycose,599
+arteriosclerosis obliterans,arteriosclerose obliterans,599
+chronic myelocytic leukemia,chronische myelocytische leukemie,599
+incisiveness,scherpzinnigheid,599
+annular scotoma,ringvormige scotoma,600
+hyperbilirubinemia of the newborn,hyperbilirubinemie van de pasgeborene,600
+Dutch courage,Nederlandse moed,600
+schizotypal personality,schizotypische persoonlijkheid,600
+incorruptibility,onvergankelijkheid,600
+exorbitance,buitensporigheid,600
+scintillating scotoma,sprankelend scotoma,600
+Guinea worm disease,Guinese wormziekte,600
+unlikelihood,onwaarschijnlijkheid,600
+changeableness,veranderlijkheid,600
+adventurousness,avontuurlijkheid,601
+invariability,onveranderlijkheid,601
+angiotelectasia,angiotelectasia,601
+spinocerebellar disorder,spinocerebellaire stoornis,601
+ineluctability,onverkieslijkheid,601
+unconventionality,onconventioneel,601
+weatherliness,weersgesteldheid,601
+vesicoureteral reflux,vesicoureterale reflux,601
+introspectiveness,introspectiviteit,601
+scaphocephaly,scaphocephaly,601
+Haverhill fever,Haverhill-koorts,602
+gravidity,zwaartekracht,602
+Doric order,Dorische orde,602
+impermeability,ondoordringbaarheid,602
+charitableness,liefdadigheid,602
+Kaposi's sarcoma,Kaposi's sarcoom,602
+cryptorchidy,cryptorchidie,602
+fecklessness,roekeloosheid,602
+hemoglobinopathy,hemoglobinopathie,602
+pedunculated polyp,gesteelde poliep,602
+incredibility,ongelooflijke,603
+unnaturalness,onnatuurlijkheid,603
+hypovolemic shock,hypovolemische shock,603
+hypothrombinemia,hypotrombinemie,603
+kakke disease,ziekte van Kakke,603
+status asthmaticus,status astmaticus,603
+usualness,gebruikelijkheid,603
+trapezohedron,trapezohedron,603
+Congregationalism,Congregationalisme,603
+nonoccurrence,niet-gebeurtenis,603
+impenetrability,ondoordringbaarheid,604
+Ionic order,Ionische orde,604
+artlessness,ongekunsteldheid,604
+immotility,onbeweeglijkheid,604
+triskaidekaphobia,triskaidekafobie,604
+unintelligibility,onverstaanbaarheid,604
+reluctivity,terughoudendheid,604
+apatetic coloration,apathische kleuring,604
+rhizoctinia disease,rhizoctonia ziekte,604
+suprainfection,supreinfectie,604
+spinelessness,ruggengraatloosheid,605
+salability,verkoopbaarheid,605
+High Renaissance,hoge renaissance,605
+colorlessness,kleurloosheid,605
+sickle-cell anemia,sikkelcelanemie,605
+indefatigability,onvermoeibaarheid,605
+dissoluteness,losbandigheid,605
+fatherliness,vaderlijkheid,605
+Sydenham's chorea,chorea van Sydenham,605
+microcytic anemia,microcytaire anemie,605
+shadiness,schaduwrijkheid,606
+pseudohallucination,pseudohallucinatie,606
+nephrogenic diabetes insipidus,nefrogene diabetes insipidus,606
+granuloma inguinale,granuloma inguinale,606
+one-dimensionality,eendimensionaliteit,606
+Erb's palsy,Erb's verlamming,606
+Marburg disease,ziekte van Marburg,606
+hypopigmentation,hypopigmentatie,606
+Mennonitism,doopsgezindheid,606
+sliminess,slijmerigheid,606
+Minamata disease,Minamata-ziekte,607
+schistosome dermatitis,schistosoom dermatitis,607
+Cartesian plane,cartesiaans vlak,607
+heartrot,hartverscheurend,607
+greenishness,groenachtigheid,607
+hypochromic anemia,hypochrome bloedarmoede,607
+plangency,kortzichtigheid,607
+uncommunicativeness,oncommunicatief,607
+Schadenfreude,Schadenfreude,607
+malodorousness,onwelriekende geur,607
+dichromacy,tweekleurigheid,608
+irrepressibility,onstuitbaarheid,608
+enterotoxemia,enterotoxinemie,608
+venerability,eerbiedwaardigheid,608
+widow's peak,weduwe's piek,608
+lymphocytic choriomeningitis,lymfatische choriomeningitis,608
+incontrovertibility,onweerlegbaarheid,608
+Pott's disease,Ziekte van Pott,608
+mercilessness,genadeloosheid,608
+inaudibility,onhoorbaarheid,608
+Protestantism,protestantisme,609
+Greenwich Mean Time,Greenwich Mean Time,609
+unseemliness,onbetamelijkheid,609
+fissiparity,splijtbaarheid,609
+bilaterality,bilateraliteit,609
+insentience,gevoelloosheid,609
+emotionlessness,emotieloosheid,609
+frightfulness,angstgevoelens,609
+shiftlessness,onbeholpenheid,609
+carcinosarcoma,carcinosarcoom,609
+Rhus dermatitis,rhus dermatitis,610
+male-patterned baldness,mannelijke kaalheid,610
+sugariness,suikerachtigheid,610
+soapiness,zeepachtigheid,610
+Vincent's angina,Vincent's angina,610
+hypermotility,hypermotiliteit,610
+Alaska Standard Time,Alaska standaardtijd,610
+scalene triangle,ongelijkbenige driehoek,610
+memorability,memorabiliteit,610
+interventricular foramen,interventriculaire foramen,610
+apparentness,schijnbaarheid,611
+adamance,onverzettelijkheid,611
+historicalness,historiciteit,611
+cloudlessness,wolkenloosheid,611
+self-depreciation,zelfwaardering,611
+mononeuropathy,mononeuropathie,611
+fruitlessness,vruchteloosheid,611
+unseasonableness,ongebruikelijkheid,611
+inconclusiveness,onduidelijkheid,611
+hypolipoproteinemia,hypolipoproteïnemie,611
+uxoriousness,overbodigheid,612
+absentmindedness,verstrooidheid,612
+uncongeniality,onaangenaamheid,612
+profitableness,winstgevendheid,612
+cheerlessness,ongezelligheid,612
+perniciousness,verderfelijkheid,612
+indelicacy,ondeugdelijkheid,612
+maidenliness,maagdelijkheid,612
+querulousness,twijfelachtigheid,612
+heavyheartedness,zwaarmoedigheid,612
+inscrutability,ondoorgrondelijkheid,613
+blamelessness,onberispelijkheid,613
+unproductiveness,onproductiefheid,613
+presentness,tegenwoordigheid,613
+licitness,geoorloofdheid,613
+replaceability,vervangbaarheid,613
+keratoacanthoma,keratoacanthoma,613
+fool's paradise,dwazen paradijs,613
+uninsurability,onverzekerbaarheid,613
+lymphogranuloma venereum,Lymfogranuloom venereum,613
+admirability,bewonderenswaardig,614
+osteochondroma,osteochondroom,614
+unperceptiveness,onoplettendheid,614
+stoutheartedness,stoutmoedigheid,614
+unemotionality,emotieloosheid,614
+dog's breakfast,honden ontbijt,614
+tabes dorsalis,tabes dorsalis,614
+overtolerance,overtolerantie,614
+self-discipline,zelf discipline,614
+Orthodox Judaism,orthodox jodendom,614
+amphidiploidy,amphidiploïdie,615
+faintheartedness,zwakzinnigheid,615
+re-echo,opnieuw echoën,615
+scandalousness,schandaligheid,615
+impermissibility,ontoelaatbaarheid,615
+otorrhea,keelontsteking,615
+going-out-of-business sale,uit de verkoop gaan,615
+gelatinousness,gelatineusheid,615
+speechlessness,sprakeloosheid,615
+paracentral scotoma,paracentraal scotoom,615
+bachelorhood,vrijgezellenfeest,616
+myeloblastic leukemia,myeloblastische leukemie,616
+penetrability,doordringbaarheid,616
+eczema vaccinatum,eczeem vaccinatum,616
+corruptibility,omkoopbaarheid,616
+Tay-Sachs disease,Tay-Sachs ziekte,616
+long-sufferance,lankmoedigheid,616
+self-esteem,zelfvertrouwen,616
+nephrocalcinosis,nefrocalcinose,616
+woodenness,houtachtigheid,616
+hysterocatalepsy,hysterocatalepsie,617
+oversensitiveness,overgevoeligheid,617
+illicitness,ongeoorloofdheid,617
+musicogenic epilepsy,musicogene epilepsie,617
+effortlessness,moeiteloosheid,617
+non-discrimination,non-discriminatie,617
+inconceivability,ondenkbaarheid,617
+three-dimensionality,driedimensionaliteit,617
+ladylikeness,vrouwelijke gelijkenis,617
+permutability,veranderlijkheid,617
+Gaucher's disease,Ziekte van Gaucher,618
+associability,associabiliteit,618
+erythroblastosis fetalis,erythroblastosis foetalis,618
+metaplastic anemia,metaplastische bloedarmoede,618
+lymphangiectasia,lymfangiëctasie,618
+posterior subcapsular cataract,posterieure subcapsulaire cataract,618
+fallaciousness,bedrieglijkheid,618
+disagreeableness,onaangenaamheid,618
+curiousness,nieuwsgierigheid,618
+left-handedness,linkshandigheid,618
+communicativeness,communicatief vermogen,619
+Jacksonian epilepsy,Jacksoniaanse epilepsie,619
+retentiveness,vasthoudendheid,619
+paracervical block,paracervicaal blok,619
+erethism,prikkelbaarheid,619
+dwarfishness,dwergachtigheid,619
+inconspicuousness,onopvallendheid,619
+self-restraint,zelfbeheersing,619
+pusillanimity,kleinmoedigheid,619
+Marseilles fever,Marseille koorts,619
+destructibility,vernietigbaarheid,620
+Reform Judaism,hervorming jodendom,620
+illegibility,onleesbaarheid,620
+complicatedness,ingewikkeldheid,620
+unattainableness,onbereikbaarheid,620
+opisthorchiasis,opisthorchiasis,620
+friendlessness,vriendschappelijkheid,620
+unclearness,onduidelijkheid,620
+Curie temperature,Curietemperatuur,620
+forgivingness,vergevingsgezindheid,620
+dolichocephaly,dolichocephalie,621
+unusualness,ongebruikelijkheid,621
+Texas fever,Texaanse koorts,621
+Cushing's syndrome,syndroom van Cushing,621
+storminess,stormachtigheid,621
+elephantiasis neuromatosa,elefantiasis neuromatosa,621
+fatigability,vermoeibaarheid,621
+xanthoma disseminatum,xanthoma disseminatum,621
+how-do-you-do,hoe gaat het met u,621
+peaceableness,vredelievendheid,621
+procursive epilepsy,procursieve epilepsie,622
+Reye's syndrome,Reye's syndroom,622
+hypocellularity,hypocellulariteit,622
+X-linked SCID,X-gebonden SCID,622
+noli-me-tangere,noli-me-tangere,622
+Electra complex,Electra-complex,622
+enterolithiasis,enterolithiasis,622
+unoriginality,onoriginaliteit,622
+impreciseness,onnauwkeurigheid,622
+unattractiveness,onaantrekkelijkheid,622
+unaffectedness,onaangetastheid,623
+right-handedness,rechtshandigheid,623
+sciolism,schijngeleerdheid,623
+boyishness,jongensachtigheid,623
+demonstrativeness,demonstratievermogen,623
+foot-and-mouth disease,Mond-en klauwzeer,623
+indigestibility,onverteerbaarheid,623
+variedness,verscheidenheid,623
+unselfconsciousness,onzelfzuchtigheid,623
+Still's disease,De ziekte van nog steeds,623
+Arnold-Chiari deformity,Arnold-Chiari misvorming,624
+nonsocial infection,niet-sociale infectie,624
+Wernicke's aphasia,Afasie van Wernicke,624
+esophagogastric junction,oesofagogastrische overgang,624
+Hodgkin's disease,de ziekte van Hodgkin,624
+Eastern Catholicism,oosters katholicisme,624
+Presbyterianism,presbyterianisme,624
+white-coat hypertension,witte-jassen-hypertensie,624
+Composite order,Samengestelde bestelling,624
+reprehensibility,verwerpelijkheid,624
+ingenuousness,vindingrijkheid,625
+Banti's disease,Ziekte van Banti,625
+sanctimoniousness,schijnheiligheid,625
+motionlessness,onbeweeglijkheid,625
+irreproducibility,onreproduceerbaarheid,625
+hypobetalipoproteinemia,hypobetalipoproteïnemie,625
+ghastliness,afschuwelijkheid,625
+monostotic fibrous dysplasia,monostotische fibreuze dysplasie,625
+biosafety level 4,bioveiligheidsniveau 4,625
+glibness,welbespraaktheid,625
+unmindfulness,onoplettendheid,626
+von Willebrand's disease,ziekte van von Willebrand,626
+unrespectability,onrespectvolheid,626
+equatability,gelijkvormigheid,626
+inexactness,onnauwkeurigheid,626
+pitilessness,meedogenloosheid,626
+Earth-received time,Op aarde ontvangen tijd,626
+impenitence,onboetvaardigheid,626
+nonsolid color,niet-effen kleur,626
+neuroepithelioma,neuro-epithelioom,626
+Atlantic Time,Atlantische Tijd,627
+unvariedness,onveranderlijkheid,627
+reclusiveness,teruggetrokkenheid,627
+hyperchromic anemia,hyperchrome bloedarmoede,627
+dermatoglyphic,dermatoglyfisch,627
+unapproachability,onbenaderbaarheid,627
+ephemerality,kortstondigheid,627
+cartilaginification,kraakbeenvorming,627
+abasia trepidans,abasia trepidans,627
+changelessness,onveranderlijkheid,627
+erythema nodosum leprosum,erythema nodosum leprosum,628
+necrobiosis lipoidica,necrobiose lipoidica,628
+Cooley's anemia,Cooley's bloedarmoede,628
+huffiness,luchthartigheid,628
+cubicity,kubusvormigheid,628
+Hurler's syndrome,Hurler-syndroom,628
+praiseworthiness,prijzenswaardig,628
+tetralogy of Fallot,tetralogie van Fallot,628
+intangibility,ongrijpbaarheid,628
+demonstrability,aantoonbaarheid,628
+hilliness,heuvelachtigheid,629
+formidability,formidabiliteit,629
+Friedreich's ataxia,ataxie van Friedreich,629
+half-intensity,halve intensiteit,629
+tax-increase,belastingverhoging,629
+cystoid macular edema,cystoïd macula-oedeem,629
+pericementoclasia,pericementoclasia,629
+Spielmeyer-Vogt disease,Ziekte van Spielmeyer-Vogt,629
+Argentine hemorrhagic fever,Argentijnse hemorragische koorts,629
+assailability,aanstootgevendheid,629
+sideroblastic anemia,sideroblastische bloedarmoede,630
+posterior synechia,posterieure synechia,630
+Alzheimer's disease,ziekte van Alzheimer,630
+Fanconi's anemia,Fanconi's bloedarmoede,630
+quantifiability,kwantificeerbaarheid,630
+Niemann-Pick disease,Ziekte van Niemann-Pick,630
+Weil's disease,Ziekte van Weil,630
+nonequivalence,niet-equivalentie,630
+atactic abasia,atactische abasia,630
+irreligiousness,ongodsdienstigheid,630
+dauntlessness,onverschrokkenheid,631
+Baptistic doctrine,doopsgezinde leer,631
+biosafety level 1,bioveiligheidsniveau 1,631
+hypogammaglobulinemia,hypogammaglobulinemie,631
+impeachability,beschuldigbaarheid,631
+unalterability,onveranderlijkheid,631
+sweet-potato ring rot,Zoete Aardappel Ringrot,631
+tuberculoid leprosy,tuberculoïde lepra,631
+caffein addiction,cafeïne verslaving,631
+incommutability,onveranderlijkheid,631
+Ranvier's nodes,knooppunten van Ranvier,632
+loving-kindness,liefdevolle vriendelijkheid,632
+Creutzfeldt-Jakob disease,Creutzfeldt-Jakob ziekte,632
+obsessive-compulsive disorder,obsessief-compulsieve stoornis,632
+congenital afibrinogenemia,aangeboren afibrinogenemie,632
+keratosis follicularis,keratosis follicularis,632
+small-particle pollution,vervuiling door kleine deeltjes,632
+hypercellularity,hypercellulariteit,632
+undutifulness,plichtsgetrouwheid,632
+downheartedness,neerslachtigheid,632
+strike-slip fault,strike-slip fout,633
+Mexican standoff,Mexicaanse impasse,633
+indisputability,onbetwistbaarheid,633
+discernability,waarneembaarheid,633
+radioprotection,stralingsbescherming,633
+judiciousness,oordeelkundigheid,633
+incurability,ongeneeslijkheid,633
+compositeness,samengesteldheid,633
+perceptibility,waarneembaarheid,633
+unadaptability,onaanpasbaarheid,633
+Euclidean space,Euclidische ruimte,634
+cytoarchitecture,cytoarchitectuur,634
+Marfan's syndrome,syndroom van Marfan,634
+greenstick fracture,greenstick breuk,634
+balance-of-payments problem,betalingsbalans probleem,634
+Hand-Schuller-Christian disease,Hand-Schuller-christelijke ziekte,634
+glyptic art,glyptische kunst,634
+anterior synechia,anterieure synechia,634
+Graves' disease,Ziekte van Graves,634
+American Dream,Amerikaanse droom,634
+Becker muscular dystrophy,Becker spierdystrofie,635
+sex-linked disorder,geslachtsgebonden stoornis,635
+Anglo-Catholicism,Anglo-katholicisme,635
+unpersuasiveness,overtuigingskracht,635
+incorruptness,onvergankelijkheid,635
+imperishability,onvergankelijkheid,635
+subordinateness,ondergeschiktheid,635
+aposematic coloration,aposematische kleuring,635
+ponderousness,zwaarwichtigheid,635
+Rh incompatibility,Rh-incompatibiliteit,635
+untrustworthiness,onbetrouwbaarheid,636
+irresistibility,onweerstaanbaarheid,636
+delectability,verrukkelijkheid,636
+lithotomy position,lithotomie positie,636
+milliequivalent,milli-equivalent,636
+sclerotium disease,sclerotiumziekte,636
+nevoid elephantiasis,nevoid elefantiasis,636
+Hashimoto's disease,ziekte van Hashimoto,636
+intransigency,onverzettelijkheid,636
+paralysis agitans,verlamming agitans,636
+nonbiodegradable pollution,niet-biologisch afbreekbare vervuiling,637
+Hirschsprung's disease,Ziekte van Hirschsprung,637
+imperceptibility,onwaarneembaarheid,637
+hemianopic scotoma,hemianopisch scotoom,637
+prepossession,vooringenomenheid,637
+alterability,veranderlijkheid,637
+downiness,neerslachtigheid,637
+obsessive-compulsive personality,obsessief-compulsieve persoonlijkheid,637
+convincingness,overtuigingskracht,637
+X-linked dominant inheritance,X-gebonden dominante overerving,637
+dutifulness,plichtsgetrouwheid,638
+hyperbetalipoproteinemia,hyperbetalipoproteïnemie,638
+yellow-blue dichromacy,geel-blauw dichromatie,638
+no-win situation,geen win situatie,638
+exanthema subitum,exantheem subituum,638
+impeccability,onberispelijkheid,638
+paroxysmal trepidant abasia,paroxismale huiveringwekkende abasia,638
+unsatisfactoriness,onbevredigendheid,638
+lichtenoid eczema,lichtjesoïde eczeem,638
+pellucidness,doorschijnendheid,638
+Christian Science,christelijke wetenschap,639
+abetalipoproteinemia,abetalipoproteïnemie,639
+epidemic pleurodynia,epidemische pleurodynie,639
+undependability,onbetrouwbaarheid,639
+periarteritis nodosa,periarteritis nodosa,639
+involutional depression,involutionele depressie,639
+Cushing's disease,Ziekte van Cushing,639
+nabothian cyst,nabothische cyste,639
+invaluableness,van onschatbare waarde,639
+Kallman's syndrome,Kallmann-syndroom,639
+talipes calcaneus,talipes calcaneus,640
+septicemic plague,septicemische plaag,640
+hepatojugular reflux,hepatojugulaire reflux,640
+commutability,commuteerbaarheid,640
+eczema herpeticum,eczeem herpeticum,640
+transcortical aphasia,transcorticale afasie,640
+counterreformation,contra-reformatie,640
+hugger-mugger,knuffel-overvaller,640
+McArdle's disease,Ziekte van McArdle,640
+hyperpituitarism,hyperpituïtarisme,640
+X-linked recessive inheritance,X-gebonden recessieve overerving,641
+unpermissiveness,niet-toegeeflijkheid,641
+counterfactuality,contrafeitelijkheid,641
+irreplaceableness,onvervangbaarheid,641
+dowager's hump,de bult van de weduwe,641
+Corinthian order,Korinthische orde,641
+chilblain,winter aan de voeten,641
+unexchangeability,onverwisselbaarheid,641
+two-dimensionality,tweedimensionaliteit,641
+overcredulity,overdreven goedgelovigheid,641
+misogamy,afschuw van huwelijk,642
+hepatolenticular degeneration,hepatolenticulaire degeneratie,642
+biosafety level 3,bioveiligheidsniveau 3,642
+Socratic irony,Socratische ironie,642
+anaclitic depression,anaclitische depressie,642
+Rift Valley fever,Rift Valley-koorts,642
+inexplicitness,onbegrijpelijkheid,642
+red-green dichromacy,rood-groene dichromie,642
+indestructibility,onverwoestbaarheid,642
+Charcot-Marie-Tooth disease,Ziekte van Charcot-Marie-Tooth,642
+disjointedness,onsamenhangendheid,643
+Crimea-Congo hemorrhagic fever,Krim-Congo hemorragische koorts,643
+cervicofacial actinomycosis,cervicofaciale actinomycose,643
+age-related macular degeneration,leeftijdsgebonden maculaire degeneratie,643
+ureterorenal reflux,ureterorenale reflux,643
+Meniere's disease,de ziekte van Menière,643
+macrocytic anemia,macrocytische anemie,643
+limb-girdle muscular dystrophy,limb-girdle spierdystrofie,643
+seasonableness,seizoensgebondenheid,643
+Newcastle disease,Ziekte van Newcastle,643
+akinetic epilepsy,akinetische epilepsie,644
+Conservative Judaism,conservatief jodendom,644
+presenile dementia,preseniele dementie,644
+second-degree burn,tweedegraads brandwond,644
+Albright's disease,Ziekte van Albright,644
+elephantiasis scroti,olifantiasis scroti,644
+Turner's syndrome,Syndroom van Turner,644
+Meckel's diverticulum,Meckel's divertikel,644
+creepy-crawlies,griezelige kruipers,644
+Werdnig-Hoffman disease,Ziekte van Werdnig-Hoffman,644
+Addison's disease,de ziekte van Addison,645
+biosafety level 2,bioveiligheidsniveau 2,645
+Huntington's chorea,chorea van Huntington,645
+nonabsorbency,niet-absorberend vermogen,645
+Rocky Mountain spotted fever,Rocky Mountain gevlekte koorts,645
+oculopharyngeal muscular dystrophy,oculofaryngeale spierdystrofie,645
+common-law marriage,huwelijk volgens gewoonterecht,645
+Seventh-Day Adventism,Zevende-dags Adventisme,645
+multiple mononeuropathy,meerdere mononeuropathie,645
+Ebola hemorrhagic fever,Ebola hemorragische koorts,645
+Wernicke's encephalopathy,Wernicke's encefalopathie,646
+Asperger's syndrome,het syndroom van Asperger,646
+first-degree burn,eerstegraads brandwond,646
+Lambert-Eaton syndrome,Lambert-Eaton-syndroom,646
+pseudohermaphroditism,pseudohermafroditisme,646
+third-degree burn,derdegraads brandwond,646
+Saint Anthony's fire,Het vuur van Sint Antonius,646
+keratosis blennorrhagica,keratose blennorragica,646
+histoincompatibility,histoincompatibiliteit,646
+nonthrombocytopenic purpura,niet-trombocytopenische purpura,646
+tsutsugamushi disease,de ziekte van tsutsugamhi,647
+Duchenne's muscular dystrophy,Duchenne's spierdystrofie,647
+nongonococcal urethritis,niet-gonokokken urethritis,647
+entopic pregnancy,buitenbaarmoederlijke zwangerschap,647
+General Certificate of Secondary Education,Algemeen getuigschrift secundair onderwijs,647
+posthypnotic amnesia,posthypnotisch geheugenverlies,647

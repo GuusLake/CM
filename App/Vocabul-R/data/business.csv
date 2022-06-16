@@ -2,54 +2,54 @@ EngWord,NldWord,Group
 line,lijn,0
 agency,bureau,0
 corporation,bedrijf,0
-firm,firma,0
-publisher,uitgever,0
-chain,keten,0
+firm,stevig,0
 bus line,buslijn,0
 manufacturer,fabrikant,0
 magazine,tijdschrift,0
+chain,ketting,0
 travel agency,reisbureau,0
-newspaper,krant-,1
+newspaper,krant-,0
+publisher,uitgeverij,1
+jewelry dealer,juwelier,1
 metro,metro,1
 transit line,OV-lijn,1
 service agency,servicebureau,1
-jewelry dealer,juwelier,1
-family business,familiebedrijf,1
-auction house,veilingshuis,1
-fleet,vloot,1
-large cap,grote kap,1
 advertising agency,reclamebureau,1
+family business,familiebedrijf,1
+fleet,vloot,1
+employment agency,uitzendbureau,1
+auction house,veilingshuis,1
 dealer,handelaar,2
-employment agency,uitzendbureau,2
 retail chain,winkelketen,2
-processor,verwerker,2
+large cap,grote kap,2
 computer business,computer bedrijf,2
+processor,verwerker,2
+car manufacturer,auto fabrikant,2
 transfer agent,transferagent,2
 railway,spoorweg,2
-consulting firm,adviesbureau,2
+rail,het spoor,2
 apparel chain,kledingketen,2
-car manufacturer,auto fabrikant,2
-discount chain,kortingsketen,3
-small cap,kleine dop,3
-carrier,vervoerder,3
-franchise,franchise,3
+consulting firm,adviesbureau,3
 partnership,vennootschap,3
-rail,het spoor,3
+carrier,vervoerder,3
+small cap,kleine dop,3
 news agency,nieuws Agentschap,3
-roller coaster,achtbaan,3
 syndicate,syndicaat,3
-monorail,monorail,3
-argosy,argosie,4
-closed corporation,gesloten bedrijf,4
-accounting firm,accountantbureau,4
+franchise,franchise,3
+discount chain,kortingsketen,3
+argosy,argosie,3
+roller coaster,achtbaan,3
 cable railway,kabelspoor,4
 law firm,advocatenkantoor,4
-car dealer,auto handelaar,4
+closed corporation,gesloten bedrijf,4
 credit bureau,kredietbureau,4
+monorail,monorail,4
+accounting firm,accountantbureau,4
+car dealer,auto handelaar,4
 computer dealer,computerdealer,4
 restaurant chain,restaurant keten,4
-brokerage,makelaardij,4
-armorer,wapensmid,5
+armorer,wapensmid,4
+brokerage,makelaardij,5
 bottler,bottelaar,5
 cog railway,tandradbaan,5
 truck dealer,vrachtwagendealer,5
@@ -57,19 +57,19 @@ conglomerate,conglomeraat,5
 shell corporation,shell corporatie,5
 trolley line,karretje lijn,5
 detective agency,detectivebureau,5
-shipbuilder,scheepsbouwer,5
+closely held corporation,hechte onderneming,5
 hypercoaster,hypercoaster,5
-closely held corporation,hechte onderneming,6
 airline,luchtvaartmaatschappij,6
+shipbuilder,scheepsbouwer,6
 elevated railway,verhoogde spoorlijn,6
 copartnership,deelgenootschap,6
-commodity brokerage,goederenmakelaardij,6
 mercantile agency,handelsagentschap,6
+commodity brokerage,goederenmakelaardij,6
 scenic railway,schilderachtige spoorlijn,6
-steamship company,stoomschip bedrijf,6
 underperformer,onderpresteerder,6
+steamship company,stoomschip bedrijf,6
 publishing conglomerate,uitgeverij conglomeraat,6
 Boy Scouts of America,Boy Scouts of America,7
-Federal National Mortgage Association,Federale Nationale Hypotheekvereniging,7
 Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,7
+Federal National Mortgage Association,Federale Nationale Hypotheekvereniging,7
 Federal Home Loan Mortgage Corporation,Federale Hypotheekmaatschappij voor woningkredieten,7

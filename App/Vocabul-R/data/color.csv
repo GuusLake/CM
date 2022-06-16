@@ -4,7 +4,7 @@ red,rood,0
 wine,wijn,0
 yellow,geel,0
 black,zwart,0
-rose,Roos,0
+rose,roos,0
 pink,roze,0
 bone,bot,0
 blue,blauw,0
@@ -14,126 +14,126 @@ salmon,Zalm,1
 copper,koper,1
 amber,amber,1
 green,groente,1
-orange,Oranje,1
 old gold,oud goud,1
+orange,oranje,1
+chocolate,chocola,1
 purple,Purper,1
 beige,beige,1
-blond,blond,1
+blond,blond,2
 dun,dun,2
 violet,paars,2
 olive,olijf-,2
 coral,koraal,2
 sea green,zee groen,2
-old rose,oude roos,2
+yellow green,geel groen,2
 tan,bruinen,2
 chalk,krijt,2
-dark red,donkerrood,2
-cyan,cyaan,2
+old rose,oude roos,2
 ash grey,asgrijs,3
-yellow green,geel groen,3
-emerald,smaragd,3
-chocolate,chocolade,3
-coal black,gitzwart,3
-shade,schaduw,3
-indigo,indigo,3
 light brown,lichtbruin,3
+cyan,cyaan,3
+dark red,donkerrood,3
+emerald,smaragd,3
+shade,schaduw,3
+coal black,gitzwart,3
+indigo,indigo,3
+bottle green,fles groen,3
 complexion,teint,3
-pastel,pastel,3
+pastel,pastel,4
 taupe,taupe,4
 mocha,mokka,4
-magenta,magenta,4
-steel blue,staal blauw,4
 carnation,anjer,4
+hair coloring,haarverf,4
+magenta,magenta,4
 mauve,mauve,4
 lavender,lavendel,4
-bottle green,fles groen,4
 puce,puce,4
-olive green,olijfgroen,4
-hair coloring,haarverf,5
-richness,rijkdom,5
-chestnut,kastanje,5
-burgundy,bordeaux,5
-orange yellow,Oranje Geel,5
-dark blue,donkerblauw,5
-darkness,duisternis,5
+dark blue,donkerblauw,4
 iron blue,ijzer blauw,5
+burgundy,bordeaux,5
+steel blue,staal blauw,5
 hazel,hazelaar,5
+chestnut,kastanje,5
+orange yellow,Oranje Geel,5
 alabaster,albast,5
-charcoal,houtskool,6
-ocher,oker,6
-coloration,kleur,6
-cardinal,kardinaal,6
-pinkness,roze,6
-pale yellow,bleek geel,6
+coloration,kleur,5
+ocher,oker,5
+cardinal,kardinaal,5
+richness,rijkdom,6
+darkness,duisternis,6
+olive green,olijfgroen,6
 primary color,primaire kleur,6
-olive brown,olijf bruin,6
-jade green,Jade groen,6
+pinkness,roze,6
 chrome red,chroom rood,6
-tangerine,mandarijn,7
-powder blue,poeder blauw,7
-cerise,cerise,7
-fuschia,fuschia,7
-chrome green,chroom groen,7
-whiteness,witheid,7
-sage green,salie groen,7
-primary color for light,primaire kleur voor licht,7
-frostiness,vorst,7
+charcoal,houtskool,6
+jade green,Jade groen,6
+pale yellow,bleek geel,6
+powder blue,poeder blauw,6
+olive brown,olijf bruin,7
 scarlet,scharlaken,7
-brick red,baksteenrood,8
-azure,azuurblauw,8
+cerise,cerise,7
+sage green,salie groen,7
+chrome green,chroom groen,7
+fuschia,fuschia,7
+tangerine,mandarijn,7
+brick red,baksteenrood,7
+whiteness,witheid,7
+frostiness,vorst,7
+primary color for light,primaire kleur voor licht,8
 heather mixture,heide mengsel,8
 canary yellow,kanariegeel,8
-bleach,bleekmiddel,8
-olive drab,olijf olie,8
-undertone,ondertoon,8
-crimson,karmozijnrood,8
-tawniness,taaiheid,8
 poliosis,poliose,8
-gamboge,guttegom,9
-maroon,kastanjebruin,9
+azure,azuurblauw,8
+crimson,karmozijnrood,8
+bleach,bleekmiddel,8
+paleness,bleekheid,8
+undertone,ondertoon,8
+maroon,kastanjebruin,8
 lividness,razernij,9
-mottle,vlekkerig,9
-paleness,bleekheid,9
 purplish blue,paarsblauw,9
+olive drab,olijf olie,9
+mottle,vlekkerig,9
+mellowness,zachtheid,9
 solferino,solferino,9
 complementary color,complementaire kleur,9
-mellowness,zachtheid,9
 pigmentation,pigmentatie,9
-sallowness,vaalheid,10
-ruddiness,rossigheid,10
+sallowness,vaalheid,9
+ultramarine,ultramarijn,9
+gamboge,guttegom,10
+tawniness,taaiheid,10
 reddish purple,roodachtig paars,10
+reddish brown,roodachtig bruin,10
+sanguine,optimistisch,10
 claret,bordeauxrood,10
-ultramarine,ultramarijn,10
+dapple-grey,appelgrijs,10
+reddish orange,roodachtig oranje,10
 bluish green,blauwig-groen,10
 purplish red,paarsig rood,10
-reddish brown,roodachtig bruin,10
-yellowish pink,geelachtig roze,10
-sanguine,optimistisch,10
-reddish orange,roodachtig oranje,11
+yellowish pink,geelachtig roze,11
 greenish yellow,groenachtig geel,11
-chromatic color,chromatische kleur,11
-snuff-color,snuifkleur,11
+ruddiness,rossigheid,11
 yellowish brown,geelachtig bruin,11
-dapple-grey,appelgrijs,11
+chromatic color,chromatische kleur,11
+iron-grey,ijzergrijs,11
+melanoderma,melanoderma,11
 primary color for pigments,primaire kleur voor pigmenten,11
 greenish blue,groenachtig blauw,11
-melanoderma,melanoderma,11
 brownish yellow,bruinachtig geel,11
-iron-grey,ijzergrijs,12
-depigmentation,depigmentatie,12
-protective coloration,beschermende kleuring,12
-cryptic coloration,cryptische kleuring,12
-chromatism,chromatisme,12
-Turkey red,Turkije rood,12
-oxblood red,ossenbloed rood,12
-tattletale grey,tattletale grijs,12
-achromatic color,achromatische kleur,12
+snuff-color,snuifkleur,12
 Indian red,Indiaas rood,12
-Prussian blue,Pruisisch blauw,13
-Tyrian purple,Tyrisch paars,13
-nonsolid color,niet-effen kleur,13
+cryptic coloration,cryptische kleuring,12
+oxblood red,ossenbloed rood,12
+protective coloration,beschermende kleuring,12
+Vandyke brown,Vandyke bruin,12
+chromatism,chromatisme,12
+Tyrian purple,Tyrisch paars,12
+depigmentation,depigmentatie,12
+tattletale grey,tattletale grijs,12
+Turkey red,Turkije rood,13
+achromatic color,achromatische kleur,13
 primary subtractive color for light,primaire subtractieve kleur voor licht,13
+Prussian blue,Pruisisch blauw,13
 greenishness,groenachtigheid,13
-Vandyke brown,Vandyke bruin,13
 aposematic coloration,aposematische kleuring,13
 apatetic coloration,apathische kleuring,13
+nonsolid color,niet-effen kleur,13
