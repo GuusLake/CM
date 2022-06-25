@@ -11,7 +11,7 @@ import CoreData
 
 struct TopicView: View {
     
-    @State var topics: [Topic] = GetTopics()
+    @State var topics: [Topic] = []
     
     var body: some View {
         ZStack {
@@ -26,7 +26,11 @@ struct TopicView: View {
                     }
                 }
             }
-        }
+        }.onAppear(perform: {updateTopics()})
+    }
+    
+    func updateTopics(){
+        self.topics = GetTopics()
     }
 }
 
