@@ -544,6 +544,17 @@ class Model: Codable {
         let activation = topic?.activationLevel
         return activation
     }
+    
+    func getMaxTopicDifficulty(topic_name: String) -> Int16 {
+            let context = dataController.container.viewContext
+            let topic = getTopicFromName(name: topic_name, context: context)
+            let fetchRequest = NSFetchRequest<GroupData>(entityName: "GroupData")
+            fetchRequest.predicate = NSPredicate(format: "topic = %@", topic)
+            fetchRequest.sortDescriptors = [NSSortDescriptor(key:"mean_level", ascending: false)]
+            let group = (try? context.fetch(fetchRequest)) ?? []
+            let level = group.first?.mean_level
+            return level!
+        }
 
     func getMeanLevel(context:NSManagedObjectContext) -> Int16 {
         let fetchRequest = NSFetchRequest<TopicData>(entityName: "TopicData")

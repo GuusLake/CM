@@ -95,6 +95,9 @@ func UpdateModel(cards: [Card]) {
     model.updateModel(cards: cards, context: context)
 }
 
+func getMaxLevel(topic: String) -> Int{
+    return Int(model.getMaxTopicDifficulty(topic_name: topic))
+}
 
 func InitUpdateModel(difficulty: Int) {
     // Set the first levels after the first test
@@ -128,7 +131,7 @@ func GetTopics() -> [Topic]{
 
 func GetInitState() -> Bool{
     // The first time the app runs, move csv files to database and return true to do the first test
-    //UserDefaults.standard.set(false, forKey: "firstRun")
+    UserDefaults.standard.set(false, forKey: "firstRun")
     let firstRun = UserDefaults.standard.bool(forKey: "firstRun") as Bool
     
     

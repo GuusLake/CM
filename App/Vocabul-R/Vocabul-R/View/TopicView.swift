@@ -44,8 +44,7 @@ struct TopicButton: View{
             VStack{
                 HStack(){
                     // Progressbar
-                    ProgressBar(progress: progressValue)
-                        .frame(alignment: .leading)
+                    ProgressBar(progress: progressValue, maxLevel: getMaxLevel(topic: buttonText))
                     // Text
                     Text(buttonText.capitalized)
                         .font(.title)
@@ -69,6 +68,7 @@ struct TopicButton: View{
 
 struct ProgressBar: View{
     var progress: Int
+    var maxLevel: Int
     
     var body: some View{
         ZStack {
@@ -81,7 +81,7 @@ struct ProgressBar: View{
             
             // Outer progress circle but capped off
             Circle()
-                .trim(from: 0.0, to: CGFloat(min(Float(self.progress) / 10, 1.0)))
+                .trim(from: 0.0, to: CGFloat(min(Float(self.progress) / Float(maxLevel), 1.0)))
                 .stroke(style: StrokeStyle(lineWidth: 12.0, lineCap: .round, lineJoin: .round))
                 .foregroundColor(Color("RevCardColor"))
                 .rotationEffect(Angle(degrees: 270))
