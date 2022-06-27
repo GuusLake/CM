@@ -6,7 +6,11 @@ Action,0
 Building,1
 Jobs,1
 Computer,1
+<<<<<<< HEAD
+Feelings,2
+=======
 Feeling,2
+>>>>>>> 55b96dc920c97b41ce326703fa3652833202000a
 Music,2
 Time,2
 Color,2
