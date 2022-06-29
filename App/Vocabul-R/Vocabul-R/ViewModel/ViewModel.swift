@@ -119,14 +119,25 @@ func GetTopics() -> [Topic]{
     var topics = [Topic]()
     for topic_data in topics_data {
         let name = topic_data.name ?? ""
-        let level = Int(topic_data.activationLevel)
+        //let level = Int(topic_data.activationLevel)
+        let activation = topic_data.activated
+        var level: Int = 0
+        if activation == true {
+            level = Int(topic_data.current_level)
+        }
+        else {
+            level = Int(topic_data.activationLevel)
+        }
+        
         
         let new_topic = Topic(topic:name, level:level)
 
         topics.append(new_topic)
     }
     
-    return topics
+    let sortedTopics = topics.sorted { $0.level < $1.level }
+    
+    return sortedTopics
 }
 
 func GetInitState() -> Bool{

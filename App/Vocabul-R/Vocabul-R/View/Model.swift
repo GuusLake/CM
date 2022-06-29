@@ -223,7 +223,7 @@ class Model: Codable {
                                 }
                             }
                             else {
-                                if cleared_words >= 6 {
+                                if cleared_words >= 8 {
                                     // We consider the group cleared and open the next one
                                     openNextTopicGroup(topic: group.topic!, context: context)
                                     openNewTopic(context: context)
