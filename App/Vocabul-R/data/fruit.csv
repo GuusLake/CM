@@ -1,0 +1,313 @@
+EngWord,NldWord,Group
+ear,oor,0
+kernel,kern,0
+hip,heup,0
+seed,zaad,0
+date,datum,0
+corn,maïs,0
+apple,appel,0
+fig,vijg,0
+berry,BES,0
+bean,Boon,0
+nut,noot,1
+cherry,kers-,1
+pear,Peer,1
+soy,soja,1
+pod,peul,1
+mast,mast,1
+orange,oranje,1
+grape,druif,1
+pip,Pip,1
+kiwi,kiwi,1
+pea,erwt,2
+peanut,pinda,2
+grain,korrel,2
+plum,pruim,2
+olive,olijf-,2
+rye,rogge,2
+acorn,eikel,2
+emperor,keizer,2
+lemon,citroen,2
+banana,banaan,2
+lime,limoen,3
+currant,bes,3
+peach,perzik,3
+blueberry,bosbes,3
+melon,meloen,3
+citrus,citrus-,3
+strawberry,aardbei,3
+pineapple,ananas,3
+mango,mango-,3
+okra,okra,3
+raisin,rozijn,4
+bell apple,bel appel,4
+lentil,linze,4
+papaya,papaja,4
+palm nut,palmnoot,4
+blackberry,braambes,4
+broad bean,tuinboon,4
+persimmon,kaki,4
+cumin,komijn,4
+huckleberry,bosbes,4
+brazil nut,paranoot,5
+cranberry,veenbes,5
+guava,guave,5
+samara,samara,5
+heart cherry,hart kers,5
+cashew,cachou,5
+almond,amandel,5
+anjou,anjou,5
+wheat berry,tarwe bes,5
+morello,meer,5
+garden pea,doperwt,6
+pyrene,pyreen,6
+bosc,bosc,6
+pome,pit,6
+buckeye,buckeye,6
+avocado,avocado,6
+kai apple,kai appel,6
+wild cherry,wilde kers,6
+mulberry,moerbei,6
+field pea,velderwt,6
+chestnut,kastanje,7
+gourd,kalebas,7
+sweet cherry,zoete kers,7
+bartlett,bartlett,7
+eating apple,appel eten,7
+rose apple,rozenappel,7
+walnut,okkernoot,7
+raspberry,framboos,7
+coffee bean,koffieboon,7
+bilberry,bosbes,7
+coconut,kokosnoot,8
+cooking apple,appel koken,8
+citron,citroen,8
+apricot,abrikoos,8
+buffalo nut,buffelnoot,8
+fox grape,vos druif,8
+sour cherry,zure kers,8
+canistel,busje,8
+jumping bean,springboon,8
+kola nut,kolanoot,8
+amaranth,amarant,9
+red currant,rode bes,9
+Empire,rijk,9
+durian,durian,9
+cowpea,cowpea,9
+pistachio,pistache,9
+litchi,lychee,9
+crab apple,krab appel,9
+ilama,ilama,9
+oilseed,oliezaad,9
+jujube,jujube,10
+quince,kweepeer,10
+loquat,loquat,10
+calabash,kalebas,10
+passion fruit,passievrucht,10
+mamey,mamey,10
+saskatoon,saskatoon,10
+screw bean,schroefboon,10
+bing cherry,bing kers,10
+satsuma,satsuma,10
+muskmelon,meloen,11
+elderberry,vlierbes,11
+seckel,seckel,11
+papaw,papaja,11
+medlar,mispel,11
+mandarin,mandarijn-,11
+kumquat,kumquat,11
+gooseberry,kruisbes,11
+ivory nut,ivoren noot,11
+pecan,pecannoot,11
+tangerine,mandarijn,12
+green olive,groene olijf,12
+lanseh,lanseh,12
+sapote,sapote,12
+pond apple,vijver appel,12
+black olive,zwarte olijf,12
+linseed,lijnzaad,12
+temple orange,tempel oranje,12
+cocoa plum,cacao pruim,12
+acerola,acerola,12
+ackee,ackee,13
+rapeseed,koolzaad,13
+hazelnut,hazelnoot,13
+genip,genipt,13
+tangelo,tangelo,13
+pumpkin seed,pompoenzaad,13
+windfall,meevaller,13
+acinus,acinus,13
+ribier,ribier,13
+simple fruit,eenvoudig fruit,13
+melon ball,meloen bal,14
+juniper berry,jeneverbes,14
+neem seed,neem zaad,14
+Prima,Prima,14
+sweet orange,zoete sinaasappel,14
+grapefruit,pompelmoes,14
+beach plum,strand pruim,14
+accessory fruit,accessoire fruit,14
+Macoun,Macoun,14
+mealie,melie,14
+Tokay,Tokio,15
+capulin,capuline,15
+tamarind,tamarinde,15
+cubeb,cubeb,15
+Pippin,Pepijn,15
+prickly pear,cactusvijg,15
+marasca,marasca,15
+pine nut,pijnboompitten,15
+butternut,butternut,15
+black currant,zwarte bes,15
+hog plum,varkenspruim,16
+tonka bean,Tonka Boon,16
+betel nut,betelnoot,16
+clementine,clementine,16
+dried fruit,gedroogd fruit,16
+freestone,hardsteen,16
+legume,peulvrucht,16
+pulasan,pulsan,16
+hickory nut,hickory noot,16
+loganberry,loganbes,16
+Catawba,Catawba,17
+navel orange,navel oranje,17
+dewberry,dauwbraam,17
+black walnut,zwarte walnoot,17
+casaba,casaba,17
+plumcot,Plumcot,17
+key lime,Sleutel limoen,17
+castor bean,ricinusboon,17
+muscat,muskaatnoot,17
+cling,vastklampen,17
+watermelon,watermeloen,18
+nutlet,nootje,18
+edible seed,eetbaar zaad,18
+edible nut,eetbare noot,18
+marang,marang,18
+aggregate fruit,geaggregeerd fruit,18
+sloe,sleedoorn,18
+cantaloup,meloen,18
+nectarine,nectarine,18
+mangosteen,mangosteen,18
+jackfruit,jackfruit,19
+Pearmain,Peermain,19
+edible fruit,eetbaar fruit,19
+net melon,netto meloen,19
+bitter orange,bittere sinaasappel,19
+sunflower seed,zonnebloemzaad,19
+rambutan,ramboetan,19
+feijoa,feijoa,19
+honeydew,honingdauw,19
+sugarberry,suikerbes,19
+mombin,mombin,20
+muscadine,muscadine,20
+citrange,citrange,20
+winter melon,winter meloen,20
+cherimoya,cherimoya,20
+cottonseed,katoenzaad,20
+McIntosh,McIntosh,20
+greengage,groentje,20
+hagberry,Hagberry,20
+quandong,quandong,20
+baneberry,baneberry,21
+Cortland,Cortland,21
+sour gourd,zure kalebas,21
+wintergreen,wintergroen,21
+soursop,zuurzak,21
+flame tokay,vlam tokio,21
+pomegranate,granaatappel,21
+custard apple,custard appel,21
+amarelle,amarelle,21
+pomelo,pompelmoes,21
+achene,achene,22
+Jonathan,Jonathan,22
+pyxidium,pyxidium,22
+sorb,lijsterbes,22
+beechnut,beukennoot,22
+candlenut,kaarsnoot,22
+ceriman,ceriman,22
+dika nut,dika noot,22
+bullock's heart,ossenhart,22
+dried apricot,gedroogde abrikoos,22
+damson,damastruim,23
+cowage,koesteren,23
+safflower seed,saffloerzaad,23
+prune,gedroogde pruim,23
+Baldwin,Baldwin,23
+chincapin,chincapin,23
+blackheart,zwart hart,23
+granadilla,granadilla,23
+sweetsop,snoepzak,23
+Winesap,Wijnsap,23
+May apple,Mei appel,24
+genipap,genipap,24
+prairie gourd,prairie kalebas,24
+Stayman,Stayman,24
+breadfruit,broodvrucht,24
+macadamia nut,macadamia noot,24
+seeded raisin,gezaaide rozijnen,24
+loment,treuren,24
+syconium,syconium,24
+bunya bunya,bunya bunya,24
+barleycorn,gerstekorrel,25
+carissa plum,carissa pruim,25
+chickpea,kikkererwten,25
+anchovy pear,ansjovis peer,25
+carambola,carambola's,25
+garambulla,garambulla,25
+calabar bean,Calabar Boon,25
+sweet calabash,zoete kalebas,25
+pitahaya,pitahaya,25
+buckthorn berry,duindoornbes,25
+chokecherry,chokecherry,26
+carob,johannesbrood,26
+fruitlet,vruchtje,26
+sultana,sultanarozijn,26
+divi-divi,divi-divi,26
+sapodilla,sapodilla,26
+ketembilla,ketembilla,26
+boysenberry,jongensbessen,26
+drupe,steenvrucht,26
+lingonberry,bosbessensap,26
+vinifera grape,vinifera druif,27
+cohune nut,cohune noot,27
+schizocarp,schizocarp,27
+algarroba,algarroba,27
+seedless raisin,pitloze rozijnen,27
+babassu nut,babassu noot,27
+longanberry,longanberry,27
+grugru nut,grugru noot,27
+drupelet,druipsteen,27
+coquilla nut,coquilla noot,27
+Granny Smith,Granny Smith,28
+Delicious,Verrukkelijk,28
+water chinquapin,water chinquapin,28
+rowanberry,lijsterbes,28
+souari nut,souari noot,28
+scuppernong,scuppernong,28
+cembra nut,Cembra noot,28
+ash-key,ash-sleutel,28
+quandong nut,quandong noot,28
+Golden Delicious,Gouden Heerlijk,28
+bonduc nut,bonduc noot,29
+jaboticaba,jaboticaba,29
+Job's tears,De tranen van Job,29
+Red Delicious,Rood Heerlijk,29
+Persian melon,Perzische meloen,29
+slipskin grape,slipskin druif,29
+Newtown Wonder,Newtown Wonder,29
+Bramley's Seedling,Bramley's zaailing,29
+Barbados gooseberry,Barbados kruisbes,29
+English walnut,Engelse walnoot,29
+Concord grape,Concord druif,30
+Victoria plum,Victoria pruim,30
+Jordan almond,Jordan-amandel,30
+Grimes' golden,Grimes' gouden,30
+Cox's Orange Pippin,Cox's Orange Pippin,30
+Rome Beauty,Rome Schoonheid,30
+Valencia orange,Valencia sinaasappel,30
+Stayman Winesap,Stayman Winesap,30
+Lane's Prince Albert,Lane's Prins Albert,30
+Jaffa orange,Jaffa sinaasappel,30
+Thompson Seedless,Thompson pitloos,31
+Northern Spy,Noordelijke spion,31

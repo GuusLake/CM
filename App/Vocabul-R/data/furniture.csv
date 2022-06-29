@@ -1,0 +1,193 @@
+EngWord,NldWord,Group
+bar,bar,0
+box,doos,0
+bed,bed,0
+table,tafel,0
+cash bar,kassa,0
+chair,stoel,0
+counter,balie,0
+wine bar,wijnbar,0
+desk,bureau,0
+lamp,lamp,0
+water bed,waterbed,1
+baby bed,baby bed,1
+stand,stellage,1
+bench,bank,1
+cabinet,kastje,1
+sofa,bank,1
+nest,nest,1
+dining table,eettafel,1
+couch,bank,1
+cradle,wieg,1
+crib,wieg,2
+deck chair,ligstoel,2
+milk bar,melkreep,2
+buffet,buffet,2
+toilet seat,wc bril,2
+pool table,pooltafel,2
+reading lamp,leeslamp,2
+high table,hoge tafel,2
+dinner table,eettafel,2
+card table,kaarttafel,2
+throne,troon,3
+stool,stoel,3
+booth,kraampje,3
+settle,schikken,3
+coffee table,salontafel,3
+dressing table,kaptafel,3
+secretary,secretaris,3
+wall unit,wandmeubel,3
+card index,kaart index,3
+camp chair,kamp stoel,3
+file,het dossier,4
+love seat,love seat,4
+ottoman,poef,4
+seat,zitplaats,4
+wheelchair,rolstoel,4
+bath chair,bad stoel,4
+box seat,zitplaats,4
+kitchen table,keukentafel,4
+altar,altaar,4
+wet bar,natte bar,4
+sleeper,slaper,5
+armoire,kast,5
+step stool,opstapje,5
+floor lamp,vloerlamp,5
+gaming table,speeltafel,5
+settee,bank,5
+table lamp,tafellamp,5
+divan,divan,5
+tea table,Thee tafel,5
+bassinet,wieg,5
+checkout,uitchecken,6
+fighting chair,vechtstoel,6
+hammock,hangmat,6
+lawn chair,tuinstoel,6
+daybed,ligbed,6
+dresser,dressoir,6
+minibar,minibar,6
+salad bar,salade bar,6
+armchair,fauteuil,6
+platen,platen,6
+folding chair,klapstoel,7
+squab,squab,7
+platform bed,platform bed,7
+convertible,cabriolet,7
+sushi bar,sushi bar,7
+operating table,operatietafel,7
+music stool,pianokruk,7
+breakfast table,ontbijttafel,7
+straight chair,rechte stoel,7
+wardrobe,garderobe,7
+single bed,eenpersoonsbed,8
+entertainment center,uitgaanscentrum,8
+snack bar,snack bar,8
+writing desk,Schrijftafel,8
+sleigh bed,slee bed,8
+fitment,montage,8
+marriage bed,huwelijksbed,8
+oyster bar,oesterbar,8
+davenport,Davenport,8
+office furniture,kantoormeubelen,8
+coat closet,jassenkast,9
+banquette,banket,9
+double bed,tweepersoonsbed,9
+pew,kerkbank,9
+hospital bed,ziekenhuis bed,9
+chest of drawers,ladenkast,9
+milking stool,melkkruk,9
+bunk,stapelbed,9
+cot,kinderbed,9
+conference table,conferentie tafel,9
+workbench,werkbank,10
+recliner,ligstoel,10
+etagere,etagere,10
+bedstead,ledikant,10
+sickbed,ziekbed,10
+yacht chair,jacht stoel,10
+bunk bed,stapelbed,10
+deathbed,sterfbed,10
+credenza,credenza,10
+drafting table,tekentafel,10
+flat bench,platte bank,11
+easy chair,makkelijke stoel,11
+berth,ligplaats,11
+wing chair,vleugel stoel,11
+medicine chest,medicijnkist,11
+console table,console tafel,11
+musnud,musnud,11
+Rolodex,Rolodex,11
+pier table,pier tafel,11
+sectional,sectioneel,11
+carrycot,reiswieg,12
+clothes closet,kledingkast,12
+fauteuil,fauteuil,12
+chair of state,voorzitter van de staat,12
+studio couch,studio bank,12
+china cabinet,porseleinkast,12
+meat counter,vlees toonbank,12
+lectern,lessenaar,12
+twin bed,tweepersoonsbed,12
+lawn furniture,tuinmeubilair,12
+reception desk,receptiebalie,13
+washstand,wastafel,13
+taboret,taboret,13
+barber chair,kappersstoel,13
+student lamp,studentenlamp,13
+worktable,werktafel,13
+mercy seat,verzoendeksel,13
+window seat,plaats bij het raam,13
+soda fountain,soda fontein,13
+bedroom furniture,slaapkamermeubels,13
+prie-dieu,prie dieu,14
+bookcase,boekenkast,14
+Sheraton,Sheraton,14
+vertical file,verticaal bestand,14
+gueridon,gueridon,14
+penalty box,strafschopgebied,14
+highchair,hoge stoel,14
+chesterfield,chesterfield,14
+lab bench,laboratoriumbank,14
+shoofly,schuchter,14
+park bench,bank in het park,15
+cathedra,kathedraal,15
+swivel chair,schommelstoel,15
+four-poster,hemelbed,15
+upper berth,bovenste bed,15
+commissary,commissaris,15
+lower berth,onderste bed,15
+rocking chair,schommelstoel,15
+chiffonier,chiffonier,15
+highboy,hoge jongen,15
+pedestal table,voetstuk tafel,16
+lowboy,lage jongen,16
+Murphy bed,Murphy bed,16
+platform rocker,platform rocker,16
+triclinium,triclinium,16
+notions counter,begrippen teller,16
+footstool,voetenbankje,16
+campstool,opvouwstoel,16
+chaise longue,chaise longue,16
+refectory table,refter tafel,16
+hallstand,hallenstand,17
+plank-bed,plankenbed,17
+Eames chair,Eames stoel,17
+trundle bed,onderschuifbed,17
+peacock-throne,pauwentroon,17
+trestle table,schraag tafel,17
+motorized wheelchair,gemotoriseerde rolstoel,17
+ladder-back,ladder terug,17
+cutty stool,schattige kruk,17
+drop-leaf table,klaptafeltje,17
+Morris chair,Morris stoel,18
+Boston rocker,Boston rocker,18
+Parsons table,Parsons tafel,18
+Windsor chair,Windsor stoel,18
+dining-room table,Eetkamer tafel,18
+built-in bed,ingebouwd bed,18
+gateleg table,gateleg tafel,18
+tilt-top table,kantelbare tafel,18
+dining-room furniture,eetkamer meubelen,18
+tablet-armed chair,tablet-armige stoel,18
+captain's chair,stoel van de kapitein,19
+table-tennis table,tafeltennistafel,19
