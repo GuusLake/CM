@@ -162,6 +162,7 @@ class Model: Codable {
         // Depending on if the word was trained or tested, we do different things
 //        let dataController = DataController()
 //        let context = dataController.container.viewContext
+        let trainList = getTrainList(context: context)
         let testList = getTestList(context: context)
         for card in cards {
             let word_name = card.engWord
@@ -184,6 +185,8 @@ class Model: Codable {
             } else {
                 if card.correct == false {
                     word?.previous_guessed = false
+                    word?.test_list = nil
+                    word?.train_list = trainList
                     dm.addToDM(chunk, getCurrentTime())
                     let now = Date()
                     let time = Time(context: context)
@@ -250,14 +253,14 @@ class Model: Codable {
         // Check if from the current level there are more topics that can be opened
 //        let dataController = DataController()
 //        let context = dataController.container.viewContext
-        let trainList = Train_list()
+        let trainList = getTrainList(context: context)
         
         let mean_level = getMeanLevel(context: context)
         let (topics,open_topic) = openTopicFromLevel(level: mean_level, context: context)
         
         if open_topic == true {
             for topic in topics {
-                print(topic)
+                print("opening new topic")
                 let group = getGroupFromIndexAndTopic(index: 0, topic: topic, context: context)
                 topic.last_opened_group = 0
                 topic.activated = true
